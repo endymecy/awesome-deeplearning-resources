@@ -8,6 +8,7 @@
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [[arxiv](https://arxiv.org/abs/1701.01207)]
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [[arxiv](https://arxiv.org/abs/1702.03275)] :star:
+- Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [[arxiv](https://arxiv.org/abs/1702.05870)]
 - DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [[arxiv](https://arxiv.org/abs/1702.04280)]
 - Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [[arxiv](https://arxiv.org/abs/1701.00458)] [[code](https://github.com/guille-c/Deep-HiTS)] :star: 
 - Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
@@ -36,6 +37,7 @@
 - Statistical inference for network samples using subgraph counts. [[arxiv](https://arxiv.org/abs/1701.00505)]
 - Steerable CNNs. *ICLR* [[pdf](https://openreview.net/pdf?id=rJQKYt5ll)]
 - Stochastic Subsampling for Factorizing Huge Matrices. [[arxiv](https://arxiv.org/abs/1701.05363)] [[code](https://github.com/arthurmensch/modl)]
+- The Power of Sparsity in Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1702.06257)]
 - To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [[arxiv](https://arxiv.org/abs/1701.01692)]
 - Towards "AlphaChem": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies. [[arxiv](https://arxiv.org/abs/1702.00020)]
 - Towards a New Interpretation of Separable Convolutions. [[arxiv](https://arxiv.org/abs/1701.04489)]
@@ -90,6 +92,7 @@
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
 - Automatic Generation of Typographic Font from a Small Font Subset. [[arxiv](https://arxiv.org/abs/1701.05703)] :star:
 - Dense Associative Memory is Robust to Adversarial Inputs. [[arxiv](https://arxiv.org/abs/1701.00939)]
+- Face Aging With Conditional Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1702.01983)]
 - Face Synthesis from Facial Identity Features. [[arxiv](https://arxiv.org/abs/1701.04851)]
 - Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit. [[arxiv](https://arxiv.org/abs/1702.00403)] [[code](https://github.com/SpaceML/GalaxyGAN/)]
 - Generative Temporal Models with Memory. [[arxiv](https://arxiv.org/abs/1702.04649)]
