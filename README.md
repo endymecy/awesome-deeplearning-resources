@@ -18,6 +18,10 @@
 
 ## 2008
 
+- Pascal Vincent.[Extracting and Composing Robust Features with Denoising Autoencoders](Extracting and Composing Robust Features with Denoising Autoencoders.pdf)
+- Koray Kavukcuoglu.[Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition](Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition.pdf)
+- Tijmen Tieleman.[Training restricted Boltzmann machines using approximations to the likelihood gradient](Training restricted Boltzmann machines using approximations to the likelihood gradient.pdf)
+
 ## 2007
 
 - Honglak Lee, Alexis Battle.[Efficient sparse coding algorithms](Efficient sparse coding algorithms(2007).pdf)
