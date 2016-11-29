@@ -12,6 +12,23 @@
 
 ## 2011
 
+### deep learning
+
+- Pascal Vincent.<b>A Connection Between Score Matching and Denoising Autoencoders</b>.[[local pdf]](docs/2011/A Connection Between Score Matching and Denoising Autoencoders.pdf) [[remote url]]()
+- Matthew D. Zeiler.<b>Adaptive Deconvolutional Networks for Mid and High Level Feature Learning</b>.[[local pdf]](docs/2011/Adaptive Deconvolutional Networks for Mid and High Level Feature Learning.pdf) [[remote url]]()
+- Benjamin M. Marlin.<b>Asymptotic efficiency of deterministic estimators for discrete energy-based models Ratio matching and pseudolikelihood</b>.[[local pdf]](docs/2011/Asymptotic efficiency of deterministic estimators for discrete energy-based models Ratio matching and pseudolikelihood.pdf) [[remote url]]()
+- Salah Rifai.<b>Contractive Auto-Encoders-Explicit Invariance During Feature Extraction</b>.[[local pdf]](docs/2011/Contractive Auto-Encoders-Explicit Invariance During Feature Extraction.pdf) [[remote url]]()
+- Jiquan Ngiam.<b>Learning Deep Energy Models</b>.[[local pdf]](docs/2011/Learning Deep Energy Models.pdf) [[remote url]]()
+- Kai Yu.<b>Learning image representations from the pixel level via hierarchical sparse coding</b>.[[local pdf]](docs/2011/Learning image representations from the pixel level via hierarchical sparse coding.pdf) [[remote url]]()
+- Ronan Collobert.<b>Natural Language Processing (almost) from Scratch</b>.[[local pdf]](docs/2011/Natural Language Processing (almost) from Scratch(2011).pdf) [[remote url]]()
+- Kevin Swersky.<b>On Autoencoders and Score Matching for Energy Based Models</b>.[[local pdf]](docs/2011/On Autoencoders and Score Matching for Energy Based Models.pdf) [[remote url]]()
+- Quoc V. Le.<b>On Optimization Methods for Deep Learning</b>.[[local pdf]](docs/2011/On Optimization Methods for Deep Learning.pdf) [[remote url]]()
+- Yoshua Bengio,Olivier Delalleau.<b>On the Expressive Power of Deep Architectures</b>.[[local pdf]](docs/2011/On the Expressive Power of Deep Architectures.pdf) [[remote url]]()
+- IJ Goodfellow.<b>Spike-and-Slab Sparse Coding for Unsupervised Feature Discovery</b>.[[local pdf]](docs/2011/Spike-and-Slab Sparse Coding for Unsupervised Feature Discovery.pdf) [[remote url]]()
+- Honglak Lee.<b>Unsupervised Learning of Hierarchical Representations with Convolutional Deep Belief Networks</b>.[[local pdf]](docs/2011/Unsupervised Learning of Hierarchical Representations with Convolutional Deep Belief Networks.pdf) [[remote url]]()
+- Aaron Courville.<b>Unsupervised Models of Images by Spike-and-Slab RBMs</b>.[[local pdf]](docs/2011/Unsupervised Models of Images by Spike-and-Slab RBMs.pdf) [[remote url]]()
+
+
 ## 2010
 
 ### deep learning
