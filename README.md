@@ -10,6 +10,25 @@
 
 ## 2012
 
+### deep learning
+- R Salakhutdinov.<b>A Better Way to Pretrain Deep Boltzmann Machines</b>.[[local pdf]](docs/2012/A Better Way to Pretrain Deep Boltzmann Machines.pdf) [[remote url]]()
+- Salah Rifai.<b>A Generative Process for Sampling Contractive Auto-Encoders</b>.[[local pdf]](docs/2012/A Generative Process for Sampling Contractive Auto-Encoders.pdf) [[remote url]]()
+- Ruslan Salakhutdinov.<b>An Efficient Learning Procedure for Deep Boltzmann Machines</b>.[[local pdf]](docs/2012/An Efficient Learning Procedure for Deep Boltzmann Machines.pdf) [[remote url]]()
+- Pierre Baldi.<b>Autoencoders, Unsupervised Learning, and Deep Architectures</b>.[[local pdf]](docs/2012/Autoencoders, Unsupervised Learning, and Deep Architectures(2012).pdf) [[remote url]]()
+- Quoc V. Le.<b>Building High-level Features Using Large Scale Unsupervised Learning</b>.[[local pdf]](docs/2012/Building High-level Features Using Large Scale Unsupervised Learning.pdf) [[remote url]]()
+- Yoshua Bengio.<b>Deep Learning of Representations for Unsupervised and Transfer Learning</b>.[[local pdf]](docs/2012/Deep Learning of Representations for Unsupervised and Transfer Learning.pdf) [[remote url]]()
+- Jason Weston.<b>Deep Learning via Semi-Supervised Embedding</b>.[[local pdf]](docs/2012/Deep Learning via Semi-Supervised Embedding.pdf) [[remote url]]()
+- Bo Chen.<b>Deep Learning with Hierarchical Convolutional Factor Analysis</b>.[[local pdf]](docs/2012/Deep Learning with Hierarchical Convolutional Factor Analysis.pdf) [[remote url]]()
+- Robert Gens.<b>Discriminative Learning of Sum-Product Networks</b>.[[local pdf]](docs/2012/Discriminative Learning of Sum-Product Networks.pdf) [[remote url]]()
+- Alex Krizhevsky.<b>ImageNet Classification with Deep Convolutional Neural Networks</b>.[[local pdf]](docs/2012/ImageNet Classification with Deep Convolutional Neural Networks.pdf) [[remote url]]()
+- G. E. Hinton.<b>Improving neural networks by preventing co-adaptation of feature detectors</b>.[[local pdf]](docs/2012/Improving neural networks by preventing co-adaptation of feature detectors.pdf) [[remote url]]()
+- Joan Bruna.<b>Invariant Scattering Convolution Networks</b>.[[local pdf]](docs/2012/Invariant Scattering Convolution Networks.pdf) [[remote url]]()
+- Ruslan Salakhutdinov.<b>Learning with Hierarchical-Deep Models</b>.[[local pdf]](docs/2012/Learning with Hierarchical-Deep Models.pdf) [[remote url]]()
+- Jasper Snoek.<b>Practical Bayesian Optimization of Machine Learning Algorithms</b>.[[local pdf]](docs/2012/Practical Bayesian Optimization of Machine Learning Algorithms.pdf) [[remote url]]()
+- Yoshua Bengio.<b>Practical Recommendations for Gradient-Based Training of Deep Architectures </b>.[[local pdf]](docs/2012/Practical Recommendations for Gradient-Based Training of Deep Architectures.pdf) [[remote url]]()
+- James Bergstra.<b>Random Search for Hyper-Parameter Optimization</b>.[[local pdf]](docs/2012/Random Search for Hyper-Parameter Optimization.pdf) [[remote url]]()
+
+
 ## 2011
 
 ### deep learning
