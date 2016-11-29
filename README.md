@@ -14,6 +14,8 @@
 
 ## 2010
 
+### deep learning
+
 - Pascal Vincent.<b>A Connection Between Score Matching and Denoising Autoencoders</b>.[[local pdf]](docs/2010/A Connection Between Score Matching and Denoising Autoencoders.pdf) [[remote url]]()
 - Geoffrey Hinton.<b>A Practical Guide to Training Restricted Boltzmann Machines</b>.[[local pdf]](docs/2010/A Practical Guide to Training Restricted Boltzmann Machines(2010).pdf) [[remote url]]()
 - Y-Lan Boureau.<b>A Theoretical Analysis of Feature Pooling in Visual Recognition</b>.[[local pdf]](docs/2010/A Theoretical Analysis of Feature Pooling in Visual Recognition.pdf) [[remote url]]()
@@ -34,6 +36,8 @@
 
 ## 2009
 
+### deep learning
+
 - Ruslan Salakhutdinov,Geoffrey Hinton. <b>Deep Boltzmann Machines</b>. [[local pdf]](docs/2009/Deep Boltzmann Machines.pdf) [[remote url]]()
 - Hugo Larochelle,Yoshua Bengio.<b>Exploring Strategies for Training Deep Neural Networks</b>. [[local pdf]](docs/2009/Exploring Strategies for Training Deep Neural Networks.pdf) [[remote url]]()
 - Koray Kavukcuoglu.<b>Learning Invariant Features through Topographic Filter Maps</b>. [[local pdf]](docs/2009/Learning Invariant Features through Topographic Filter Maps.pdf) [[remote url]]()
@@ -44,11 +48,15 @@
 
 ## 2008
 
+### deep learning
+
 - Pascal Vincent.<b>Extracting and Composing Robust Features with Denoising Autoencoders</b>. [[local pdf]](docs/2008/Extracting and Composing Robust Features with Denoising Autoencoders.pdf) [[remote url]]()
 - Koray Kavukcuoglu.<b>Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition</b>. [[local pdf]](docs/2008/Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition.pdf) [[remote url]]()
 - Tijmen Tieleman.<b>Training restricted Boltzmann machines using approximations to the likelihood gradient</b>. [[local pdf]](docs/2008/Training restricted Boltzmann machines using approximations to the likelihood gradient.pdf) [[remote url]]()
 
 ## 2007
+
+### deep learning
 
 - Honglak Lee, Alexis Battle.<b>Efficient sparse coding algorithms</b>. [[local pdf]](docs/2007/Efficient sparse coding algorithms(2007).pdf) [[remote url]]()
 - Yann LeCun, Sumit Chopra.<b>Energy-Based Models in Document Recognition and Computer Vision</b>. [[local pdf]](docs/2007/Energy-Based Models in Document Recognition and Computer Vision.pdf) [[remote url]]()
