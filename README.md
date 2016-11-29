@@ -23,7 +23,14 @@
 - Xi Zhou.<b>Image Classification using Super-Vector Coding of Local Image Descriptors</b>.[[local pdf]](docs/2010/Image Classification using Super-Vector Coding of Local Image Descriptors.pdf) [[remote url]]()
 - Koray Kavukcuoglu.<b>Learning Convolutional Feature Hierarchies for Visual Recognition</b>.[[local pdf]](docs/2010/Learning Convolutional Feature Hierarchies for Visual Recognition.pdf) [[remote url]]()
 - Geoffrey Hinton.<b>Learning Deep Architectures for AI</b>.[[local pdf]](docs/2010/Learning Deep Architectures for AI(2010).pdf) [[remote url]]()
--
+- Y-Lan Boureau.<b>Learning Mid-Level Features For Recognition</b>.[[local pdf]](docs/2010/Learning Mid-Level Features For Recognition.pdf) [[remote url]]()
+- Yang Hu.<b>Learning Restricted Boltzmann Machines using Mode-Hopping MCMC</b>.[[local pdf]](docs/2010/Learning Restricted Boltzmann Machines using Mode-Hopping MCMC.pdf) [[remote url]]()
+- Jinjun Wang.<b>Locality-constrained Linear Coding for Image Classification</b>.[[local pdf]](docs/2010/Locality-constrained Linear Coding for Image Classification.pdf) [[remote url]]()
+- Marc’Aurelio Ranzato.<b>Modeling Pixel Means and Covariances Using Factorized Third-Order Boltzmann Machines</b>.[[local pdf]](docs/2010/Modeling Pixel Means and Covariances Using Factorized Third-Order Boltzmann Machines.pdf) [[remote url]]()
+- Ilya Sutskever.<b>On the Convergence Properties of Contrastive Divergence</b>.[[local pdf]](docs/2010/On the Convergence Properties of Contrastive Divergence.pdf) [[remote url]]()
+- Diederik P. Kingma.<b>Regularized estimation of image statistics by Score Matching</b>.[[local pdf]](docs/2010/Regularized estimation of image statistics by Score Matching.pdf) [[remote url]]()
+- Pascal Vincent.<b>Stacked Denoising Autoencoders Learning Useful Representations in a Deep Network with a Local Denoising Criterion</b>.[[local pdf]](docs/2010/Stacked Denoising Autoencoders Learning Useful Representations in a Deep Network with a Local Denoising Criterion.pdf) [[remote url]]()
+- Dumitru Erhan.<b>Why Does Unsupervised Pre-training Help Deep Learning?</b>.[[local pdf]](docs/2010/Why Does Unsupervised Pre-training Help Deep Learning?(2010).pdf) [[remote url]]()
 
 ## 2009
 
