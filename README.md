@@ -110,7 +110,7 @@
 - Marc’Aurelio.<b>Efficient Learning of Sparse Representations with an Energy-Based Model</b>. [[local pdf]](docs/2006/Efficient Learning of Sparse Representations with an Energy-Based Model(2006).pdf) [[remote url]]()
 - Jake Bouvrie.<b>Notes on Convolutional Neural Networks</b>. [[local pdf]](docs/2006/Notes on Convolutional Neural Networks(2006).pdf) [[remote url]]()
 - G. E. Hinton.<b>Reducing the Dimensionality of Data with Neural Networks</b>. [[local pdf]](docs/2006/Reducing the Dimensionality of Data with Neural Networks(2006).pdf) [[remote url]]()
-- Geoffrey Hinton.<b>To Recognize Shapes, First Learn to Generate Images</b>. [[local pdf]](docs/2006/To Recognize Shapes,First Learn to Generate Images(2006).pdf) [[remote url]]()
+- [citation:213+] Geoffrey Hinton.<b>To Recognize Shapes, First Learn to Generate Images</b>. [[local pdf]](docs/2006/To Recognize Shapes,First Learn to Generate Images(2006).pdf) [[remote url]](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjNk4jKjNDQAhUMppQKHROED1cQFgggMAA&url=http%3A%2F%2Fwww.cs.toronto.edu%2F~fritz%2Fabsps%2FmontrealTR.pdf&usg=AFQjCNGmWlKfMB2j-3PWensTW6Q6k9A1uA)
 
 ## before 2006
 
