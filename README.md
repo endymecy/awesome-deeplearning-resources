@@ -126,21 +126,21 @@
 
 ### deep learning
 
-- Ruslan Salakhutdinov,Geoffrey Hinton. <b>Deep Boltzmann Machines</b>. [[local pdf]](docs/2009/Deep Boltzmann Machines.pdf) [[remote url]]()
-- Hugo Larochelle,Yoshua Bengio.<b>Exploring Strategies for Training Deep Neural Networks</b>. [[local pdf]](docs/2009/Exploring Strategies for Training Deep Neural Networks.pdf) [[remote url]]()
-- Koray Kavukcuoglu.<b>Learning Invariant Features through Topographic Filter Maps</b>. [[local pdf]](docs/2009/Learning Invariant Features through Topographic Filter Maps.pdf) [[remote url]]()
-- Jianchao Yang.<b>Linear Spatial Pyramid Matching Using Sparse Coding for Image Classification</b>.[[local pdf]](docs/2009/Linear Spatial Pyramid Matching Using Sparse Coding for Image Classification.pdf) [[remote url]]()
-- Kai Yu.<b>Nonlinear Learning using Local Coordinate Coding</b>. [[local pdf]](docs/2009/Nonlinear Learning using Local Coordinate Coding.pdf) [[remote url]]()
-- Tijmen Tieleman,Geoffrey Hinton.<b>Using Fast Weights to Improve Persistent Contrastive Divergence</b>. [[local pdf]](docs/2009/Using Fast Weights to Improve Persistent Contrastive Divergence.pdf) [[remote url]]()
-- Kevin Jarrett, Koray Kavukcuoglu.<b>What is the Best Multi-Stage Architecture for Object Recognition?</b>. [[local pdf]](docs/2009/What is the Best Multi-Stage Architecture for Object Recognition?.pdf) [[remote url]]()
+- [citation:788+] Ruslan Salakhutdinov. <b>Deep Boltzmann Machines</b>. [[local pdf]](docs/2009/Deep Boltzmann Machines.pdf) [[remote url]]()
+- [citation:387+] Hugo Larochelle.Exploring Strategies for Training Deep Neural Networks. [[local pdf]](docs/2009/Exploring Strategies for Training Deep Neural Networks.pdf) [[remote url]]()
+- [citation:268+] Koray Kavukcuoglu.Learning Invariant Features through Topographic Filter Maps. [[local pdf]](docs/2009/Learning Invariant Features through Topographic Filter Maps.pdf) [[remote url]]()
+- [citation:2250+] Jianchao Yang.<b>Linear Spatial Pyramid Matching Using Sparse Coding for Image Classification</b>.[[local pdf]](docs/2009/Linear Spatial Pyramid Matching Using Sparse Coding for Image Classification.pdf) [[remote url]]()
+- [citation:547+] Kai Yu.<b>Nonlinear Learning using Local Coordinate Coding</b>. [[local pdf]](docs/2009/Nonlinear Learning using Local Coordinate Coding.pdf) [[remote url]]()
+- [citation:188+] Tijmen Tieleman.Using Fast Weights to Improve Persistent Contrastive Divergence. [[local pdf]](docs/2009/Using Fast Weights to Improve Persistent Contrastive Divergence.pdf) [[remote url]]()
+- [citation:?] Kevin Jarrett.<b>What is the Best Multi-Stage Architecture for Object Recognition?</b>. [[local pdf]](docs/2009/What is the Best Multi-Stage Architecture for Object Recognition?.pdf) [[remote url]]()
 
 ## 2008
 
 ### deep learning
 
-- Pascal Vincent.<b>Extracting and Composing Robust Features with Denoising Autoencoders</b>. [[local pdf]](docs/2008/Extracting and Composing Robust Features with Denoising Autoencoders.pdf) [[remote url]]()
-- Koray Kavukcuoglu.<b>Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition</b>. [[local pdf]](docs/2008/Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition.pdf) [[remote url]]()
-- Tijmen Tieleman.<b>Training restricted Boltzmann machines using approximations to the likelihood gradient</b>. [[local pdf]](docs/2008/Training restricted Boltzmann machines using approximations to the likelihood gradient.pdf) [[remote url]]()
+- [citation:1227+] Pascal Vincent.<b>Extracting and Composing Robust Features with Denoising Autoencoders</b>. [[local pdf]](docs/2008/Extracting and Composing Robust Features with Denoising Autoencoders.pdf) [[remote url]]()
+- [citation:153+] Koray Kavukcuoglu.Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition. [[local pdf]](docs/2008/Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition.pdf) [[remote url]]()
+- [citation:420+] Tijmen Tieleman.Training restricted Boltzmann machines using approximations to the likelihood gradient. [[local pdf]](docs/2008/Training restricted Boltzmann machines using approximations to the likelihood gradient.pdf) [[remote url]]()
 
 ## 2007
 
