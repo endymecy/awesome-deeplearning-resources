@@ -166,3 +166,4 @@
 
 ## before 2006
 
+- [citation:2381+] Geoffrey Hinton. <b>Training Products of experts by minimizing contrastive divergence</b>.[[local pdf]](docs/before2016/Training Products of experts by minimizing contrastive divergence(2000).pdf) [[remote url]](Training Products of Experts by Minimizing Contrastive Divergence)
