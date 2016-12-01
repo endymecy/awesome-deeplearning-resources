@@ -46,6 +46,7 @@
 - [citation:17+] M Tan. LSTM-based Deep Learning Models for non-factoid answer selection. [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj-rpDLhdPQAhXJErwKHaPAAyoQFggtMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1511.04108&usg=AFQjCNEKrHqjvUSmXuI9zBwPBcMDDUOe5w)]
 - [citation:33+] Minh-Thang Luong. Multi-task Sequence to Sequence Learning. [[local pdf]](docs/2015/Multi-task Sequence to Sequence Learning.pdf) [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiu7MbphdPQAhWDUrwKHeo3DO8QFggpMAE&url=http%3A%2F%2Fjan.stanford.edu%2Fpubs%2Fluong2016iclr_multi.pdf&usg=AFQjCNGYWAqWnjbi6p3ZXWe0hBcNMSWawA)]
 - [citation:9+] Kyunghyun Cho. Natural Language Understanding with Distributed Representation. [[local pdf]](docs/2015/Natural Language Understanding with Distributed Representation.pdf) [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjhm4yThtPQAhWJVrwKHY-fDusQFggiMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1511.07916&usg=AFQjCNEXqHl1eNACFv-e99vq-omz4TcY_Q)]
+- [citation:17+] T Chen. Net2Net- Accelerating Learning via Knowledge Transfer. [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiburbphtPQAhVCVbwKHVOuAcsQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1511.05641&usg=AFQjCNHYQzsRziUVIU8SAhq2H_XuLuiLcw)]
 
 ## 2014
 
