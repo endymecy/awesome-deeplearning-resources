@@ -245,35 +245,35 @@ I will renew the recent papers and add notes to these papers.
 
 ### Deep Reinforcement Learning
 
-- ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources, J. Rajendran et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1510.02879)]
-- Action-Conditional Video Prediction using Deep Networks in Atari Games, J. Oh et al., *NIPS*.  [[remote url](http://arxiv.org/abs/1507.08750)]
-- Dueling Network Architectures for Deep Reinforcement Learning, Z. Wang et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.06581)]
-- Deep Reinforcement Learning with an Action Space Defined by Natural Language, J. He et al., *arXiv*. [[remote url](http://arxiv.org/abs/1511.04636)]
-- Deep Reinforcement Learning with Double Q-learning, H. van Hasselt et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1509.06461)]
-- Deep Recurrent Q-Learning for Partially Observable MDPs, M. Hausknecht and P. Stone, *arXiv*.  [[remote url](http://arxiv.org/abs/1507.06527)]
-- DeepMPC: Learning Deep Latent Features for Model Predictive Control, I. Lenz, et al., *RSS*.  [[remote url](http://deepmpc.cs.cornell.edu/DeepMPC.pdf)]
-- Deterministic Policy Gradient Algorithms, D. Silver et al., *ICML*.  [[remote url](http://jmlr.org/proceedings/papers/v32/silver14.pdf)]
-- End-to-End Training of Deep Visuomotor Policies, S. Levine et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1504.00702)]
-- Giraffe: Using Deep Reinforcement Learning to Play Chess, M. Lai, *arXiv*.  [[remote url](http://arxiv.org/abs/1509.01549)]
-- Generating Text with Deep Reinforcement Learning, H. Guo, *arXiv*.  [[remote url](http://arxiv.org/abs/1510.09202)]
-- How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies, V. François-Lavet et al., *NIPS Workshop*.  [[remote url](http://arxiv.org/abs/1512.02011)]
-- Human-level control through deep reinforcement learning, V. Mnih et al., *Nature*.  [[remote url](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf)]
-- Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models, B. C. Stadie et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1507.00814)]
-- Learning Simple Algorithms from Examples, W. Zaremba et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.07275)]
-- Language Understanding for Text-based Games Using Deep Reinforcement Learning, K. Narasimhan et al., *EMNLP*.  [[remote url](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf)]
-- Learning Continuous Control Policies by Stochastic Value Gradients, N. Heess et al., *NIPS*.  [[remote url](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf)]
-- Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences, H. Mei et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1506.04089)]
-- Learning Deep Neural Network Policies with Continuous Memory States, M. Zhang et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1507.01273)]
-- Multiagent Cooperation and Competition with Deep Reinforcement Learning, A. Tampuu et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.08779)]
-- Maximum Entropy Deep Inverse Reinforcement Learning, M. Wulfmeier et al., *arXiv*. [[remote url](http://arxiv.org/abs/1507.04888)]
-- Massively Parallel Methods for Deep Reinforcement Learning, A. Nair et al., *ICML Workshop*.  [[remote url](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf)]
-- Memory-based control with recurrent neural networks], N. Heess et al., *NIPS Workshop*.  [[remote url](http://arxiv.org/abs/1512.04455)]
-- Recurrent Reinforcement Learning: A Hybrid Approach, X. Li et al., *arXiv*. [[remote url](http://arxiv.org/abs/1509.03044)]
-- Strategic Dialogue Management via Deep Reinforcement Learning, H. Cuayáhuitl et al., *NIPS Workshop*. [[remote url](http://arxiv.org/abs/1511.08099)]
-- Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control, F. Zhang et al., *arXiv*. [[remote url](http://arxiv.org/abs/1511.03791)]
-- Trust Region Policy Optimization, J. Schulman et al., *ICML*. [[remote url](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)]
-- Universal Value Function Approximators, T. Schaul et al., *ICML*. [[remote url](http://schaul.site44.com/publications/uvfa.pdf)]
-- Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning, S. Mohamed and D. J. Rezende, *arXiv*. [[remote url](http://arxiv.org/abs/1509.08731)]
+- [citation:?] ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources, J. Rajendran et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1510.02879)]
+- [citation:50+] <b>Action-Conditional Video Prediction using Deep Networks in Atari Games</b>, J. Oh et al., *NIPS*.  [[remote url](http://arxiv.org/abs/1507.08750)]
+- [citation:30+] <b>Dueling Network Architectures for Deep Reinforcement Learning</b>, Z. Wang et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.06581)]
+- [citation:2+] Deep Reinforcement Learning with an Action Space Defined by Natural Language, J. He et al., *arXiv*. [[remote url](http://arxiv.org/abs/1511.04636)]
+- [citation:57+] <b>Deep Reinforcement Learning with Double Q-learning</b>, H. van Hasselt et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1509.06461)]
+- [citation:31+] <b>Deep Recurrent Q-Learning for Partially Observable MDPs</b>, M. Hausknecht and P. Stone, *arXiv*.  [[remote url](http://arxiv.org/abs/1507.06527)]
+- [citation:22+] DeepMPC: Learning Deep Latent Features for Model Predictive Control, I. Lenz, et al., *RSS*.  [[remote url](http://deepmpc.cs.cornell.edu/DeepMPC.pdf)]
+- [citation:43+] <b>Deterministic Policy Gradient Algorithms</b>, D. Silver et al., *ICML*.  [[remote url](http://jmlr.org/proceedings/papers/v32/silver14.pdf)]
+- [citation:132+] <b>End-to-End Training of Deep Visuomotor Policies</b>, S. Levine et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1504.00702)]
+- [citation:8+] Giraffe: Using Deep Reinforcement Learning to Play Chess, M. Lai, *arXiv*.  [[remote url](http://arxiv.org/abs/1509.01549)]
+- [citation:?] Generating Text with Deep Reinforcement Learning, H. Guo, *arXiv*.  [[remote url](http://arxiv.org/abs/1510.09202)]
+- [citation:1+] How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies, V. François-Lavet et al., *NIPS Workshop*.  [[remote url](http://arxiv.org/abs/1512.02011)]
+- [citation:627+] <b>Human-level control through deep reinforcement learning</b>, V. Mnih et al., *Nature*.  [[remote url](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf)]
+- [citation:21+] <b>Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models</b>, B. C. Stadie et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1507.00814)]
+- [citation:16+] Learning Simple Algorithms from Examples, W. Zaremba et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.07275)]
+- [citation:35+] <b>Language Understanding for Text-based Games Using Deep Reinforcement Learning</b>, K. Narasimhan et al., *EMNLP*.  [[remote url](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf)]
+- [citation:24+] <b>Learning Continuous Control Policies by Stochastic Value Gradients</b>, N. Heess et al., *NIPS*.  [[remote url](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf)]
+- [citation:11+] Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences, H. Mei et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1506.04089)]
+- [citation:4+] Learning Deep Neural Network Policies with Continuous Memory States, M. Zhang et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1507.01273)]
+- [citation:6+] Multiagent Cooperation and Competition with Deep Reinforcement Learning, A. Tampuu et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.08779)]
+- [citation:3+] Maximum Entropy Deep Inverse Reinforcement Learning, M. Wulfmeier et al., *arXiv*. [[remote url](http://arxiv.org/abs/1507.04888)]
+- [citation:33+] <b>Massively Parallel Methods for Deep Reinforcement Learning</b>, A. Nair et al., *ICML Workshop*.  [[remote url](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf)]
+- [citation:5+] Memory-based control with recurrent neural networks, N. Heess et al., *NIPS Workshop*.  [[remote url](http://arxiv.org/abs/1512.04455)]
+- [citation:4+] Recurrent Reinforcement Learning: A Hybrid Approach, X. Li et al., *arXiv*. [[remote url](http://arxiv.org/abs/1509.03044)]
+- [citation:8+] Strategic Dialogue Management via Deep Reinforcement Learning, H. Cuayáhuitl et al., *NIPS Workshop*. [[remote url](http://arxiv.org/abs/1511.08099)]
+- [citation:7+] Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control, F. Zhang et al., *arXiv*. [[remote url](http://arxiv.org/abs/1511.03791)]
+- [citation:58+] <b>Trust Region Policy Optimization</b>, J. Schulman et al., *ICML*. [[remote url](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)]
+- [citation:8+] Universal Value Function Approximators, T. Schaul et al., *ICML*. [[remote url](http://schaul.site44.com/publications/uvfa.pdf)]
+- [citation:9+] Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning, S. Mohamed and D. J. Rezende, *arXiv*. [[remote url](http://arxiv.org/abs/1509.08731)]
 
 ## 2014
 
@@ -304,7 +304,7 @@ I will renew the recent papers and add notes to these papers.
 
 ### Deep Reinforcement Learning
 
-- [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, X. Guo et al., *NIPS*.[[remote url](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)]
+- [citation:59+] Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, X. Guo et al., *NIPS*.[[remote url](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)]
 
 ## 2013
 
@@ -336,7 +336,7 @@ I will renew the recent papers and add notes to these papers.
 
 ### Deep Reinforcement Learning
 
-- Playing Atari with Deep Reinforcement Learning, V. Mnih et al., *NIPS Workshop*. [[remote url](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
+- [citation:318+] <b>Playing Atari with Deep Reinforcement Learning</b>, V. Mnih et al., *NIPS Workshop*. [[remote url](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
 
 ## 2012
 
