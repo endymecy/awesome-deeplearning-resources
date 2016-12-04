@@ -512,6 +512,10 @@
 - [citation:2468+] <b>Very Deep Convolutional Networks for Large-Scale Image Recognition</b>. [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjojM766NDQAhUGE7wKHV41BCkQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1409.1556&usg=AFQjCNGCj1kt2G50dIxnPbwC-QmXnL7Mcg)]
 - [citation:72+] What Regularized Auto-Encoders Learn from the Data. [[local pdf]](docs/2014/What Regularized Auto-Encoders Learn from the Data.pdf) [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi_3fWb6dDQAhVDOrwKHQHWBzQQFggdMAA&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1211.4246&usg=AFQjCNFQTNK_88872IDR0e56SV0L2z80eQ)]
 
+### Deep Reinforcement Learning
+
+* [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf), X. Guo et al., *NIPS*, 2014.
+
 ## 2013
 
 ### Deep Learning
@@ -539,6 +543,10 @@
 - [citation:237+] Stochastic Pooling for Regularization of Deep Convolutional Neural Networks. [[local pdf]](docs/2013/Stochastic Pooling for Regularization of Deep Convolutional Neural Networks.pdf) [[remote url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiB8sbr2tDQAhWFiFQKHQa_CosQFgggMAA&url=http%3A%2F%2Fwww.matthewzeiler.com%2Fpubs%2Ficlr2013%2Ficlr2013.pdf&usg=AFQjCNGBzD7QvKjhVqEfTqx52q3Fgvz3IA)]
 - [citation:1292+] <b>Visualizing and Understanding Convolutional Networks</b>. [[local pdf]](docs/2013/Visualizing and Understanding Convolutional Networks.pdf) [[remote url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjkzKeI29DQAhXCqlQKHZMCDRAQFggiMAA&url=http%3A%2F%2Fwww.cs.nyu.edu%2F~fergus%2Fpapers%2FzeilerECCV2014.pdf&usg=AFQjCNFRXYdMaGmpHegQP_bccZWSKDgmlw)]
 
+
+### Deep Reinforcement Learning
+
+* [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## 2012
 
