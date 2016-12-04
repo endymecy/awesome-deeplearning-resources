@@ -1,7 +1,7 @@
-# Deep learning and deep reinforcement learning paper
+# Deep learning and deep reinforcement learning papers
 
 A list of recent papers regarding deep learning and deep reinforcement learning. They are sorted by time to see the recent papers first.
-
+I will renew the recent papers and add notes to these papers.
 
 ## 2016
 
@@ -304,7 +304,7 @@ A list of recent papers regarding deep learning and deep reinforcement learning.
 
 ### Deep Reinforcement Learning
 
-* [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf), X. Guo et al., *NIPS*, 2014.
+- [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning, X. Guo et al., *NIPS*.[[remote url](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)]
 
 ## 2013
 
@@ -336,7 +336,7 @@ A list of recent papers regarding deep learning and deep reinforcement learning.
 
 ### Deep Reinforcement Learning
 
-* [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
+- Playing Atari with Deep Reinforcement Learning, V. Mnih et al., *NIPS Workshop*. [[remote url](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
 
 ## 2012
 
