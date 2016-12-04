@@ -242,134 +242,35 @@
 
 ### Deep Reinforcement Learning
 
-* [Memory-based control with recurrent neural networks](http://arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
-* [How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies](http://arxiv.org/abs/1512.02011), V. François-Lavet et al., *NIPS Workshop*, 2015.
-* [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
-* [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099), H. Cuayáhuitl et al., *NIPS Workshop*, 2015.
-* [Learning Simple Algorithms from Examples](http://arxiv.org/abs/1511.07275), W. Zaremba et al., *arXiv*, 2015.
-* [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581), Z. Wang et al., *arXiv*, 2015.
-* [Deep Reinforcement Learning with an Action Space Defined by Natural Language](http://arxiv.org/abs/1511.04636), J. He et al., *arXiv*, 2015.
-* [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](http://arxiv.org/abs/1511.03791), F. Zhang et al., *arXiv*, 2015.
-* [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), H. Guo, *arXiv*, 2015.
-* [ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources](http://arxiv.org/abs/1510.02879), J. Rajendran et al., *arXiv*, 2015.
-* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
-* [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461), H. van Hasselt et al., *arXiv*, 2015.
-* [Recurrent Reinforcement Learning: A Hybrid Approach](http://arxiv.org/abs/1509.03044), X. Li et al., *arXiv*, 2015.
-* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf), K. Narasimhan et al., *EMNLP*, 2015.
-* [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/abs/1509.01549), M. Lai, *arXiv*, 2015.
-* [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750), J. Oh et al., *NIPS*, 2015.
-* [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf), N. Heess et al., *NIPS*, 2015.
-* [Learning Deep Neural Network Policies with Continuous Memory States](http://arxiv.org/abs/1507.01273), M. Zhang et al., *arXiv*, 2015.
-* [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527), M. Hausknecht and P. Stone, *arXiv*, 2015.
-* [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089), H. Mei et al., *arXiv*, 2015.
-* [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](http://arxiv.org/abs/1507.00814), B. C. Stadie et al., *arXiv*, 2015.
-* [Maximum Entropy Deep Inverse Reinforcement Learning](http://arxiv.org/abs/1507.04888), M. Wulfmeier et al., *arXiv*, 2015.
-* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702), S. Levine et al., *arXiv*, 2015.
-* [DeepMPC: Learning Deep Latent Features for Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, et al., *RSS*, 2015.
-* [Universal Value Function Approximators](http://schaul.site44.com/publications/uvfa.pdf), T. Schaul et al., *ICML*, 2015.
-* [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf), D. Silver et al., *ICML*, 2015.
-* [Massively Parallel Methods for Deep Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf), A. Nair et al., *ICML Workshop*, 2015.
-* [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
-* [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf), V. Mnih et al., *Nature*, 2015.
-* [How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies](http://arxiv.org/abs/1512.02011), V. François-Lavet et al., *NIPS Workshop*, 2015.
-* [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
-* [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099), H. Cuayáhuitl et al., *NIPS Workshop*, 2015.
-* [Learning Simple Algorithms from Examples](http://arxiv.org/abs/1511.07275), W. Zaremba et al., *arXiv*, 2015.
-* [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581), Z. Wang et al., *arXiv*, 2015.
-* [Deep Reinforcement Learning with an Action Space Defined by Natural Language](http://arxiv.org/abs/1511.04636), J. He et al., *arXiv*, 2015.
-* [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](http://arxiv.org/abs/1511.03791), F. Zhang et al., *arXiv*, 2015.
-* [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), H. Guo, *arXiv*, 2015.
-* [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461), H. van Hasselt et al., *arXiv*, 2015.
-* [Recurrent Reinforcement Learning: A Hybrid Approach](http://arxiv.org/abs/1509.03044), X. Li et al., *arXiv*, 2015.
-* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf), K. Narasimhan et al., *EMNLP*, 2015.
-* [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750), J. Oh et al., *NIPS*, 2015.
-* [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527), M. Hausknecht and P. Stone, *arXiv*, 2015.
-* [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](http://arxiv.org/abs/1507.00814), B. C. Stadie et al., *arXiv*, 2015.
-* [Massively Parallel Methods for Deep Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf), A. Nair et al., *ICML Workshop*, 2015.
-* [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf), V. Mnih et al., *Nature*, 2015.
-* [ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources](http://arxiv.org/abs/1510.02879), J. Rajendran et al., *arXiv*, 2015.
-* [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf), N. Heess et al., *NIPS*, 2015.
-* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702), S. Levine et al., *arXiv*, 2015.
-* [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf), D. Silver et al., *ICML*, 2015.
-* [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
-* [How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies](http://arxiv.org/abs/1512.02011), V. François-Lavet et al., *NIPS Workshop*, 2015.
-* [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
-* [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099), H. Cuayáhuitl et al., *NIPS Workshop*, 2015.
-* [Learning Simple Algorithms from Examples](http://arxiv.org/abs/1511.07275), W. Zaremba et al., *arXiv*, 2015.
-* [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581), Z. Wang et al., *arXiv*, 2015.
-* [Deep Reinforcement Learning with an Action Space Defined by Natural Language](http://arxiv.org/abs/1511.04636), J. He et al., *arXiv*, 2015.
-* [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143), M. Hausknecht et al., *ICLR*, 2016.
-* [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](http://arxiv.org/abs/1511.03791), F. Zhang et al., *arXiv*, 2015.
-* [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), H. Guo, *arXiv*, 2015.
-* [ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources](http://arxiv.org/abs/1510.02879), J. Rajendran et al., *arXiv*, 2015.
-* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
-* [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461), H. van Hasselt et al., *arXiv*, 2015.
-* [Recurrent Reinforcement Learning: A Hybrid Approach](http://arxiv.org/abs/1509.03044), X. Li et al., *arXiv*, 2015.
-* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf), K. Narasimhan et al., *EMNLP*, 2015.
-* [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/abs/1509.01549), M. Lai, *arXiv*, 2015.
-* [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750), J. Oh et al., *NIPS*, 2015.
-* [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527), M. Hausknecht and P. Stone, *arXiv*, 2015.
-* [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089), H. Mei et al., *arXiv*, 2015.
-* [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](http://arxiv.org/abs/1507.00814), B. C. Stadie et al., *arXiv*, 2015.
-* [Universal Value Function Approximators](http://schaul.site44.com/publications/uvfa.pdf), T. Schaul et al., *ICML*, 2015.
-* [Massively Parallel Methods for Deep Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf), A. Nair et al., *ICML Workshop*, 2015.
-* [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf), V. Mnih et al., *Nature*, 2015.
-* [Memory-based control with recurrent neural networks](http://arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
-* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
-* [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf), N. Heess et al., *NIPS*, 2015.
-* [Learning Deep Neural Network Policies with Continuous Memory States](http://arxiv.org/abs/1507.01273), M. Zhang et al., *arXiv*, 2015.
-* [High-Dimensional Continuous Control Using Generalized Advantage Estimation](http://arxiv.org/abs/1506.02438), J. Schulman et al., *ICLR*, 2016.
-* [DeepMPC: Learning Deep Latent Features for Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, et al., *RSS*, 2015.
-* [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf), D. Silver et al., *ICML*, 2015.
-* [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
-* [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099), H. Cuayáhuitl et al., *NIPS Workshop*, 2015.
-* [MazeBase: A Sandbox for Learning from Games](http://arxiv.org/abs/1511.07401), S. Sukhbaatar et al., *arXiv*, 2016.
-* [Deep Reinforcement Learning with an Action Space Defined by Natural Language](http://arxiv.org/abs/1511.04636), J. He et al., *arXiv*, 2015.
-* [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), H. Guo, *arXiv*, 2015.
-* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf), K. Narasimhan et al., *EMNLP*, 2015.
-* [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089), H. Mei et al., *arXiv*, 2015.
-* [Memory-based control with recurrent neural networks](http://arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
-* [How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies](http://arxiv.org/abs/1512.02011), V. François-Lavet et al., *NIPS Workshop*, 2015.
-* [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
-* [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581), Z. Wang et al., *arXiv*, 2015.
-* [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](http://arxiv.org/abs/1511.03791), F. Zhang et al., *arXiv*, 2015.
-* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
-* [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461), H. van Hasselt et al., *arXiv*, 2015.
-* [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/abs/1509.01549), M. Lai, *arXiv*, 2015.
-* [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750), J. Oh et al., *NIPS*, 2015.
-* [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf), N. Heess et al., *NIPS*, 2015.
-* [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527), M. Hausknecht and P. Stone, *arXiv*, 2015.
-* [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](http://arxiv.org/abs/1507.00814), B. C. Stadie et al., *arXiv*, 2015.
-* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702), S. Levine et al., *arXiv*, 2015.
-* [Universal Value Function Approximators](http://schaul.site44.com/publications/uvfa.pdf), T. Schaul et al., *ICML*, 2015.
-* [Massively Parallel Methods for Deep Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf), A. Nair et al., *ICML Workshop*, 2015.
-* [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
-* [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf), V. Mnih et al., *Nature*, 2015.
-* [Memory-based control with recurrent neural networks](http://arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
-* [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](http://arxiv.org/abs/1511.03791), F. Zhang et al., *arXiv*, 2015.
-* [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf), N. Heess et al., *NIPS*, 2015.
-* [Learning Deep Neural Network Policies with Continuous Memory States](http://arxiv.org/abs/1507.01273), M. Zhang et al., *arXiv*, 2015.
-* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702), S. Levine et al., *arXiv*, 2015.
-* [DeepMPC: Learning Deep Latent Features for Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, et al., *RSS*, 2015.
-* [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
-* [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581), Z. Wang et al., *arXiv*, 2015.
-* [Deep Reinforcement Learning with an Action Space Defined by Natural Language](http://arxiv.org/abs/1511.04636), J. He et al., *arXiv*, 2015.
-* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
-* [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461), H. van Hasselt et al., *arXiv*, 2015.
-* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf), K. Narasimhan et al., *EMNLP*, 2015.
-* [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750), J. Oh et al., *NIPS*, 2015.
-* [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527), M. Hausknecht and P. Stone, *arXiv*, 2015.
-* [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](http://arxiv.org/abs/1507.00814), B. C. Stadie et al., *arXiv*, 2015.
-* [Universal Value Function Approximators](http://schaul.site44.com/publications/uvfa.pdf), T. Schaul et al., *ICML*, 2015.
-* [Massively Parallel Methods for Deep Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf), A. Nair et al., *ICML Workshop*, 2015.
-* [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
-* [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf), V. Mnih et al., *Nature*, 2015.
-* [Maximum Entropy Deep Inverse Reinforcement Learning](http://arxiv.org/abs/1507.04888), M. Wulfmeier et al., *arXiv*, 2015.
-* [ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources](http://arxiv.org/abs/1510.02879), J. Rajendran et al., *arXiv*, 2015.
-* [Universal Value Function Approximators](http://schaul.site44.com/publications/uvfa.pdf), T. Schaul et al., *ICML*, 2015.
-* [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750), J. Oh et al., *NIPS*, 2015.
-* [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](http://arxiv.org/abs/1507.00814), B. C. Stadie et al., *arXiv*, 2015.
-* [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
+- ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources, J. Rajendran et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1510.02879)]
+- Action-Conditional Video Prediction using Deep Networks in Atari Games, J. Oh et al., *NIPS*.  [[remote url](http://arxiv.org/abs/1507.08750)]
+- Dueling Network Architectures for Deep Reinforcement Learning, Z. Wang et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.06581)]
+- Deep Reinforcement Learning with an Action Space Defined by Natural Language, J. He et al., *arXiv*. [[remote url](http://arxiv.org/abs/1511.04636)]
+- Deep Reinforcement Learning with Double Q-learning, H. van Hasselt et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1509.06461)]
+- Deep Recurrent Q-Learning for Partially Observable MDPs, M. Hausknecht and P. Stone, *arXiv*.  [[remote url](http://arxiv.org/abs/1507.06527)]
+- DeepMPC: Learning Deep Latent Features for Model Predictive Control, I. Lenz, et al., *RSS*.  [[remote url](http://deepmpc.cs.cornell.edu/DeepMPC.pdf)]
+- Deterministic Policy Gradient Algorithms, D. Silver et al., *ICML*.  [[remote url](http://jmlr.org/proceedings/papers/v32/silver14.pdf)]
+- End-to-End Training of Deep Visuomotor Policies, S. Levine et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1504.00702)]
+- Giraffe: Using Deep Reinforcement Learning to Play Chess, M. Lai, *arXiv*.  [[remote url](http://arxiv.org/abs/1509.01549)]
+- Generating Text with Deep Reinforcement Learning, H. Guo, *arXiv*.  [[remote url](http://arxiv.org/abs/1510.09202)]
+- How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies, V. François-Lavet et al., *NIPS Workshop*.  [[remote url](http://arxiv.org/abs/1512.02011)]
+- Human-level control through deep reinforcement learning, V. Mnih et al., *Nature*.  [[remote url](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf)]
+- Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models, B. C. Stadie et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1507.00814)]
+- Learning Simple Algorithms from Examples, W. Zaremba et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.07275)]
+- Language Understanding for Text-based Games Using Deep Reinforcement Learning, K. Narasimhan et al., *EMNLP*.  [[remote url](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf)]
+- Learning Continuous Control Policies by Stochastic Value Gradients, N. Heess et al., *NIPS*.  [[remote url](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf)]
+- Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences, H. Mei et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1506.04089)]
+- Learning Deep Neural Network Policies with Continuous Memory States, M. Zhang et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1507.01273)]
+- Multiagent Cooperation and Competition with Deep Reinforcement Learning, A. Tampuu et al., *arXiv*.  [[remote url](http://arxiv.org/abs/1511.08779)]
+- Maximum Entropy Deep Inverse Reinforcement Learning, M. Wulfmeier et al., *arXiv*. [[remote url](http://arxiv.org/abs/1507.04888)]
+- Massively Parallel Methods for Deep Reinforcement Learning, A. Nair et al., *ICML Workshop*.  [[remote url](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf)]
+- Memory-based control with recurrent neural networks], N. Heess et al., *NIPS Workshop*.  [[remote url](http://arxiv.org/abs/1512.04455)]
+- Recurrent Reinforcement Learning: A Hybrid Approach, X. Li et al., *arXiv*. [[remote url](http://arxiv.org/abs/1509.03044)]
+- Strategic Dialogue Management via Deep Reinforcement Learning, H. Cuayáhuitl et al., *NIPS Workshop*. [[remote url](http://arxiv.org/abs/1511.08099)]
+- Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control, F. Zhang et al., *arXiv*. [[remote url](http://arxiv.org/abs/1511.03791)]
+- Trust Region Policy Optimization, J. Schulman et al., *ICML*. [[remote url](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)]
+- Universal Value Function Approximators, T. Schaul et al., *ICML*. [[remote url](http://schaul.site44.com/publications/uvfa.pdf)]
+- Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning, S. Mohamed and D. J. Rezende, *arXiv*. [[remote url](http://arxiv.org/abs/1509.08731)]
 
 ## 2014
 
