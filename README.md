@@ -1,5 +1,8 @@
 # Deep learning and deep reinforcement learning paper
 
+A list of recent papers regarding deep learning and deep reinforcement learning. They are sorted by time to see the recent papers first.
+
+
 ## 2016
 
 ### Deep Learning
