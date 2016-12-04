@@ -136,148 +136,34 @@
 
 ### Deep Reinforcement Learning
 
-* [Model-Free Episodic Control](http://arxiv.org/abs/1606.04460), C. Blundell et al., *arXiv*, 2016.
-* [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647), R. Munos et al., *arXiv*, 2016.
-* [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
-* [Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks](http://arxiv.org/abs/1605.09674), R. Houthooft et al., *arXiv*, 2016.
-* [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
-* [Dynamic Frame skip Deep Q Network](http://arxiv.org/abs/1605.05365), A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*, 2016.
-* [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
-* [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778), Y. Duan et al., *ICML*, 2016.
-* [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](http://arxiv.org/abs/1603.02199), S. Levine et al., *arXiv*, 2016.
-* [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748), S. Gu et al., *ICML*, 2016.
-* [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](http://arxiv.org/abs/1603.00448), C. Finn et al., *arXiv*, 2016.
-* [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621), I. Osband et al., *arXiv*, 2016.
-* [Value Iteration Networks](http://arxiv.org/abs/1602.02867), A. Tamar et al., *arXiv*, 2016.
-* [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016.
-* [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
-* [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
-* [Increasing the Action Gap: New Operators for Reinforcement Learning](http://arxiv.org/abs/1512.04860), M. G. Bellemare et al., *AAAI*, 2016.
-* [MazeBase: A Sandbox for Learning from Games](http://arxiv.org/abs/1511.07401), S. Sukhbaatar et al., *arXiv*, 2016
-* [Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning](http://arxiv.org/abs/1511.06342), E. Parisotto, et al., *ICLR*, 2016.
-* [Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410), Y. Tian et al., *ICLR*, 2016.
-* [Policy Distillation](http://arxiv.org/abs/1511.06295), A. A. Rusu et at., *ICLR*, 2016.
-* [Prioritized Experience Replay](http://arxiv.org/abs/1511.05952), T. Schaul et al., *ICLR*, 2016.
-* [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143), M. Hausknecht et al., *ICLR*, 2016.
-* [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *ICLR*, 2016.
-* [High-Dimensional Continuous Control Using Generalized Advantage Estimation](http://arxiv.org/abs/1506.02438), J. Schulman et al., *ICLR*, 2016.
-* [Model-Free Episodic Control](http://arxiv.org/abs/1606.04460), C. Blundell et al., *arXiv*, 2016.
-* [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647), R. Munos et al., *arXiv*, 2016.
-* [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
-* [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
-* [Dynamic Frame skip Deep Q Network](http://arxiv.org/abs/1605.05365), A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*, 2016.
-* [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
-* [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748), S. Gu et al., *ICML*, 2016.
-* [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621), I. Osband et al., *arXiv*, 2016.
-* [Value Iteration Networks](http://arxiv.org/abs/1602.02867), A. Tamar et al., *arXiv*, 2016.
-* [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016.
-* [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
-* [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
-* [Increasing the Action Gap: New Operators for Reinforcement Learning](http://arxiv.org/abs/1512.04860), M. G. Bellemare et al., *AAAI*, 2016.
-* [Prioritized Experience Replay](http://arxiv.org/abs/1511.05952), T. Schaul et al., *ICLR*, 2016.
-* [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143), M. Hausknecht et al., *ICLR*, 2016.
-* [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *ICLR*, 2016.
-* [Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks](http://arxiv.org/abs/1605.09674), R. Houthooft et al., *arXiv*, 2016.
-* [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778), Y. Duan et al., *ICML*, 2016.
-* [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](http://arxiv.org/abs/1603.02199), S. Levine et al., *arXiv*, 2016.
-* [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](http://arxiv.org/abs/1603.00448), C. Finn et al., *arXiv*, 2016.
-* [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
-* [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
-* [MazeBase: A Sandbox for Learning from Games](http://arxiv.org/abs/1511.07401), S. Sukhbaatar et al., *arXiv*, 2016.
-* [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *ICLR*, 2016.
-* [High-Dimensional Continuous Control Using Generalized Advantage Estimation](http://arxiv.org/abs/1506.02438), J. Schulman et al., *ICLR*, 2016.
-* [Model-Free Episodic Control](http://arxiv.org/abs/1606.04460), C. Blundell et al., *arXiv*, 2016.
-* [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647), R. Munos et al., *arXiv*, 2016.
-* [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
-* [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
-* [Dynamic Frame skip Deep Q Network](http://arxiv.org/abs/1605.05365), A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*, 2016.
-* [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
-* [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621), I. Osband et al., *arXiv*, 2016.
-* [Value Iteration Networks](http://arxiv.org/abs/1602.02867), A. Tamar et al., *arXiv*, 2016.
-* [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016.
-* [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
-* [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
-* [Increasing the Action Gap: New Operators for Reinforcement Learning](http://arxiv.org/abs/1512.04860), M. G. Bellemare et al., *AAAI*, 2016.
-* [Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410), Y. Tian et al., *ICLR*, 2016.
-* [Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning](http://arxiv.org/abs/1511.06342), E. Parisotto, et al., *ICLR*, 2016.
-* [Policy Distillation](http://arxiv.org/abs/1511.06295), A. A. Rusu et at., *ICLR*, 2016.
-* [Prioritized Experience Replay](http://arxiv.org/abs/1511.05952), T. Schaul et al., *ICLR*, 2016.
-* [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143), M. Hausknecht et al., *ICLR*, 2016.
-* [Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks](http://arxiv.org/abs/1605.09674), R. Houthooft et al., *arXiv*, 2016.
-* [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778), Y. Duan et al., *ICML*, 2016.
-* [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](http://arxiv.org/abs/1603.02199), S. Levine et al., *arXiv*, 2016.
-* [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748), S. Gu et al., *ICML*, 2016.
-* [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](http://arxiv.org/abs/1603.00448), C. Finn et al., *arXiv*, 2016.
-* [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
-* [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *ICLR*, 2016.
-* [High-Dimensional Continuous Control Using Generalized Advantage Estimation](http://arxiv.org/abs/1506.02438), J. Schulman et al., *ICLR*, 2016.
-* [MazeBase: A Sandbox for Learning from Games](http://arxiv.org/abs/1511.07401), S. Sukhbaatar et al., *arXiv*, 2016
-* [Model-Free Episodic Control](http://arxiv.org/abs/1606.04460), C. Blundell et al., *arXiv*, 2016.
-* [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
-* [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
-* [Dynamic Frame skip Deep Q Network](http://arxiv.org/abs/1605.05365), A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*, 2016.
-* [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
-* [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](http://arxiv.org/abs/1603.02199), S. Levine et al., *arXiv*, 2016.
-* [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621), I. Osband et al., *arXiv*, 2016.
-* [Value Iteration Networks](http://arxiv.org/abs/1602.02867), A. Tamar et al., *arXiv*, 2016.
-* [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
-* [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
-* [Increasing the Action Gap: New Operators for Reinforcement Learning](http://arxiv.org/abs/1512.04860), M. G. Bellemare et al., *AAAI*, 2016.
-* [Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning](http://arxiv.org/abs/1511.06342), E. Parisotto, et al., *ICLR*, 2016.
-* [Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410), Y. Tian et al., *ICLR*, 2016.
-* [Policy Distillation](http://arxiv.org/abs/1511.06295), A. A. Rusu et at., *ICLR*, 2016.
-* [Prioritized Experience Replay](http://arxiv.org/abs/1511.05952), T. Schaul et al., *ICLR*, 2016.
-* [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143), M. Hausknecht et al., *ICLR*, 2016.
-* [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *ICLR*, 2016.
-* [High-Dimensional Continuous Control Using Generalized Advantage Estimation](http://arxiv.org/abs/1506.02438), J. Schulman et al., *ICLR*, 2016.
-* [Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks](http://arxiv.org/abs/1605.09674), R. Houthooft et al., *arXiv*, 2016.
-* [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778), Y. Duan et al., *ICML*, 2016.
-* [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](http://arxiv.org/abs/1603.02199), S. Levine et al., *arXiv*, 2016.
-* [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748), S. Gu et al., *ICML*, 2016.
-* [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](http://arxiv.org/abs/1603.00448), C. Finn et al., *arXiv*, 2016.
-* [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
-* [Model-Free Episodic Control](http://arxiv.org/abs/1606.04460), C. Blundell et al., *arXiv*, 2016.
-* [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647), R. Munos et al., *arXiv*, 2016.
-* [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
-* [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
-* [Dynamic Frame skip Deep Q Network](http://arxiv.org/abs/1605.05365), A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*, 2016.
-* [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
-* [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621), I. Osband et al., *arXiv*, 2016.
-* [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016.
-* [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
-* [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
-* [Increasing the Action Gap: New Operators for Reinforcement Learning](http://arxiv.org/abs/1512.04860), M. G. Bellemare et al., *AAAI*, 2016.
-* [How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies](http://arxiv.org/abs/1512.02011), V. François-Lavet et al., *NIPS Workshop*, 2015.
-* [MazeBase: A Sandbox for Learning from Games](http://arxiv.org/abs/1511.07401), S. Sukhbaatar et al., *arXiv*, 2016.
-* [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581), Z. Wang et al., *arXiv*, 2015.
-* [Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410), Y. Tian et al., *ICLR*, 2016.
-* [Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning](http://arxiv.org/abs/1511.06342), E. Parisotto, et al., *ICLR*, 2016.
-* [Policy Distillation](http://arxiv.org/abs/1511.06295), A. A. Rusu et at., *ICLR*, 2016.
-* [Prioritized Experience Replay](http://arxiv.org/abs/1511.05952), T. Schaul et al., *ICLR*, 2016.
-* [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *ICLR*, 2016.
-* [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
-* [Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410), Y. Tian et al., *ICLR*, 2016.
-* [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](http://arxiv.org/abs/1603.00448), C. Finn et al., *arXiv*, 2016.
-* [Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning](http://arxiv.org/abs/1511.06342), E. Parisotto, et al., *ICLR*, 2016.
-* [Policy Distillation](http://arxiv.org/abs/1511.06295), A. A. Rusu et at., *ICLR*, 2016.
-* [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
-* [Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks](http://arxiv.org/abs/1605.09674), R. Houthooft et al., *arXiv*, 2016.
-* [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621), I. Osband et al., *arXiv*, 2016.
-* [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016.
-* [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
-* [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
-* [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057), T. D. Kulkarni et al., *arXiv*, 2016.
+- Asynchronous Methods for Deep Reinforcement Learning, V. Mnih et al., *arXiv*. [[remote url](http://arxiv.org/abs/1602.01783)]
+- Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning, E. Parisotto, et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.06342)]
+- Benchmarking Deep Reinforcement Learning for Continuous Control, Y. Duan et al., *ICML*. [[remote url](https://arxiv.org/abs/1604.06778)]
+- Better Computer Go Player with Neural Network and Long-term Prediction, Y. Tian et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.06410)]
+- Deep Reinforcement Learning in Parameterized Action Space, M. Hausknecht et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.04143)]
+- Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks, R. Houthooft et al., *arXiv*. [[remote url](http://arxiv.org/abs/1605.09674)]
+- Control of Memory, Active Perception, and Action in Minecraft, J. Oh et al., *ICML*. [[remote url](http://arxiv.org/abs/1605.09128)]
+- Continuous Deep Q-Learning with Model-based Acceleration, S. Gu et al., *ICML*, 2016. [[remote url](http://arxiv.org/abs/1603.00748)]
+- Continuous control with deep reinforcement learning, T. P. Lillicrap et al., *ICLR*. [[remote url](http://arxiv.org/abs/1509.02971)]
+- Deep Successor Reinforcement Learning, T. D. Kulkarni et al., *arXiv*. [[remote url](http://arxiv.org/abs/1606.02396)]
+- Dynamic Frame skip Deep Q Network, A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*. [[remote url](http://arxiv.org/abs/1605.05365)]
+- Deep Exploration via Bootstrapped DQN, I. Osband et al., *arXiv*. [[remote url](http://arxiv.org/abs/1602.04621)]
+- Deep Reinforcement Learning in Parameterized Action Space, M. Hausknecht et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.04143)]
+- Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, C. Finn et al., *arXiv*. [[remote url](http://arxiv.org/abs/1603.00448)]
+- Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks, R. Krishnamurthy et al., *arXiv*. [[remote url](https://arxiv.org/abs/1605.05359)]
+- Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, T. D. Kulkarni et al., *arXiv*. [[remote url](https://arxiv.org/abs/1604.06057)]
+- High-Dimensional Continuous Control Using Generalized Advantage Estimation, J. Schulman et al., *ICLR*. [[remote url](http://arxiv.org/abs/1506.02438)]
+- Increasing the Action Gap: New Operators for Reinforcement Learning, M. G. Bellemare et al., *AAAI*. [[remote url](http://arxiv.org/abs/1512.04860)]
+- Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection, S. Levine et al., *arXiv*. [[remote url](http://arxiv.org/abs/1603.02199)]
+- Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks, J. N. Foerster et al., *arXiv*. [[remote url](http://arxiv.org/abs/1602.02672)]
+- Model-Free Episodic Control, C. Blundell et al., *arXiv*. [[remote url](http://arxiv.org/abs/1606.04460)]
+- Mastering the game of Go with deep neural networks and tree search, D. Silver et al., *Nature*. [[remote url](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)]
+- MazeBase: A Sandbox for Learning from Games, S. Sukhbaatar et al., *arXiv* [[remote url](http://arxiv.org/abs/1511.07401)]
+- Policy Distillation, A. A. Rusu et at., *ICLR*. [[remote url](http://arxiv.org/abs/1511.06295)]
+- Prioritized Experience Replay, T. Schaul et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.05952)]
+- Safe and Efficient Off-Policy Reinforcement Learning, R. Munos et al., *arXiv*. [[remote url](https://arxiv.org/abs/1606.02647)]
+- Unifying Count-Based Exploration and Intrinsic Motivation, M. G. Bellemare et al., *arXiv*. [[remote url](https://arxiv.org/abs/1606.01868)]
+- Value Iteration Networks, A. Tamar et al., *arXiv*. [[remote url](http://arxiv.org/abs/1602.02867)]
 
 ## 2015
 
