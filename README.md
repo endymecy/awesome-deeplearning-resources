@@ -169,6 +169,7 @@ I will renew the recent papers and add notes to these papers.
 - [citation:5+] Model-Free Episodic Control, C. Blundell et al., *arXiv*. [[remote url](http://arxiv.org/abs/1606.04460)]
 - [citation:397+] <b>Mastering the game of Go with deep neural networks and tree search</b>, D. Silver et al., *Nature*. [[remote url](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)]
 - [citation:6+] MazeBase: A Sandbox for Learning from Games, S. Sukhbaatar et al., *arXiv* [[remote url](http://arxiv.org/abs/1511.07401)]
+- [citation:?] Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation. *arXiv*. [[remote url](https://arxiv.org/abs/1612.03929)]
 - [citation:10+] Policy Distillation, A. A. Rusu et at., *ICLR*. [[remote url](http://arxiv.org/abs/1511.06295)]
 - [citation:41+] <b>Prioritized Experience Replay</b>, T. Schaul et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.05952)]
 - [citation:4+] Safe and Efficient Off-Policy Reinforcement Learning, R. Munos et al., *arXiv*. [[remote url](https://arxiv.org/abs/1606.02647)]
