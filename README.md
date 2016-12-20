@@ -153,6 +153,7 @@ I will renew the recent papers and add notes to these papers.
 
 - [citation:51+] <b>Asynchronous Methods for Deep Reinforcement Learning</b>, V. Mnih et al., *arXiv*. [[remote url](http://arxiv.org/abs/1602.01783)]
 - [citation:17+] Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning, E. Parisotto, et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.06342)]
+- [citation:?] A New Softmax Operator for Reinforcement Learning.[[remote url](https://128.84.21.199/abs/1612.05628?context=cs)]
 - [citation:19+] Benchmarking Deep Reinforcement Learning for Continuous Control, Y. Duan et al., *ICML*. [[remote url](https://arxiv.org/abs/1604.06778)]
 - [citation:9+] Better Computer Go Player with Neural Network and Long-term Prediction, Y. Tian et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.06410)]
 - [citation:16+] Deep Reinforcement Learning in Parameterized Action Space, M. Hausknecht et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.04143)]
