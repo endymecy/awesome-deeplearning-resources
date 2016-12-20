@@ -164,6 +164,7 @@ I will renew the recent papers and add notes to these papers.
 - [citation:?] Dynamic Frame skip Deep Q Network, A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*. [[remote url](http://arxiv.org/abs/1605.05365)]
 - [citation:18+] <b>Deep Exploration via Bootstrapped DQN</b>, I. Osband et al., *arXiv*. [[remote url](http://arxiv.org/abs/1602.04621)]
 - [citation:16+] <b>Deep Reinforcement Learning in Parameterized Action Space</b>, M. Hausknecht et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.04143)]
+- [citation:?+] Deep Reinforcement Learning with Successor Features for Navigation across Similar Environments.[[remote url](https://scirate.com/arxiv/1612.05533)]
 - [citation:12+] Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, C. Finn et al., *arXiv*. [[remote url](http://arxiv.org/abs/1603.00448)]
 - [citation:2+] Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks, R. Krishnamurthy et al., *arXiv*. [[remote url](https://arxiv.org/abs/1605.05359)]
 - [citation:14+] Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, T. D. Kulkarni et al., *arXiv*. [[remote url](https://arxiv.org/abs/1604.06057)]
