@@ -182,6 +182,7 @@ I will renew the recent papers and add notes to these papers.
 - [citation:41+] <b>Prioritized Experience Replay</b>, T. Schaul et al., *ICLR*. [[remote url](http://arxiv.org/abs/1511.05952)]
 - [citation:4+] Safe and Efficient Off-Policy Reinforcement Learning, R. Munos et al., *arXiv*. [[remote url](https://arxiv.org/abs/1606.02647)]
 - [citation:?] Sample-efficient Deep Reinforcement Learning for Dialog Control.*arXiv*.[[remote url](https://scirate.com/arxiv/1612.06000)]
+- [citation:?] Self-Correcting Models for Model-Based Reinforcement Learning.[[remote url](https://scirate.com/arxiv/1612.06018)]
 - [citation:8+] Unifying Count-Based Exploration and Intrinsic Motivation, M. G. Bellemare et al., *arXiv*. [[remote url](https://arxiv.org/abs/1606.01868)]
 - [citation:3+] Value Iteration Networks, A. Tamar et al., *arXiv*. [[remote url](http://arxiv.org/abs/1602.02867)]
 
