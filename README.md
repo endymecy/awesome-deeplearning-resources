@@ -180,6 +180,7 @@ I will renew the recent papers and add notes to these papers.
 - [citation:11+] Increasing the Action Gap: New Operators for Reinforcement Learning, M. G. Bellemare et al., *AAAI*. [[remote url](http://arxiv.org/abs/1512.04860)]
 - [citation:27+] Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection, S. Levine et al., *arXiv*. [[remote url](http://arxiv.org/abs/1603.02199)]
 - [citation:6+] Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks, J. N. Foerster et al., *arXiv*. [[remote url](http://arxiv.org/abs/1602.02672)]
+- [citation:?] Loss is its own Reward: Self-Supervision for Reinforcement Learning.[[remote url](https://arxiv.org/abs/1612.07307)]
 - [citation:5+] Model-Free Episodic Control, C. Blundell et al., *arXiv*. [[remote url](http://arxiv.org/abs/1606.04460)]
 - [citation:397+] <b>Mastering the game of Go with deep neural networks and tree search</b>, D. Silver et al., *Nature*. [[remote url](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)]
 - [citation:6+] MazeBase: A Sandbox for Learning from Games, S. Sukhbaatar et al., *arXiv* [[remote url](http://arxiv.org/abs/1511.07401)]
