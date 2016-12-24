@@ -23,6 +23,7 @@
 - Maximum Entropy Deep Inverse Reinforcement Learning, M. Wulfmeier et al., *arXiv*. [[url](http://arxiv.org/abs/1507.04888)]
 - <b>Massively Parallel Methods for Deep Reinforcement Learning</b>, A. Nair et al., *ICML Workshop*.  [[url](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf)]
 - Memory-based control with recurrent neural networks, N. Heess et al., *NIPS Workshop*.  [[url](http://arxiv.org/abs/1512.04455)]
+- On Learning to Think- Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models.  [[url](https://arxiv.org/pdf/1511.09249)]
 - Recurrent Reinforcement Learning: A Hybrid Approach, X. Li et al., *arXiv*. [[url](http://arxiv.org/abs/1509.03044)]
 - Strategic Dialogue Management via Deep Reinforcement Learning, H. Cuayáhuitl et al., *NIPS Workshop*. [[url](http://arxiv.org/abs/1511.08099)]
 - Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control, F. Zhang et al., *arXiv*. [[url](http://arxiv.org/abs/1511.03791)]
