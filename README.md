@@ -7,16 +7,15 @@ I will renew the recent papers and add notes to these papers.
 
 * [deep learning]()
     * [deep learning papers](md/2016/deeplearning/dl.md)
-    * [natural language proecess](md/2016/deeplearning/nlp.md)
+    * [natural language process](md/2016/deeplearning/nlp.md)
 * [deep reinforcement learning](md/2016/reinforcelearning/rl.md)
 
 ## 2015
 
 * [deep learning]()
     * [deep learning papers](md/2015/deeplearning/dl.md)
-    * [natural language proecess](md/2015/deeplearning/nlp.md)
+    * [natural language process](md/2015/deeplearning/nlp.md)
 * [deep reinforcement learning](md/2015/reinforcementlearning/rl.md)
-
 
 - [citation:38+] A Diversity-Promoting Objective Function for Neural Conversation Models. [[local pdf]](docs/2015/A Diversity-Promoting Objective Function for Neural Conversation Models.pdf) [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjghNPo-tLQAhULWLwKHZ6bB5sQFggsMAE&url=http%3A%2F%2Fwww.aclweb.org%2Fanthology%2FN16-1014&usg=AFQjCNE-WkcrMlvb2VudgN1271pPAV-ALg)]
 - [citation:108+] <b>A Neural Attention Model for Sentence Summarization</b>. [[local pdf]](docs/2015/A Neural Attention Model for Sentence Summarization.pdf) [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJnNOM-9LQAhVGWrwKHTH3BFAQFggiMAA&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FD%2FD15%2FD15-1044.pdf&usg=AFQjCNFw54b4APRJXCmpk2Yf0ttsATDZNA)]
