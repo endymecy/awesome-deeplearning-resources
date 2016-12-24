@@ -6,8 +6,8 @@ I will renew the recent papers and add notes to these papers.
 ## 2016
 
 * [deep learning]()
-    * [deep learning papers](md/2016/dl.md)
-    * [natural language proecess](md/2016/nlp.md)
+    * [deep learning papers](md/2016/deeplearning/dl.md)
+    * [natural language proecess](md/2016/deeplearning/nlp.md)
 * [deep reinforcement learning](md/reinforcelearning/rl.md)
 
 ## 2015
