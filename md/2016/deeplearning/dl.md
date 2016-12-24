@@ -1,7 +1,7 @@
 ## deep learning
 
 - A guide to convolution arithmetic for deep learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjhcmhp9PQAhVG2LwKHcCEDFUQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.07285&usg=AFQjCNFzA126l1euYTfLgEniFKh7EI4N9w)]
-- <b>A Network-based End-to-End Trainable Task-oriented Dialogue System. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY7NPjrNPQAhXHwLwKHS6bDdkQFggdMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1604.04562&usg=AFQjCNFsfATlxfMNhp34J0D4a34iIB2iDg)]
+- <b>A Network-based End-to-End Trainable Task-oriented Dialogue System.</b> [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY7NPjrNPQAhXHwLwKHS6bDdkQFggdMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1604.04562&usg=AFQjCNFsfATlxfMNhp34J0D4a34iIB2iDg)]
 - A New Method to Visualize Deep Neural Networks. [[pdf]](docs/2016/A New Method to Visualize Deep Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjVzJrT2dXQAhUJW7wKHZR-CNIQFggsMAE&url=https%3A%2F%2Ficmlviz.github.io%2Fassets%2Fpapers%2F23.pdf&usg=AFQjCNGOxMWK9cOTxt5Qjv1SEEsPWoJHfQ)]
 - A Persona-Based Neural Conversation Model. [[pdf]](docs/2016/A Persona-Based Neural Conversation Model.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiI9pnm2dXQAhWDTbwKHTUEBZUQFggtMAE&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP16%2FP16-1094.pdf&usg=AFQjCNFghz9P9_V6TL-VSYRH1h22rIAoHw)]
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation. [[url](https://arxiv.org/abs/1611.08562)]
