@@ -22,6 +22,7 @@
 - Increasing the Action Gap: New Operators for Reinforcement Learning, M. G. Bellemare et al., *AAAI*. [[url](http://arxiv.org/abs/1512.04860)]
 - Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection, S. Levine et al., *arXiv*. [[url](http://arxiv.org/abs/1603.02199)]
 - Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks, J. N. Foerster et al., *arXiv*. [[url](http://arxiv.org/abs/1602.02672)]
+- Learning to compose words into sentences with reinforcement learning. [[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwim56OJ1I_RAhUJi1QKHcDRAEYQFgg2MAI&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMachineLearning%2Fcomments%2F5b373g%2Fr_learning_to_compose_words_into_sentences_with%2F&usg=AFQjCNFBoour5fTqAiKQF1NXNon2e-j9pA)]
 - Loss is its own Reward: Self-Supervision for Reinforcement Learning.[[url](https://arxiv.org/abs/1612.07307)]
 - Model-Free Episodic Control, C. Blundell et al., *arXiv*. [[url](http://arxiv.org/abs/1606.04460)]
 - <b>Mastering the game of Go with deep neural networks and tree search</b>, D. Silver et al., *Nature*. [[url](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)]
