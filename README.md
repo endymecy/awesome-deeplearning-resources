@@ -8,7 +8,6 @@ I will renew the recent papers and add notes to these papers.
 * [deep learning]()
     * [deep learning papers](md/2017/deeplearning/dl.md)
     * [natural language process](md/2017/deeplearning/nlp.md)
-    * [transfer learning](md/2017/deeplearning/tl.md)
 * [deep reinforcement learning](md/2017/reinforcelearning/rl.md)
 
 ## 2016
@@ -16,7 +15,6 @@ I will renew the recent papers and add notes to these papers.
 * [deep learning]()
     * [deep learning papers](md/2016/deeplearning/dl.md)
     * [natural language process](md/2016/deeplearning/nlp.md)
-    * [transfer learning](md/2016/deeplearning/tl.md)
 * [deep reinforcement learning](md/2016/reinforcelearning/rl.md)
 
 ## 2015
@@ -24,7 +22,6 @@ I will renew the recent papers and add notes to these papers.
 * [deep learning]()
     * [deep learning papers](md/2015/deeplearning/dl.md)
     * [natural language process](md/2015/deeplearning/nlp.md)
-    * [transfer learning](md/2015/deeplearning/tl.md)
 * [deep reinforcement learning](md/2015/reinforcementlearning/rl.md)
 
 ## 2014
