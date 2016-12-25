@@ -42,7 +42,7 @@
 - Tree-structured composition in neural networks without tree-structured architectures. [[pdf]](docs/2015/Tree-structured composition in neural networks without tree-structured architectures.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjl5e6MpNPQAhVGNrwKHdozBbwQFggtMAE&url=http%3A%2F%2Fceur-ws.org%2FVol-1583%2FCoCoNIPS_2015_paper_5.pdf&usg=AFQjCNFpO43q61p6ROBIFOx94CPr9EAdLQ)]
 - <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b>. [[pdf]](docs/2015/Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjwp_6jpNPQAhXEe7wKHQEnA3MQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1511.06434&usg=AFQjCNEv8dvUWUCZ0tDm8R9lro2Pzr4tlA)]
 
-### attention
+### attention and memory
 
 - Attention with Intention for a Neural Network Conversation Model. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj--cv5_dLQAhUJv7wKHenpD3EQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1510.08565&usg=AFQjCNHP09eh3A7Ys6D6bqDbhyb9SAuixQ)]
 - <b>Show, Attend and Tell- Neural Image Caption Generation with Visual Attention</b>. [[pdf]](docs/2015/Show, Attend and Tell- Neural Image Caption Generation with Visual Attention.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwwZmqotPQAhWCvbwKHZFwD9IQFggwMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1502.03044&usg=AFQjCNECNcNjKjJkda1TxlcPtNO4dbTiEw)]

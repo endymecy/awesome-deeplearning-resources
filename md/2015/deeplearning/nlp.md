@@ -25,7 +25,7 @@
 - Towards Universal Paraphrastic Sentence Embeddings. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjM-u3Jo9PQAhUDbrwKHXETBuAQFggtMAE&url=http%3A%2F%2Fttic.uchicago.edu%2F~wieting%2Fwieting2016ICLR.pdf&usg=AFQjCNFMW6NpxCP9FMXpati4GbmkkCgPWQ)]
 Visualizing and Understanding Neural Models in NLP. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjszoDFpNPQAhWIxbwKHYlEAV0QFgg2MAI&url=https%3A%2F%2Fweb.stanford.edu%2F~jurafsky%2Fpubs%2Fvisualizing16.pdf&usg=AFQjCNECNXN2Cf42XcZokv2o5sE6RNM41Q)]
 
-### attention
+### attention and memory
 
 - <b>A Neural Attention Model for Sentence Summarization</b>. [[pdf](docs/2015/A Neural Attention Model for Sentence Summarization.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJnNOM-9LQAhVGWrwKHTH3BFAQFggiMAA&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FD%2FD15%2FD15-1044.pdf&usg=AFQjCNFw54b4APRJXCmpk2Yf0ttsATDZNA)]
 - <b>Effective Approaches to Attention-based Neural Machine Translation</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjhkfGlotjQAhXFULwKHTzhA1YQFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1508.04025&usg=AFQjCNHOjFZaEvp3YSwQTEhrgmmLW6ER8g)]
