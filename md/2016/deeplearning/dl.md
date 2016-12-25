@@ -111,6 +111,7 @@
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning. *ICLR* [[url](https://arxiv.org/abs/1612.01887)]
 - Prioritizing Attention in Fast Data: Principles and Promise.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwit8PWH3YbRAhVhylQKHWaEB7sQFggjMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%62%61%69%6c%69%73%2e%6f%72%67%2f%70%61%70%65%72%73%2f%66%61%73%74%64%61%74%61%2d%63%69%64%72%32%30%31%37%2e%70%64%66&usg=AFQjCNGjaCZQibbMWVBbnEsobBSFqhtiqQ)]
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj87ID_p9jQAhXMbbwKHWsGCa8QFggtMAE&url=http%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2016%2Fpapers%2FLee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf&usg=AFQjCNHu6HWiCwoAQHidVLJlIwBf0vTsqA)]
+- Reducing Redundant Computations with Flexible Attention. [[url](https://arxiv.org/abs/1612.06043)]
 - Survey on the attention based RNN model and its applications in computer vision. [[pdf]](docs/2016/Survey on the attention based RNN model and its applications in computer vision.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjk_5zQrNjQAhXEurwKHTOKDXYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1601.06823&usg=AFQjCNHZ7elaW5KMI-Ul1OacNmZt9TEP5Q)]
 
 ### transfer learning
