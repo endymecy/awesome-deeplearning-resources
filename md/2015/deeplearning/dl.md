@@ -1,16 +1,5 @@
 ## deep learning
 
-### attention
-
-- Attention with Intention for a Neural Network Conversation Model. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj--cv5_dLQAhUJv7wKHenpD3EQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1510.08565&usg=AFQjCNHP09eh3A7Ys6D6bqDbhyb9SAuixQ)]
-- <b>Show, Attend and Tell- Neural Image Caption Generation with Visual Attention</b>. [[pdf]](docs/2015/Show, Attend and Tell- Neural Image Caption Generation with Visual Attention.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwwZmqotPQAhWCvbwKHZFwD9IQFggwMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1502.03044&usg=AFQjCNECNcNjKjJkda1TxlcPtNO4dbTiEw)]
-
-### transfer learning
-
-- Transfer learning using computational intelligence: A survey. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiy2_T1tY7RAhXBwFQKHXTrAUEQFggqMAE&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F21bb%2Fec954226c5fdf53560cb072188a18051683c.pdf&usg=AFQjCNHTlj0iUN_xNVabR1ZRsyiEgkJmFg)]
-
-### other
-
 - A Diversity-Promoting Objective Function for Neural Conversation Models. [[pdf](docs/2015/A Diversity-Promoting Objective Function for Neural Conversation Models.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjghNPo-tLQAhULWLwKHZ6bB5sQFggsMAE&url=http%3A%2F%2Fwww.aclweb.org%2Fanthology%2FN16-1014&usg=AFQjCNE-WkcrMlvb2VudgN1271pPAV-ALg)]
 - A Neural Conversational Model. [[pdf]](docs/2015/A Neural Conversational Model.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjsnJOo-9LQAhXITLwKHb6IDjYQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1506.05869&usg=AFQjCNG8O97sWinlNfkyfEgPysuic8pXBA)]
 - A Neural Network Approach to Context-Sensitive Generation of Conversational Responses. [[pdf]](docs/2015/A Neural Network Approach to Context-Sensitive Generation of Conversational Responses.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi6sfPF-9LQAhVKVbwKHaKjDM8QFggsMAE&url=http%3A%2F%2Fwww-etud.iro.umontreal.ca%2F~sordonia%2Fpdf%2Fnaacl15.pdf&usg=AFQjCNFXJpaki2cwwGyTDAFnKKAFWsIoMA)]
@@ -51,3 +40,12 @@
 - <b>Training Very Deep Networks.</b> [[pdf]](docs/2015/Training Very Deep Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiMvvHuo9PQAhXDxbwKHZjSCtgQFggiMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1507.06228&usg=AFQjCNHkQ_NfRPI9BQgrHI_wn2zFgOtrSA)]
 - Tree-structured composition in neural networks without tree-structured architectures. [[pdf]](docs/2015/Tree-structured composition in neural networks without tree-structured architectures.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjl5e6MpNPQAhVGNrwKHdozBbwQFggtMAE&url=http%3A%2F%2Fceur-ws.org%2FVol-1583%2FCoCoNIPS_2015_paper_5.pdf&usg=AFQjCNFpO43q61p6ROBIFOx94CPr9EAdLQ)]
 - <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b>. [[pdf]](docs/2015/Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjwp_6jpNPQAhXEe7wKHQEnA3MQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1511.06434&usg=AFQjCNEv8dvUWUCZ0tDm8R9lro2Pzr4tlA)]
+
+### attention
+
+- Attention with Intention for a Neural Network Conversation Model. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj--cv5_dLQAhUJv7wKHenpD3EQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1510.08565&usg=AFQjCNHP09eh3A7Ys6D6bqDbhyb9SAuixQ)]
+- <b>Show, Attend and Tell- Neural Image Caption Generation with Visual Attention</b>. [[pdf]](docs/2015/Show, Attend and Tell- Neural Image Caption Generation with Visual Attention.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwwZmqotPQAhWCvbwKHZFwD9IQFggwMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1502.03044&usg=AFQjCNECNcNjKjJkda1TxlcPtNO4dbTiEw)]
+
+### transfer learning
+
+- Transfer learning using computational intelligence: A survey. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiy2_T1tY7RAhXBwFQKHXTrAUEQFggqMAE&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F21bb%2Fec954226c5fdf53560cb072188a18051683c.pdf&usg=AFQjCNHTlj0iUN_xNVabR1ZRsyiEgkJmFg)]

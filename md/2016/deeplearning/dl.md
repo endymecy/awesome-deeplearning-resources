@@ -1,20 +1,5 @@
 ## deep learning
 
-### attention
-
-- Attention-over-Attention Neural Networks for Reading Comprehension.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwje1J323tXQAhUDNrwKHRhNA-EQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1607.04423&usg=AFQjCNEZrH044G4sFkFqSJ9Gw1rsgejcCg)]
-- Can Active Memory Replace Attention? [[pdf]](docs/2016/Can Active Memory Replace Attention?.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj477KzgNjQAhWJu7wKHQDCCbsQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08613&usg=AFQjCNGWvnbekotBNutPv47XNVPgRbwglw)]
-- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning.[[url](https://arxiv.org/abs/1612.01887)]
-- Prioritizing Attention in Fast Data: Principles and Promise.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwit8PWH3YbRAhVhylQKHWaEB7sQFggjMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%62%61%69%6c%69%73%2e%6f%72%67%2f%70%61%70%65%72%73%2f%66%61%73%74%64%61%74%61%2d%63%69%64%72%32%30%31%37%2e%70%64%66&usg=AFQjCNGjaCZQibbMWVBbnEsobBSFqhtiqQ)]
-- Recursive Recurrent Nets with Attention Modeling for OCR in the Wild. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj87ID_p9jQAhXMbbwKHWsGCa8QFggtMAE&url=http%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2016%2Fpapers%2FLee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf&usg=AFQjCNHu6HWiCwoAQHidVLJlIwBf0vTsqA)]
-- Survey on the attention based RNN model and its applications in computer vision. [[pdf]](docs/2016/Survey on the attention based RNN model and its applications in computer vision.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjk_5zQrNjQAhXEurwKHTOKDXYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1601.06823&usg=AFQjCNHZ7elaW5KMI-Ul1OacNmZt9TEP5Q)]
-
-### transfer learning
-
-- A survey of transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjd8Njeto7RAhWExFQKHe2ACgoQFgg6MAM&url=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2Fs40537-016-0043-6&usg=AFQjCNHxP-tJsZSZ5Ab_A4j3J1jLAtRQEQ)]
-
-### other
-
 - A guide to convolution arithmetic for deep learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjhcmhp9PQAhVG2LwKHcCEDFUQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.07285&usg=AFQjCNFzA126l1euYTfLgEniFKh7EI4N9w)]
 - <b>A Network-based End-to-End Trainable Task-oriented Dialogue System.</b> [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY7NPjrNPQAhXHwLwKHS6bDdkQFggdMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1604.04562&usg=AFQjCNFsfATlxfMNhp34J0D4a34iIB2iDg)]
 - A New Method to Visualize Deep Neural Networks. [[pdf]](docs/2016/A New Method to Visualize Deep Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjVzJrT2dXQAhUJW7wKHZR-CNIQFggsMAE&url=https%3A%2F%2Ficmlviz.github.io%2Fassets%2Fpapers%2F23.pdf&usg=AFQjCNGOxMWK9cOTxt5Qjv1SEEsPWoJHfQ)]
@@ -110,3 +95,18 @@
 - Wide & Deep Learning for Recommender Systems. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiLoqrastjQAhWCxrwKHUiSDlAQFggfMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1606.07792&usg=AFQjCNH0RJwtLMazqmYmvYpYsMOk-wDRGQ)]
 - <b>Wide Residual Networks</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjz5fiLs9jQAhWHUrwKHY0AA7QQFggxMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07146&usg=AFQjCNFZDRk-XZeK7gzPq37RARYjH9QYfA)]
 - <b>Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations</b>. [[pdf](docs/2016/Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations.pdf)] [[remote url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjBr5C2s9jQAhUCi7wKHSVWCDoQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1606.01305&usg=AFQjCNH95EDtZHJPro7M-X3qmADKDskt8A)]
+
+### attention
+
+- Attention-over-Attention Neural Networks for Reading Comprehension.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwje1J323tXQAhUDNrwKHRhNA-EQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1607.04423&usg=AFQjCNEZrH044G4sFkFqSJ9Gw1rsgejcCg)]
+- Can Active Memory Replace Attention? [[pdf]](docs/2016/Can Active Memory Replace Attention?.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj477KzgNjQAhWJu7wKHQDCCbsQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08613&usg=AFQjCNGWvnbekotBNutPv47XNVPgRbwglw)]
+- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning.[[url](https://arxiv.org/abs/1612.01887)]
+- Prioritizing Attention in Fast Data: Principles and Promise.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwit8PWH3YbRAhVhylQKHWaEB7sQFggjMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%62%61%69%6c%69%73%2e%6f%72%67%2f%70%61%70%65%72%73%2f%66%61%73%74%64%61%74%61%2d%63%69%64%72%32%30%31%37%2e%70%64%66&usg=AFQjCNGjaCZQibbMWVBbnEsobBSFqhtiqQ)]
+- Recursive Recurrent Nets with Attention Modeling for OCR in the Wild. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj87ID_p9jQAhXMbbwKHWsGCa8QFggtMAE&url=http%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2016%2Fpapers%2FLee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf&usg=AFQjCNHu6HWiCwoAQHidVLJlIwBf0vTsqA)]
+- Survey on the attention based RNN model and its applications in computer vision. [[pdf]](docs/2016/Survey on the attention based RNN model and its applications in computer vision.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjk_5zQrNjQAhXEurwKHTOKDXYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1601.06823&usg=AFQjCNHZ7elaW5KMI-Ul1OacNmZt9TEP5Q)]
+
+### transfer learning
+
+- A survey of transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjd8Njeto7RAhWExFQKHe2ACgoQFgg6MAM&url=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2Fs40537-016-0043-6&usg=AFQjCNHxP-tJsZSZ5Ab_A4j3J1jLAtRQEQ)]
+
+
