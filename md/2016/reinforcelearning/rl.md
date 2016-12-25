@@ -26,6 +26,7 @@
 - Model-Free Episodic Control, C. Blundell et al., *arXiv*. [[url](http://arxiv.org/abs/1606.04460)]
 - <b>Mastering the game of Go with deep neural networks and tree search</b>, D. Silver et al., *Nature*. [[url](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)]
 - MazeBase: A Sandbox for Learning from Games, S. Sukhbaatar et al., *arXiv* [[url](http://arxiv.org/abs/1511.07401)]
+- Non-Deterministic Policy Improvement Stabilizes Approximated Reinforcement Learning. [[url](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission_2.pdf)]
 - Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation. *arXiv*. [[url](https://arxiv.org/abs/1612.03929)]
 - Policy Distillation, A. A. Rusu et at., *ICLR*. [[url](http://arxiv.org/abs/1511.06295)]
 - <b>Prioritized Experience Replay</b>, T. Schaul et al., *ICLR*. [[url](http://arxiv.org/abs/1511.05952)]
