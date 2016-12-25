@@ -189,3 +189,4 @@ I will renew the recent papers and add notes to these papers.
 ## before 2006
 
 - [citation:2381+] <b>Training Products of experts by minimizing contrastive divergence</b>.[[local pdf]](docs/before2016/Training Products of experts by minimizing contrastive divergence(2000).pdf) [[remote url]](Training Products of Experts by Minimizing Contrastive Divergence)
+- [citation:356+] Connectionist Temporal Classification: Labelling unsegmented Sequence Data with Recurrent Neural Networks. [[remote url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf9J2yoo7RAhUoxFQKHZFPD_wQFggfMAA&url=http%3A%2F%2Fmachinelearning.wustl.edu%2Fmlpapers%2Fpaper_files%2Ficml2006_GravesFGS06.pdf&usg=AFQjCNFrqG2eQSvESxvp7EhHYfe9y-gH_Q)]
