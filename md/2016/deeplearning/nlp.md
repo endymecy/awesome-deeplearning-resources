@@ -44,6 +44,7 @@
 - Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction. [[pdf]](docs/2016/Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj87-7nqtjQAhUBtZQKHdJiCuUQFggqMAE&url=https%3A%2F%2Faclweb.org%2Fanthology%2FW%2FW16%2FW16-0528.pdf&usg=AFQjCNFB0nh4eIORsJTs4MJ5NdHPCnFaqw)]
 - SeqGAN- Sequence Generative Adversarial Nets with Policy Gradient. [[pdf]](docs/2016/SeqGAN- Sequence Generative Adversarial Nets with Policy Gradient.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY0NWEq9jQAhXEEbwKHReIDrQQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1609.05473&usg=AFQjCNHxaAv6rC-G4DbBpCkEvcgEdKGWeQ)]
 - Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation. [[url](https://arxiv.org/abs/1607.00970)]
+- Structured Sequence Modeling with Graph Convolutional Recurrent Networks. *arXiv*. [[url](https://arxiv.org/abs/1612.07659)]
 - Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors. [[url](https://arxiv.org/abs/1612.03969)]
 - Unsupervised Pretraining for Sequence to Sequence Learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwidp53EsdjQAhVMzbwKHeSfBa4QFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1611.02683&usg=AFQjCNHdHMJUM2OIgLMaZs5wpbXfXvN4gA)]
 - Very Deep Convolutional Networks for Natural Language Processing. [[pdf](docs/2016/Very Deep Convolutional Networks for Natural Language Processing.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjj79_ZsdjQAhVJy7wKHRLdAJEQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.01781&usg=AFQjCNEX8WGvkSXZgPzlKLelkfkhlC2Tnw)]
@@ -51,6 +52,7 @@
 
 ### attention
 
+- A Context-aware Attention Network for Interactive Question Answering. [[url](https://openreview.net/pdf?id=SkyQWDcex)]
 - Gated-Attention Readers for Text Comprehension. [[pdf]](docs/2016/Gated-Attention Readers for Text Comprehension.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi03LiIjNjQAhUFO7wKHXUmAE4QFggnMAE&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHkcdHtqlx&usg=AFQjCNF8nqsWtlgBgepZz-U1diL7mcGaYg)]
 - <b>Hierarchical Attention Networks for Document Classification</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiF7N7ej9jQAhWIu7wKHVmKB6MQFgggMAA&url=https%3A%2F%2Fwww.cs.cmu.edu%2F~diyiy%2Fdocs%2Fnaacl16.pdf&usg=AFQjCNFokKFJ1g7WQSDYkYEM82XwhGiDGw)]
 - Iterative Alternating Neural Attention for Machine Reading. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjt79qFktjQAhVIvrwKHe5cCGgQFggrMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.02245&usg=AFQjCNF3I_gZskJ890hJzpm2_3yIUVeEsg)]
