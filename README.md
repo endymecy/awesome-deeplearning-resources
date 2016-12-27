@@ -158,6 +158,8 @@ I will renew the recent papers and add notes to these papers.
 - [citation:138+] Transfer Learning in Collaborative Filtering for Sparsity Reduction.[[url](http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1649/1963/)]
 - [citation:85+] Transfer Learning for Collective Link Prediction in Multiple Heterogenous Domains. [[url](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_CaoLY10.pdf)]
 - [citation:735+] <b>Why Does Unsupervised Pre-training Help Deep Learning?</b>.[[pdf](docs/2010/Why Does Unsupervised Pre-training Help Deep Learning?(2010).pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiG_7X27dLQAhXGe7wKHZqrC6oQFggdMAA&url=http%3A%2F%2Fjmlr.org%2Fpapers%2Fvolume11%2Ferhan10a%2Ferhan10a.pdf&usg=AFQjCNGCudAMh069uKLudMcU6QNfrjS-GA)]
+- [citation:20+] Hierarchical Reinforcement Learning for Adaptive Text Generation. [[pdf](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjC6cD2rpTRAhXGslQKHSiaApcQFggcMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%61%63%6c%77%65%62%2e%6f%72%67%2f%61%6e%74%68%6f%6c%6f%67%79%2f%57%31%30%2d%34%32%30%34&usg=AFQjCNFfz_ZhikX_Zypf_Omm2LKANDKagQ)]
+
 
 ## 2009
 
