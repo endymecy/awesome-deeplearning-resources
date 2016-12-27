@@ -96,6 +96,7 @@
 - Interactive Attention for Neural Machine Translation. [[arxiv](https://arxiv.org/abs/1610.05011)]
 - Joint CTC-Attention based End-to-End Speech Recognition using Multi-task Learning. [[arxiv](https://arxiv.org/abs/1609.06773)]
 - Key-Value Memory Networks for Directly Reading Documents. [[arxiv](https://arxiv.org/abs/1606.03126)]
+- Knowledge as a Teacher: Knowledge-Guided Structural Attention Networks. [[arxiv](https://arxiv.org/abs/1609.03286)]
 - <b>Language to Logical Form with Neural Attention.</b> [[pdf]](docs/2016/Language to Logical Form with Neural Attention.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjlhojaldjQAhVGfLwKHYfZAaEQFggvMAI&url=http%3A%2F%2Fhomepages.inf.ed.ac.uk%2Fs1478528%2Facl16-lang2logic-slides.pdf&usg=AFQjCNFfAVG7Xp0RYOo1H4AplPhTvKCayQ)]
 - Lexicon Integrated CNN Models with Attention for Sentiment Analysis. [[arxiv](https://arxiv.org/abs/1610.06272)]
 - Multimodal Attention for Neural Machine Translation. [[arxiv](https://arxiv.org/abs/1609.03976)]
