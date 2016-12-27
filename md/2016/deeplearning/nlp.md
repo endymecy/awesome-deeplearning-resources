@@ -26,6 +26,7 @@
 - Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj1yYXdh9jQAhXCebwKHW8vDMMQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.00367&usg=AFQjCNF15R9nAUvB5OqWHM2bwLwgrxRPBw)]
 - End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension. [[arxiv](https://arxiv.org/abs/1610.09996)]
 - <b>End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjaiLCOiNjQAhWMv7wKHeLQCfsQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1603.01354&usg=AFQjCNG-KfCDJTOPEYjMoohV-fdTGOK9ew)]
+- Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference. [[arxiv](https://arxiv.org/abs/1609.06038)]
 - Fast Domain Adaptation for Neural Machine Translation. [[arxiv](https://arxiv.org/abs/1612.06897)]
 - Fully Character-Level Neural Machine Translation without Explicit Segmentation. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjzm5bji9jQAhWKXbwKHY7XDq4QFggyMAI&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1610.03017&usg=AFQjCNHnbc8-GslAad2RBzmrV2ppgRsbmQ)]
 - Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1609.01462)]
