@@ -68,6 +68,7 @@
 
 - A Context-aware Attention Network for Interactive Question Answering. [[url](https://openreview.net/pdf?id=SkyQWDcex)]
 - A self-attentive sentence embedding.[[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjv-M3H0Y_RAhVS0mMKHYz3BAsQFggeMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DBJC_jUqxe&usg=AFQjCNGzzX7jxAZ3tYtd7t4LlE6S7KNkpQ)]
+- Coherent Dialogue with Attention-based Language Models. [[url](https://arxiv.org/abs/1611.06997)]
 - Gated-Attention Readers for Text Comprehension. [[pdf]](docs/2016/Gated-Attention Readers for Text Comprehension.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi03LiIjNjQAhUFO7wKHXUmAE4QFggnMAE&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHkcdHtqlx&usg=AFQjCNF8nqsWtlgBgepZz-U1diL7mcGaYg)]
 - <b>Hierarchical Attention Networks for Document Classification</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiF7N7ej9jQAhWIu7wKHVmKB6MQFgggMAA&url=https%3A%2F%2Fwww.cs.cmu.edu%2F~diyiy%2Fdocs%2Fnaacl16.pdf&usg=AFQjCNFokKFJ1g7WQSDYkYEM82XwhGiDGw)]
 - Hierarchical Memory Networks for Answer Selection on Unknown Words. [[url](https://arxiv.org/abs/1609.08843)]
