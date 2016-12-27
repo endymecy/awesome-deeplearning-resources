@@ -14,6 +14,7 @@
 - Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification. [[arxiv](https://arxiv.org/abs/1610.04989)]
 - <b>Character-based Neural Machine Translation.</b> [[arxiv](https://arxiv.org/abs/1511.04586)]
 - Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution. [[arxiv](https://arxiv.org/abs/1609.06686)]
+- Character-Level Language Modeling with Hierarchical Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1609.03777)]
 - COCO-Text-Dataset and Benchmark for Text Detection and Recognition in Natural Images. [[pdf]](docs/2016/COCO-Text- Dataset and Benchmark for Text Detection and Recognition in Natural Images.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjWwraRgdjQAhVFwLwKHUhQCCQQFggxMAI&url=http%3A%2F%2Fsunw.csail.mit.edu%2Fpapers%2F01_Veit_SUNw.pdf&usg=AFQjCNEd0KdDVoHqEmAv4JVphvSIaTG_eg)]
 - Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks. [[arxiv](https://arxiv.org/abs/1611.00454)]
 - Context-aware Natural Language Generation with Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1611.09900)]
