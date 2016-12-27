@@ -15,6 +15,7 @@
 - Deep Successor Reinforcement Learning, T. D. Kulkarni et al., *arXiv*. [[arxiv](http://arxiv.org/abs/1606.02396)]
 - Dynamic Frame skip Deep Q Network, A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*. [[arxiv](http://arxiv.org/abs/1605.05365)]
 - <b>Deep Exploration via Bootstrapped DQN</b>, I. Osband et al., *arXiv*. [[arxiv](http://arxiv.org/abs/1602.04621)]
+- Deep Reinforcement Learning for Dialogue Generation. [[arxiv](https://arxiv.org/abs/1606.01541)]
 - <b>Deep Reinforcement Learning in Parameterized Action Space</b>, M. Hausknecht et al., *ICLR*. [[arxiv](http://arxiv.org/abs/1511.04143)]
 - Deep Reinforcement Learning with Successor Features for Navigation across Similar Environments.[[url](https://scirate.com/arxiv/1612.05533)]
 - Dialogue manager domain adaptation using Gaussian process reinforcement learning. [[arxiv](https://arxiv.org/abs/1609.02846)]
