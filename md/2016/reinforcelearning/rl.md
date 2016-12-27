@@ -18,6 +18,7 @@
 - <b>Deep Reinforcement Learning in Parameterized Action Space</b>, M. Hausknecht et al., *ICLR*. [[arxiv](http://arxiv.org/abs/1511.04143)]
 - Deep Reinforcement Learning with Successor Features for Navigation across Similar Environments.[[url](https://scirate.com/arxiv/1612.05533)]
 - Dialogue manager domain adaptation using Gaussian process reinforcement learning. [[arxiv](https://arxiv.org/abs/1609.02846)]
+- End-to-End Reinforcement Learning of Dialogue Agents for Information Access. [[arxiv](https://arxiv.org/abs/1609.00777)]
 - Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, C. Finn et al., *arXiv*. [[arxiv](http://arxiv.org/abs/1603.00448)]
 - Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks, R. Krishnamurthy et al., *arXiv*. [[arxiv](https://arxiv.org/abs/1605.05359)]
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, T. D. Kulkarni et al., *arXiv*. [[arxiv](https://arxiv.org/abs/1604.06057)]
