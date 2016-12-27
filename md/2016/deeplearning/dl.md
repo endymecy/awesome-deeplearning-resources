@@ -121,6 +121,7 @@
 - Attention-over-Attention Neural Networks for Reading Comprehension.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwje1J323tXQAhUDNrwKHRhNA-EQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1607.04423&usg=AFQjCNEZrH044G4sFkFqSJ9Gw1rsgejcCg)]
 - Can Active Memory Replace Attention? [[pdf]](docs/2016/Can Active Memory Replace Attention?.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj477KzgNjQAhWJu7wKHQDCCbsQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08613&usg=AFQjCNGWvnbekotBNutPv47XNVPgRbwglw)]
 - Emergent Logical Structure in Vector Representations of Neural Readers. [[arxiv](https://arxiv.org/abs/1611.07954)]
+- Gated End-to-End Memory Networks. [[arxiv](https://arxiv.org/abs/1610.04211)]
 - Generating Images from Captions with Attention. [[arxiv](https://arxiv.org/abs/1511.02793)]
 - Hierarchical Memory Networks. [[arxiv](https://arxiv.org/abs/1605.07427)]
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning. *ICLR* [[arxiv](https://arxiv.org/abs/1612.01887)]
