@@ -110,7 +110,7 @@
 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles. [[pdf](docs/2016/Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwigwq-ssdjQAhVFyrwKHQlyDz0QFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.09246&usg=AFQjCNFLW02nlUkxpySYyfyd1qhLqbGNRg)]
 - Unsupervised Perceptual Rewards for Imitation Learning.[[url](https://scirate.com/arxiv/1612.06699)]
 - Using Fast Weights to Attend to the Recent Past. *NIPS*. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjQwLT5oI7RAhULwlQKHZgPDDcQFggcMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1610.06258&usg=AFQjCNHvSf8h91T5xrr-U6ekvsusfXqE6A)] [[github](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjQwLT5oI7RAhULwlQKHZgPDDcQFgguMAI&url=https%3A%2F%2Fgithub.com%2Fjiamings%2Ffast-weights&usg=AFQjCNEj_tvicMRBXQeLTrPWUC3iqUkNKQ)]
-- <b>Value Iteration Networks.</b> [[arxiv](https://arxiv.org/abs/1602.02867)]
+- <b>Value Iteration Networks.</b> [[arxiv](https://arxiv.org/abs/1602.02867)] [[github](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjfgI-5npTRAhXlxlQKHRTwB0gQFggwMAI&url=https%3A%2F%2Fgithub.com%2Fkarpathy%2Fpaper-notes%2Fblob%2Fmaster%2Fvin.md&usg=AFQjCNGC3Hco2fdf5lZB0dn5Mu7GJn8XVQ)]
 - Variable Computation in Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1611.06188)]
 - Video Pixel Networks. [[pdf]](docs/2016/Video Pixel Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjI-oHvsdjQAhULULwKHXaUDiEQFggeMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.00527&usg=AFQjCNGlHwFrxNj4ytpVH_9j92rXrFuJmg)]
 - <b>Visual Genome-Connecting Language and Vision Using Crowdsourced Dense Image Annotations</b>. [[pdf](docs/2016/Visual Genome- Connecting Language and Vision Using Crowdsourced Dense Image Annotations.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiznaaIstjQAhWIUbwKHXm3CVwQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.07332&usg=AFQjCNEB4phuATbdWZOBJsQU0q8N4LugeA)]
@@ -122,7 +122,8 @@
 
 ### attention and memory
 
-- Attention-over-Attention Neural Networks for Reading Comprehension.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwje1J323tXQAhUDNrwKHRhNA-EQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1607.04423&usg=AFQjCNEZrH044G4sFkFqSJ9Gw1rsgejcCg)]
+- Attention Based Recurrent Neural Networks for Online Advertising. [[pdf](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjAu5aWrJTRAhVjhlQKHW0pA1UQFggeMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%32%30%31%36%2e%6e%65%74%2f%70%72%6f%63%65%65%64%69%6e%67%73%2f%63%6f%6d%70%61%6e%69%6f%6e%2f%70%31%34%31%2e%70%64%66&usg=AFQjCNHsvkRlCm3kcRkHKHGbCgRMFuowGA)]
+- Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling. [[arxiv](https://arxiv.org/abs/1609.01454)]
 - Can Active Memory Replace Attention? [[pdf]](docs/2016/Can Active Memory Replace Attention?.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj477KzgNjQAhWJu7wKHQDCCbsQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08613&usg=AFQjCNGWvnbekotBNutPv47XNVPgRbwglw)]
 - Emergent Logical Structure in Vector Representations of Neural Readers. [[arxiv](https://arxiv.org/abs/1611.07954)]
 - Gated End-to-End Memory Networks. [[arxiv](https://arxiv.org/abs/1610.04211)]
