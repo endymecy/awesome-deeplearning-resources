@@ -12,6 +12,7 @@
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation. [[arxiv](https://arxiv.org/abs/1611.08562)]
 - Aspect Level Sentiment Classification with Deep Memory Network. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwja0LeI3tXQAhXMgLwKHZ83A04QFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.08900&usg=AFQjCNGfnoyCcCzGnIDOhLeYky4UdUa2OQ)]
 - Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification. [[arxiv](https://arxiv.org/abs/1610.04989)]
+- <b>Character-Aware Neural Language Models.</b> [[pdf](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwia54TEqJTRAhVrw1QKHflTBOEQFggpMAE&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%61%61%61%69%2e%6f%72%67%2f%6f%63%73%2f%69%6e%64%65%78%2e%70%68%70%2f%41%41%41%49%2f%41%41%41%49%31%36%2f%70%61%70%65%72%2f%64%6f%77%6e%6c%6f%61%64%2f%31%32%34%38%39%2f%31%32%30%31%37&usg=AFQjCNHeBBKDjQEfBu4aDgG8zUkd5Y1tsA)]
 - <b>Character-based Neural Machine Translation.</b> [[arxiv](https://arxiv.org/abs/1511.04586)]
 - Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution. [[arxiv](https://arxiv.org/abs/1609.06686)]
 - Character-Level Language Modeling with Hierarchical Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1609.03777)]
