@@ -1,5 +1,7 @@
 ## deep reinforcement learning
 
+[return to home](../../../README.md)
+
 - <b>Asynchronous Methods for Deep Reinforcement Learning</b>, V. Mnih et al., *arXiv*. [[url](http://arxiv.org/abs/1602.01783)]
 - Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning, E. Parisotto, et al., *ICLR*. [[url](http://arxiv.org/abs/1511.06342)]
 - A New Softmax Operator for Reinforcement Learning.[[url](https://128.84.21.199/abs/1612.05628?context=cs)]
