@@ -24,6 +24,7 @@
 - Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, C. Finn et al., *arXiv*. [[arxiv](http://arxiv.org/abs/1603.00448)]
 - Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks, R. Krishnamurthy et al., *arXiv*. [[arxiv](https://arxiv.org/abs/1605.05359)]
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, T. D. Kulkarni et al., *arXiv*. [[arxiv](https://arxiv.org/abs/1604.06057)]
+- Hierarchical Object Detection with Deep Reinforcement Learning. [[arxiv](https://arxiv.org/abs/1611.03718)]
 - High-Dimensional Continuous Control Using Generalized Advantage Estimation, J. Schulman et al., *ICLR*. [[arxiv](http://arxiv.org/abs/1506.02438)]
 - Increasing the Action Gap: New Operators for Reinforcement Learning, M. G. Bellemare et al., *AAAI*. [[arxiv](http://arxiv.org/abs/1512.04860)]
 - Interactive Spoken Content Retrieval by Deep Reinforcement Learning. [[arxiv](https://arxiv.org/abs/1609.05234)]
