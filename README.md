@@ -5,15 +5,12 @@ I will renew the recent papers and add notes to these papers.
 
 ## 2017
 
-* [deep learning]()
-    * [deep learning papers](md/2017/deeplearning/dl.md)
-    * [natural language process](md/2017/deeplearning/nlp.md)
-* [deep reinforcement learning](md/2017/reinforcelearning/rl.md)
-
 ## 2016
 
-* [deep learning]()
-    * [deep learning papers](md/2016/deeplearning/dl.md)
+* [deep learning](md/2016/deeplearning/dl.md)
+    * [deep learning](md/2016/deeplearning/dl.md)
+    * [attention and memory](md/2016/deeplearning/dl.md)
+    * [adversarial network](md/2016/deeplearning/dl.md)
     * [natural language process](md/2016/deeplearning/nlp.md)
 * [deep reinforcement learning](md/2016/reinforcelearning/rl.md)
 
