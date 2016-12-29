@@ -3,26 +3,35 @@
 A list of recent papers regarding deep learning and deep reinforcement learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
 
-## 2017
 
-* [deep learning](md/2017/deeplearning/dl.md)
-    * [deep learning](md/2017/deeplearning/dl.md)
+## Table of Contents
+
+- 2017
+  - [deep learning](md/2017/deeplearning/dl.md)
+     - [deep learning](md/2017/deeplearning/dl.md)
     
-## 2016
+- 2016
+    - [deep learning](md/2016/deeplearning/dl.md)
+        - [deep learning](md/2016/deeplearning/dl.md)
+        - [attention and memory](md/2016/deeplearning/dl.md)
+        - [adversarial network](md/2016/deeplearning/dl.md)
+        - [natural language process](md/2016/deeplearning/nlp.md)
+    - [deep reinforcement learning](md/2016/reinforcelearning/rl.md)
 
-* [deep learning](md/2016/deeplearning/dl.md)
-    * [deep learning](md/2016/deeplearning/dl.md)
-    * [attention and memory](md/2016/deeplearning/dl.md)
-    * [adversarial network](md/2016/deeplearning/dl.md)
-    * [natural language process](md/2016/deeplearning/nlp.md)
-* [deep reinforcement learning](md/2016/reinforcelearning/rl.md)
-
-## 2015
-
-* [deep learning]()
-    * [deep learning papers](md/2015/deeplearning/dl.md)
-    * [natural language process](md/2015/deeplearning/nlp.md)
-* [deep reinforcement learning](md/2015/reinforcementlearning/rl.md)
+- 2015
+    - [deep learning]()
+       - [deep learning papers](md/2015/deeplearning/dl.md)
+       - [natural language process](md/2015/deeplearning/nlp.md)
+    - [deep reinforcement learning](md/2015/reinforcementlearning/rl.md)
+- [2014](#2014)
+- [2013](#2013)
+- [2012](#2012)
+- [2011](#2011)
+- [2010](#2010)
+- [2009](#2009)
+- [2008](#2008)
+- [2007](#2007)
+- [2006](#2006)
 
 ## 2014
 
