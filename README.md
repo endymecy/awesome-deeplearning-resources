@@ -30,10 +30,10 @@ I will renew the recent papers and add notes to these papers.
     - [2008](#2008)
     - [2007](#2007)
     - [2006](#2006)
-- [Courses](#Courses)
-- [Books](#Books)
-- [Videos](#Videos)
-- [Software](#Software)
+- [Courses](#courses)
+- [Books](#books)
+- [Videos](#videos)
+- [Software](#software)
 
 # papers
 
