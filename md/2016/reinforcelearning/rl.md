@@ -39,6 +39,7 @@
 - Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation. *arXiv*. [[arxiv](https://arxiv.org/abs/1612.03929)]
 - Policy Distillation, A. A. Rusu et at., *ICLR*. [[arxiv](http://arxiv.org/abs/1511.06295)]
 - <b>Prioritized Experience Replay</b>, T. Schaul et al., *ICLR*. [[arxiv](http://arxiv.org/abs/1511.05952)]
+- Reinforcement Learning Using Quantum Boltzmann Machines. [[arxiv](https://arxiv.org/abs/1612.05695)]
 - Safe and Efficient Off-Policy Reinforcement Learning, R. Munos et al., *arXiv*. [[arxiv](https://arxiv.org/abs/1606.02647)]
 - Sample-efficient Deep Reinforcement Learning for Dialog Control.*arXiv*.[[url](https://scirate.com/arxiv/1612.06000)]
 - Self-Correcting Models for Model-Based Reinforcement Learning.[[url](https://scirate.com/arxiv/1612.06018)]
