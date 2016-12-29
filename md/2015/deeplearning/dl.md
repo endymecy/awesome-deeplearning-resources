@@ -2,6 +2,9 @@
 
 [return to home](../../../README.md)
 
+[attention and memory](#attention and memory)
+[transfer learning](#transfer learning)
+
 - A Diversity-Promoting Objective Function for Neural Conversation Models. [[pdf](docs/2015/A Diversity-Promoting Objective Function for Neural Conversation Models.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjghNPo-tLQAhULWLwKHZ6bB5sQFggsMAE&url=http%3A%2F%2Fwww.aclweb.org%2Fanthology%2FN16-1014&usg=AFQjCNE-WkcrMlvb2VudgN1271pPAV-ALg)]
 - A Neural Conversational Model. [[pdf]](docs/2015/A Neural Conversational Model.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjsnJOo-9LQAhXITLwKHb6IDjYQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1506.05869&usg=AFQjCNG8O97sWinlNfkyfEgPysuic8pXBA)]
 - A Neural Network Approach to Context-Sensitive Generation of Conversational Responses. [[pdf]](docs/2015/A Neural Network Approach to Context-Sensitive Generation of Conversational Responses.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi6sfPF-9LQAhVKVbwKHaKjDM8QFggsMAE&url=http%3A%2F%2Fwww-etud.iro.umontreal.ca%2F~sordonia%2Fpdf%2Fnaacl15.pdf&usg=AFQjCNFXJpaki2cwwGyTDAFnKKAFWsIoMA)]

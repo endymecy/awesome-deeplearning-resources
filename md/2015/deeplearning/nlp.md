@@ -2,6 +2,8 @@
 
 [return to home](../../../README.md)
 
+[attention and memory](#attention and memory)
+
 - A Primer on Neural Network Models for Natural Language Processing. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjr-I3b-9LQAhVEVbwKHVo8A70QFggsMAE&url=http%3A%2F%2Fcs.biu.ac.il%2F~yogo%2Fnnlp.pdf&usg=AFQjCNEZEkggUYseGdLhpFy_iG5mBA3X9g)]
 - A Unified Tagging Solution- Bidirectional LSTM Recurrent Neural Network with Word Embedding.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj-t_LG_NLQAhVES7wKHWTtCmIQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1511.00215&usg=AFQjCNECqO7dKUb1L7bkvFFR_8-hgPy52w)]
 - Alternative structures for character-level RNNs. [[pdf]](docs/2015/Alternative structures for character-level RNNs.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiyx_iZ_dLQAhUBT7wKHUE0A38QFggqMAE&url=http%3A%2F%2Fwww.di.ens.fr%2F~bojanowski%2Fpapers%2Fbojanowski16alternative.pdf&usg=AFQjCNF0ds1vVOijyqtBX-g_s9x8OedIbg)]

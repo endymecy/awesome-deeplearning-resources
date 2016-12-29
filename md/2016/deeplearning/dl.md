@@ -2,6 +2,11 @@
 
 [return to home](../../../README.md)
 
+[attention and memory](#attention and memory)
+[adversarial network](#adversarial network)
+[transfer learning](#transfer learning)
+
+
 - A guide to convolution arithmetic for deep learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjhcmhp9PQAhVG2LwKHcCEDFUQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.07285&usg=AFQjCNFzA126l1euYTfLgEniFKh7EI4N9w)]
 - <b>A Network-based End-to-End Trainable Task-oriented Dialogue System.</b> [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY7NPjrNPQAhXHwLwKHS6bDdkQFggdMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1604.04562&usg=AFQjCNFsfATlxfMNhp34J0D4a34iIB2iDg)]
 - A New Method to Visualize Deep Neural Networks. [[pdf]](docs/2016/A New Method to Visualize Deep Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjVzJrT2dXQAhUJW7wKHZR-CNIQFggsMAE&url=https%3A%2F%2Ficmlviz.github.io%2Fassets%2Fpapers%2F23.pdf&usg=AFQjCNGOxMWK9cOTxt5Qjv1SEEsPWoJHfQ)]
