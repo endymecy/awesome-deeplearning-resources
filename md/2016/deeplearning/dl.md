@@ -2,9 +2,9 @@
 
 - [return to home](../../../README.md)
 
-- [attention and memory](#attention and memory)
-- [adversarial network](#adversarial network)
-- [transfer learning](#transfer learning)
+- [attention and memory](##attention and memory)
+- [adversarial network](##adversarial network)
+- [transfer learning](##transfer learning)
 
 ### deep learning
 
