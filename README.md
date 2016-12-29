@@ -5,6 +5,9 @@ I will renew the recent papers and add notes to these papers.
 
 ## 2017
 
+* [deep learning](md/2017/deeplearning/dl.md)
+    * [deep learning](md/2017/deeplearning/dl.md)
+    
 ## 2016
 
 * [deep learning](md/2016/deeplearning/dl.md)
