@@ -1,6 +1,6 @@
 ## deep reinforcement learning
 
-[return to home](../../../README.md)
+- [return to home](../../../README.md)
 
 - ADAAPT: A Deep Architecture for Adaptive Policy Transfer from Multiple Sources, J. Rajendran et al., *arXiv*.  [[url](http://arxiv.org/abs/1510.02879)]
 - <b>Action-Conditional Video Prediction using Deep Networks in Atari Games</b>, J. Oh et al., *NIPS*.  [[url](http://arxiv.org/abs/1507.08750)]

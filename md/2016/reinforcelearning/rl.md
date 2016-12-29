@@ -1,6 +1,6 @@
 ## deep reinforcement learning
 
-[return to home](../../../README.md)
+- [return to home](../../../README.md)
 
 - <b>Asynchronous Methods for Deep Reinforcement Learning</b>, V. Mnih et al., *arXiv*. [[arxiv](http://arxiv.org/abs/1602.01783)]
 - Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning, E. Parisotto, et al., *ICLR*. [[arxiv](http://arxiv.org/abs/1511.06342)]
