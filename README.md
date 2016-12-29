@@ -22,7 +22,6 @@ I will renew the recent papers and add notes to these papers.
        - [natural language process](md/2015/deeplearning/nlp.md)
     - [deep reinforcement learning](md/2015/reinforcementlearning/rl.md)
 - [2014](#2014)
-    - [Deep Learning](#2014/#Deep Learning)
 - [2013](#2013)
 - [2012](#2012)
 - [2011](#2011)
