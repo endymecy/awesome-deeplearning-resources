@@ -5,32 +5,35 @@ I will renew the recent papers and add notes to these papers.
 
 
 ## Table of Contents
-
-- [2017](md/2017/deeplearning/dl.md)
-  - [deep learning](md/2017/deeplearning/dl.md)
-     - [deep learning](md/2017/deeplearning/dl.md) 
-- [2016](md/2016/deeplearning/dl.md)
-    - [deep learning](md/2016/deeplearning/dl.md)
+- [papers](#papers)
+    - [2017](md/2017/deeplearning/dl.md)
+      - [deep learning](md/2017/deeplearning/dl.md)
+         - [deep learning](md/2017/deeplearning/dl.md) 
+    - [2016](md/2016/deeplearning/dl.md)
         - [deep learning](md/2016/deeplearning/dl.md)
-        - [attention and memory](md/2016/deeplearning/dl.md)
-        - [adversarial network](md/2016/deeplearning/dl.md)
-        - [natural language process](md/2016/deeplearning/nlp.md)
-    - [deep reinforcement learning](md/2016/reinforcelearning/rl.md)
-- [2015](md/2015/deeplearning/dl.md)
-    - [deep learning]()
-       - [deep learning papers](md/2015/deeplearning/dl.md)
-       - [natural language process](md/2015/deeplearning/nlp.md)
-    - [deep reinforcement learning](md/2015/reinforcementlearning/rl.md)
-- [2014](#2014)
-- [2013](#2013)
-- [2012](#2012)
-- [2011](#2011)
-- [2010](#2010)
-- [2009](#2009)
-- [2008](#2008)
-- [2007](#2007)
-- [2006](#2006)
-
+            - [deep learning](md/2016/deeplearning/dl.md)
+            - [attention and memory](md/2016/deeplearning/dl.md)
+            - [adversarial network](md/2016/deeplearning/dl.md)
+            - [natural language process](md/2016/deeplearning/nlp.md)
+        - [deep reinforcement learning](md/2016/reinforcelearning/rl.md)
+    - [2015](md/2015/deeplearning/dl.md)
+        - [deep learning]()
+           - [deep learning papers](md/2015/deeplearning/dl.md)
+           - [natural language process](md/2015/deeplearning/nlp.md)
+        - [deep reinforcement learning](md/2015/reinforcementlearning/rl.md)
+    - [2014](#2014)
+    - [2013](#2013)
+    - [2012](#2012)
+    - [2011](#2011)
+    - [2010](#2010)
+    - [2009](#2009)
+    - [2008](#2008)
+    - [2007](#2007)
+    - [2006](#2006)
+- [Courses](#Courses)
+- [Books](#Books)
+- [Videos](#Videos)
+- [Software](#Software)
 
 # papers
 
@@ -230,3 +233,59 @@ I will renew the recent papers and add notes to these papers.
 - [citation:356+] Connectionist Temporal Classification: Labelling unsegmented Sequence Data with Recurrent Neural Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf9J2yoo7RAhUoxFQKHZFPD_wQFggfMAA&url=http%3A%2F%2Fmachinelearning.wustl.edu%2Fmlpapers%2Fpaper_files%2Ficml2006_GravesFGS06.pdf&usg=AFQjCNFrqG2eQSvESxvp7EhHYfe9y-gH_Q)]
 - [citation:170+] To Transfer or Not To Transfer.[[url](http://web.engr.oregonstate.edu/~tgd/publications/rosenstein-marx-kaelbling-dietterich-hnb-nips2005-transfer-workshop.pdf)]
 - [citation:83+] Transfer learning for text classification. [[url](http://robotics.stanford.edu/~ang/papers/nips05-transfer.pdf)]
+
+# Courses
+
+* Deep Vision
+  * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
+* More Deep Learning
+  * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+  * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
+
+# Books
+
+* Free Online Books
+  * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+  * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+  * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
+
+# Videos
+
+* Talks
+  * [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24)
+  * [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs)
+  * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
+  * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
+* Courses
+  * [Deep Learning Course – Nando de Freitas@Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
+
+# Software
+
+## Framework
+
+* Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)]
+* Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)]
+  * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)],
+* Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
+* Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
+  * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
+* MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
+* MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)]
+* Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
+
+## Applications
+
+* Adversarial Training
+  * Code and hyperparameters for the paper "Generative Adversarial Networks" [[Web]](https://github.com/goodfeli/adversarial)
+* Understanding and Visualizing
+  * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [[Web]](https://github.com/aravindhm/deep-goggle)
+* Semantic Segmentation
+  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [[Web]](https://github.com/rbgirshick/rcnn)
+  * Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015. [[Web]](https://github.com/longjon/caffe/tree/future)
+* Super-Resolution
+  * Image Super-Resolution for Anime-Style-Art [[Web]](https://github.com/nagadomi/waifu2x)
+* Edge Detection
+  * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [[Web]](https://github.com/shenwei1231/DeepContour)
+  * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [[Web]](https://github.com/s9xie/hed)

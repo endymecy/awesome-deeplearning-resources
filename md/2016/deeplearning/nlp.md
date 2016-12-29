@@ -2,8 +2,6 @@
 
 - [return to home](../../../README.md)
 
-- [attention and memory](#attention and memory)
-
 ### deep learning
 
 - Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwufX42tXQAhWCVbwKHZrPBOUQFgguMAE&url=https%3A%2F%2Faclweb.org%2Fanthology%2FK%2FK16%2FK16-1028.pdf&usg=AFQjCNHuJk3k7At-iCnwPJIQEE9GzvOFZg)]

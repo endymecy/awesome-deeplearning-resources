@@ -2,8 +2,6 @@
 
 - [return to home](../../../README.md)
 
-- [attention and memory](#attention and memory)
-
 ### deep learning
 
 - A Primer on Neural Network Models for Natural Language Processing. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjr-I3b-9LQAhVEVbwKHVo8A70QFggsMAE&url=http%3A%2F%2Fcs.biu.ac.il%2F~yogo%2Fnnlp.pdf&usg=AFQjCNEZEkggUYseGdLhpFy_iG5mBA3X9g)]

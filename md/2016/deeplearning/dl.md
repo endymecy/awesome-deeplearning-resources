@@ -2,10 +2,6 @@
 
 - [return to home](../../../README.md)
 
-- [attention and memory](##attention and memory)
-- [adversarial network](##adversarial network)
-- [transfer learning](##transfer learning)
-
 ### deep learning
 
 - A guide to convolution arithmetic for deep learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjhcmhp9PQAhVG2LwKHcCEDFUQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.07285&usg=AFQjCNFzA126l1euYTfLgEniFKh7EI4N9w)]

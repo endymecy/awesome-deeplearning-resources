@@ -2,8 +2,6 @@
 
 - [return to home](../../../README.md)
 
-- [attention and memory](#attention and memory)
-- [transfer learning](#transfer learning)
 
 ### deep learning
 
