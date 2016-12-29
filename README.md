@@ -5,7 +5,7 @@ I will renew the recent papers and add notes to these papers.
 
 
 ## Table of Contents
-- [papers](#papers)
+- [Papers](#papers)
     - [2017](md/2017/deeplearning/dl.md)
       - [deep learning](md/2017/deeplearning/dl.md)
          - [deep learning](md/2017/deeplearning/dl.md) 
@@ -35,7 +35,7 @@ I will renew the recent papers and add notes to these papers.
 - [Videos](#videos)
 - [Software](#software)
 
-# papers
+# Papers
 
 ## 2014
 
@@ -53,7 +53,7 @@ I will renew the recent papers and add notes to these papers.
 - [citation:649+] <b>Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</b>. [[pdf](docs/2014/Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiXjPDf5dDQAhVJyLwKHc0KAAIQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1406.1078&usg=AFQjCNEItAWUaO4_ZNB8YI0w1jJgwTaedQ)]
 - [citation:105+] Learning to Execute. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiVoZuO5tDQAhWJwLwKHVouD40QFggdMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1410.4615&usg=AFQjCNEXYyZHLwwTzovP3pHsWa_jxvWvEQ)]
 - [citation:42+] Machine learning for targeted display advertising: transfer learning in action. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiZr8H5uY7RAhXJq1QKHUocC64QFggfMAA&url=http%3A%2F%2Fdstillery.com%2Fwp-content%2Fuploads%2F2014%2F05%2FMachine-learning_target-display.pdf&usg=AFQjCNGDcM3pAUJ9-ZL7i0ujCUIWHenABQ)]
-- [citation:425+] Network In Network. [[pdf]](docs/2014/Network In Network.pdf) [[arxiv](https://arxiv.org/abs/1312.4400)]
+- [citation:425+] [Network In Network](http://blog.csdn.net/hjimce/article/details/50458190). [[pdf]](docs/2014/Network In Network.pdf) [[arxiv](https://arxiv.org/abs/1312.4400)]
 - [citation:208+] Neural Turing Machines. [[pdf]](docs/2014/Neural Turing Machines.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiDptu159DQAhWLTbwKHRetD0AQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1410.5401&usg=AFQjCNG1TUWPOAwkhVNtoNaXDJ4EV7YcCA)]
 - [citation:234+] On the Properties of Neural Machine Translation- Encoder-Decoder Approaches. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjqtZDc59DQAhUGyrwKHbhDBLUQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1409.1259&usg=AFQjCNG6_CJ8ZYMv5sx4K59mRIPpHlL-Yg)]
 - [citation:2+] On Using Very Large Target Vocabulary for Neural Machine Translation. [[pdf]](docs/2014/On Using Very Large Target Vocabulary for Neural Machine Translation.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiSle7659DQAhULTbwKHfaiBsoQFggsMAE&url=http%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP15-1001&usg=AFQjCNFUabHMFw5X9gjg26vjoDljEd4s_g)]
