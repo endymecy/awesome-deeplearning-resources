@@ -22,14 +22,26 @@ I will renew the recent papers and add notes to these papers.
            - [natural language process](md/2015/deeplearning/nlp.md)
         - [deep reinforcement learning](md/2015/reinforcementlearning/rl.md)
     - [2014](#2014)
+        - [deep learning](#deep-learning)
+        - [attention and memory](#attention-and-memory)
+        - [deep reinforcement Learning](#deep-reinforcement-learning) 
     - [2013](#2013)
+        - [deep learning](#deep-learning-1)
     - [2012](#2012)
+        - [deep learning](#deep-learning-2)
     - [2011](#2011)
+        - [deep learning](#deep-learning-3)
     - [2010](#2010)
+        - [deep learning](#deep-learning-4)
     - [2009](#2009)
+        - [deep learning](#deep-learning-5)
     - [2008](#2008)
+        - [deep learning](#deep-learning-6)
     - [2007](#2007)
+        - [deep learning](#deep-learning-7)
     - [2006](#2006)
+        - [deep learning](#deep-learning-8)
+    - [before 2006](#before-2006)
 - [Courses](#courses)
 - [Books](#books)
 - [Videos](#videos)
@@ -65,7 +77,7 @@ I will renew the recent papers and add notes to these papers.
 - [VGG14] [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://www.cnblogs.com/xuanyuyt/p/5743758.html). [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjojM766NDQAhUGE7wKHV41BCkQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1409.1556&usg=AFQjCNGCj1kt2G50dIxnPbwC-QmXnL7Mcg)]
 - [citation:72+] What Regularized Auto-Encoders Learn from the Data. [[pdf]](docs/2014/What Regularized Auto-Encoders Learn from the Data.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi_3fWb6dDQAhVDOrwKHQHWBzQQFggdMAA&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1211.4246&usg=AFQjCNFQTNK_88872IDR0e56SV0L2z80eQ)]
 
-### attention and memory
+### Attention and memory
 
 - [citation:202+] <b>Memory Networks.</b> [[arxiv](https://arxiv.org/abs/1410.3916)]
 - [citation:101+] Multiple Object Recognition with Visual Attention. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjW5KK95tDQAhVEbbwKHU3yC40QFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1412.7755&usg=AFQjCNEdl2iMZSeK_mYsIKs8HXm4yI6zKQ)]
