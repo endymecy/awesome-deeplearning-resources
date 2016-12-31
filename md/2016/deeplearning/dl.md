@@ -143,6 +143,7 @@
 
 ### adversarial network
 
+- Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics. [[arxiv](https://arxiv.org/abs/1612.07767)]
 - <b>Adversarially Learned Inference.</b> [[pdf]](docs/2016/Adversarially Learned Inference.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiPjLSF3dXQAhUEzLwKHVupDX8QFggiMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1606.00704&usg=AFQjCNGqw1orsmy60PETzJzqgYWjd6WHEg)]
 - Adversarial Multiclass Classification: A Risk Minimization Perspective. [[pdf](https://www.cs.uic.edu/~rfathony/pdf/fathony2016adversarial.pdf)] [[code](https://github.com/rizalzaf/adversarial-multiclass)]
 - Automatic Colorization with Deep Convolutional Generative Adversarial Networks. [[pdf]](http://cs231n.stanford.edu/reports2016/224_Report.pdf)]
