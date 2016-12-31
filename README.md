@@ -32,7 +32,7 @@ The papers of after 2016 year are not in this file, and you can click the link t
     - [2012 year](#2012)
     - [2011 year](#2011)
     - [2010 year](#2010)
-    - [before year](#before-2010)
+    - [before 2010 year](#before-2010)
 - [Courses](#courses)
 - [Books](#books)
 - [Videos](#videos)
