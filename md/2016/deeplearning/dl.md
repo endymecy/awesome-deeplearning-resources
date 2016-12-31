@@ -69,6 +69,7 @@
 - Learning Residual Images for Face Attribute Manipulation. [[arxiv](https://arxiv.org/abs/1612.05363)]
 - <b>Learning to learn by gradient descent by gradient descent</b>. [[pdf]](docs/2016/Learning to learn by gradient descent by gradient descent.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiv5rCamNjQAhVHjLwKHQohBBYQFggmMAE&url=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf&usg=AFQjCNEuqKtb8HnkoDvzmntpc76A0l80ZQ)]
 - Machine Comprehension Using Match-LSTM and Answer Pointer. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjI_IDRntjQAhWLwLwKHUm1DQ4QFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1608.07905&usg=AFQjCNGe2mKu6xkv0uN1OeUv5_1-Tm0suQ)]
+- Maxmin convolutional neural networks for image classification. [[arxiv](https://arxiv.org/abs/1610.07882)]
 - Models, networks and algorithmic complexity. [[arxiv](https://arxiv.org/abs/1612.05627)]
 - Movie Description. [[pdf]](docs/2016/Movie Description.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi5x_fNn9jQAhUCE7wKHWKYBaAQFggvMAI&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.03705&usg=AFQjCNGSn_eGmE9NF1hgqvIDYlT8KV-zmA)]
 - Multivariate Industrial Time Series with Cyber-Attack Simulation: Fault Detection Using an LSTM-based Predictive Data Model.[[url](https://128.84.21.199/abs/1612.06676)]
