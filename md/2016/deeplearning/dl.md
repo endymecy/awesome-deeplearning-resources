@@ -4,6 +4,7 @@
 
 ### deep learning
 
+- Accurate Image Super-Resolution Using Very Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1511.04587)]
 - A guide to convolution arithmetic for deep learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjhcmhp9PQAhVG2LwKHcCEDFUQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.07285&usg=AFQjCNFzA126l1euYTfLgEniFKh7EI4N9w)]
 - <b>A Network-based End-to-End Trainable Task-oriented Dialogue System.</b> [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY7NPjrNPQAhXHwLwKHS6bDdkQFggdMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1604.04562&usg=AFQjCNFsfATlxfMNhp34J0D4a34iIB2iDg)]
 - A New Method to Visualize Deep Neural Networks. [[pdf]](docs/2016/A New Method to Visualize Deep Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjVzJrT2dXQAhUJW7wKHZR-CNIQFggsMAE&url=https%3A%2F%2Ficmlviz.github.io%2Fassets%2Fpapers%2F23.pdf&usg=AFQjCNGOxMWK9cOTxt5Qjv1SEEsPWoJHfQ)]
@@ -38,7 +39,8 @@
 - <b>Deeply-Fused Nets</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjm87i4htjQAhXHxLwKHRW4CfkQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07716&usg=AFQjCNFr85h2BVJrvAqLlIqT_JhQP7wnzA)]
 - Domain Separation Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwij0dG5oI7RAhVriVQKHV3gAfwQFggsMAE&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6254-domain-separation-networks.pdf&usg=AFQjCNFRd_0epq_0QAs21drboBmgCRdg1A)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes. [[arxiv](https://arxiv.org/abs/1607.00036)]
-- Efficient Training of Very Deep Neural Networks for Supervised Hashing.[[arxiv](https://arxiv.org/abs/1511.04524)]
+- Efficient Training of Very Deep Neural Networks for Supervised Hashing. [[arxiv](https://arxiv.org/abs/1511.04524)]
+- [EnhanceNet] EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis. [[arxiv](https://arxiv.org/abs/1612.07919)]
 - Episodic Exploration for Deep Deterministic Policies- An Application to StarCraft Micromanagement Tasks. [[pdf]](docs/2016/Episodic Exploration for Deep Deterministic Policies- An Application to StarCraft Micromanagement Tasks.pdf) [[url](https://arxiv.org/abs/1609.02993)]
 - Event-driven Random Back-Propagation: Enabling Neuromorphic Deep Learning Machines. [[url](https://arxiv.org/abs/1612.05596?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)]
 - Feedback arcs and node hierarchy in directed networks. [[arxiv](https://arxiv.org/abs/1612.05347)]
