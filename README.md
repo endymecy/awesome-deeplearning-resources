@@ -28,14 +28,11 @@ The papers of after 2016 year are not in this file, and you can click the link t
         - [deep reinforcement Learning](#deep-reinforcement-learning-1) 
     - [2013 year](#2013)
         - [deep learning](#deep-learning-2)
+        - [deep reinforcement Learning](#deep-reinforcement-learning-2) 
     - [2012 year](#2012)
-        - [deep learning](#deep-learning-3)
     - [2011 year](#2011)
-        - [deep learning](#deep-learning-4)
     - [2010 year](#2010)
-        - [deep learning](#deep-learning-5)
     - [before year](#before-2010)
-        - [deep learning](#deep-learning-6)
 - [Courses](#courses)
 - [Books](#books)
 - [Videos](#videos)
@@ -240,8 +237,6 @@ The papers of after 2016 year are not in this file, and you can click the link t
 
 ## 2012
 
-### Deep Learning
-
 - A Better Way to Pretrain Deep Boltzmann Machines.[[pdf](docs/2012/A Better Way to Pretrain Deep Boltzmann Machines.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjj5pzG-dLQAhUFTbwKHYtVCMgQFgggMAA&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F4610-a-better-way-to-pretrain-deep-boltzmann-machines.pdf&usg=AFQjCNHwpqy-iepwXiEs6dCOKKBHAuSYsw)]
 - A Generative Process for Sampling Contractive Auto-Encoders.[[pdf](docs/2012/A Generative Process for Sampling Contractive Auto-Encoders.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiV-Ya2-dLQAhXDw7wKHU2qCH0QFgggMAA&url=http%3A%2F%2Ficml.cc%2F2012%2Fpapers%2F910.pdf&usg=AFQjCNFjnp-StAS0Cs-v0xdmFa45PbKYiA)]
 - An Efficient Learning Procedure for Deep Boltzmann Machines.[[pdf](docs/2012/An Efficient Learning Procedure for Deep Boltzmann Machines.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjbydSl-dLQAhXDiLwKHcIQAT4QFggyMAI&url=https%3A%2F%2Fai2-s2-pdfs.s3.amazonaws.com%2F0e7c%2F7f233ff98c45a215df32891ea0f51419d15a.pdf&usg=AFQjCNHKuBWS_aql6gpCA_-lLqFGwdgjlQ)]
@@ -261,8 +256,6 @@ The papers of after 2016 year are not in this file, and you can click the link t
 
 ## 2011
 
-### Deep Learning
-
 - Adaptive Deconvolutional Networks for Mid and High Level Feature Learning.[[pdf](docs/2011/Adaptive Deconvolutional Networks for Mid and High Level Feature Learning.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiy8IjP9NLQAhVKwLwKHbQdADsQFgggMAA&url=https%3A%2F%2Fwww.cs.nyu.edu%2F~gwtaylor%2Fpublications%2Fzeilertaylorfergus_iccv2011.pdf&usg=AFQjCNEwqEab7zJTWSbuqUhWQiCkjmjcZw)]
 - Asymptotic efficiency of deterministic estimators for discrete energy-based models Ratio matching and pseudolikelihood.[[pdf](docs/2011/Asymptotic efficiency of deterministic estimators for discrete energy-based models Ratio matching and pseudolikelihood.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiOj5O79NLQAhUFTrwKHXrfBrEQFggjMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1202.3746&usg=AFQjCNFm24ljb1Av16DG_svha7RMFxnU0w)]
 - Contractive Auto-Encoders-Explicit Invariance During Feature Extraction.[[pdf](docs/2011/Contractive Auto-Encoders-Explicit Invariance During Feature Extraction.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiBzu6q9NLQAhVHwbwKHc7iAhUQFgggMAA&url=http%3A%2F%2Fwww.icml-2011.org%2Fpapers%2F455_icmlpaper.pdf&usg=AFQjCNGgSPEnpKGGUf4OmrpaOCJR-qfHaQ)]
@@ -280,8 +273,6 @@ The papers of after 2016 year are not in this file, and you can click the link t
 - Unsupervised Models of Images by Spike-and-Slab RBMs.[[pdf](docs/2011/Unsupervised Models of Images by Spike-and-Slab RBMs.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjympXE8tLQAhXJS7wKHRO4CgEQFggdMAA&url=http%3A%2F%2Fwww.icml-2011.org%2Fpapers%2F591_icmlpaper.pdf&usg=AFQjCNEXIYAbEqynz3ztjTuhvCgiTUaY3A)]
 
 ## 2010
-
-### Deep Learning
 
 - A Connection Between Score Matching and Denoising Autoencoders.[[pdf](docs/2010/A Connection Between Score Matching and Denoising Autoencoders.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjCqMCn8dLQAhWETLwKHRCWCY4QFgggMAA&url=http%3A%2F%2Fwww.iro.umontreal.ca%2F~vincentp%2FPublications%2Fsmdae_techreport.pdf&usg=AFQjCNFwiC2GowBsAbO9In3uQZZVMUndJA)]
 - Attribute-Based Transfer Learning for Object Categorization with Zero/One Training Example. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjkl_XOuY7RAhUM0mMKHc6DBaIQFggfMAA&url=http%3A%2F%2Fwww.jdl.ac.cn%2Fproject%2FfaceId%2Fpaperreading%2FPaper%2Fmnkan_20101217.pdf&usg=AFQjCNEatmtDtSjNqvGTTL2evxt5EmhbbQ)]
@@ -307,8 +298,6 @@ The papers of after 2016 year are not in this file, and you can click the link t
 
 
 ## before 2010
-
-### Deep Learning
 
 - <b>A Survey on Transfer Learning. </b> [[url]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwj2zKuZr47RAhVqqVQKHWk0BtYQFgg5MAI&url=%68%74%74%70%3a%2f%2f%63%73%2e%67%6d%75%2e%65%64%75%2f%7e%63%61%72%6c%6f%74%74%61%2f%74%65%61%63%68%69%6e%67%2f%43%53%37%37%35%2d%73%31%30%2f%72%65%61%64%69%6e%67%73%2f%74%72%61%6e%73%66%65%72%6c%65%61%72%6e%69%6e%67%2e%70%64%66&usg=AFQjCNFwymAVN8XeRhulhDnWBSc_ErtzYA)]
 - <b>Deep Boltzmann Machines</b>. [[pdf]](docs/2009/Deep Boltzmann Machines.pdf) [[url]](http://www.utstat.toronto.edu/~rsalakhu/papers/dbm.pdf)
