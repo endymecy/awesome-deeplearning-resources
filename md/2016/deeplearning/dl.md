@@ -41,6 +41,7 @@
 - <b>Deeply-Fused Nets</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjm87i4htjQAhXHxLwKHRW4CfkQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07716&usg=AFQjCNFr85h2BVJrvAqLlIqT_JhQP7wnzA)]
 - Domain Separation Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwij0dG5oI7RAhVriVQKHV3gAfwQFggsMAE&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6254-domain-separation-networks.pdf&usg=AFQjCNFRd_0epq_0QAs21drboBmgCRdg1A)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes. [[arxiv](https://arxiv.org/abs/1607.00036)]
+- Efficient Action Detection in Untrimmed Videos via Multi-Task Learning. [[arxiv](https://arxiv.org/abs/1612.07403)]
 - Efficient Training of Very Deep Neural Networks for Supervised Hashing. [[arxiv](https://arxiv.org/abs/1511.04524)]
 - [EnhanceNet] EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis. [[arxiv](https://arxiv.org/abs/1612.07919)]
 - Episodic Exploration for Deep Deterministic Policies- An Application to StarCraft Micromanagement Tasks. [[pdf]](docs/2016/Episodic Exploration for Deep Deterministic Policies- An Application to StarCraft Micromanagement Tasks.pdf) [[url](https://arxiv.org/abs/1609.02993)]
