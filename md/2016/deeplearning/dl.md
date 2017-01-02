@@ -168,7 +168,7 @@
 - <b>Mode Regularized Generative Adversarial Networks.</b> [[arxiv](https://arxiv.org/abs/1612.02136)]
 - SeqGAN- Sequence Generative Adversarial Nets with Policy Gradient. [[pdf]](docs/2016/SeqGAN- Sequence Generative Adversarial Nets with Policy Gradient.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY0NWEq9jQAhXEEbwKHReIDrQQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1609.05473&usg=AFQjCNHxaAv6rC-G4DbBpCkEvcgEdKGWeQ)]
 - Simple black-box adversarial perturbations for deep networks. [[url](https://openreview.net/pdf?id=SJCscQcge)]
-
+- Unsupervised domain adaptation in brain lesion segmentation with adversarial networks. [[arxiv](https://arxiv.org/abs/1612.08894?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)]
 
 ### transfer learning
 
