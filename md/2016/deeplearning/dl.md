@@ -89,6 +89,7 @@
 - Overcoming catastrophic forgetting in neural networks.[[arxiv](https://arxiv.org/abs/1612.00796)]
 - [PRNN] Pixel Recurrent Neural Networks. [[pdf]](docs/2016/Pixel Recurrent Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjb3q_DpdjQAhXCTbwKHcmnDl4QFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1601.06759&usg=AFQjCNE6yFapsTPP1_31UvCK8WRf-P_47Q)]
 - Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1612.07429)]
+- Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. [[arxiv](https://arxiv.org/abs/1612.00005)]
 - Polynomial networks and factorization machines new insights and efficient training algorithms. *ICML*.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwixvZq0i-fQAhVkyFQKHdBFDhYQFggrMAE&url=http%3A%2F%2Fwww.mblondel.org%2Ftalks%2Fmblondel-erato-2016-08.pdf&usg=AFQjCNERwCkcwWs1Zq3zs13g0FQ4XfZEWg)]
 - Policy Networks with Two-Stage Training for Dialogue Systems. [[pdf]](docs/2016/Policy Networks with Two-Stage Training for Dialogue Systems.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiRke71pdjQAhWETrwKHQNjBy0QFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.03152&usg=AFQjCNGDb-RND3DLrZfTAaMB_y1jbK9reQ)]
 - Projected Semi-Stochastic Gradient Descent Method with Mini-Batch Scheme under Weak Strong Convexity Assumption. [[url](https://arxiv.org/abs/1612.05356)]
