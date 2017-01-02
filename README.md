@@ -389,3 +389,4 @@ The papers of after 2016 year are not in this file, and you can click the link t
 * Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
 * Deeplearning4J: Neural Net Platform. [[Web](https://github.com/deeplearning4j/deeplearning4j)]
 * Apache Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
+* CNTK:The Microsoft Cognitive Toolkit. [[Web](https://github.com/Microsoft/CNTK)]
