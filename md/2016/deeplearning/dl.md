@@ -2,7 +2,7 @@
 
 - [return to home](../../../README.md)
 
-### deep learning
+### Deep learning
 
 - Accurate Image Super-Resolution Using Very Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1511.04587)]
 - A Deep Learning Approach To Multiple Kernel Fusion. [[arxiv](https://arxiv.org/abs/1612.09007)]
@@ -47,7 +47,6 @@
 - [EnhanceNet] EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis. [[arxiv](https://arxiv.org/abs/1612.07919)]
 - Episodic Exploration for Deep Deterministic Policies- An Application to StarCraft Micromanagement Tasks. [[pdf]](docs/2016/Episodic Exploration for Deep Deterministic Policies- An Application to StarCraft Micromanagement Tasks.pdf) [[url](https://arxiv.org/abs/1609.02993)]
 - Event-driven Random Back-Propagation: Enabling Neuromorphic Deep Learning Machines. [[url](https://arxiv.org/abs/1612.05596?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)]
-- FastMask: Segment Multi-scale Object Candidates in One Shot. [[arxiv](https://arxiv.org/abs/1612.08843)]
 - Feedback arcs and node hierarchy in directed networks. [[arxiv](https://arxiv.org/abs/1612.05347)]
 - FINN: A framework for fast, scalable binarized neural network inference. [[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjMuJDuoInRAhXphVQKHT6pDkQQFggcMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%69%64%69%2e%6e%74%6e%75%2e%6e%6f%2f%7e%79%61%6d%61%6e%75%2f%32%30%31%37%2d%66%70%67%61%2d%66%69%6e%6e%2d%70%72%65%70%72%69%6e%74%2e%70%64%66&usg=AFQjCNFY93dwPam2CufAbHPf6EtwSFVzmg)]
 - FractalNet-Ultra-Deep Neural Networks without Residuals. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjWmMPHi9jQAhULVbwKHfoXDTwQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07648&usg=AFQjCNHDJqUxtKeCbEd0GkbFRAppVxmxgQ)]
@@ -69,7 +68,6 @@
 - <b>Layer Normalization</b>. [[arxiv](https://arxiv.org/pdf/1607.06450.pdf)]
 - Learning Discriminative Features via Label Consistent Neural Network. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU8uf0ltjQAhVKUbwKHRcdAHEQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.01168&usg=AFQjCNFQNWWXqHll2_QsxcrDCltcnhrbfw)]
 - Learning End-to-End Goal-Oriented Dialog. [[pdf]](docs/2016/Learning End-to-End Goal-Oriented Dialog.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwja9r6kl9jQAhVThrwKHcjUDk0QFggnMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07683&usg=AFQjCNFhlXFL9BwUtOJ5u500zyQV0l3zCg)]
-- Learning feed-forward one-shot learners. [[arxiv](https://arxiv.org/abs/1606.05233)]
 - <b>Learning Python Code Suggestion with a Sparse Pointer Network.</b> [[arxiv](https://arxiv.org/abs/1611.08307)] [[github](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwia_8CIxo_RAhWLrlQKHWhmBywQFggnMAE&url=https%3A%2F%2Fgithub.com%2Fuclmr%2Fpycodesuggest&usg=AFQjCNGyHoDB-bEU9kTXM7j0MXVVjBlIxA)]
 - Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention. [[pdf]](docs/2016/Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjX8eG_l9jQAhVIULwKHawzDbIQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.09090&usg=AFQjCNF_8Q0p5EdAfY1k8YOWG0gD8MKJ0A)]
 - Learning Non-Lambertian Object Intrinsics across ShapeNet Categories. [[arxiv](https://arxiv.org/abs/1612.08510)]
@@ -86,8 +84,6 @@
 - Mutual information for fitting deep nonlinear models.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiXyoPFmoTRAhXJj1QKHQRuDAsQFggtMAE&url=https%3A%2F%2F128.84.21.199%2Fpdf%2F1612.05708&usg=AFQjCNGzOKfpy23UpAIZ-fIqgFUV18lB6g)]
 - Natural-Parameter Networks: A Class of Probabilistic Neural Networks. [[arxiv](https://arxiv.org/abs/1611.00448)]
 - Neural Emoji Recommendation in Dialogue Systems.[[arxiv](https://arxiv.org/abs/1612.04609)]
-- <b>One-Shot Generalization in Deep Generative Models</b>. [[pdf]](docs/2016/One-Shot Generalization in Deep Generative Models.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiF7YmmpNjQAhXKw7wKHU_qDeUQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.05106&usg=AFQjCNH2H_wgC0cAuwZfEHn8wghdoD0uRQ)]
-- One-shot Learning with Memory-Augmented Neural Networks. [[pdf]](docs/2016/One-shot Learning with Memory-Augmented Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwinqanQpNjQAhVLfLwKHQo6B4sQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.06065&usg=AFQjCNHEnlkgwe3K6CYcpSQdphRYmBE8hg)]
 - Outrageously Large Neural Networks- The Sparsely-Gated Mixture-of-Experts Layer. [[pdf]](docs/2016/Outrageously Large Neural Networks- The Sparsely-Gated Mixture-of-Experts Layer.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwie9YqPpdjQAhXGyrwKHVdtA5cQFggeMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DB1ckMDqlg&usg=AFQjCNFZKGF9WDTuxVy1iFTon3PBU5pwKQ)]
 - Overcoming catastrophic forgetting in neural networks.[[arxiv](https://arxiv.org/abs/1612.00796)]
 - [PRNN] Pixel Recurrent Neural Networks. [[pdf]](docs/2016/Pixel Recurrent Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjb3q_DpdjQAhXCTbwKHcmnDl4QFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1601.06759&usg=AFQjCNE6yFapsTPP1_31UvCK8WRf-P_47Q)]
@@ -113,7 +109,6 @@
 - Tagger: Deep Unsupervised Perceptual Grouping. *NIPS*. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjp-razjufQAhWFLSYKHSF_CFcQFggsMAI&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6067-tagger-deep-unsupervised-perceptual-grouping.pdf&usg=AFQjCNG2BMZI5bfamUYu5Kbba9EbDsc9mw)]
 - <b>TensorFlow- A system for large-scale machine learning</b>. [[pdf](docs/2016/TensorFlow- A system for large-scale machine learning.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwid8I2JsNjQAhVGw7wKHXZjDDoQFggbMAA&url=http%3A%2F%2Fdownload.tensorflow.org%2Fpaper%2Fwhitepaper2015.pdf&usg=AFQjCNEAFa6vGrlp_CKFlVxs0EHLsyhVtQ)]
 - Tensors and algebra give interpretable groups for crosstalk mechanisms in breast cancer. [[arxiv](https://arxiv.org/abs/1612.08116)]
-- Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery. [[url](https://arxiv.org/abs/1612.04901)]
 - The Inevitability of Probability- Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback. [[pdf]](docs/2016/The Inevitability of Probability- Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiAq9iqsNjQAhUEjpQKHUZjBq0QFggbMAA&url=https%3A%2F%2F128.84.21.199%2Fabs%2F1601.03060v1&usg=AFQjCNG5CeOHSBphHdIAmvp8U_iTvsBiEA)]
 - Towards an integration of deep learning and neuroscience. [[pdf](docs/2016/Towards an integration of deep learning and neuroscience.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjWjLfIsNjQAhWFUbwKHc4kAI8QFgggMAA&url=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2016%2F06%2F13%2F058545&usg=AFQjCNECokKTiDgQDnJcVDeogZDjeXpsPg)]
 - Training Recurrent Neural Networks by Diffusion. [[pdf](docs/2016/Training Recurrent Neural Networks by Diffusion.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwitmvnnsNjQAhXHEbwKHRE_DNMQFggtMAE&url=http%3A%2F%2Fpeople.csail.mit.edu%2Fhmobahi%2Fpubs%2Frnn_diffusion.pdf&usg=AFQjCNHoCDdkfhEPgU44yCmAqigLjz4WCQ)]
@@ -135,7 +130,7 @@
 - <b>Wide Residual Networks</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjz5fiLs9jQAhWHUrwKHY0AA7QQFggxMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07146&usg=AFQjCNFZDRk-XZeK7gzPq37RARYjH9QYfA)]
 - <b>Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations</b>. [[pdf](docs/2016/Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjBr5C2s9jQAhUCi7wKHSVWCDoQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1606.01305&usg=AFQjCNH95EDtZHJPro7M-X3qmADKDskt8A)]
 
-### attention and memory
+### Attention and memory
 
 - Attention Based Recurrent Neural Networks for Online Advertising. [[pdf](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjAu5aWrJTRAhVjhlQKHW0pA1UQFggeMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%32%30%31%36%2e%6e%65%74%2f%70%72%6f%63%65%65%64%69%6e%67%73%2f%63%6f%6d%70%61%6e%69%6f%6e%2f%70%31%34%31%2e%70%64%66&usg=AFQjCNHsvkRlCm3kcRkHKHGbCgRMFuowGA)]
 - Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling. [[arxiv](https://arxiv.org/abs/1609.01454)]
@@ -152,7 +147,7 @@
 - Reducing Redundant Computations with Flexible Attention. [[arxiv](https://arxiv.org/abs/1612.06043)]
 - Survey on the attention based RNN model and its applications in computer vision. [[pdf]](docs/2016/Survey on the attention based RNN model and its applications in computer vision.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjk_5zQrNjQAhXEurwKHTOKDXYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1601.06823&usg=AFQjCNHZ7elaW5KMI-Ul1OacNmZt9TEP5Q)]
 
-### adversarial network
+### Adversarial network
 
 - Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics. [[arxiv](https://arxiv.org/abs/1612.07767)]
 - <b>Adversarially Learned Inference.</b> [[pdf]](docs/2016/Adversarially Learned Inference.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiPjLSF3dXQAhUEzLwKHVupDX8QFggiMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1606.00704&usg=AFQjCNGqw1orsmy60PETzJzqgYWjd6WHEg)]
@@ -176,10 +171,14 @@
 - Towards Principled Methods for Training Generative Adversarial Networks. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiImvqS8qTRAhVp0FQKHa7MDy4QFggkMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHk4_qw5xe&usg=AFQjCNFJQA8Hfh1F2k0kkDiRdpS4kb7U9Q)]
 - Unsupervised domain adaptation in brain lesion segmentation with adversarial networks. [[arxiv](https://arxiv.org/abs/1612.08894?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)]
 
-### transfer learning
+### Transfer learning
 
 - A survey of transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjd8Njeto7RAhWExFQKHe2ACgoQFgg6MAM&url=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2Fs40537-016-0043-6&usg=AFQjCNHxP-tJsZSZ5Ab_A4j3J1jLAtRQEQ)]
 - Fast color transfer from multiple images. [[arxiv](https://arxiv.org/abs/1612.08927)]
+- FastMask: Segment Multi-scale Object Candidates in One Shot. [[arxiv](https://arxiv.org/abs/1612.08843)]
+- Learning feed-forward one-shot learners. [[arxiv](https://arxiv.org/abs/1606.05233)]
+- <b>One-Shot Generalization in Deep Generative Models</b>. [[pdf]](docs/2016/One-Shot Generalization in Deep Generative Models.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiF7YmmpNjQAhXKw7wKHU_qDeUQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.05106&usg=AFQjCNH2H_wgC0cAuwZfEHn8wghdoD0uRQ)]
+- One-shot Learning with Memory-Augmented Neural Networks. [[pdf]](docs/2016/One-shot Learning with Memory-Augmented Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwinqanQpNjQAhVLfLwKHQo6B4sQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.06065&usg=AFQjCNHEnlkgwe3K6CYcpSQdphRYmBE8hg)]
 - Personalizing a Dialogue System with Transfer Learning. [[arxiv](https://arxiv.org/abs/1610.02891)]
 - Pixel-Level Domain Transfer. [[arxiv](https://arxiv.org/abs/1603.07442)]
-
+- Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery. [[url](https://arxiv.org/abs/1612.04901)]
