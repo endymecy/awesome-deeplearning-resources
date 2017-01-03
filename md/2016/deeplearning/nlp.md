@@ -2,7 +2,7 @@
 
 - [return to home](../../../README.md)
 
-### deep learning
+### Deep learning
 
 - Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwufX42tXQAhWCVbwKHZrPBOUQFgguMAE&url=https%3A%2F%2Faclweb.org%2Fanthology%2FK%2FK16%2FK16-1028.pdf&usg=AFQjCNHuJk3k7At-iCnwPJIQEE9GzvOFZg)]
 - AC-BLSTM: Asymmetric Convolutional Bidirectional LSTM Networks for Text Classification. [[arxiv](https://arxiv.org/abs/1611.01884)]
@@ -87,7 +87,7 @@
 - Very Deep Convolutional Networks for Natural Language Processing. [[pdf](docs/2016/Very Deep Convolutional Networks for Natural Language Processing.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjj79_ZsdjQAhVJy7wKHRLdAJEQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.01781&usg=AFQjCNEX8WGvkSXZgPzlKLelkfkhlC2Tnw)]
 - Zero-Resource Translation with Multi-Lingual Neural Machine Translation. [[pdf](docs/2016/Zero-Resource Translation with Multi-Lingual Neural Machine Translation.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwixt5-ks9jQAhWBiLwKHTcaC_oQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.04164&usg=AFQjCNE8wtAunVCjcDjilk5cyovuj_zlYA)]
 
-### attention and memory
+### Attention and memory
 
 - A Context-aware Attention Network for Interactive Question Answering. [[url](https://openreview.net/pdf?id=SkyQWDcex)]
 - A self-attentive sentence embedding.[[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjv-M3H0Y_RAhVS0mMKHYz3BAsQFggeMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DBJC_jUqxe&usg=AFQjCNGzzX7jxAZ3tYtd7t4LlE6S7KNkpQ)]
