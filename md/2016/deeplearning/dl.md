@@ -5,6 +5,7 @@
 ### Deep learning
 
 - Accurate Image Super-Resolution Using Very Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1511.04587)]
+- Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1611.02447)]
 - A Deep Learning Approach To Multiple Kernel Fusion. [[arxiv](https://arxiv.org/abs/1612.09007)]
 - Adult Content Recognition from Images Using a Mixture of Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1612.09506?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)]
 - A guide to convolution arithmetic for deep learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjhcmhp9PQAhVG2LwKHcCEDFUQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.07285&usg=AFQjCNFzA126l1euYTfLgEniFKh7EI4N9w)]
