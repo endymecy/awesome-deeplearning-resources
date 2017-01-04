@@ -179,6 +179,7 @@
 - Fast color transfer from multiple images. [[arxiv](https://arxiv.org/abs/1612.08927)]
 - FastMask: Segment Multi-scale Object Candidates in One Shot. [[arxiv](https://arxiv.org/abs/1612.08843)]
 - Learning feed-forward one-shot learners. [[arxiv](https://arxiv.org/abs/1606.05233)]
+- Matching Networks for One Shot Learning. [[arxiv](https://arxiv.org/abs/1606.04080)]
 - <b>One-Shot Generalization in Deep Generative Models</b>. [[pdf]](docs/2016/One-Shot Generalization in Deep Generative Models.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiF7YmmpNjQAhXKw7wKHU_qDeUQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.05106&usg=AFQjCNH2H_wgC0cAuwZfEHn8wghdoD0uRQ)]
 - One-shot Learning with Memory-Augmented Neural Networks. [[pdf]](docs/2016/One-shot Learning with Memory-Augmented Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwinqanQpNjQAhVLfLwKHQo6B4sQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.06065&usg=AFQjCNHEnlkgwe3K6CYcpSQdphRYmBE8hg)]
 - Personalizing a Dialogue System with Transfer Learning. [[arxiv](https://arxiv.org/abs/1610.02891)]
