@@ -359,6 +359,7 @@ The papers of after 2016 year are not in this file, and you can click the link t
 * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
+* [Berkeley] [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 
 # Books
 
