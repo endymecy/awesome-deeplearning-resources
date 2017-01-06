@@ -170,6 +170,7 @@
 - Learning to Protect Communications with Adversarial Neural Cryptography. [[pdf]](docs/2016/Learning to Protect Communications with Adversarial Neural Cryptography.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwv4rNmNjQAhXEwbwKHVmuCUkQFggqMAE&url=http%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DS1HEBe_Jl&usg=AFQjCNE1oI_l1lZQ0F6ODs7JKjDOdkWJ5g)]
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.05362)]
 - <b>Mode Regularized Generative Adversarial Networks.</b> [[arxiv](https://arxiv.org/abs/1612.02136)]
+- NIPS 2016 Tutorial: Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.00160)]
 - SeqGAN- Sequence Generative Adversarial Nets with Policy Gradient. [[pdf]](docs/2016/SeqGAN- Sequence Generative Adversarial Nets with Policy Gradient.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY0NWEq9jQAhXEEbwKHReIDrQQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1609.05473&usg=AFQjCNHxaAv6rC-G4DbBpCkEvcgEdKGWeQ)]
 - Simple black-box adversarial perturbations for deep networks. [[url](https://openreview.net/pdf?id=SJCscQcge)]
 - Towards Principled Methods for Training Generative Adversarial Networks. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiImvqS8qTRAhVp0FQKHa7MDy4QFggkMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHk4_qw5xe&usg=AFQjCNFJQA8Hfh1F2k0kkDiRdpS4kb7U9Q)]
