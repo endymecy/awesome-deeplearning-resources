@@ -90,7 +90,6 @@ The papers of after 2016 year are not in this file, and you can click the link t
 - [Spatial Transformer Networks.](http://blog.csdn.net/shaoxiaohu1/article/details/51809605) [[pdf]](docs/2015/Spatial Transformer Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiEgJz0otPQAhXHmZQKHXM3DJUQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1506.02025&usg=AFQjCNH5DcVI1dz_3sTqdgvi3rmITcGN7g)]
 - <b>Training Very Deep Networks.</b> [[pdf]](docs/2015/Training Very Deep Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiMvvHuo9PQAhXDxbwKHZjSCtgQFggiMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1507.06228&usg=AFQjCNHkQ_NfRPI9BQgrHI_wn2zFgOtrSA)]
 - Tree-structured composition in neural networks without tree-structured architectures. [[pdf]](docs/2015/Tree-structured composition in neural networks without tree-structured architectures.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjl5e6MpNPQAhVGNrwKHdozBbwQFggtMAE&url=http%3A%2F%2Fceur-ws.org%2FVol-1583%2FCoCoNIPS_2015_paper_5.pdf&usg=AFQjCNFpO43q61p6ROBIFOx94CPr9EAdLQ)]
-- [DCGAN] <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b>. [[pdf]](docs/2015/Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.pdf) [[arxiv](https://arxiv.org/abs/1511.06434)] [[code](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjzcaIpqDRAhVKw1QKHZ6eDxEQFggrMAE&url=https%3A%2F%2Fgithub.com%2FNewmu%2Fdcgan_code&usg=AFQjCNFLjTPZgeru6CC8JHyS327QIW7EEg)]
 
 ### Natural language process
 
@@ -125,7 +124,9 @@ The papers of after 2016 year are not in this file, and you can click the link t
 
 ### Adversarial network
 
-- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks. [[arxiv](https://arxiv.org/abs/1506.05751)]
+- [LAPGAN] Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks. [[arxiv](https://arxiv.org/abs/1506.05751)]
+- Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1511.06390)]
+- [DCGAN] <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b>. [[pdf]](docs/2015/Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.pdf) [[arxiv](https://arxiv.org/abs/1511.06434)] [[code](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjzcaIpqDRAhVKw1QKHZ6eDxEQFggrMAE&url=https%3A%2F%2Fgithub.com%2FNewmu%2Fdcgan_code&usg=AFQjCNFLjTPZgeru6CC8JHyS327QIW7EEg)]
 
 ### Attention and memory
 
