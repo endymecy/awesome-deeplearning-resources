@@ -181,7 +181,8 @@
 - Task Specific Adversarial Cost Function. [[arxiv](https://arxiv.org/abs/1609.08661)]
 - Towards Principled Methods for Training Generative Adversarial Networks. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiImvqS8qTRAhVp0FQKHa7MDy4QFggkMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHk4_qw5xe&usg=AFQjCNFJQA8Hfh1F2k0kkDiRdpS4kb7U9Q)]
 - Unsupervised domain adaptation in brain lesion segmentation with adversarial networks. [[arxiv](https://arxiv.org/abs/1612.08894?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)]
-
+- Unrolled Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.02163)]
+  
 ### Transfer learning
 
 - A survey of transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjd8Njeto7RAhWExFQKHe2ACgoQFgg6MAM&url=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2Fs40537-016-0043-6&usg=AFQjCNHxP-tJsZSZ5Ab_A4j3J1jLAtRQEQ)]
