@@ -122,6 +122,11 @@ The papers of after 2016 year are not in this file, and you can click the link t
 - Towards Universal Paraphrastic Sentence Embeddings. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjM-u3Jo9PQAhUDbrwKHXETBuAQFggtMAE&url=http%3A%2F%2Fttic.uchicago.edu%2F~wieting%2Fwieting2016ICLR.pdf&usg=AFQjCNFMW6NpxCP9FMXpati4GbmkkCgPWQ)]
 - Visualizing and Understanding Neural Models in NLP. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjszoDFpNPQAhWIxbwKHYlEAV0QFgg2MAI&url=https%3A%2F%2Fweb.stanford.edu%2F~jurafsky%2Fpubs%2Fvisualizing16.pdf&usg=AFQjCNECNXN2Cf42XcZokv2o5sE6RNM41Q)]
 
+
+### Adversarial network
+
+- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks. [[arxiv](https://arxiv.org/abs/1506.05751)]
+
 ### Attention and memory
 
 - Attention with Intention for a Neural Network Conversation Model. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj--cv5_dLQAhUJv7wKHenpD3EQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1510.08565&usg=AFQjCNHP09eh3A7Ys6D6bqDbhyb9SAuixQ)]
