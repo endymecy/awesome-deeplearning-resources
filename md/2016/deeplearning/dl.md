@@ -42,6 +42,7 @@
 - Deep Portfolio Theory. [[url](https://arxiv.org/pdf/1605.07230.pdf)]
 - <b>Deeply-Fused Nets</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjm87i4htjQAhXHxLwKHRW4CfkQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07716&usg=AFQjCNFr85h2BVJrvAqLlIqT_JhQP7wnzA)]
 - Deep Semi-Supervised Learning with Linguistically Motivated Sequence Labeling Task Hierarchies. [[arxiv](https://arxiv.org/abs/1612.09113)]
+- Differential Geometry Boosts Convolutional Neural Networks for Object Detection. [[url](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/html/Wang_Differential_Geometry_Boosts_CVPR_2016_paper.html)]
 - Domain Separation Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwij0dG5oI7RAhVriVQKHV3gAfwQFggsMAE&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6254-domain-separation-networks.pdf&usg=AFQjCNFRd_0epq_0QAs21drboBmgCRdg1A)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes. [[arxiv](https://arxiv.org/abs/1607.00036)]
 - Efficient Action Detection in Untrimmed Videos via Multi-Task Learning. [[arxiv](https://arxiv.org/abs/1612.07403)]
