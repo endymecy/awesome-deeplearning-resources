@@ -62,6 +62,7 @@ The papers of after 2016 year are not in this file, and you can click the link t
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [神经网络与深度学习](https://nndl.github.io/)
+* [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
 # Videos
 
