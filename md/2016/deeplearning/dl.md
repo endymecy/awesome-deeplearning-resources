@@ -160,6 +160,7 @@
 - Automatic Colorization with Deep Convolutional Generative Adversarial Networks. [[pdf]](http://cs231n.stanford.edu/reports2016/224_Report.pdf)]
 - [b-GAN] Unified Framework of Generative Adversarial Networks. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi8-7r45q_RAhVHxmMKHQz1AGYQFggiMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DS1JG13oee&usg=AFQjCNEmrBahI2HBOEjRiwKSqGSOkMqlKA)]
 - Connecting Generative Adversarial Networks and Actor-Critic Methods. [[pdf]](docs/2016/Connecting Generative Adversarial Networks and Actor-Critic Methods.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwienPG-gdjQAhUCwLwKHYlODhAQFggeMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.01945&usg=AFQjCNEncFhnZs_H2J9JdQBpSygXtR4kMw)]
+- Coupled Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1606.07536)]
 - DeMIAN: Deep Modality Invariant Adversarial Network. [[url](http://www.mathpubs.com/detail/1612.07976v1/DeMIAN-Deep-Modality-Invariant-Adversarial-Network)]
 - [EnergyGAN] <b>Energy-based Generative Adversarial Network</b>. [[pdf]](docs/2016/Energy-based Generative Adversarial Network.pdf) [[arxiv](https://arxiv.org/pdf/1609.03126)]
 - [f-GAN] f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.[[arxiv](https://arxiv.org/abs/1606.00709)]
