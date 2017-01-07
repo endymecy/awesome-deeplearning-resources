@@ -52,7 +52,6 @@
 - Linguistically Regularized LSTMs for Sentiment Classification. [[arxiv](https://arxiv.org/abs/1611.03949)]
 - <b>Long Short-Term Memory-Networks for Machine Reading.</b> [[pdf]](docs/2016/Long Short-Term Memory-Networks for Machine Reading.pdf) [[url](https://aclweb.org/anthology/D16-1053)]
 - Memory-enhanced Decoder for Neural Machine Translation. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjo_ezwntjQAhUBvbwKHdrrBzkQFggfMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1606.02003&usg=AFQjCNFi6ZffMp9CIjAr3oWHtfZCP5YpCg)]
-- Modeling documents with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.09122)]
 - <b>Modeling Coverage for Neural Machine Translation.</b> [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwin36mKn9jQAhWIV7wKHeQsDwoQFgg4MAI&url=http%3A%2F%2Fwww.hangli-hl.com%2Fuploads%2F3%2F4%2F4%2F6%2F34465961%2Ftu_et_al_2016.pdf&usg=AFQjCNEUvqmUoV_80qehwowDJxiTKPb56g)]
 - <b>Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss.</b> [[pdf]](docs/2016/Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss.pdf) [[url](https://www.aclweb.org/anthology/P/P16/P16-2067.pdf)]
 - <b>MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving.</b> [[arxiv](https://arxiv.org/abs/1612.07695)]
@@ -80,7 +79,6 @@
 - Sentence Ordering using Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1611.02654)]
 - Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation. [[arxiv](https://arxiv.org/abs/1607.00970)]
 - Sequential Match Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots. [[arxiv](https://arxiv.org/abs/1612.01627)]
-- StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks. [[url](https://arxiv.org/abs/1612.03242)] [[github](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjLi-ejuI_RAhUollQKHTR2A6gQFgg-MAg&url=%68%74%74%70%73%3a%2f%2f%67%69%74%68%75%62%2e%63%6f%6d%2f%68%61%6e%7a%68%61%6e%67%67%69%74%2f%53%74%61%63%6b%47%41%4e&usg=AFQjCNG_bJWJkwkKuTDqdcnagUkzkhWLXg)]
 - Structured Sequence Modeling with Graph Convolutional Recurrent Networks. *arXiv*. [[arxiv](https://arxiv.org/abs/1612.07659)]
 - <b>Tracking the World State with Recurrent Entity Networks.</b> .*arXiv*.[[arxiv](https://arxiv.org/abs/1612.03969)]
 - Tweet2Vec: Learning Tweet Embeddings Using Character-level CNN-LSTM Encoder-Decoder. *arXiv*.[[arxiv](https://arxiv.org/abs/1607.07514)] [[code](https://github.com/soroushv/Tweet2Vec)]
@@ -88,6 +86,13 @@
 - UTCNN: a Deep Learning Model of Stance Classificationon on Social Media Text. *arXiv*.[[arxiv](https://arxiv.org/abs/1611.03599)]
 - Very Deep Convolutional Networks for Natural Language Processing. [[pdf](docs/2016/Very Deep Convolutional Networks for Natural Language Processing.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjj79_ZsdjQAhVJy7wKHRLdAJEQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.01781&usg=AFQjCNEX8WGvkSXZgPzlKLelkfkhlC2Tnw)]
 - Zero-Resource Translation with Multi-Lingual Neural Machine Translation. [[pdf](docs/2016/Zero-Resource Translation with Multi-Lingual Neural Machine Translation.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwixt5-ks9jQAhWBiLwKHTcaC_oQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.04164&usg=AFQjCNE8wtAunVCjcDjilk5cyovuj_zlYA)]
+
+
+### Adversarial network
+
+- Generative Adversarial Text to Image Synthesis. [[arxiv](https://arxiv.org/abs/1605.05396)]
+- Modeling documents with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.09122)]
+- StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks. [[url](https://arxiv.org/abs/1612.03242)] [[github](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjLi-ejuI_RAhUollQKHTR2A6gQFgg-MAg&url=%68%74%74%70%73%3a%2f%2f%67%69%74%68%75%62%2e%63%6f%6d%2f%68%61%6e%7a%68%61%6e%67%67%69%74%2f%53%74%61%63%6b%47%41%4e&usg=AFQjCNG_bJWJkwkKuTDqdcnagUkzkhWLXg)]
 
 ### Attention and memory
 

@@ -18,11 +18,14 @@ The papers of after 2016 year are not in this file, and you can click the link t
             - [attention and memory](md/2016/deeplearning/dl.md#attention-and-memory)
             - [adversarial network](md/2016/deeplearning/dl.md#adversarial-network)
             - [transfer learning](md/2016/deeplearning/dl.md#transfer-learning)
-            - [natural language process](md/2016/deeplearning/nlp.md)
+        - [natural language process](md/2016/deeplearning/nlp.md)
+            - [adversarial network](md/2016/deeplearning/nlp.md#adversarial-network)
+            - [attention and memory](md/2016/deeplearning/nlp.md#attention-and-memory)
         - [deep reinforcement learning](md/2016/reinforcelearning/rl.md)
     - [2015 year](#2015)
         - [deep learning](#deep-learning)
         - [natural language process](#natural-language-process)
+        - [adversarial network](#adversarial-network)
         - [attention and memory](#attention-and-memory)
         - [deep reinforcement learning](#deep-reinforcement-learning)
     - [2014 year](#2014)
@@ -125,6 +128,7 @@ The papers of after 2016 year are not in this file, and you can click the link t
 
 - Autoencoding beyond pixels using a learned similarity metric. [[arxiv](https://arxiv.org/abs/1512.09300)]
 - [LAPGAN] Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks. [[arxiv](https://arxiv.org/abs/1506.05751)]
+- Generative Image Modeling Using Spatial LSTMs. [[arxiv](https://arxiv.org/abs/1506.03478)]
 - Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1511.06390)]
 - [DCGAN] <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b>. [[pdf]](docs/2015/Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.pdf) [[arxiv](https://arxiv.org/abs/1511.06434)] [[code](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjzcaIpqDRAhVKw1QKHZ6eDxEQFggrMAE&url=https%3A%2F%2Fgithub.com%2FNewmu%2Fdcgan_code&usg=AFQjCNFLjTPZgeru6CC8JHyS327QIW7EEg)]
 
