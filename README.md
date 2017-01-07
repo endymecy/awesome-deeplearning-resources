@@ -121,9 +121,9 @@ The papers of after 2016 year are not in this file, and you can click the link t
 - Towards Universal Paraphrastic Sentence Embeddings. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjM-u3Jo9PQAhUDbrwKHXETBuAQFggtMAE&url=http%3A%2F%2Fttic.uchicago.edu%2F~wieting%2Fwieting2016ICLR.pdf&usg=AFQjCNFMW6NpxCP9FMXpati4GbmkkCgPWQ)]
 - Visualizing and Understanding Neural Models in NLP. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjszoDFpNPQAhWIxbwKHYlEAV0QFgg2MAI&url=https%3A%2F%2Fweb.stanford.edu%2F~jurafsky%2Fpubs%2Fvisualizing16.pdf&usg=AFQjCNECNXN2Cf42XcZokv2o5sE6RNM41Q)]
 
-
 ### Adversarial network
 
+- Autoencoding beyond pixels using a learned similarity metric. [[arxiv](https://arxiv.org/abs/1512.09300)]
 - [LAPGAN] Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks. [[arxiv](https://arxiv.org/abs/1506.05751)]
 - Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1511.06390)]
 - [DCGAN] <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b>. [[pdf]](docs/2015/Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.pdf) [[arxiv](https://arxiv.org/abs/1511.06434)] [[code](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjzcaIpqDRAhVKw1QKHZ6eDxEQFggrMAE&url=https%3A%2F%2Fgithub.com%2FNewmu%2Fdcgan_code&usg=AFQjCNFLjTPZgeru6CC8JHyS327QIW7EEg)]
