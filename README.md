@@ -397,3 +397,4 @@ The papers of after 2016 year are not in this file, and you can click the link t
 * Deeplearning4J: Neural Net Platform. [[Web](https://github.com/deeplearning4j/deeplearning4j)]
 * Apache Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
 * CNTK:The Microsoft Cognitive Toolkit. [[Web](https://github.com/Microsoft/CNTK)]
+* Keras: Deep Learning library for Theano and TensorFlow. [[Web](https://keras.io/)]
