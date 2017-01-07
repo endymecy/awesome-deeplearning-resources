@@ -164,6 +164,7 @@
 - DeMIAN: Deep Modality Invariant Adversarial Network. [[url](http://www.mathpubs.com/detail/1612.07976v1/DeMIAN-Deep-Modality-Invariant-Adversarial-Network)]
 - [EnergyGAN] <b>Energy-based Generative Adversarial Network</b>. [[pdf]](docs/2016/Energy-based Generative Adversarial Network.pdf) [[arxiv](https://arxiv.org/pdf/1609.03126)]
 - [f-GAN] f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.[[arxiv](https://arxiv.org/abs/1606.00709)]
+- Generative Image Modeling using Style and Structure Adversarial Networks. [[arxiv](https://arxiv.org/abs/1603.05631)]
 - <b>Generating images with recurrent adversarial networks</b>. [[pdf]](docs/2016/Generating images with recurrent adversarial networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi9re7VjNjQAhUIf7wKHSnjB8kQFggzMAI&url=https%3A%2F%2Fpdfs.semanticscholar.org%2Fc98e%2F9b2922a76b3cb3c3e8cfcda93c09c31ec5e6.pdf&usg=AFQjCNGDG_e3mQWhzqJoqAxoyXXoBJ_F4Q)]
 - Generative Adversarial Imitation Learning. [[arxiv](https://arxiv.org/abs/1606.03476)] [[code](https://github.com/openai/imitation)]
 - Generative Adversarial Nets from a Density Ratio Estimation Perspective. [[pdf]](docs/2016/Generative Adversarial Nets from a Density Ratio Estimation Perspective.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA2-r5jNjQAhVGS7wKHdhED-sQFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1610.02920&usg=AFQjCNFriDebvLOksqqPuOIuipqLgoMsMw)]
