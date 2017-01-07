@@ -169,6 +169,7 @@
 - <b>InfoGAN- Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</b>. [[pdf]](docs/2016/InfoGAN- Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjk8srikdjQAhXIfrwKHYpUAAMQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.03657&usg=AFQjCNFdiqRfxLw4hiI1gFvyMoVNNyrAvg)]
 - Learning from Simulated and Unsupervised Images through Adversarial Training. [[arxiv](https://arxiv.org/abs/1612.07828)]
 - Learning to Protect Communications with Adversarial Neural Cryptography. [[pdf]](docs/2016/Learning to Protect Communications with Adversarial Neural Cryptography.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwv4rNmNjQAhXEwbwKHVmuCUkQFggqMAE&url=http%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DS1HEBe_Jl&usg=AFQjCNE1oI_l1lZQ0F6ODs7JKjDOdkWJ5g)]
+- Matching Networks for One Shot Learning. [[arxiv](https://arxiv.org/abs/1606.04080)]
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.05362)]
 - <b>Mode Regularized Generative Adversarial Networks.</b> [[arxiv](https://arxiv.org/abs/1612.02136)]
 - NIPS 2016 Tutorial: Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.00160)]
