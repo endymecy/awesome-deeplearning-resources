@@ -381,7 +381,8 @@ The papers of after 2016 year are not in this file, and you can click the link t
   * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
 * Courses
   * [Deep Learning Course – Nando de Freitas@Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
-
+  * [吴立德 《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
+  
 # Software
 
 * Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)]
