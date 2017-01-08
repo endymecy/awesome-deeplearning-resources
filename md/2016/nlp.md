@@ -1,6 +1,6 @@
 ## natural language process
 
-- [return to home](../../../README.md)
+- [return to home](../../README.md)
 
 ### Deep learning
 

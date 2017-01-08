@@ -1,6 +1,6 @@
 ## deep reinforcement learning
 
-- [return to home](../../../README.md)
+- [return to home](../../README.md)
 
 ### papers
 
