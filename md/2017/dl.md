@@ -13,6 +13,7 @@
   
 ### Adversarial network
 
+- Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
 - Dense Associative Memory is Robust to Adversarial Inputs. [[arxiv](https://arxiv.org/abs/1701.00939)]
 - SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)]
 
