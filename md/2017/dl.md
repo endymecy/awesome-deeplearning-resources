@@ -3,6 +3,7 @@
 ### Deep learning
 
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [[arxiv](https://arxiv.org/abs/1701.01207)]
+- Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
 - Learning a Mixture of Deep Networks for Single Image Super-Resolution. [[arxiv](https://arxiv.org/abs/1701.00823)] [[code](http://t.cn/RM4pjZ4)]
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [[arxiv](https://arxiv.org/abs/1701.00295)]
