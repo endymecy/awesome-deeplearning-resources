@@ -25,6 +25,7 @@
 - Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex. [[pdf]](docs/2016/Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex.pdf) [[url](https://arxiv.org/abs/1604.03640)]
 - <b>Building Machines That Learn and Think Like People.</b> [[pdf]](docs/2016/Building Machines That Learn and Think Like People.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwis38fi4NXQAhVIf7wKHRCcDX0QFggpMAE&url=http%3A%2F%2Fwww.mit.edu%2F~tomeru%2Fpapers%2Fmachines_that_think.pdf&usg=AFQjCNEn0pmZd3k44Tm4SoLwtnItBk7doA)]
 - Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors. [[arxiv](https://arxiv.org/abs/1612.04342)]
+- CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection. [[arxiv](https://arxiv.org/abs/1606.05413)]
 - Composing graphical models with neural networks for structured representations and fast inference .[[arxiv](https://arxiv.org/abs/1603.06277)] [[code](https://github.com/mattjj/svae)]
 - [PCNN] Conditional Image Generation with PixelCNN Decoders. [[arxiv](https://arxiv.org/abs/1606.05328)] [[code](https://github.com/kundan2510/pixelCNN)]
 - Conversational Contextual Cues-The Case of Personalization and History for Response Ranking. [[arxiv](https://arxiv.org/abs/1606.00372)]
