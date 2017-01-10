@@ -27,6 +27,7 @@
 - Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors. [[arxiv](https://arxiv.org/abs/1612.04342)]
 - CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection. [[arxiv](https://arxiv.org/abs/1606.05413)]
 - Composing graphical models with neural networks for structured representations and fast inference .[[arxiv](https://arxiv.org/abs/1603.06277)] [[code](https://github.com/mattjj/svae)]
+- Conditional Generative Moment-Matching Networks. [[arxiv](https://arxiv.org/abs/1606.04218)]
 - [PCNN] Conditional Image Generation with PixelCNN Decoders. [[arxiv](https://arxiv.org/abs/1606.05328)] [[code](https://github.com/kundan2510/pixelCNN)]
 - Conversational Contextual Cues-The Case of Personalization and History for Response Ranking. [[arxiv](https://arxiv.org/abs/1606.00372)]
 - Controlling Output Length in Neural Encoder-Decoders. [[arxiv](https://arxiv.org/abs/1609.09552)] [[code](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjRpNzT7ZPRAhXpv1QKHcTmAYcQFgguMAI&url=https%3A%2F%2Fgithub.com%2Fkiyukuta%2Flencon&usg=AFQjCNH_Zj-TAGGGNX4b6hryP2D-CerPNw)]
