@@ -175,7 +175,7 @@
 - How to Train a GAN. [[code](https://github.com/soumith/ganhacks)]
 - [Improved GAN] Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation. [[arxiv](https://arxiv.org/abs/1612.08354)]
 - Improved Techniques for Training GANs. [[arxiv](https://arxiv.org/abs/1606.03498)]
-- [InfoGAN] <b>Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</b>. [[pdf]](docs/2016/InfoGAN- Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjk8srikdjQAhXIfrwKHYpUAAMQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.03657&usg=AFQjCNFdiqRfxLw4hiI1gFvyMoVNNyrAvg)]
+- [InfoGAN] <b>Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</b>. [[pdf]](docs/2016/InfoGAN- Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.pdf) [[arxiv](https://arxiv.org/abs/1606.03657)] [[code](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/InfoGAN)]
 - [SimGAN] <b>Learning from Simulated and Unsupervised Images through Adversarial Training.</b> [[arxiv](https://arxiv.org/abs/1612.07828)]
 - Learning in Implicit Generative Models. [[arxiv](https://arxiv.org/abs/1610.03483)]
 - Learning to Protect Communications with Adversarial Neural Cryptography. [[pdf]](docs/2016/Learning to Protect Communications with Adversarial Neural Cryptography.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwv4rNmNjQAhXEwbwKHVmuCUkQFggqMAE&url=http%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DS1HEBe_Jl&usg=AFQjCNE1oI_l1lZQ0F6ODs7JKjDOdkWJ5g)]
