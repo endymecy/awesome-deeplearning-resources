@@ -38,6 +38,7 @@ The papers of after 2016 year are not in this file, and you can click the link t
     - [deep reinforcement learning](md/2015.md#deep-reinforcement-learning)
 - [2014 year](md/2014.md)
     - [deep learning](md/2014.md#deep-learning)
+    - [adversarial network](md/2014.md#adversarial-network)
     - [attention and memory](md/2014.md#attention-and-memory)
     - [deep reinforcement Learning](md/2014.md#deep-reinforcement-learning) 
 - [2013 year](md/2013.md)
