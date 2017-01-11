@@ -59,6 +59,7 @@ The papers of after 2016 year are not in this file, and you can click the link t
 * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 * [Berkeley] [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 * [Berkeley] [Stat212b：Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
+* [MIT] [S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 
 # Books
 
