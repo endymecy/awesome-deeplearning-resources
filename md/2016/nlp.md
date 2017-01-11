@@ -84,7 +84,7 @@
 - Tweet2Vec: Learning Tweet Embeddings Using Character-level CNN-LSTM Encoder-Decoder. *arXiv*.[[arxiv](https://arxiv.org/abs/1607.07514)] [[code](https://github.com/soroushv/Tweet2Vec)]
 - Unsupervised Pretraining for Sequence to Sequence Learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwidp53EsdjQAhVMzbwKHeSfBa4QFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1611.02683&usg=AFQjCNHdHMJUM2OIgLMaZs5wpbXfXvN4gA)]
 - UTCNN: a Deep Learning Model of Stance Classificationon on Social Media Text. *arXiv*.[[arxiv](https://arxiv.org/abs/1611.03599)]
-- Very Deep Convolutional Networks for Natural Language Processing. [[pdf](docs/2016/Very Deep Convolutional Networks for Natural Language Processing.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjj79_ZsdjQAhVJy7wKHRLdAJEQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.01781&usg=AFQjCNEX8WGvkSXZgPzlKLelkfkhlC2Tnw)]
+- <b>Very Deep Convolutional Networks for Natural Language Processing.</b> [[pdf](docs/2016/Very Deep Convolutional Networks for Natural Language Processing.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjj79_ZsdjQAhVJy7wKHRLdAJEQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.01781&usg=AFQjCNEX8WGvkSXZgPzlKLelkfkhlC2Tnw)]
 - Zero-Resource Translation with Multi-Lingual Neural Machine Translation. [[pdf](docs/2016/Zero-Resource Translation with Multi-Lingual Neural Machine Translation.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwixt5-ks9jQAhWBiLwKHTcaC_oQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.04164&usg=AFQjCNE8wtAunVCjcDjilk5cyovuj_zlYA)]
 
 

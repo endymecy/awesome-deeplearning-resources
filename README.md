@@ -3,8 +3,6 @@
 A list of recent papers regarding deep learning and deep reinforcement learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
 
-The papers of after 2016 year are not in this file, and you can click the link to touch them.
-
 ## Table of Contents
 - [Papers](#papers)
 - [Courses](#courses)
