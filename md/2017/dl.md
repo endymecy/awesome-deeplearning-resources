@@ -14,7 +14,8 @@
 ### Attention and memory
 
 - End-to-End Attention based Text-Dependent Speaker Verification. [[arxiv](https://arxiv.org/abs/1701.00562)]
-
+- Structural Attention Neural Networks for improved sentiment analysis. [[arxiv](https://arxiv.org/abs/1701.01811)]
+  
 ### Adversarial network
 
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
