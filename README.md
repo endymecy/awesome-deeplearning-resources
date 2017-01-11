@@ -79,6 +79,7 @@ The papers of after 2016 year are not in this file, and you can click the link t
 * Courses
   * [Deep Learning Course – Nando de Freitas@Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
   * [吴立德 《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
+  * [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
   
 # Software
 
