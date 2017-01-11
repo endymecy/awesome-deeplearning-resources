@@ -11,12 +11,16 @@
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [[arxiv](https://arxiv.org/abs/1701.00485)]
 - Video-based Person Re-identification with Accumulative Motion Context. [[arxiv](https://arxiv.org/abs/1701.00193)]
   
+### Attention and memory
+
+- End-to-End Attention based Text-Dependent Speaker Verification. [[arxiv](https://arxiv.org/abs/1701.00562)]
+
 ### Adversarial network
 
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
 - Dense Associative Memory is Robust to Adversarial Inputs. [[arxiv](https://arxiv.org/abs/1701.00939)]
 - SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)]
-
+ 
 ### Transfer learning
 
 - Demystifying Neural Style Transfer. [[arxiv](https://arxiv.org/abs/1701.01036)]

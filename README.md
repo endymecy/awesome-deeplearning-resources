@@ -17,6 +17,7 @@ The papers of after 2016 year are not in this file, and you can click the link t
 - [2017 year](md/2017/dl.md)
     - [deep learning](md/2017/dl.md)
        - [deep learning](md/2017/dl.md#deep-learning) 
+       - [attention and memory](md/2017/dl.md#attention-and-memory)
        - [adversarial network](md/2017/dl.md#adversarial-network)
        - [transfer learning](md/2017/dl.md#transfer-learning)
     - [natural language process](md/2017/nlp.md)
