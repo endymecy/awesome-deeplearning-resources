@@ -104,6 +104,7 @@
 - AttSum: Joint Learning of Focusing and Summarization with Neural Attention. [[arxiv](https://arxiv.org/abs/1604.00125)]
 - Attention-over-Attention Neural Networks for Reading Comprehension.  [[arxiv](https://arxiv.org/abs/1607.04423)] [[github](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwih0JvJpZTRAhUijlQKHQlBAaQQFghIMAg&url=https%3A%2F%2Fgithub.com%2FOlavHN%2Fattention-over-attention&usg=AFQjCNG-i1RrT0JFwPhik65XukwXwy9ljw)]
 - Coherent Dialogue with Attention-based Language Models. [[arxiv](https://arxiv.org/abs/1611.06997)]
+- Collective Entity Resolution with Multi-Focal Attention.  [[aclweb](https://www.aclweb.org/anthology/P/P16/P16-1059.pdf)]
 - Gated-Attention Readers for Text Comprehension. [[pdf]](docs/2016/Gated-Attention Readers for Text Comprehension.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi03LiIjNjQAhUFO7wKHXUmAE4QFggnMAE&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHkcdHtqlx&usg=AFQjCNF8nqsWtlgBgepZz-U1diL7mcGaYg)]
 - :star: <b>Hierarchical Attention Networks for Document Classification</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiF7N7ej9jQAhWIu7wKHVmKB6MQFgggMAA&url=https%3A%2F%2Fwww.cs.cmu.edu%2F~diyiy%2Fdocs%2Fnaacl16.pdf&usg=AFQjCNFokKFJ1g7WQSDYkYEM82XwhGiDGw)]
 - Hierarchical Memory Networks for Answer Selection on Unknown Words. [[arxiv](https://arxiv.org/abs/1609.08843)]
