@@ -1,9 +1,10 @@
-# Awesome Deep learning and deep reinforcement learning papers
+# Awesome Deep learning papers
 
 A list of recent papers regarding deep learning and deep reinforcement learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
 
 ## Table of Contents
+
 - [Papers](#papers)
 - [Courses](#courses)
 - [Books](#books)
