@@ -101,7 +101,6 @@
 - :star: <b>Wide Residual Networks</b>. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjz5fiLs9jQAhWHUrwKHY0AA7QQFggxMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07146&usg=AFQjCNFZDRk-XZeK7gzPq37RARYjH9QYfA)]
 - :star: <b>Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations</b>. [[pdf](docs/2016/Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjBr5C2s9jQAhUCi7wKHSVWCDoQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1606.01305&usg=AFQjCNH95EDtZHJPro7M-X3qmADKDskt8A)]
 
-
 ### Computer vision
 
 - Accurate Image Super-Resolution Using Very Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1511.04587)]
@@ -157,6 +156,7 @@
 ### Adversarial network
 
 - Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics. [[arxiv](https://arxiv.org/abs/1612.07767)]
+- Adversarial examples in the physical world. [[arxiv](https://arxiv.org/abs/1607.02533)]
 - :star: <b>Adversarially Learned Inference.</b> [[pdf]](docs/2016/Adversarially Learned Inference.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiPjLSF3dXQAhUEzLwKHVupDX8QFggiMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1606.00704&usg=AFQjCNGqw1orsmy60PETzJzqgYWjd6WHEg)]
 - Adversarial Multiclass Classification: A Risk Minimization Perspective. [[pdf](https://www.cs.uic.edu/~rfathony/pdf/fathony2016adversarial.pdf)] [[code](https://github.com/rizalzaf/adversarial-multiclass)]
 - Automatic Colorization with Deep Convolutional Generative Adversarial Networks. [[pdf]](http://cs231n.stanford.edu/reports2016/224_Report.pdf)]
@@ -197,12 +197,15 @@
 
 - A survey of transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjd8Njeto7RAhWExFQKHe2ACgoQFgg6MAM&url=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2Fs40537-016-0043-6&usg=AFQjCNHxP-tJsZSZ5Ab_A4j3J1jLAtRQEQ)]
 - Fast color transfer from multiple images. [[arxiv](https://arxiv.org/abs/1612.08927)]
+- Personalizing a Dialogue System with Transfer Learning. [[arxiv](https://arxiv.org/abs/1610.02891)]
+- Pixel-Level Domain Transfer. [[arxiv](https://arxiv.org/abs/1603.07442)]
+
+### One/zero-shot learning
+
 - FastMask: Segment Multi-scale Object Candidates in One Shot. [[arxiv](https://arxiv.org/abs/1612.08843)]
 - Learning feed-forward one-shot learners. [[arxiv](https://arxiv.org/abs/1606.05233)]
 - :star: <b>Low-shot Visual Recognition by Shrinking and Hallucinating Features. </b> [[arxiv](https://arxiv.org/abs/1606.02819)]
 - Matching Networks for One Shot Learning. [[arxiv](https://arxiv.org/abs/1606.04080)]
 - :star: <b>One-Shot Generalization in Deep Generative Models</b>. [[pdf]](docs/2016/One-Shot Generalization in Deep Generative Models.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiF7YmmpNjQAhXKw7wKHU_qDeUQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.05106&usg=AFQjCNH2H_wgC0cAuwZfEHn8wghdoD0uRQ)]
 - :star: <b>One-shot Learning with Memory-Augmented Neural Networks.</b> [[pdf]](docs/2016/One-shot Learning with Memory-Augmented Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwinqanQpNjQAhVLfLwKHQo6B4sQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.06065&usg=AFQjCNHEnlkgwe3K6CYcpSQdphRYmBE8hg)]
-- Personalizing a Dialogue System with Transfer Learning. [[arxiv](https://arxiv.org/abs/1610.02891)]
-- Pixel-Level Domain Transfer. [[arxiv](https://arxiv.org/abs/1603.07442)]
 - Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery. [[url](https://arxiv.org/abs/1612.04901)]
