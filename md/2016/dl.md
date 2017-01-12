@@ -103,11 +103,13 @@
 - Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures. [[pdf]](docs/2016/Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJxbeU39XQAhVRObwKHWiMBf0QFggsMAE&url=https%3A%2F%2Fwww.jair.org%2Fmedia%2F4900%2Flive-4900-9139-jair.pdf&usg=AFQjCNEGLLDKzFhjIGCyL20rLlXurEDJyg)] 
 - CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection. [[arxiv](https://arxiv.org/abs/1606.05413)]
 - :star: [PCNN] Conditional Image Generation with PixelCNN Decoders. [[arxiv](https://arxiv.org/abs/1606.05328)] [[code](https://github.com/kundan2510/pixelCNN)]
+- :star: DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs. [[arxiv](https://arxiv.org/abs/1606.00915)]
 - Deep Learning Logo Detection with Data Expansion by Synthesising Context. [[arxiv](https://arxiv.org/abs/1612.09322)]
 - Deep Learning on Lie Groups for Skeleton-based Action Recognition. [[url](https://arxiv.org/abs/1612.05877)]
 - Differential Geometry Boosts Convolutional Neural Networks for Object Detection. [[url](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/html/Wang_Differential_Geometry_Boosts_CVPR_2016_paper.html)]
 - Efficient Action Detection in Untrimmed Videos via Multi-Task Learning. [[arxiv](https://arxiv.org/abs/1612.07403)]
 - :star: [EnhanceNet] EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis. [[arxiv](https://arxiv.org/abs/1612.07919)]
+- :star: Fully Convolutional Networks for Semantic Segmentation. [[arxiv](https://arxiv.org/abs/1605.06211)]
 - Hardware for Machine Learning: Challenges and Opportunities. [[url](https://arxiv.org/abs/1612.07625?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)]
 - Internet-Based Image Retrieval Using End-to-End Trained Deep Distributions. [[arxiv](https://arxiv.org/abs/1612.07697)]
 - Learning Non-Lambertian Object Intrinsics across ShapeNet Categories. [[arxiv](https://arxiv.org/abs/1612.08510)]
@@ -174,6 +176,7 @@
 - :star: [GRAN] Generating images with recurrent adversarial networks. [[pdf]](docs/2016/Generating images with recurrent adversarial networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi9re7VjNjQAhUIf7wKHSnjB8kQFggzMAI&url=https%3A%2F%2Fpdfs.semanticscholar.org%2Fc98e%2F9b2922a76b3cb3c3e8cfcda93c09c31ec5e6.pdf&usg=AFQjCNGDG_e3mQWhzqJoqAxoyXXoBJ_F4Q)]
 - Generative Adversarial Imitation Learning. [[arxiv](https://arxiv.org/abs/1606.03476)] [[code](https://github.com/openai/imitation)]
 - Generative Adversarial Nets from a Density Ratio Estimation Perspective. [[pdf]](docs/2016/Generative Adversarial Nets from a Density Ratio Estimation Perspective.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA2-r5jNjQAhVGS7wKHdhED-sQFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1610.02920&usg=AFQjCNFriDebvLOksqqPuOIuipqLgoMsMw)]
+- :star: [iGNA] Generative Visual Manipulation on the Natural Image Manifold. [[berkeley](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/)] [[code](https://github.com/junyanz/iGAN)]
 - How to Train a GAN. [[code](https://github.com/soumith/ganhacks)]
 - :star: [Improved GAN] Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation. [[arxiv](https://arxiv.org/abs/1612.08354)]
 - :star: [Improved Techniques for Training GANs.](http://blog.csdn.net/layumi1993/article/details/52413235) [[arxiv](https://arxiv.org/abs/1606.03498)] [[code](https://github.com/openai/improved-gan)]
@@ -200,9 +203,11 @@
 
 - A survey of transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjd8Njeto7RAhWExFQKHe2ACgoQFgg6MAM&url=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2Fs40537-016-0043-6&usg=AFQjCNHxP-tJsZSZ5Ab_A4j3J1jLAtRQEQ)]
 - Fast color transfer from multiple images. [[arxiv](https://arxiv.org/abs/1612.08927)]
+- :star: Perceptual Losses for Real-Time Style Transfer and Super-Resolution. [[arxiv](https://arxiv.org/abs/1603.08155)] [[code](https://github.com/jcjohnson/fast-neural-style)]
 - Personalizing a Dialogue System with Transfer Learning. [[arxiv](https://arxiv.org/abs/1610.02891)]
 - Pixel-Level Domain Transfer. [[arxiv](https://arxiv.org/abs/1603.07442)]
-
+- :star: Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks. [[arxiv](https://arxiv.org/abs/1603.01768)] [[code](https://github.com/alexjc/neural-doodle)]
+  
 ### One/zero-shot learning
 
 - FastMask: Segment Multi-scale Object Candidates in One Shot. [[arxiv](https://arxiv.org/abs/1612.08843)]
