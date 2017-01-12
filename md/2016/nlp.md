@@ -92,6 +92,7 @@
 
 ### Generative learning
 
+- Adversarial Training Methods for Semi-Supervised Text Classification. [[arxiv](https://arxiv.org/abs/1605.07725)]
 - Generative Adversarial Text to Image Synthesis. [[arxiv](https://arxiv.org/abs/1605.05396)]
 - Modeling documents with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.09122)]
 - StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks. [[url](https://arxiv.org/abs/1612.03242)] [[github](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjLi-ejuI_RAhUollQKHTR2A6gQFgg-MAg&url=%68%74%74%70%73%3a%2f%2f%67%69%74%68%75%62%2e%63%6f%6d%2f%68%61%6e%7a%68%61%6e%67%67%69%74%2f%53%74%61%63%6b%47%41%4e&usg=AFQjCNG_bJWJkwkKuTDqdcnagUkzkhWLXg)]
