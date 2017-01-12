@@ -21,7 +21,7 @@
 - End-to-End Attention based Text-Dependent Speaker Verification. [[arxiv](https://arxiv.org/abs/1701.00562)]
 - Structural Attention Neural Networks for improved sentiment analysis. [[arxiv](https://arxiv.org/abs/1701.01811)]
   
-### Adversarial network
+### Generative learning
 
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
 - Dense Associative Memory is Robust to Adversarial Inputs. [[arxiv](https://arxiv.org/abs/1701.00939)]

@@ -90,7 +90,7 @@
 - Zero-Resource Translation with Multi-Lingual Neural Machine Translation. [[pdf](docs/2016/Zero-Resource Translation with Multi-Lingual Neural Machine Translation.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwixt5-ks9jQAhWBiLwKHTcaC_oQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.04164&usg=AFQjCNE8wtAunVCjcDjilk5cyovuj_zlYA)]
 
 
-### Adversarial network
+### Generative learning
 
 - Generative Adversarial Text to Image Synthesis. [[arxiv](https://arxiv.org/abs/1605.05396)]
 - Modeling documents with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.09122)]

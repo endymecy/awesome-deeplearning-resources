@@ -153,7 +153,7 @@
 - Scan, Attend and Read- End-to-End Handwritten Paragraph Recognition with MDLSTM Attention. [[pdf](docs/2016/Scan, Attend and Read- End-to-End Handwritten Paragraph Recognition with MDLSTM Attention.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjX8qORqtjQAhVIwLwKHe8rBekQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1604.03286&usg=AFQjCNGFnx1NA2gyypvtx99VzMOcSpH2Mg)]
 - Survey on the attention based RNN model and its applications in computer vision. [[pdf]](docs/2016/Survey on the attention based RNN model and its applications in computer vision.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjk_5zQrNjQAhXEurwKHTOKDXYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1601.06823&usg=AFQjCNHZ7elaW5KMI-Ul1OacNmZt9TEP5Q)]
 
-### Adversarial network
+### Generative learning
 
 - Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics. [[arxiv](https://arxiv.org/abs/1612.07767)]
 - Adversarial examples in the physical world. [[arxiv](https://arxiv.org/abs/1607.02533)]
