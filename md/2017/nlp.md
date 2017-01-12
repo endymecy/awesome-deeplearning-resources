@@ -9,4 +9,5 @@
 
 ### Attention and memory 
 
+- End-to-End Attention based Text-Dependent Speaker Verification. [[arXiv](https://arxiv.org/abs/1701.00562)]
 - Structural Attention Neural Networks for improved sentiment analysis. [[arXiv](https://arxiv.org/abs/1701.01811)]
