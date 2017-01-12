@@ -34,7 +34,7 @@ I will renew the recent papers and add notes to these papers.
     - [natural language process](md/2015.md#natural-language-process)
     - [adversarial network](md/2015.md#adversarial-network)
     - [attention and memory](md/2015.md#attention-and-memory)
-    - [transfer learning](md/2015/dl.md#transfer-learning)
+    - [transfer learning](md/2015.md#transfer-learning)
     - [deep reinforcement learning](md/2015.md#deep-reinforcement-learning)
 - [2014 year](md/2014.md)
     - [deep learning](md/2014.md#deep-learning)
