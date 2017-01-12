@@ -50,6 +50,7 @@ I will renew the recent papers and add notes to these papers.
     - [generative learning](md/2014.md#adversarial-network)
     - [attention and memory](md/2014.md#attention-and-memory)
     - [deep reinforcement Learning](md/2014.md#deep-reinforcement-learning) 
+    - [natural language process](md/2014.md#natural-language-process)
 - [2013 year](md/2013.md)
     - [deep learning](md/2013.md#deep-learning)
     - [deep reinforcement Learning](md/2013.md#deep-reinforcement-learning) 

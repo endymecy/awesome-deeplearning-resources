@@ -185,6 +185,7 @@
 - :star: <b>Mode Regularized Generative Adversarial Networks.</b> [[arxiv](https://arxiv.org/abs/1612.02136)]
 - :star: NIPS 2016 Tutorial: Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.00160)]
 - :star: <b>Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.</b> [[arxiv](https://arxiv.org/abs/1609.04802)]
+- :star: [DCGAN use] Semantic Image Inpainting with Perceptual and Contextual Losses. [[arxiv](https://arxiv.org/abs/1607.07539)]
 - Semi-Supervised Learning with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1606.01583)]
 - :star: [SeqGAN] Sequence Generative Adversarial Nets with Policy Gradient. [[pdf]](docs/2016/SeqGAN- Sequence Generative Adversarial Nets with Policy Gradient.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY0NWEq9jQAhXEEbwKHReIDrQQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1609.05473&usg=AFQjCNHxaAv6rC-G4DbBpCkEvcgEdKGWeQ)]
 - Simple black-box adversarial perturbations for deep networks. [[url](https://openreview.net/pdf?id=SJCscQcge)]
