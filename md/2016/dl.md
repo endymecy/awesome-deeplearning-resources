@@ -166,6 +166,7 @@
 - Coupled Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1606.07536)]
 - DARN: a Deep Adversial Residual Network for Intrinsic Image Decomposition. [[url](https://128.84.21.199/abs/1612.07899?context=cs)]
 - DeMIAN: Deep Modality Invariant Adversarial Network. [[url](http://www.mathpubs.com/detail/1612.07976v1/DeMIAN-Deep-Modality-Invariant-Adversarial-Network)]
+- Deep Learning Adversarial Examples. [[url](http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)]
 - Enabling Dark Energy Science with Deep Generative Models of Galaxy Images. [[arxiv](https://arxiv.org/abs/1609.05796)]
 - :star: [EnergyGAN] <b>Energy-based Generative Adversarial Network</b>. [[pdf]](docs/2016/Energy-based Generative Adversarial Network.pdf) [[arxiv](https://arxiv.org/pdf/1609.03126)]
 - :star: [f-GAN] f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.[[arxiv](https://arxiv.org/abs/1606.00709)]
