@@ -160,7 +160,7 @@
 - Adversarial Training For Sketch Retrieval. [[arxiv](https://arxiv.org/abs/1607.02748)]
 - Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures. [[pdf]](docs/2016/Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJxbeU39XQAhVRObwKHWiMBf0QFggsMAE&url=https%3A%2F%2Fwww.jair.org%2Fmedia%2F4900%2Flive-4900-9139-jair.pdf&usg=AFQjCNEGLLDKzFhjIGCyL20rLlXurEDJyg)] 
 - Automatic Colorization with Deep Convolutional Generative Adversarial Networks. [[stanford](http://cs231n.stanford.edu/reports2016/224_Report.pdf)]
-- :star: Auxiliary Deep Generative Models. [[arxiv](https://arxiv.org/abs/1602.05473)]
+- :star: Auxiliary Deep Generative Models. [[arxiv](https://arxiv.org/abs/1602.05473)] [[code](https://github.com/larsmaaloee/auxiliary-deep-generative-models)]
 - :star: [b-GAN] Unified Framework of Generative Adversarial Networks. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi8-7r45q_RAhVHxmMKHQz1AGYQFggiMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DS1JG13oee&usg=AFQjCNEmrBahI2HBOEjRiwKSqGSOkMqlKA)]
 - Conditional Image Synthesis With Auxiliary Classifier GANs. [[arxiv](https://arxiv.org/abs/1610.09585)]
 - Connecting Generative Adversarial Networks and Actor-Critic Methods. [[pdf]](docs/2016/Connecting Generative Adversarial Networks and Actor-Critic Methods.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwienPG-gdjQAhUCwLwKHYlODhAQFggeMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.01945&usg=AFQjCNEncFhnZs_H2J9JdQBpSygXtR4kMw)]
