@@ -6,6 +6,7 @@
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [[arxiv](https://arxiv.org/abs/1701.02291)]
+- Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1701.03441)] [[code](https://github.com/jingweimo/Modified-LSTM)]
 - Steerable CNNs. *ICLR* [[pdf](https://openreview.net/pdf?id=rJQKYt5ll)]
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [[arxiv](https://arxiv.org/abs/1701.00485)]
   
