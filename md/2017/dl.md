@@ -5,6 +5,7 @@
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [[arxiv](https://arxiv.org/abs/1701.01207)]
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
+- Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [[arxiv](https://arxiv.org/abs/1701.02291)]
 - Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1701.03441)] [[code](https://github.com/jingweimo/Modified-LSTM)]
 - Steerable CNNs. *ICLR* [[pdf](https://openreview.net/pdf?id=rJQKYt5ll)]
@@ -15,6 +16,7 @@
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [[arxiv](https://arxiv.org/abs/1701.02096)] [[code](https://github.com/DmitryUlyanov/texture_nets)]
 - Learning a Mixture of Deep Networks for Single Image Super-Resolution. [[arxiv](https://arxiv.org/abs/1701.00823)] [[code](http://t.cn/RM4pjZ4)]
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [[arxiv](https://arxiv.org/abs/1701.00295)]
+- Unsupervised Learning of Long-Term Motion Dynamics for Videos. [[arxiv](https://arxiv.org/abs/1701.01821)]
 - Video-based Person Re-identification with Accumulative Motion Context. [[arxiv](https://arxiv.org/abs/1701.00193)]
 
 ### Attention and memory
