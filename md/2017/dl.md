@@ -4,6 +4,7 @@
 
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [[arxiv](https://arxiv.org/abs/1701.01207)]
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
+- Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [[arxiv](https://arxiv.org/abs/1701.02291)]

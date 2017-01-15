@@ -70,7 +70,8 @@ I will renew the recent papers and add notes to these papers.
 * [Berkeley] [Stat212b：Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
 * [MIT] [S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 * [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
-
+* [Berkeley] [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+ 
 # Books
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/), [[zh](https://github.com/exacity/deeplearningbook-chinese)]
