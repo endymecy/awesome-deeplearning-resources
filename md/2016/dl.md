@@ -100,6 +100,7 @@
 - Accurate Image Super-Resolution Using Very Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1511.04587)]
 - Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1611.02447)]
 - Adult Content Recognition from Images Using a Mixture of Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1612.09506?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)]
+- Asynchronous Temporal Fields for Action Recognition. [[arxiv](https://arxiv.org/abs/1612.06371)] [[code](https://github.com/gsig/temporal-fields/)]
 - Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures. [[pdf]](docs/2016/Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJxbeU39XQAhVRObwKHWiMBf0QFggsMAE&url=https%3A%2F%2Fwww.jair.org%2Fmedia%2F4900%2Flive-4900-9139-jair.pdf&usg=AFQjCNEGLLDKzFhjIGCyL20rLlXurEDJyg)] 
 - CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection. [[arxiv](https://arxiv.org/abs/1606.05413)]
 - :star: [PCNN] Conditional Image Generation with PixelCNN Decoders. [[arxiv](https://arxiv.org/abs/1606.05328)] [[code](https://github.com/kundan2510/pixelCNN)]
