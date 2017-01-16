@@ -58,6 +58,7 @@ I will renew the recent papers and add notes to these papers.
 - [2011 year](md/2011.md)
 - [2010 year](md/2010.md)
 - [before 2010 year](md/before-2010.md)
+    - [transfer learning](md/before-2010.md#transfer-learning)
 
 # Courses
 
