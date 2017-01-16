@@ -32,15 +32,51 @@
 ### Transfer learning
 
 - :star: A Survey on Transfer Learning. [[url]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwj2zKuZr47RAhVqqVQKHWk0BtYQFgg5MAI&url=%68%74%74%70%3a%2f%2f%63%73%2e%67%6d%75%2e%65%64%75%2f%7e%63%61%72%6c%6f%74%74%61%2f%74%65%61%63%68%69%6e%67%2f%43%53%37%37%35%2d%73%31%30%2f%72%65%61%64%69%6e%67%73%2f%74%72%61%6e%73%66%65%72%6c%65%61%72%6e%69%6e%67%2e%70%64%66&usg=AFQjCNFwymAVN8XeRhulhDnWBSc_ErtzYA)]
-- :star: [Based Sample] Boosting for transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjb4qT6r47RAhVDl1QKHfYYAfIQFgghMAA&url=http%3A%2F%2Fftp.cse.ust.hk%2F~qyang%2FDocs%2F2007%2Ftradaboost.pdf&usg=AFQjCNHrEGRLIvusHTEIwYmIGRUsUqeuPw)]
-    - :star: A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting. [[pdf](http://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)]
-- :star: [Base Feature] Co-clustering based Classification for Out-of-domain Documents. [[pdf](https://er2004.cse.ust.hk/~qyang/Docs/2007/daikdd.pdf)]
-- [Base Feature] Self-taught Clustering. [[pdf](http://www.machinelearning.org/archive/icml2008/papers/432.pdf)]
-- :star: [Base Feature] Self-taught Learning-Transfer Learning from Unlabeled Data. [[pdf]](docs/2007/Self-taught Learning-Transfer Learning from Unlabeled Data.pdf) [[url]](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjfz7qOkNDQAhWJoZQKHSVzDOgQFggdMAA&url=http%3A%2F%2Fai.stanford.edu%2F~hllee%2Ficml07-selftaughtlearning.pdf&usg=AFQjCNG71_SrmGXuzHiE5Qo2ugmF96NKgw)
-- :star: [Base Feature] Spectral domain-transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjg5ofSs47RAhWGjVQKHbtwB5gQFggsMAE&url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.141.1551&usg=AFQjCNEnGKdMTf64btUV6QsVSn9RgphWLA)]
+- To Transfer or Not To Transfer.[[url](http://web.engr.oregonstate.edu/~tgd/publications/rosenstein-marx-kaelbling-dietterich-hnb-nips2005-transfer-workshop.pdf)]
+- Transfer learning for text classification. [[url](http://robotics.stanford.edu/~ang/papers/nips05-transfer.pdf)]
 - Transfer learning for collaborative filtering via a rating-matrix generative model.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjNs6n5so7RAhVJrVQKHbKsDFEQFghEMAM&url=http%3A%2F%2Fvideolectures.net%2Fsite%2Fnormal_dl%2Ftag%3D47942%2Ficml09_li_tlcfvrmgm_01.pdf&usg=AFQjCNGUCLWwmiR1zhCb6L_BzmMHyB6z5w)]
-- :star: [Base Different Space] Translated learning: Transfer learning across different feature spaces.[[url](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2008_0098.pdf)]
 - Transfer learning from multiple source domains via consensus regularization. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiloLWpuo7RAhWqrFQKHbyMD-kQFggwMAI&url=http%3A%2F%2Fwww3.ntu.edu.sg%2Fhome%2Fsinnopan%2Fpublications%2F%5BEMCL14%5DTransfer%2520Learning%2520with%2520Multiple%2520Sources%2520via%2520Consensus%2520Regularized%2520Autoencoders.pdf&usg=AFQjCNFi6ftA2gms7vi71-ktkt_WTum46Q)]
 - Transfer Learning for Reinforcement Learning Domains: A Survey. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiu9KmlsY7RAhXJiVQKHTs_B34QFggfMAA&url=http%3A%2F%2Fwww.cs.utexas.edu%2F~ai-lab%2Fpubs%2FJMLR09-taylor.pdf&usg=AFQjCNH-Irnjnro_TgQx2T9D8mAz4KwHhw)]
-- Transfer learning for text classification. [[url](http://robotics.stanford.edu/~ang/papers/nips05-transfer.pdf)]
-- To Transfer or Not To Transfer.[[url](http://web.engr.oregonstate.edu/~tgd/publications/rosenstein-marx-kaelbling-dietterich-hnb-nips2005-transfer-workshop.pdf)]
+
+#### Instance transfer
+
+- An improved categorization of classifier’s sensitivity on sample selection bias. [[pdf](https://pdfs.semanticscholar.org/c43c/f8d7fbb41bb9c415f83574ea251b0273acbe.pdf)]
+- :star: [Based Sample] Boosting for transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjb4qT6r47RAhVDl1QKHfYYAfIQFgghMAA&url=http%3A%2F%2Fftp.cse.ust.hk%2F~qyang%2FDocs%2F2007%2Ftradaboost.pdf&usg=AFQjCNHrEGRLIvusHTEIwYmIGRUsUqeuPw)]
+    - :star: A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting. [[pdf](http://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)]
+- Correcting sample selection bias by unlabeled data. [[pdf](https://papers.nips.cc/paper/3075-correcting-sample-selection-bias-by-unlabeled-data.pdf)]
+- Direct Importance Estimation with Model Selection and Its Application to Covariate Shift Adaptation.[[pdf](https://papers.nips.cc/paper/3248-direct-importance-estimation-with-model-selection-and-its-application-to-covariate-shift-adaptation.pdf)] 
+- Discriminative learning for differing training and test distributions. [[pdf](http://machinelearning.org/proceedings/icml2007/papers/303.pdf)]
+- Instance Weighting for Domain Adaptation in NLP. [[pdf](http://sifaka.cs.uiuc.edu/czhai/pub/acl07.pdf)]
+- Logistic regression with an auxiliary data source. [[pdf](http://people.ee.duke.edu/~xjliao/paper/ICML05_MigLogit.pdf)]
+- Transferring Naive Bayes Classifiers for Text Classification. [[pdf](https://www.cse.ust.hk/~qyang/Docs/2007/daiaaai07.pdf)]
+
+#### Feature representation transfer
+
+- A Spectral Regularization Framework for Multi-Task Structure Learning. [[pdf](https://papers.nips.cc/paper/3187-a-spectral-regularization-framework-for-multi-task-structure-learning.pdf)]
+- Biographies, bollywood, boom- boxes and blenders: Domain adaptation for sentiment classification. [[pdf](https://www.cs.jhu.edu/~mdredze/publications/sentiment_acl07.pdf)] 
+- :star: Co-clustering based Classification for Out-of-domain Documents. [[pdf](https://er2004.cse.ust.hk/~qyang/Docs/2007/daikdd.pdf)]
+- Domain adaptation with structural correspondence learning. [[pdf](http://john.blitzer.com/papers/emnlp06.pdf)]
+- Frustratingly easy domain adaptation. [[pdf](http://www.umiacs.umd.edu/~hal/docs/daume07easyadapt.pdf)] 
+- Kernel-based inductive transfer. [[pdf](https://pdfs.semanticscholar.org/45b1/32687d62da38ca2ce0a05e4b52bcf51f1f6f.pdf)]
+- Learning a meta-level prior for feature relevance from multiple related tasks. [[pdf](http://ai.stanford.edu/~koller/Papers/Lee+al:ICML07.pdf)]
+- Multi-task feature and kernel selection for svms. [[pdf](http://www.cs.columbia.edu/~jebara/papers/metalearn.pdf)]
+- :star: Multi-task feature learning. [[pdf](https://papers.nips.cc/paper/3143-multi-task-feature-learning.pdf)] 
+- Self-taught Clustering. [[pdf](http://www.machinelearning.org/archive/icml2008/papers/432.pdf)]
+- :star: Self-taught Learning-Transfer Learning from Unlabeled Data. [[pdf](docs/2007/Self-taught Learning-Transfer Learning from Unlabeled Data.pdf)] [[url]](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjfz7qOkNDQAhWJoZQKHSVzDOgQFggdMAA&url=http%3A%2F%2Fai.stanford.edu%2F~hllee%2Ficml07-selftaughtlearning.pdf&usg=AFQjCNG71_SrmGXuzHiE5Qo2ugmF96NKgw)
+- :star: Spectral domain-transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjg5ofSs47RAhWGjVQKHbtwB5gQFggsMAE&url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.141.1551&usg=AFQjCNEnGKdMTf64btUV6QsVSn9RgphWLA)]
+
+#### Parameter transfer
+
+- Knowledge transfer via multiple model local structure mapping. [[pdf](http://aisl.umbc.edu/resources/1145.pdf)]
+- Learning Gaussian Process Kernels via Hierarchical Bayes. [[pdf](https://papers.nips.cc/paper/2595-learning-gaussian-process-kernels-via-hierarchical-bayes.pdf)]
+- Learning to learn with the informative vector machine. [[pdf](ftp://ftp.dcs.shef.ac.uk/home/neil/mtivm.pdf)]
+- Multi-task Gaussian Process Prediction. [[pdf](https://papers.nips.cc/paper/3189-multi-task-gaussian-process-prediction.pdf)]
+- Regularized multi-task learning. [[pdf](http://www0.cs.ucl.ac.uk/staff/M.Pontil/reading/mt-kdd.pdf)]
+
+#### Relational knowledge transfer
+
+- Deep transfer via second-order markov logic. [[pdf](http://homes.cs.washington.edu/~pedrod/papers/mlc09a.pdf)] 
+- Mapping and revising markov logic networks for transfer learning. [[pdf](http://dl.acm.org/citation.cfm?id=1619743)]
+- Transfer learning by mapping with minimal target data. [[pdf](http://www.cs.utexas.edu/~ml/papers/lily-ws-aaai-08.pdf)]
+- :star: Translated learning: Transfer learning across different feature spaces.[[url](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2008_0098.pdf)]
+
