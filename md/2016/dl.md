@@ -70,7 +70,6 @@
 - Polynomial networks and factorization machines new insights and efficient training algorithms. *ICML*.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwixvZq0i-fQAhVkyFQKHdBFDhYQFggrMAE&url=http%3A%2F%2Fwww.mblondel.org%2Ftalks%2Fmblondel-erato-2016-08.pdf&usg=AFQjCNERwCkcwWs1Zq3zs13g0FQ4XfZEWg)]
 - Policy Networks with Two-Stage Training for Dialogue Systems. [[pdf]](docs/2016/Policy Networks with Two-Stage Training for Dialogue Systems.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiRke71pdjQAhWETrwKHQNjBy0QFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.03152&usg=AFQjCNGDb-RND3DLrZfTAaMB_y1jbK9reQ)]
 - Projected Semi-Stochastic Gradient Descent Method with Mini-Batch Scheme under Weak Strong Convexity Assumption. [[url](https://arxiv.org/abs/1612.05356)]
-- :star: Progressive Neural Networks. [[pdf]](docs/2016/Progressive Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiD9MSiptjQAhUMebwKHYHpDZ4QFggrMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.04671&usg=AFQjCNG82iGFPA5QkviDuFVx5qJxpB3iag)]
 - :star: Recurrent Batch Normalization. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi2usu8ptjQAhVKfrwKHfzGDVIQFgg4MAI&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.09025&usg=AFQjCNGZzZQBqZfRQYWZzp-0gQGbKBDxXg)]
 - :star: Recurrent Dropout without Memory Loss. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiuqsz-ptjQAhUJvbwKHdv6BwwQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1603.05118&usg=AFQjCNFXg74vFXT5g5UeX8Jc_n-50Cop7A)]
 - Recurrent Highway Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwimk6eWp9jQAhUGmJQKHejbBtIQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1607.03474&usg=AFQjCNEM5TcbptQxCJqgDbEC_mfriABvYA)]
@@ -212,6 +211,7 @@
 - :star: Perceptual Losses for Real-Time Style Transfer and Super-Resolution. [[arxiv](https://arxiv.org/abs/1603.08155)] [[code](https://github.com/jcjohnson/fast-neural-style)]
 - Personalizing a Dialogue System with Transfer Learning. [[arxiv](https://arxiv.org/abs/1610.02891)]
 - Pixel-Level Domain Transfer. [[arxiv](https://arxiv.org/abs/1603.07442)]
+- :star: [Progressive Neural Networks.](http://www.cnblogs.com/wangxiaocvpr/p/6002214.html) [[pdf]](docs/2016/Progressive Neural Networks.pdf) [[arxiv](https://arxiv.org/abs/1606.04671)]
 - :star: Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks. [[arxiv](https://arxiv.org/abs/1603.01768)] [[code](https://github.com/alexjc/neural-doodle)]
   
 ### One/zero-shot learning
