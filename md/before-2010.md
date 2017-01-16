@@ -1,7 +1,6 @@
 ## before 2010
 
 - :star: A fast learning algorithm for deep belief nets. [[pdf]](docs/2006/A fast learning algorithm for deep belief nets(2006).pdf) [[url]](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjmxcXKjtDQAhVEjpQKHU5uAVkQFgggMAA&url=https%3A%2F%2Fwww.cs.toronto.edu%2F~hinton%2Fabsps%2Ffastnc.pdf&usg=AFQjCNELT7wVLLgpvARk6bCARpfzwWUOLg)
-- :star: A Survey on Transfer Learning. [[url]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwj2zKuZr47RAhVqqVQKHWk0BtYQFgg5MAI&url=%68%74%74%70%3a%2f%2f%63%73%2e%67%6d%75%2e%65%64%75%2f%7e%63%61%72%6c%6f%74%74%61%2f%74%65%61%63%68%69%6e%67%2f%43%53%37%37%35%2d%73%31%30%2f%72%65%61%64%69%6e%67%73%2f%74%72%61%6e%73%66%65%72%6c%65%61%72%6e%69%6e%67%2e%70%64%66&usg=AFQjCNFwymAVN8XeRhulhDnWBSc_ErtzYA)]
 - A Tutorial on Energy-Based Learning. [[pdf]](docs/2006/A Tutorial on Energy-Based Learning.pdf) [[url]](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiBk8i0jtDQAhVFJJQKHffxCp0QFggdMAA&url=http%3A%2F%2Fyann.lecun.com%2Fexdb%2Fpublis%2Fpdf%2Flecun-06.pdf&usg=AFQjCNHSCWGMFSXY4CSmXrAC4UpJD6izOw)
 - Constructing Informative Priors using Transfer Learning. [[url](http://ai.stanford.edu/~ang/papers/icml06-transferinformativepriors.pdf)]
 - Connectionist Temporal Classification: Labelling unsegmented Sequence Data with Recurrent Neural Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf9J2yoo7RAhUoxFQKHZFPD_wQFggfMAA&url=http%3A%2F%2Fmachinelearning.wustl.edu%2Fmlpapers%2Fpaper_files%2Ficml2006_GravesFGS06.pdf&usg=AFQjCNFrqG2eQSvESxvp7EhHYfe9y-gH_Q)]
@@ -32,6 +31,7 @@
 
 ### Transfer learning
 
+- :star: A Survey on Transfer Learning. [[url]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwj2zKuZr47RAhVqqVQKHWk0BtYQFgg5MAI&url=%68%74%74%70%3a%2f%2f%63%73%2e%67%6d%75%2e%65%64%75%2f%7e%63%61%72%6c%6f%74%74%61%2f%74%65%61%63%68%69%6e%67%2f%43%53%37%37%35%2d%73%31%30%2f%72%65%61%64%69%6e%67%73%2f%74%72%61%6e%73%66%65%72%6c%65%61%72%6e%69%6e%67%2e%70%64%66&usg=AFQjCNFwymAVN8XeRhulhDnWBSc_ErtzYA)]
 - :star: [Based Sample] Boosting for transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjb4qT6r47RAhVDl1QKHfYYAfIQFgghMAA&url=http%3A%2F%2Fftp.cse.ust.hk%2F~qyang%2FDocs%2F2007%2Ftradaboost.pdf&usg=AFQjCNHrEGRLIvusHTEIwYmIGRUsUqeuPw)]
 - :star: [Base Feature] Co-clustering based Classification for Out-of-domain Documents. [[pdf](https://er2004.cse.ust.hk/~qyang/Docs/2007/daikdd.pdf)]
 - [Base Feature] Self-taught Clustering. [[pdf](http://www.machinelearning.org/archive/icml2008/papers/432.pdf)]
