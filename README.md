@@ -103,6 +103,7 @@ I will renew the recent papers and add notes to these papers.
 * Deepnet: a GPU-based python implementation of deep learning algorithms. [[Web](https://github.com/nitishsrivastava/deepnet)]
 * Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
 * Deeplearning4J: Neural Net Platform. [[Web](https://github.com/deeplearning4j/deeplearning4j)]
+* Edward: A library for probabilistic modeling, inference, and criticism. [[Web](http://edwardlib.org/)]
 * Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.[[Web](http://radimrehurek.com/gensim/)]
 * Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA. [[Web](https://github.com/hannes-brt/hebel)]
 * Keras: Deep Learning library for Theano and TensorFlow. [[Web](https://keras.io/)]
