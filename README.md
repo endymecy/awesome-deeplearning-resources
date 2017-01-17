@@ -85,6 +85,7 @@ I will renew the recent papers and add notes to these papers.
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [神经网络与深度学习.邱锡鹏](https://nndl.github.io/)
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+* [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 # Videos
 
