@@ -76,7 +76,6 @@ I will renew the recent papers and add notes to these papers.
 * [Berkeley] [Stat212b：Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
 * [MIT] [S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 * [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
-* [Berkeley] [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 
 # Books
 
@@ -86,7 +85,7 @@ I will renew the recent papers and add notes to these papers.
 * [神经网络与深度学习.邱锡鹏](https://nndl.github.io/)
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-* [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) [[code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)]
 * [Reinforcement LearningState-of-the-Art](http://www.ai.rug.nl/~mwiering/RL-state-of-the-art)   
 
 # Videos
