@@ -8,7 +8,7 @@
 - Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
 - :star: Deep Probabilistic Programming. [[arxiv](https://arxiv.org/abs/1701.03757)] [[Web](http://edwardlib.org/)]
-- DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)]
+- :star: <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)] [[code](https://github.com/clab/dynet)]
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [[arxiv](https://arxiv.org/abs/1701.02291)]
 - Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures Via Semantic Representation. [[arxiv](https://arxiv.org/abs/1701.00804)]
