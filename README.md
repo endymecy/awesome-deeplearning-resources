@@ -118,6 +118,7 @@ I will renew the recent papers and add notes to these papers.
 * MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
 * Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
 * MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)]
+  * MinPy: Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend. [[Web](https://github.com/dmlc/minpy)]
 * Neon is Nervana's Python based Deep Learning framework.[[Web](https://github.com/NervanaSystems/neon)]
 * NVIDIA DIGITS is a new system for developing, training and visualizing deep neural networks. [[Web](https://developer.nvidia.com/digits)]
 * PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform. [[Web](http://www.paddlepaddle.org/)]
