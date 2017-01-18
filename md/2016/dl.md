@@ -125,7 +125,7 @@
 - :star: [R-FCN: Object Detection via Region-based Fully Convolutional Networks](http://blog.csdn.net/u012361214/article/details/51507590). [[arxiv](https://arxiv.org/abs/1605.06409)] [[code](https://github.com/Orpine/py-R-FCN)]
 - Robust LSTM-Autoencoders for Face De-Occlusion in the Wild. [[arxiv](https://arxiv.org/abs/1612.08534)]
 - Semantic Video Segmentation by Gated Recurrent Flow Propagation. [[arxiv](https://arxiv.org/abs/1612.08871)]
-- :star: [SqueezeNet] SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size. [[arxiv](https://arxiv.org/abs/1602.07360)]
+- :star: [SqueezeNet] [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://blog.csdn.net/human_recognition/article/details/51902285) [[arxiv](https://arxiv.org/abs/1602.07360)] [[code](https://github.com/songhan/SqueezeNet-Deep-Compression)]
 - Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi22bbkn47RAhXhg1QKHfS5AX8QFggqMAE&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F798b%2F5bb144400a7c729a86689a2dca3afee5d5a4.pdf&usg=AFQjCNFujTy0zoas_nSWpS5kQEBuy7cLlA)]
 - sk_p- a neural program corrector for MOOCs. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjd4Oa2rNjQAhVBybwKHfc0BCcQFggoMAE&url=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2989222&usg=AFQjCNH0zVeffptTqLbMnTSc3COazWc1OA)]
 - :star: The Predictron: End-To-End Learning and Planning. [[arxiv](https://arxiv.org/abs/1612.08810)] [[tensorflow](https://github.com/zhongwen/predictron)]
