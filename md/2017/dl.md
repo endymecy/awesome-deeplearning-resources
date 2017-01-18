@@ -33,6 +33,7 @@
 ### Attention and memory
 
 - Attention-Based Multimodal Fusion for Video Description. [[arxiv](https://arxiv.org/abs/1701.03126)]
+- Deep Memory Networks for Attitude Identification. [[arxiv](https://arxiv.org/abs/1701.04189)]
 - End-to-End Attention based Text-Dependent Speaker Verification. [[arxiv](https://arxiv.org/abs/1701.00562)]
 - Structural Attention Neural Networks for improved sentiment analysis. [[arxiv](https://arxiv.org/abs/1701.01811)]
   
