@@ -2,6 +2,7 @@
 
 - :star: A fast learning algorithm for deep belief nets. [[pdf]](docs/2006/A fast learning algorithm for deep belief nets(2006).pdf) [[url]](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjmxcXKjtDQAhVEjpQKHU5uAVkQFgggMAA&url=https%3A%2F%2Fwww.cs.toronto.edu%2F~hinton%2Fabsps%2Ffastnc.pdf&usg=AFQjCNELT7wVLLgpvARk6bCARpfzwWUOLg)
 - A Tutorial on Energy-Based Learning. [[pdf]](docs/2006/A Tutorial on Energy-Based Learning.pdf) [[url]](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiBk8i0jtDQAhVFJJQKHffxCp0QFggdMAA&url=http%3A%2F%2Fyann.lecun.com%2Fexdb%2Fpublis%2Fpdf%2Flecun-06.pdf&usg=AFQjCNHSCWGMFSXY4CSmXrAC4UpJD6izOw)
+- :star: [LeNet] Gradient-based learning applied to document recognition. [[pdf](http://yann.lecun.com/exdb/lenet/)]
 - Constructing Informative Priors using Transfer Learning. [[url](http://ai.stanford.edu/~ang/papers/icml06-transferinformativepriors.pdf)]
 - Connectionist Temporal Classification: Labelling unsegmented Sequence Data with Recurrent Neural Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf9J2yoo7RAhUoxFQKHZFPD_wQFggfMAA&url=http%3A%2F%2Fmachinelearning.wustl.edu%2Fmlpapers%2Fpaper_files%2Ficml2006_GravesFGS06.pdf&usg=AFQjCNFrqG2eQSvESxvp7EhHYfe9y-gH_Q)]
 - :star: Deep Boltzmann Machines. [[pdf]](docs/2009/Deep Boltzmann Machines.pdf) [[url]](http://www.utstat.toronto.edu/~rsalakhu/papers/dbm.pdf)
