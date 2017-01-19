@@ -19,7 +19,8 @@
 - To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [[arxiv](https://arxiv.org/abs/1701.01692)]
 - Towards a New Interpretation of Separable Convolutions. [[arxiv](https://arxiv.org/abs/1701.04489)]
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [[arxiv](https://arxiv.org/abs/1701.00485)]
-  
+- Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1701.04128)]
+
 ### Computer vision
 
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder. [[arxiv](https://arxiv.org/abs/1701.01546)]
