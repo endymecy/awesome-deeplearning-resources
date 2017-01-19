@@ -100,6 +100,7 @@ I will renew the recent papers and add notes to these papers.
   * [吴立德 《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
   * [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
   * [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+  * [Udacity Deep Learning Online Course, by google](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
   
 # Software
 
@@ -115,6 +116,7 @@ I will renew the recent papers and add notes to these papers.
 * Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.[[Web](http://radimrehurek.com/gensim/)]
 * Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA. [[Web](https://github.com/hannes-brt/hebel)]
 * Keras: Deep Learning library for Theano and TensorFlow. [[Web](https://keras.io/)]
+* Kur: Descriptive Deep Learning. [[Web](https://github.com/deepgram/kur)]
 * MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
 * Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
 * MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)]
