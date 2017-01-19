@@ -4,16 +4,16 @@
 
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [[arxiv](https://arxiv.org/abs/1701.01207)]
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
-- :star: Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [[arxiv](https://arxiv.org/abs/1701.00458)] [[code](https://github.com/guille-c/Deep-HiTS)]
+- Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [[arxiv](https://arxiv.org/abs/1701.00458)] [[code](https://github.com/guille-c/Deep-HiTS)] :star: 
 - Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
-- :star: [Edward] Deep Probabilistic Programming. [[arxiv](https://arxiv.org/abs/1701.03757)] [[Web](http://edwardlib.org/)]
-- :star: <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)] [[code](https://github.com/clab/dynet)]
+- <b>[Edward]</b> Deep Probabilistic Programming. [[arxiv](https://arxiv.org/abs/1701.03757)] [[Web](http://edwardlib.org/)] :star: 
+- <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)] [[code](https://github.com/clab/dynet)] :star: 
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [[arxiv](https://arxiv.org/abs/1701.02291)]
 - Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures Via Semantic Representation. [[arxiv](https://arxiv.org/abs/1701.00804)]
-- :star: Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1701.03441)] [[code](https://github.com/jingweimo/Modified-LSTM)]
+- Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1701.03441)] [[code](https://github.com/jingweimo/Modified-LSTM)] :star: 
 - Statistical inference for network samples using subgraph counts. [[arxiv](https://arxiv.org/abs/1701.00505)]
 - Steerable CNNs. *ICLR* [[pdf](https://openreview.net/pdf?id=rJQKYt5ll)]
 - To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [[arxiv](https://arxiv.org/abs/1701.01692)]
@@ -43,11 +43,11 @@
   
 ### Generative learning
 
-- :star: AdaGAN: Boosting Generative Models. [[arxiv](https://arxiv.org/abs/1701.02386)]
+- <b>[AdaGAN]</b> AdaGAN: Boosting Generative Models. [[arxiv](https://arxiv.org/abs/1701.02386)] :star: 
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
 - Dense Associative Memory is Robust to Adversarial Inputs. [[arxiv](https://arxiv.org/abs/1701.00939)]
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04568)]
-- :star: SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)]
+- <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)] :star: 
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.02676)]
 
 ### Transfer learning
