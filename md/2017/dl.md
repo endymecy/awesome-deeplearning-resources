@@ -7,7 +7,7 @@
 - :star: Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [[arxiv](https://arxiv.org/abs/1701.00458)] [[code](https://github.com/guille-c/Deep-HiTS)]
 - Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
-- :star: Deep Probabilistic Programming. [[arxiv](https://arxiv.org/abs/1701.03757)] [[Web](http://edwardlib.org/)]
+- :star: [Edward] Deep Probabilistic Programming. [[arxiv](https://arxiv.org/abs/1701.03757)] [[Web](http://edwardlib.org/)]
 - :star: <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)] [[code](https://github.com/clab/dynet)]
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
