@@ -98,7 +98,7 @@
 - Adversarial Training Methods for Semi-Supervised Text Classification. [[arxiv](https://arxiv.org/abs/1605.07725)]
 - :star: Generative Adversarial Text to Image Synthesis. [[arxiv](https://arxiv.org/abs/1605.05396)]
 - Modeling documents with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.09122)]
-- :star: StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks. [[url](https://arxiv.org/abs/1612.03242)] [[code](https://github.com/xunhuang1995/SGAN)]
+- :star:<b>[StackGAN]</b> StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks. [[url](https://arxiv.org/abs/1612.03242)] [[code](https://github.com/hanzhanggit/StackGAN)]
 
 ### Attention and memory
 
