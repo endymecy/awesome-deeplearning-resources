@@ -139,7 +139,7 @@
 ### Attention and memory
 
 - Attention Based Recurrent Neural Networks for Online Advertising. [[pdf](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjAu5aWrJTRAhVjhlQKHW0pA1UQFggeMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%32%30%31%36%2e%6e%65%74%2f%70%72%6f%63%65%65%64%69%6e%67%73%2f%63%6f%6d%70%61%6e%69%6f%6e%2f%70%31%34%31%2e%70%64%66&usg=AFQjCNHsvkRlCm3kcRkHKHGbCgRMFuowGA)]
-- Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling. [[arxiv](https://arxiv.org/abs/1609.01454)]
+- Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling. [[arxiv](https://arxiv.org/abs/1609.01454)] [[tensorflow](https://github.com/HadoopIt/rnn-nlu)]
 - Can Active Memory Replace Attention? [[pdf]](docs/2016/Can Active Memory Replace Attention?.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj477KzgNjQAhWJu7wKHQDCCbsQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08613&usg=AFQjCNGWvnbekotBNutPv47XNVPgRbwglw)]
 - Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation. [[arxiv](https://arxiv.org/abs/1606.04199)] :star: 
 - Emergent Logical Structure in Vector Representations of Neural Readers. [[arxiv](https://arxiv.org/abs/1611.07954)]
@@ -185,7 +185,7 @@
 - <b>[VGNA]</b> Generative Adversarial Networks as Variational Training of Energy Based Models. [[arxiv](https://arxiv.org/abs/1611.01799)] [[code](https://github.com/Shuangfei/vgan)]
 - Generative Adversarial Nets from a Density Ratio Estimation Perspective. [[pdf]](docs/2016/Generative Adversarial Nets from a Density Ratio Estimation Perspective.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA2-r5jNjQAhVGS7wKHdhED-sQFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1610.02920&usg=AFQjCNFriDebvLOksqqPuOIuipqLgoMsMw)]
 - <b>[iGNA]</b> Generative Visual Manipulation on the Natural Image Manifold. [[berkeley](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/)] [[code](https://github.com/junyanz/iGAN)] :star: 
-- How to Train a GAN. [[code](https://github.com/soumith/ganhacks)]
+- How to Train a GAN. [[code](https://github.com/soumith/ganhacks)] :star:
 - Image-to-Image Translation with Conditional Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.07004)] [[tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)]
 - <b>[Improved GAN]</b> Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation. [[arxiv](https://arxiv.org/abs/1612.08354)] :star: 
 - [Improved Techniques for Training GANs.](http://blog.csdn.net/layumi1993/article/details/52413235) [[arxiv](https://arxiv.org/abs/1606.03498)] [[code](https://github.com/openai/improved-gan)] :star: 
