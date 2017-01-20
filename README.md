@@ -116,10 +116,10 @@ I will renew the recent papers and add notes to these papers.
 * <b>[Python]</b> Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.[[Web](http://radimrehurek.com/gensim/)]
 * <b>[Python]</b> Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA. [[Web](https://github.com/hannes-brt/hebel)]
 * <b>[Python]</b> Keras: Deep Learning library for Theano and TensorFlow. [[Web](https://keras.io/)] :star:
-* <b>[Julin]</b> Knet: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia. [[Web](https://github.com/denizyuret/Knet.jl)]
+* <b>[Julia]</b> Knet: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia. [[Web](https://github.com/denizyuret/Knet.jl)]
 * <b>[Python]</b> Kur: Descriptive Deep Learning. [[Web](https://github.com/deepgram/kur)] :star:
 * <b>[Matlab]</b> MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
-* <b>[Julin]</b> Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
+* <b>[Julia]</b> Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
 * <b>[C++]</b> MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)] :star:
   * <b>[Python]</b> MinPy: Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend. [[Web](https://github.com/dmlc/minpy)]
 * <b>[Python]</b> Neon is Nervana's Python based Deep Learning framework.[[Web](https://github.com/NervanaSystems/neon)]
