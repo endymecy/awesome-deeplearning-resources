@@ -102,6 +102,7 @@
 ### Attention and memory
 
 - A Context-aware Attention Network for Interactive Question Answering. [[url](https://openreview.net/pdf?id=SkyQWDcex)]
+- A Decomposable Attention Model for Natural Language Inference. [[arxiv](https://arxiv.org/abs/1606.01933)] [[code](https://github.com/harvardnlp/decomp-attn)]
 - A self-attentive sentence embedding.[[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjv-M3H0Y_RAhVS0mMKHYz3BAsQFggeMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DBJC_jUqxe&usg=AFQjCNGzzX7jxAZ3tYtd7t4LlE6S7KNkpQ)]
 - AttSum: Joint Learning of Focusing and Summarization with Neural Attention. [[arxiv](https://arxiv.org/abs/1604.00125)]
 - Attention-over-Attention Neural Networks for Reading Comprehension.  [[arxiv](https://arxiv.org/abs/1607.04423)] [[github](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwih0JvJpZTRAhUijlQKHQlBAaQQFghIMAg&url=https%3A%2F%2Fgithub.com%2FOlavHN%2Fattention-over-attention&usg=AFQjCNG-i1RrT0JFwPhik65XukwXwy9ljw)]
