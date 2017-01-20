@@ -104,7 +104,7 @@ I will renew the recent papers and add notes to these papers.
   
 # Software
 
-* <b>[C++]</b> Apache Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
+* <b>[C++]</b> Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
 * <b>[C++]</b> Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)] :star:
 * <b>[Python]</b> Chainer bridge the gap between algorithms and implementations of deep learning. [[Web](http://chainer.org/)]
 * <b>[C++] </b>CNTK:The Microsoft Cognitive Toolkit. [[Web](https://github.com/Microsoft/CNTK)]
