@@ -186,6 +186,7 @@
 - <b>[VGNA]</b> Generative Adversarial Networks as Variational Training of Energy Based Models. [[arxiv](https://arxiv.org/abs/1611.01799)] [[code](https://github.com/Shuangfei/vgan)]
 - Generative Adversarial Nets from a Density Ratio Estimation Perspective. [[pdf]](docs/2016/Generative Adversarial Nets from a Density Ratio Estimation Perspective.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA2-r5jNjQAhVGS7wKHdhED-sQFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1610.02920&usg=AFQjCNFriDebvLOksqqPuOIuipqLgoMsMw)]
 - <b>[iGNA]</b> Generative Visual Manipulation on the Natural Image Manifold. [[berkeley](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/)] [[code](https://github.com/junyanz/iGAN)] :star: 
+- Generating Videos with Scene Dynamics. [[pdf](http://web.mit.edu/vondrick/tinyvideo/paper.pdf)] [[code](https://github.com/cvondrick/videogan)] :star:
 - How to Train a GAN. [[code](https://github.com/soumith/ganhacks)] :star:
 - Image-to-Image Translation with Conditional Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.07004)] [[tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)]
 - <b>[Improved GAN]</b> Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation. [[arxiv](https://arxiv.org/abs/1612.08354)] :star: 
@@ -198,7 +199,7 @@
 - Mode Regularized Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.02136)] :star: 
 - Neural Fill: Content Aware Image Fill with Generative Adversarial Neural Networks. [[stanford](http://cs231n.stanford.edu/reports2016/209_Report.pdf)]
 - NIPS 2016 Tutorial: Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.00160)] :star: 
-- Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. [[arxiv](https://arxiv.org/abs/1609.04802)] :star: 
+- <b>[SRGAN]</b> Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. [[arxiv](https://arxiv.org/abs/1609.04802)] :star: 
 - <b>[DCGAN use]</b> Semantic Image Inpainting with Perceptual and Contextual Losses. [[arxiv](https://arxiv.org/abs/1607.07539)] :star: 
 - Semi-Supervised Learning with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1606.01583)]
 - <b>[SeqGAN]</b> Sequence Generative Adversarial Nets with Policy Gradient. [[pdf]](docs/2016/SeqGAN- Sequence Generative Adversarial Nets with Policy Gradient.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY0NWEq9jQAhXEEbwKHReIDrQQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1609.05473&usg=AFQjCNHxaAv6rC-G4DbBpCkEvcgEdKGWeQ)] [[code](https://github.com/LantaoYu/SeqGAN)] :star: 
