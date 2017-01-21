@@ -56,5 +56,6 @@
 
 ### Transfer learning
 
+- Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [[arxiv](https://arxiv.org/abs/1701.04928)]
 - Demystifying Neural Style Transfer. [[arxiv](https://arxiv.org/abs/1701.01036)]
   
