@@ -27,6 +27,7 @@
 - Cost-Effective Active Learning for Deep Image Classification. [[arxiv](https://arxiv.org/abs/1701.03551)]
 - Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks. [[arxiv](https://arxiv.org/abs/1701.04658)]
 - Deep Convolutional Neural Networks for Pairwise Causality. [[arxiv](https://arxiv.org/abs/1701.00597)]
+- Deep Learning Features at Scale for Visual Place Recognition. [[arxiv](https://arxiv.org/abs/1701.05105)]
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [[arxiv](https://arxiv.org/abs/1701.02096)] [[code](https://github.com/DmitryUlyanov/texture_nets)]
 - Learning a Mixture of Deep Networks for Single Image Super-Resolution. [[arxiv](https://arxiv.org/abs/1701.00823)] [[code](http://t.cn/RM4pjZ4)]
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [[arxiv](https://arxiv.org/abs/1701.00295)]
