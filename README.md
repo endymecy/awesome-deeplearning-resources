@@ -90,6 +90,15 @@ I will renew the recent papers and add notes to these papers.
 | 2015 | NeuralGPU | [arxiv](http://arxiv.org/abs/1511.08228) | https://github.com/tensorflow/models/tree/master/neural_gpu | 
 | 2015 | Transformer | [arxiv](https://arxiv.org/abs/1506.02025) | https://github.com/tensorflow/models/tree/master/transformer | 
 | 2016 | SqueezeNet | [arxiv](https://arxiv.org/abs/1602.07360) | https://github.com/songhan/SqueezeNet-Deep-Compression | 
+| 2016 | InfoGAN | [arxiv](https://arxiv.org/abs/1606.03657) | https://github.com/buriburisuri/supervised_infogan | 
+| 2016 | EnergyGAN | [arxiv](https://arxiv.org/pdf/1609.03126) | https://github.com/buriburisuri/ebgan | 
+| 2016 | Dp_sgd | [arxiv](https://arxiv.org/abs/1607.00133) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
+| 2016 | Multiple_teachers | [arxiv](https://arxiv.org/abs/1610.05755) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
+| 2016 | Im2txt | [arxiv](http://arxiv.org/abs/1609.06647) | https://github.com/tensorflow/models/tree/master/im2txt | 
+| 2016 | Neural Programmer | [pdf](https://openreview.net/pdf?id=ry2YOrcge) | https://github.com/tensorflow/models/tree/master/neural_programmer | 
+| 2016 | Swivel | [arxiv](https://arxiv.org/abs/1602.02215) | https://github.com/tensorflow/models/tree/master/swivel | 
+| 2016 | SyntaxNet | [arxiv](https://arxiv.org/abs/1603.06042) | https://github.com/tensorflow/models/tree/master/syntaxnet | 
+| 2016 | Textsum |  | https://github.com/tensorflow/models/tree/master/textsum | 
 
 # Courses
 
