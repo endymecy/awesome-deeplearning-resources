@@ -69,7 +69,8 @@ I will renew the recent papers and add notes to these papers.
 # Model Zoo
 
 | year | name |  paper | note | code |
-| 2010 | DeepBigSimpleNet |https://arxiv.org/pdf/1003.0358v1.pdf |||
+| ------ | ------ | -------- | ------ | ------ |
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | |
 | 2012 | AlexNet | https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf | http://www.gageet.com/2014/09140.php | https://code.google.com/p/cuda-convnet/ |
 
 # Courses
