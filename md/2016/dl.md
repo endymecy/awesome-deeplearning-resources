@@ -30,6 +30,7 @@
 - <b>DeepMind Lab.</b> [[url](https://arxiv.org/abs/1612.03801)] :star: 
 - Deep API Learning. [[pdf]](docs/2016/Deep API Learning.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjul43zhNjQAhWMwLwKHQEjA6UQFggnMAE&url=http%3A%2F%2Fhome.cse.ust.hk%2F~xguaa%2Fpapers%2Fdeepapi.pdf&usg=AFQjCNHljxBLzjHzj38PRMQXK9Ew5oVIjw)]
 - Deep Learning without Poor Local Minima. [[pdf]](docs/2016/Deep Learning without Poor Local Minima.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiv97uNhdjQAhXFfbwKHX4mBUYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07110&usg=AFQjCNHt8kPnzQkWZCGJEusOBkwtrCikBQ)] :star: 
+- Deep Learning with Differential Privacy. [[arxiv](https://arxiv.org/abs/1607.00133)] [[tensorflow](https://github.com/tensorflow/models/tree/master/differential_privacy/privacy_accountant)] :star:
 - Deep Neural Networks for YouTube Recommendations.[[pdf]](docs/2016/Deep Neural Networks for YouTube Recommendations.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU-vfIhdjQAhXMe7wKHclLCoIQFggbMAA&url=http%3A%2F%2Fresearch.google.com%2Fpubs%2Farchive%2F45530.pdf&usg=AFQjCNGW4ovtzUBkxT4qx4mnogD74QHfzA)]
 - Deep Portfolio Theory. [[url](https://arxiv.org/pdf/1605.07230.pdf)]
 - Deeply-Fused Nets. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjm87i4htjQAhXHxLwKHRW4CfkQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07716&usg=AFQjCNFr85h2BVJrvAqLlIqT_JhQP7wnzA)] :star: 
@@ -221,6 +222,7 @@
 - Pixel-Level Domain Transfer. [[arxiv](https://arxiv.org/abs/1603.07442)]
 - [Progressive Neural Networks.](http://www.cnblogs.com/wangxiaocvpr/p/6002214.html) [[pdf]](docs/2016/Progressive Neural Networks.pdf) [[arxiv](https://arxiv.org/abs/1606.04671)] :star: 
 - Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks. [[arxiv](https://arxiv.org/abs/1603.01768)] [[code](https://github.com/alexjc/neural-doodle)] :star: 
+- Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. [[arxiv](https://arxiv.org/abs/1610.05755)] [[tensorflow](https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers)] :star:
   
 ### One/zero-shot learning
 
