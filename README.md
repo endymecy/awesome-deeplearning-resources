@@ -88,6 +88,7 @@ I will renew the recent papers and add notes to these papers.
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) [[code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)]
 * [Reinforcement LearningState-of-the-Art](http://www.ai.rug.nl/~mwiering/RL-state-of-the-art)   
+* [A Course in Machine Learning](http://ciml.info/)
 
 # Videos
 
