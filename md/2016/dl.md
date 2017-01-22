@@ -144,7 +144,7 @@
 ### Attention and memory
 
 - Attention Based Recurrent Neural Networks for Online Advertising. [[pdf](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjAu5aWrJTRAhVjhlQKHW0pA1UQFggeMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%32%30%31%36%2e%6e%65%74%2f%70%72%6f%63%65%65%64%69%6e%67%73%2f%63%6f%6d%70%61%6e%69%6f%6e%2f%70%31%34%31%2e%70%64%66&usg=AFQjCNHsvkRlCm3kcRkHKHGbCgRMFuowGA)]
-- Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling. [[arxiv](https://arxiv.org/abs/1609.01454)] [[tensorflow](https://github.com/HadoopIt/rnn-nlu)]
+- Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling. [[arxiv](https://arxiv.org/abs/1609.01454)] [[tensorflow](https://github.com/HadoopIt/rnn-nlu)] :star:
 - Can Active Memory Replace Attention? [[pdf]](docs/2016/Can Active Memory Replace Attention?.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj477KzgNjQAhWJu7wKHQDCCbsQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08613&usg=AFQjCNGWvnbekotBNutPv47XNVPgRbwglw)]
 - Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation. [[arxiv](https://arxiv.org/abs/1606.04199)] :star: 
 - Emergent Logical Structure in Vector Representations of Neural Readers. [[arxiv](https://arxiv.org/abs/1611.07954)]

@@ -72,33 +72,44 @@ I will renew the recent papers and add notes to these papers.
 | ------ | ------ | -------- | ------ | ------ |
 | 2012 | AlexNet | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | https://code.google.com/p/cuda-convnet/ |
 | 2013 | RCNN | [arxiv](https://arxiv.org/abs/1311.2524) | https://github.com/rbgirshick/rcnn | 
-| 2014 | VGGNet | [arxiv](https://arxiv.org/pdf/1409.1556.pdf) | https://gist.github.com/ksimonyan/211839e770f7b538e2d8 | 
-| 2014 | GoogLeNet | [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf) | https://github.com/google/inception | 
-| 2014 | SPPNet | [arxiv](https://arxiv.org/abs/1406.4729) | https://github.com/yhenon/keras-spp | 
-| 2014 | OverFeat | [arxiv](https://arxiv.org/abs/1312.6229) | https://github.com/sermanet/OverFeat | 
+| 2014 | CGNA | [arxiv](https://arxiv.org/abs/1411.1784) | https://github.com/zhangqianhui/Conditional-Gans | 
 | 2014 | DeepFaceVariant | [pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf) | https://github.com/joyhuang9473/deepid-implementation | 
 | 2014 | GAN | [arxiv](https://arxiv.org/abs/1406.2661) | https://github.com/goodfeli/adversarial | 
-| 2014 | CGNA | [arxiv](https://arxiv.org/abs/1411.1784) | https://github.com/zhangqianhui/Conditional-Gans | 
+| 2014 | GoogLeNet | [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf) | https://github.com/google/inception | 
+| 2014 | OverFeat | [arxiv](https://arxiv.org/abs/1312.6229) | https://github.com/sermanet/OverFeat | 
+| 2014 | SPPNet | [arxiv](https://arxiv.org/abs/1406.4729) | https://github.com/yhenon/keras-spp | 
 | 2014 | VAE | [arxiv](https://arxiv.org/abs/1406.5298) | https://github.com/dpkingma/nips14-ssl | 
+| 2014 | VGGNet | [arxiv](https://arxiv.org/pdf/1409.1556.pdf) | https://gist.github.com/ksimonyan/211839e770f7b538e2d8 | 
+| 2015 | DCGAN | [arxiv](https://arxiv.org/abs/1511.06434) | https://github.com/carpedm20/DCGAN-tensorflow | 
+| 2015 | DRAW | [arxiv](https://arxiv.org/abs/1502.04623) | https://github.com/ericjang/draw | 
+| 2015 | Global And Local Attention | [arxiv](https://arxiv.org/abs/1508.04025) | https://github.com/giancds/tsf_nmt | 
+| 2015 | FaceNet | [arxiv](https://arxiv.org/abs/1503.03832) | https://github.com/davidsandberg/facenet | 
 | 2015 | Fast RCNN | [arxiv](https://arxiv.org/abs/1504.08083) | https://github.com/rbgirshick/fast-rcnn | 
 | 2015 | Faster RCNN | [arxiv](https://arxiv.org/abs/1506.01497) | https://github.com/rbgirshick/py-faster-rcnn | 
-| 2015 | FaceNet | [arxiv](https://arxiv.org/abs/1503.03832) | https://github.com/davidsandberg/facenet | 
-| 2015 | ResNet | [arxiv1](https://arxiv.org/pdf/1512.03385v1.pdf) , [arxiv2](https://arxiv.org/pdf/1605.07146v1.pdf), [arxiv3](https://arxiv.org/pdf/1603.05027v2.pdf) | https://github.com/tensorflow/models/tree/master/resnet | 
-| 2015 | LAPGAN | [arxiv](https://arxiv.org/abs/1506.05751) | https://github.com/facebook/eyescream | 
-| 2015 | DCGAN | [arxiv](https://arxiv.org/abs/1511.06434) | https://github.com/carpedm20/DCGAN-tensorflow | 
+| 2015 | FCNT | [pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/wangOWLiccv15.pdf) | https://github.com/scott89/FCNT | 
 | 2015 | Inception | [arxiv](http://arxiv.org/abs/1512.00567) | https://github.com/tensorflow/models/tree/master/inception | 
+| 2015 | LAPGAN | [arxiv](https://arxiv.org/abs/1506.05751) | https://github.com/facebook/eyescream | 
 | 2015 | NeuralGPU | [arxiv](http://arxiv.org/abs/1511.08228) | https://github.com/tensorflow/models/tree/master/neural_gpu | 
+| 2015 | Pointer Net | [arxiv](https://arxiv.org/abs/1506.03134) | https://github.com/devsisters/pointer-network-tensorflow | 
+| 2015 | ResNet | [arxiv1](https://arxiv.org/pdf/1512.03385v1.pdf) , [arxiv2](https://arxiv.org/pdf/1605.07146v1.pdf), [arxiv3](https://arxiv.org/pdf/1603.05027v2.pdf) | https://github.com/tensorflow/models/tree/master/resnet | 
 | 2015 | Transformer | [arxiv](https://arxiv.org/abs/1506.02025) | https://github.com/tensorflow/models/tree/master/transformer | 
-| 2016 | SqueezeNet | [arxiv](https://arxiv.org/abs/1602.07360) | https://github.com/songhan/SqueezeNet-Deep-Compression | 
-| 2016 | InfoGAN | [arxiv](https://arxiv.org/abs/1606.03657) | https://github.com/buriburisuri/supervised_infogan | 
-| 2016 | EnergyGAN | [arxiv](https://arxiv.org/pdf/1609.03126) | https://github.com/buriburisuri/ebgan | 
 | 2016 | Dp_sgd | [arxiv](https://arxiv.org/abs/1607.00133) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
-| 2016 | Multiple_teachers | [arxiv](https://arxiv.org/abs/1610.05755) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
+| 2016 | EnergyGAN | [arxiv](https://arxiv.org/pdf/1609.03126) | https://github.com/buriburisuri/ebgan | 
+| 2016 | Grad-CAM | [arxiv](https://arxiv.org/abs/1610.02391) | https://github.com/Ankush96/grad-cam.tensorflow | 
 | 2016 | Im2txt | [arxiv](http://arxiv.org/abs/1609.06647) | https://github.com/tensorflow/models/tree/master/im2txt | 
+| 2016 | InfoGAN | [arxiv](https://arxiv.org/abs/1606.03657) | https://github.com/buriburisuri/supervised_infogan | 
+| 2016 | Multiple_teachers | [arxiv](https://arxiv.org/abs/1610.05755) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
 | 2016 | Neural Programmer | [pdf](https://openreview.net/pdf?id=ry2YOrcge) | https://github.com/tensorflow/models/tree/master/neural_programmer | 
+| 2016 | PCNN | [arxiv](https://arxiv.org/abs/1606.05328) | https://github.com/kundan2510/pixelCNN | 
+| 2016 | PVANet | [arxiv](https://arxiv.org/abs/1611.08588) | https://github.com/sanghoon/pva-faster-rcnn | 
+| 2016 | R-FCN | [arxiv](https://arxiv.org/abs/1605.06409) | https://github.com/Orpine/py-R-FCN | 
+| 2016 | SeqGAN | [pdf](https://github.com/endymecy/awesome-deeplearning-papers/blob/master/md/2016/docs/2016/SeqGAN-%20Sequence%20Generative%20Adversarial%20Nets%20with%20Policy%20Gradient.pdf) | https://github.com/LantaoYu/SeqGAN | 
+| 2016 | SqueezeNet | [arxiv](https://arxiv.org/abs/1602.07360) | https://github.com/songhan/SqueezeNet-Deep-Compression | 
 | 2016 | Swivel | [arxiv](https://arxiv.org/abs/1602.02215) | https://github.com/tensorflow/models/tree/master/swivel | 
 | 2016 | SyntaxNet | [arxiv](https://arxiv.org/abs/1603.06042) | https://github.com/tensorflow/models/tree/master/syntaxnet | 
 | 2016 | Textsum |  | https://github.com/tensorflow/models/tree/master/textsum | 
+| 2016 | VGNA | [arxiv](https://arxiv.org/abs/1611.01799) | https://github.com/Shuangfei/vgan | 
+| 2017 | SalGAN | [arxiv](https://arxiv.org/abs/1701.01081) | https://github.com/imatge-upc/saliency-salgan-2017 | 
 
 # Courses
 
