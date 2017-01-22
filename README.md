@@ -68,10 +68,30 @@ I will renew the recent papers and add notes to these papers.
 
 # Model Zoo
 
-| year | name |  paper | note | code |
+| year | name |  paper | code |
 | ------ | ------ | -------- | ------ | ------ |
-| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | |
-| 2012 | AlexNet | https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf | http://www.gageet.com/2014/09140.php | https://code.google.com/p/cuda-convnet/ |
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2012 | AlexNet | https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf | https://code.google.com/p/cuda-convnet/ |
+| 2013 | RCNN | https://arxiv.org/abs/1311.2524 | https://github.com/rbgirshick/rcnn | 
+| 2014 | VGGNet | https://arxiv.org/pdf/1409.1556.pdf | https://gist.github.com/ksimonyan/211839e770f7b538e2d8 | 
+| 2014 | GoogLeNet | https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf | https://github.com/google/inception | 
+| 2014 | SPPNet | https://arxiv.org/abs/1406.4729 | https://github.com/yhenon/keras-spp
+                                                    https://github.com/ShaoqingRen/SPP_net| 
+| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
 
 # Courses
 
