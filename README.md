@@ -75,8 +75,7 @@ I will renew the recent papers and add notes to these papers.
 | 2013 | RCNN | https://arxiv.org/abs/1311.2524 | https://github.com/rbgirshick/rcnn | 
 | 2014 | VGGNet | https://arxiv.org/pdf/1409.1556.pdf | https://gist.github.com/ksimonyan/211839e770f7b538e2d8 | 
 | 2014 | GoogLeNet | https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf | https://github.com/google/inception | 
-| 2014 | SPPNet | https://arxiv.org/abs/1406.4729 | https://github.com/yhenon/keras-spp
-                                                    https://github.com/ShaoqingRen/SPP_net| 
+| 2014 | SPPNet | https://arxiv.org/abs/1406.4729 | https://github.com/yhenon/keras-spp | 
 | 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
 | 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
 | 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
