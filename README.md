@@ -70,7 +70,6 @@ I will renew the recent papers and add notes to these papers.
 
 | year | name |  paper | code |
 | ------ | ------ | -------- | ------ | ------ |
-| 2010 | DeepBigSimpleNet | [arxiv](https://arxiv.org/pdf/1003.0358v1.pdf) | | 
 | 2012 | AlexNet | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | https://code.google.com/p/cuda-convnet/ |
 | 2013 | RCNN | [arxiv](https://arxiv.org/abs/1311.2524) | https://github.com/rbgirshick/rcnn | 
 | 2014 | VGGNet | [arxiv](https://arxiv.org/pdf/1409.1556.pdf) | https://gist.github.com/ksimonyan/211839e770f7b538e2d8 | 
@@ -78,19 +77,19 @@ I will renew the recent papers and add notes to these papers.
 | 2014 | SPPNet | [arxiv](https://arxiv.org/abs/1406.4729) | https://github.com/yhenon/keras-spp | 
 | 2014 | OverFeat | [arxiv](https://arxiv.org/abs/1312.6229) | https://github.com/sermanet/OverFeat | 
 | 2014 | DeepFaceVariant | [pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf) | https://github.com/joyhuang9473/deepid-implementation | 
-| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2014 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
-| 2010 | DeepBigSimpleNet | https://arxiv.org/pdf/1003.0358v1.pdf | | 
+| 2014 | GAN | [arxiv](https://arxiv.org/abs/1406.2661) | https://github.com/goodfeli/adversarial | 
+| 2014 | CGNA | [arxiv](https://arxiv.org/abs/1411.1784) | https://github.com/zhangqianhui/Conditional-Gans | 
+| 2014 | VAE | [arxiv](https://arxiv.org/abs/1406.5298) | https://github.com/dpkingma/nips14-ssl | 
+| 2015 | Fast RCNN | [arxiv](https://arxiv.org/abs/1504.08083) | https://github.com/rbgirshick/fast-rcnn | 
+| 2015 | Faster RCNN | [arxiv](https://arxiv.org/abs/1506.01497) | https://github.com/rbgirshick/py-faster-rcnn | 
+| 2015 | FaceNet | [arxiv](https://arxiv.org/abs/1503.03832) | https://github.com/davidsandberg/facenet | 
+| 2015 | ResNet | [arxiv1](https://arxiv.org/pdf/1512.03385v1.pdf) , [arxiv2](https://arxiv.org/pdf/1605.07146v1.pdf), [arxiv3](https://arxiv.org/pdf/1603.05027v2.pdf) | https://github.com/tensorflow/models/tree/master/resnet | 
+| 2015 | LAPGAN | [arxiv](https://arxiv.org/abs/1506.05751) | https://github.com/facebook/eyescream | 
+| 2015 | DCGAN | [arxiv](https://arxiv.org/abs/1511.06434) | https://github.com/carpedm20/DCGAN-tensorflow | 
+| 2015 | Inception | [arxiv](http://arxiv.org/abs/1512.00567) | https://github.com/tensorflow/models/tree/master/inception | 
+| 2015 | NeuralGPU | [arxiv](http://arxiv.org/abs/1511.08228) | https://github.com/tensorflow/models/tree/master/neural_gpu | 
+| 2015 | Transformer | [arxiv](https://arxiv.org/abs/1506.02025) | https://github.com/tensorflow/models/tree/master/transformer | 
+| 2016 | SqueezeNet | [arxiv](https://arxiv.org/abs/1602.07360) | https://github.com/songhan/SqueezeNet-Deep-Compression | 
 
 # Courses
 
