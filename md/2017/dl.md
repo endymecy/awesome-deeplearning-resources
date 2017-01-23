@@ -60,4 +60,4 @@
 
 - Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [[arxiv](https://arxiv.org/abs/1701.04928)]
 - Demystifying Neural Style Transfer. [[arxiv](https://arxiv.org/abs/1701.01036)]
-  
+- Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [[arxiv](https://arxiv.org/abs/1701.02357)]
