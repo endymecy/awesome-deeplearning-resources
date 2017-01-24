@@ -135,6 +135,7 @@ I will renew the recent papers and add notes to these papers.
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) [[code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)]
 * [Reinforcement LearningState-of-the-Art](http://www.ai.rug.nl/~mwiering/RL-state-of-the-art)   
 * [A Course in Machine Learning](http://ciml.info/)
+* [深度学习入门 by PaddlePaddle](https://github.com/PaddlePaddle/book)
 
 # Videos
 

@@ -213,6 +213,7 @@
 - Stochastic Video Prediction with Deep Conditional Generative Models. [[stanford](http://cs231n.stanford.edu/reports2016/215_Report.pdf)]
 - Task Specific Adversarial Cost Function. [[arxiv](https://arxiv.org/abs/1609.08661)]
 - Towards Principled Methods for Training Generative Adversarial Networks. [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiImvqS8qTRAhVp0FQKHa7MDy4QFggkMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHk4_qw5xe&usg=AFQjCNFJQA8Hfh1F2k0kkDiRdpS4kb7U9Q)]
+- [Understanding deep learning requires rethinking generalization.](https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/) [[arxiv](https://arxiv.org/abs/1611.03530)] :star:
 - Unsupervised domain adaptation in brain lesion segmentation with adversarial networks. [[arxiv](https://arxiv.org/abs/1612.08894?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)]
 - Unrolled Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.02163)] [[code](https://github.com/poolio/unrolled_gan)]
   
