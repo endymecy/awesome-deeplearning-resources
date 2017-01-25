@@ -52,8 +52,10 @@
 
 - <b>[AdaGAN]</b> AdaGAN: Boosting Generative Models. [[arxiv](https://arxiv.org/abs/1701.02386)] :star: 
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
+- Automatic Generation of Typographic Font from a Small Font Subset. [[arxiv](https://arxiv.org/abs/1701.05703)] :star:
 - Dense Associative Memory is Robust to Adversarial Inputs. [[arxiv](https://arxiv.org/abs/1701.00939)]
 - Face Synthesis from Facial Identity Features. [[arxiv](https://arxiv.org/abs/1701.04851)]
+- Image De-raining Using a Conditional Generative Adversarial Network. [[arxiv](https://arxiv.org/abs/1701.05957)] [[caffe](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)]
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04568)]
 - <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)] :star: 
 - Towards Principled Methods for Training Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04862)] :star:
