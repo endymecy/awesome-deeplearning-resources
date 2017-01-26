@@ -16,3 +16,7 @@
 
 - End-to-End Attention based Text-Dependent Speaker Verification. [[arXiv](https://arxiv.org/abs/1701.00562)]
 - Structural Attention Neural Networks for improved sentiment analysis. [[arXiv](https://arxiv.org/abs/1701.01811)]
+
+### Generative learning
+
+- [Adversarial Learning for Neural Dialogue Generation.](https://zhuanlan.zhihu.com/p/25027693) [[arXiv](https://arxiv.org/abs/1701.06547)] [[]()]
