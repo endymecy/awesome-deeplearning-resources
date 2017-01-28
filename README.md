@@ -151,6 +151,7 @@ I will renew the recent papers and add notes to these papers.
   * [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
   * [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
   * [Udacity Deep Learning Online Course, by google](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
+  * [Foundations of Machine Learning Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
   
 # Software
 
