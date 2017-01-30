@@ -12,6 +12,7 @@
 - <b>[Edward]</b> Deep Probabilistic Programming. [[arxiv](https://arxiv.org/abs/1701.03757)] [[Web](http://edwardlib.org/)] :star: 
 - <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)] [[code](https://github.com/clab/dynet)] :star: 
 - Efficient Information Flow Maximization in Probabilistic Graphs. [[arxiv](https://arxiv.org/abs/1701.05395)]
+- Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [[arxiv](https://arxiv.org/abs/1701.05923)]
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [[arxiv](https://arxiv.org/abs/1701.05616)]
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
