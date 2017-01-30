@@ -37,6 +37,7 @@
 - Model-Free Episodic Control, C. Blundell et al., *arXiv*. [[arxiv](http://arxiv.org/abs/1606.04460)]
 - Mastering the game of Go with deep neural networks and tree search. [[nature](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)] :star: 
 - MazeBase: A Sandbox for Learning from Games, S. Sukhbaatar et al., *arXiv* [[arxiv](http://arxiv.org/abs/1511.07401)]
+- [Neural Architecture Search with Reinforcement Learning.](https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247483966&idx=1&sn=e3fde0461e10e220aca322ca9395958c) [[pdf](https://openreview.net/pdf?id=r1Ue8Hcxg)]
 - Neural Combinatorial Optimization with Reinforcement Learning. [[arxiv](https://arxiv.org/abs/1611.09940)]
 - Non-Deterministic Policy Improvement Stabilizes Approximated Reinforcement Learning. [[url](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission_2.pdf)]
 - Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation. *arXiv*. [[arxiv](https://arxiv.org/abs/1612.03929)]
