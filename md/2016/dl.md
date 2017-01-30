@@ -237,5 +237,5 @@
 - Low-shot Visual Recognition by Shrinking and Hallucinating Features. [[arxiv](https://arxiv.org/abs/1606.02819)] :star: 
 - Matching Networks for One Shot Learning. [[arxiv](https://arxiv.org/abs/1606.04080)]
 - One-Shot Generalization in Deep Generative Models. [[pdf]](docs/2016/One-Shot Generalization in Deep Generative Models.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiF7YmmpNjQAhXKw7wKHU_qDeUQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.05106&usg=AFQjCNH2H_wgC0cAuwZfEHn8wghdoD0uRQ)] :star: 
-- One-shot Learning with Memory-Augmented Neural Networks. [[pdf]](docs/2016/One-shot Learning with Memory-Augmented Neural Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwinqanQpNjQAhVLfLwKHQo6B4sQFggvMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.06065&usg=AFQjCNHEnlkgwe3K6CYcpSQdphRYmBE8hg)] :star: 
+- One-shot Learning with Memory-Augmented Neural Networks. [[pdf]](docs/2016/One-shot Learning with Memory-Augmented Neural Networks.pdf) [[arxiv](https://arxiv.org/abs/1605.06065)] [[tensorflow](https://github.com/hmishra2250/NTM-One-Shot-TF)]:star: 
 - Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery. [[url](https://arxiv.org/abs/1612.04901)]
