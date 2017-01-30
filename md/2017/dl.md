@@ -15,6 +15,7 @@
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [[arxiv](https://arxiv.org/abs/1701.05616)]
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
+- Network Backboning with Noisy Data. [[arxiv](https://arxiv.org/abs/1701.07336)]
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.](http://mp.weixin.qq.com/s/qkYHcDpIMM5W7D_NWoa5ww) [[arxiv](https://arxiv.org/abs/1701.06538)]
 - Privileged Multi-label Learning. [[arxiv](https://arxiv.org/abs/1701.07194)]
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [[arxiv](https://arxiv.org/abs/1701.02291)]
