@@ -2,6 +2,7 @@
 
 ### Deep learning
 
+- A GPU-Based Solution to Fast Calculation of Betweenness Centrality on Large Weighted Networks. [[arxiv](https://arxiv.org/abs/1701.05975)]
 - A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe. [[arxiv](https://arxiv.org/abs/1701.04949)]
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [[arxiv](https://arxiv.org/abs/1701.01207)]
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
