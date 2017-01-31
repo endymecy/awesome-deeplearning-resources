@@ -72,6 +72,8 @@
 - <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)] :star: 
 - Towards Principled Methods for Training Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04862)] :star:
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.02676)]
+- Wasserstein GAN. [[arxiv](https://arxiv.org/abs/1701.07875)] [[code](https://gist.github.com/soumith/71995cecc5b99cda38106ad64503cee3)] :star:
+  
 
 ### Transfer learning
 
