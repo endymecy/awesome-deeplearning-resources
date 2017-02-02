@@ -42,6 +42,7 @@
 - Deep Convolutional Neural Networks for Pairwise Causality. [[arxiv](https://arxiv.org/abs/1701.00597)]
 - Deep Learning Features at Scale for Visual Place Recognition. [[arxiv](https://arxiv.org/abs/1701.05105)]
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [[arxiv](https://arxiv.org/abs/1701.08289)]
+- Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [[arxiv](https://arxiv.org/abs/1701.08251)]
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [[arxiv](https://arxiv.org/abs/1701.02096)] [[code](https://github.com/DmitryUlyanov/texture_nets)]
 - Learning a Mixture of Deep Networks for Single Image Super-Resolution. [[arxiv](https://arxiv.org/abs/1701.00823)] [[code](http://t.cn/RM4pjZ4)]
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [[arxiv](https://arxiv.org/abs/1701.00295)]
