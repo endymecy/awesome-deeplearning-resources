@@ -31,6 +31,7 @@
 - Towards a New Interpretation of Separable Convolutions. [[arxiv](https://arxiv.org/abs/1701.04489)]
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [[arxiv](https://arxiv.org/abs/1701.00485)]
 - Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1701.04128)]
+- Understanding trained CNNs by indexing neuron selectivity. [[arxiv](https://arxiv.org/abs/1702.00382)]
 
 ### Computer vision
 
