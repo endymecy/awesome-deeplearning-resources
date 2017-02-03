@@ -108,6 +108,7 @@
 - Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures. [[pdf]](docs/2016/Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJxbeU39XQAhVRObwKHWiMBf0QFggsMAE&url=https%3A%2F%2Fwww.jair.org%2Fmedia%2F4900%2Flive-4900-9139-jair.pdf&usg=AFQjCNEGLLDKzFhjIGCyL20rLlXurEDJyg)] 
 - CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection. [[arxiv](https://arxiv.org/abs/1606.05413)]
 - <b>[PCNN]</b> Conditional Image Generation with PixelCNN Decoders. [[arxiv](https://arxiv.org/abs/1606.05328)] [[code](https://github.com/kundan2510/pixelCNN)] :star: 
+- Deep Feature Interpolation for Image Content Changes. [[arxiv](https://arxiv.org/abs/1611.05507)] [[tensorflow](https://github.com/slang03/dfi-tensorflow)]
 - DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs. [[arxiv](https://arxiv.org/abs/1606.00915)] :star: 
 - Deep Learning Logo Detection with Data Expansion by Synthesising Context. [[arxiv](https://arxiv.org/abs/1612.09322)]
 - Deep Learning on Lie Groups for Skeleton-based Action Recognition. [[url](https://arxiv.org/abs/1612.05877)]
