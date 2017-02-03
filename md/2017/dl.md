@@ -28,6 +28,7 @@
 - Steerable CNNs. *ICLR* [[pdf](https://openreview.net/pdf?id=rJQKYt5ll)]
 - Stochastic Subsampling for Factorizing Huge Matrices. [[arxiv](https://arxiv.org/abs/1701.05363)] [[code](https://github.com/arthurmensch/modl)]
 - To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [[arxiv](https://arxiv.org/abs/1701.01692)]
+- Towards "AlphaChem": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies. [[arxiv](https://arxiv.org/abs/1702.00020)]
 - Towards a New Interpretation of Separable Convolutions. [[arxiv](https://arxiv.org/abs/1701.04489)]
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [[arxiv](https://arxiv.org/abs/1701.00485)]
 - Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1701.04128)]
