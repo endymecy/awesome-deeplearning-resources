@@ -124,6 +124,7 @@ I will renew the recent papers and add notes to these papers.
 * [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
 * [Stanford] [CS20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [Stanford] [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
+* [MIT] [S191: Introduction to Deep Learning](http://introtodeeplearning.com/schedule.html)
 
 # Books
 
