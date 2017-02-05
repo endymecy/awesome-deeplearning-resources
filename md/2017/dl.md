@@ -49,6 +49,7 @@
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [[arxiv](https://arxiv.org/abs/1701.08251)]
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [[arxiv](https://arxiv.org/abs/1701.02096)] [[code](https://github.com/DmitryUlyanov/texture_nets)]
 - Learning a Mixture of Deep Networks for Single Image Super-Resolution. [[arxiv](https://arxiv.org/abs/1701.00823)] [[code](http://t.cn/RM4pjZ4)]
+- Learning a time-dependent master saliency map from eye-tracking data in videos. [[arxiv](https://arxiv.org/abs/1702.00714)] [[code](http://antoinecoutrot.magix.net/public/saliency-with-lasso.html)]
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [[arxiv](https://arxiv.org/abs/1701.00295)]
 - Linear Disentangled Representation Learning for Facial Actions. [[arxiv](https://arxiv.org/abs/1701.03102)] [[code](https://github.com/eglxiang/FacialAU.)]
 - MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. [[arxiv](https://arxiv.org/abs/1701.02354)]
