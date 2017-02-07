@@ -44,6 +44,7 @@
 - A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction. [[arxiv](https://arxiv.org/abs/1701.06190)]
 - Cost-Effective Active Learning for Deep Image Classification. [[arxiv](https://arxiv.org/abs/1701.03551)]
 - Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks. [[arxiv](https://arxiv.org/abs/1701.04658)]
+- DCT-like Transform for Image Compression Requires 14 Additions Only. [[arxiv](https://arxiv.org/abs/1702.00817)]
 - Deep Convolutional Neural Networks for Pairwise Causality. [[arxiv](https://arxiv.org/abs/1701.00597)]
 - Deep Learning Features at Scale for Visual Place Recognition. [[arxiv](https://arxiv.org/abs/1701.05105)]
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [[arxiv](https://arxiv.org/abs/1701.08289)]
