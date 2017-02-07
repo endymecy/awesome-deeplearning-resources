@@ -110,6 +110,7 @@ I will renew the recent papers and add notes to these papers.
 | 2016 | Textsum |  | https://github.com/tensorflow/models/tree/master/textsum | 
 | 2016 | VGNA | [arxiv](https://arxiv.org/abs/1611.01799) | https://github.com/Shuangfei/vgan | 
 | 2017 | SalGAN | [arxiv](https://arxiv.org/abs/1701.01081) | https://github.com/imatge-upc/saliency-salgan-2017 | 
+| 2017 | WGAN | [arxiv](https://arxiv.org/abs/1701.07875) | https://github.com/Zardinality/WGAN-tensorflow | 
 
 # Courses
 
