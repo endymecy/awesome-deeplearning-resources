@@ -71,7 +71,8 @@
 - End-to-End Attention based Text-Dependent Speaker Verification. [[arxiv](https://arxiv.org/abs/1701.00562)]
 - <b>[HRAN]</b> Hierarchical Recurrent Attention Network for Response Generation. [[arxiv](https://arxiv.org/abs/1701.07149)] [[code](https://github.com/LynetteXing1991/HRAN)] :star:
 - Structural Attention Neural Networks for improved sentiment analysis. [[arxiv](https://arxiv.org/abs/1701.01811)]
-  
+- Structured Attention Networks. [[arxiv](https://arxiv.org/abs/1702.00887)] [[github](https://github.com/harvardnlp/struct-attn)]
+
 ### Generative learning
 
 - <b>[AdaGAN]</b> AdaGAN: Boosting Generative Models. [[arxiv](https://arxiv.org/abs/1701.02386)] :star: 
