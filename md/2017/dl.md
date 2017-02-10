@@ -58,6 +58,7 @@
 - Linear Disentangled Representation Learning for Facial Actions. [[arxiv](https://arxiv.org/abs/1701.03102)] [[code](https://github.com/eglxiang/FacialAU.)]
 - MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. [[arxiv](https://arxiv.org/abs/1701.02354)]
 - Perceptually Optimized Image Rendering. [[arxiv](https://arxiv.org/abs/1701.06641)]
+- [Pixel Recursive Super Resolution.](https://mp.weixin.qq.com/s?__biz=MzI0NDU4MDg5MA==&mid=2247484778&idx=1&sn=e9fe3cc1a8b084a79e65144720c1b11d) [[arxiv](https://arxiv.org/abs/1702.00783)] :star:
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [[arxiv](https://arxiv.org/abs/1701.08349)]
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. [[arxiv](https://arxiv.org/abs/1701.01821)]
 - Video-based Person Re-identification with Accumulative Motion Context. [[arxiv](https://arxiv.org/abs/1701.00193)]
