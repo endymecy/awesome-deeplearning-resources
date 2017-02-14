@@ -139,6 +139,7 @@ I will renew the recent papers and add notes to these papers.
 * [Reinforcement LearningState-of-the-Art](http://www.ai.rug.nl/~mwiering/RL-state-of-the-art)   
 * [A Course in Machine Learning](http://ciml.info/)
 * [深度学习入门 by PaddlePaddle](https://github.com/PaddlePaddle/book)
+* [TensorFlow For Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
 
 # Videos
 
