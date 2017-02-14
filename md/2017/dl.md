@@ -7,6 +7,7 @@
 - Alignment of dynamic networks. [[arxiv](https://arxiv.org/abs/1701.08842)]
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [[arxiv](https://arxiv.org/abs/1701.01207)]
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
+- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [[arxiv](https://arxiv.org/abs/1702.03275)] :star:
 - Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [[arxiv](https://arxiv.org/abs/1701.00458)] [[code](https://github.com/guille-c/Deep-HiTS)] :star: 
 - Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
