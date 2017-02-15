@@ -16,6 +16,7 @@
 - Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [[arXiv](https://arxiv.org/abs/1702.02171)]
 - Recurrent Recommender Networks. [[pdf](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)]
 - Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey. [[arXiv](https://arxiv.org/abs/1702.00764)]
+- Vector Embedding of Wikipedia Concepts and Entities. [[arXiv](https://arxiv.org/abs/1702.03470)] [[code](https://github.com/ehsansherkat/ConVec)]
 - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem. [[arXiv](https://arxiv.org/abs/1701.08376)]
 
 ### Attention and memory 
