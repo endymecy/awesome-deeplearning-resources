@@ -181,7 +181,6 @@ I will renew the recent papers and add notes to these papers.
 * <b>[C++]</b> PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform. [[Web](http://www.paddlepaddle.org/)]
 * <b>[C++]</b> Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)] :star:
 * <b>[Python]</b> Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
-  * <b>[Python]</b> Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)],
+  * <b>[Python]</b> Theano-based deep learning libraries: [[Blocks](https://github.com/mila-udem/blocks)], [[Lasagne](https://github.com/Lasagne/Lasagne)], [[Pylearn2](http://deeplearning.net/software/pylearn2/)]
 * <b>[Lua]</b> Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)] :star:
-  * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)],
- [[Blocks](https://github.com/mila-udem/blocks)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
+  * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)]
