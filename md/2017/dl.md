@@ -98,5 +98,6 @@
 ### Transfer learning
 
 - Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [[arxiv](https://arxiv.org/abs/1701.04928)]
+- DSSD : Deconvolutional Single Shot Detector. [[arxiv](https://arxiv.org/abs/1701.06659)]
 - Demystifying Neural Style Transfer. [[arxiv](https://arxiv.org/abs/1701.01036)]
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [[arxiv](https://arxiv.org/abs/1701.02357)]
