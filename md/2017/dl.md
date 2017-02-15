@@ -80,6 +80,7 @@
 ### Generative learning
 
 - <b>[AdaGAN]</b> AdaGAN: Boosting Generative Models. [[arxiv](https://arxiv.org/abs/1701.02386)] :star: 
+- ArtGAN: Artwork Synthesis with Conditional Categorial GANs. [[arxiv](https://arxiv.org/abs/1702.03410)]
 - Adversarial Attacks on Neural Network Policies. [[pdf](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf)] :star:
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
 - Automatic Generation of Typographic Font from a Small Font Subset. [[arxiv](https://arxiv.org/abs/1701.05703)] :star:
