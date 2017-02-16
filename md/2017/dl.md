@@ -89,7 +89,7 @@
 - Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit. [[arxiv](https://arxiv.org/abs/1702.00403)] [[code](https://github.com/SpaceML/GalaxyGAN/)]
 - Image De-raining Using a Conditional Generative Adversarial Network. [[arxiv](https://arxiv.org/abs/1701.05957)] [[caffe](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)]
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04568)]
-- Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities. [[arxiv](https://arxiv.org/abs/1701.06264)]
+- [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020) [[arxiv](https://arxiv.org/abs/1701.06264)] [[code](https://github.com/guojunq/lsgan)]
 - <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)] :star: 
 - Towards Principled Methods for Training Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04862)] :star:
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.02676)]
