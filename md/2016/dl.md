@@ -143,6 +143,7 @@
 - Video Pixel Networks. [[pdf]](docs/2016/Video Pixel Networks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjI-oHvsdjQAhULULwKHXaUDiEQFggeMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.00527&usg=AFQjCNGlHwFrxNj4ytpVH_9j92rXrFuJmg)]
 - Visual Genome-Connecting Language and Vision Using Crowdsourced Dense Image Annotations. [[pdf](docs/2016/Visual Genome- Connecting Language and Vision Using Crowdsourced Dense Image Annotations.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiznaaIstjQAhWIUbwKHXm3CVwQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.07332&usg=AFQjCNEB4phuATbdWZOBJsQU0q8N4LugeA)] :star: 
 - <b>[WaveNet]</b> WaveNet- A Generative Model For Raw Audio. [[pdf]](docs/2016/WaveNet- A Generative Model For Raw Audio.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj8ovOjstjQAhUKErwKHaJ0B3oQFggfMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1609.03499&usg=AFQjCNHo1-L-7HLzWFYtgeq1wnns5_C5SQ)] :star: 
+- YOLO9000: Better, Faster, Stronger. [[arxiv](https://arxiv.org/abs/1612.08242)] [[keras](https://github.com/allanzelener/YAD2K)] :star:
 
 ### Attention and memory
 
