@@ -102,4 +102,5 @@
 - Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [[arxiv](https://arxiv.org/abs/1701.04928)]
 - DSSD : Deconvolutional Single Shot Detector. [[arxiv](https://arxiv.org/abs/1701.06659)]
 - Demystifying Neural Style Transfer. [[arxiv](https://arxiv.org/abs/1701.01036)]
+- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[[arxiv](https://arxiv.org/abs/1701.08734)] :star:
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [[arxiv](https://arxiv.org/abs/1701.02357)]
