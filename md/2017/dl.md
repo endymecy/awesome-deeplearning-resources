@@ -88,6 +88,7 @@
 - Dense Associative Memory is Robust to Adversarial Inputs. [[arxiv](https://arxiv.org/abs/1701.00939)]
 - Face Synthesis from Facial Identity Features. [[arxiv](https://arxiv.org/abs/1701.04851)]
 - Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit. [[arxiv](https://arxiv.org/abs/1702.00403)] [[code](https://github.com/SpaceML/GalaxyGAN/)]
+- Generative Temporal Models with Memory. [[arxiv](https://arxiv.org/abs/1702.04649)]
 - Image De-raining Using a Conditional Generative Adversarial Network. [[arxiv](https://arxiv.org/abs/1701.05957)] [[caffe](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)]
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04568)]
 - [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020) [[arxiv](https://arxiv.org/abs/1701.06264)] [[code](https://github.com/guojunq/lsgan)]
