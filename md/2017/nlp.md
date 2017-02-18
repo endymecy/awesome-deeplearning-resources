@@ -22,6 +22,7 @@
 ### Attention and memory 
 
 - End-to-End Attention based Text-Dependent Speaker Verification. [[arXiv](https://arxiv.org/abs/1701.00562)]
+- Frustratingly Short Attention Spans in Neural Language Modeling. [[arXiv](https://arxiv.org/abs/1702.04521)]
 - Structural Attention Neural Networks for improved sentiment analysis. [[arXiv](https://arxiv.org/abs/1701.01811)]
 
 ### Generative learning
