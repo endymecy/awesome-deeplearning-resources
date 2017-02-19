@@ -34,6 +34,7 @@
 - Deep Neural Networks for YouTube Recommendations.[[pdf]](docs/2016/Deep Neural Networks for YouTube Recommendations.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU-vfIhdjQAhXMe7wKHclLCoIQFggbMAA&url=http%3A%2F%2Fresearch.google.com%2Fpubs%2Farchive%2F45530.pdf&usg=AFQjCNGW4ovtzUBkxT4qx4mnogD74QHfzA)]
 - Deep Portfolio Theory. [[url](https://arxiv.org/pdf/1605.07230.pdf)]
 - Deeply-Fused Nets. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjm87i4htjQAhXHxLwKHRW4CfkQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07716&usg=AFQjCNFr85h2BVJrvAqLlIqT_JhQP7wnzA)] :star: 
+- Densely Connected Convolutional Networks. [[arxiv](https://arxiv.org/abs/1608.06993)] [[pytorch](https://github.com/andreasveit/densenet-pytorch)] :star:
 - Density estimation using Real NVP. [[arxiv](https://arxiv.org/abs/1605.08803)] [[tensorflow](https://github.com/tensorflow/models/tree/master/real_nvp)]
 - Discrete-State Variational Autoencoders for Joint Discovery and Factorization of Relations. 
 - Domain Separation Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwij0dG5oI7RAhVriVQKHV3gAfwQFggsMAE&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6254-domain-separation-networks.pdf&usg=AFQjCNFRd_0epq_0QAs21drboBmgCRdg1A)]
