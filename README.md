@@ -140,6 +140,7 @@ I will renew the recent papers and add notes to these papers.
 * [A Course in Machine Learning](http://ciml.info/)
 * [深度学习入门 by PaddlePaddle](https://github.com/PaddlePaddle/book)
 * [TensorFlow For Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
+* [First Contact With TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/)
 
 # Videos
 
