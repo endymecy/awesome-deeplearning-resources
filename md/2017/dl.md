@@ -52,6 +52,7 @@
 - DCT-like Transform for Image Compression Requires 14 Additions Only. [[arxiv](https://arxiv.org/abs/1702.00817)]
 - Deep Convolutional Neural Networks for Pairwise Causality. [[arxiv](https://arxiv.org/abs/1701.00597)]
 - Deep Learning Features at Scale for Visual Place Recognition. [[arxiv](https://arxiv.org/abs/1701.05105)]
+- Deep Hybrid Similarity Learning for Person Re-identification. [[arxiv](https://arxiv.org/abs/1702.04858)]
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [[arxiv](https://arxiv.org/abs/1701.08289)]
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [[arxiv](https://arxiv.org/abs/1701.08251)]
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [[arxiv](https://arxiv.org/abs/1701.02096)] [[code](https://github.com/DmitryUlyanov/texture_nets)]
