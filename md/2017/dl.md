@@ -85,6 +85,7 @@
 - <b>[AdaGAN]</b> AdaGAN: Boosting Generative Models. [[arxiv](https://arxiv.org/abs/1701.02386)] :star: 
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs. [[arxiv](https://arxiv.org/abs/1702.03410)]
 - [Adversarial Attacks on Neural Network Policies.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993385&idx=2&sn=b381743378a7cfb04abc807f4a5b2f40) [[pdf](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf)] :star:
+- Adversarial Discriminative Domain Adaptation. [[arxiv](https://arxiv.org/abs/1702.05464)]
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [[arxiv](https://arxiv.org/abs/1701.00188)]
 - Automatic Generation of Typographic Font from a Small Font Subset. [[arxiv](https://arxiv.org/abs/1701.05703)] :star:
 - Dense Associative Memory is Robust to Adversarial Inputs. [[arxiv](https://arxiv.org/abs/1701.00939)]
