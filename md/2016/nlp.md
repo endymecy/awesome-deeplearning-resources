@@ -83,6 +83,7 @@
 - Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation. [[arxiv](https://arxiv.org/abs/1607.00970)]
 - Sequential Match Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots. [[arxiv](https://arxiv.org/abs/1612.01627)]
 - Structured Sequence Modeling with Graph Convolutional Recurrent Networks. *arXiv*. [[arxiv](https://arxiv.org/abs/1612.07659)]
+- TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency. [[arxiv](https://arxiv.org/abs/1611.01702)]
 - Tracking the World State with Recurrent Entity Networks . [[arxiv](https://arxiv.org/abs/1612.03969)] :star: 
 - Tweet2Vec: Learning Tweet Embeddings Using Character-level CNN-LSTM Encoder-Decoder. *arXiv*.[[arxiv](https://arxiv.org/abs/1607.07514)] [[code](https://github.com/soroushv/Tweet2Vec)]
 - Unsupervised Learning of Sentence Representations using Convolutional Neural Networks. [[url](https://arxiv.org/abs/1611.07897)]
