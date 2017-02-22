@@ -161,6 +161,7 @@ I will renew the recent papers and add notes to these papers.
 
 - python
     - <b>[Chainer]</b> Chainer bridge the gap between algorithms and implementations of deep learning. [[Web](http://chainer.org/)]
+    - <b>[ChainerRL]</b> ChainerRL is a deep reinforcement learning library built on top of Chainer. [[Web](https://github.com/pfnet/chainerrl)]
     - <b>[DeepPy]</b> DeepPy is a Pythonic deep learning framework built on top of NumPy.[[Web](https://github.com/andersbll/deeppy)]
     - <b>[Deepnet]</b> Deepnet: a GPU-based python implementation of deep learning algorithms. [[Web](https://github.com/nitishsrivastava/deepnet)]
     - <b>[Deepgaze]</b> Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
