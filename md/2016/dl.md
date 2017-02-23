@@ -200,7 +200,7 @@
 - <b>[iGNA]</b> Generative Visual Manipulation on the Natural Image Manifold. [[berkeley](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/)] [[code](https://github.com/junyanz/iGAN)] :star: 
 - Generating Videos with Scene Dynamics. [[pdf](http://web.mit.edu/vondrick/tinyvideo/paper.pdf)] [[code](https://github.com/cvondrick/videogan)] [[tensorflow](https://github.com/Yuliang-Zou/tf_videogan)]:star:
 - How to Train a GAN. [[code](https://github.com/soumith/ganhacks)] :star:
-- Image-to-Image Translation with Conditional Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.07004)] [[tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)]
+- <b>[Pix2Pix]</b>Image-to-Image Translation with Conditional Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.07004)] [[tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)]
 - <b>[Improved GAN]</b> Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation. [[arxiv](https://arxiv.org/abs/1612.08354)] :star: 
 - [Improved Techniques for Training GANs.](http://blog.csdn.net/layumi1993/article/details/52413235) [[arxiv](https://arxiv.org/abs/1606.03498)] [[code](https://github.com/openai/improved-gan)] :star: 
 - <b>[InfoGAN]</b> [Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.](http://blog.csdn.net/Layumi1993/article/details/52474554) [[arxiv](https://arxiv.org/abs/1606.03657)] [[code](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/InfoGAN)] [[tensorflow](https://github.com/buriburisuri/supervised_infogan)] :star: 
