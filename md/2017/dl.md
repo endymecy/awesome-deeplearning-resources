@@ -70,6 +70,7 @@
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [[arxiv](https://arxiv.org/abs/1701.08349)]
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. [[arxiv](https://arxiv.org/abs/1701.01821)]
 - Video-based Person Re-identification with Accumulative Motion Context. [[arxiv](https://arxiv.org/abs/1701.00193)]
+- ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection. [[arxiv](https://arxiv.org/abs/1702.07191)]
 - [Visualizing Residual Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650722569&idx=4&sn=28edc09238076e924c94ac1094ddfa53) [[arxiv](https://arxiv.org/abs/1701.02362)] :star:
 - [Wide-Residual-Inception Networks for Real-time Object Detection.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723042&idx=5&sn=575a4de5c895487616f20228e9d15f43) [[arxiv](https://arxiv.org/abs/1702.01243)] :star:
     
@@ -99,11 +100,11 @@
 - Generative Temporal Models with Memory. [[arxiv](https://arxiv.org/abs/1702.04649)]
 - Image De-raining Using a Conditional Generative Adversarial Network. [[arxiv](https://arxiv.org/abs/1701.05957)] [[caffe](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)]
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04568)]
+- Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1702.07319)]
 - [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020) [[arxiv](https://arxiv.org/abs/1701.06264)] [[code](https://github.com/guojunq/lsgan)]
 - <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)] :star: 
 - Towards Principled Methods for Training Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04862)] :star:
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.02676)]
-- ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection. [[arxiv](https://arxiv.org/abs/1702.07191)]
 - <b>[WGAN]</b> [Wasserstein GAN.](https://zhuanlan.zhihu.com/p/25071913) [[arxiv](https://arxiv.org/abs/1701.07875)] [[code](https://github.com/martinarjovsky/WassersteinGAN)] [[tensorflow](https://github.com/Zardinality/WGAN-tensorflow)]:star:
   
 
