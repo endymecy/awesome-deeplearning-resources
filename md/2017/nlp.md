@@ -12,6 +12,7 @@
 - Learning Arbitrary Potentials in CRFs with Gradient Descent. [[arXiv](https://arxiv.org/abs/1701.06805)]
 - Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities. [[arXiv](https://arxiv.org/abs/1701.02025)]
 - Neural Probabilistic Model for Non-projective MST Parsing. [[arXiv](https://arxiv.org/abs/1701.00874)]
+- One Representation per Word - Does it make Sense for Composition?.  [[arXiv](https://arxiv.org/abs/1702.06696)]
 - Outlier Detection for Text Data : An Extended Version. [[arXiv](https://128.84.21.199/abs/1701.01325v1)]
 - Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [[arXiv](https://arxiv.org/abs/1702.02171)]
 - Recurrent Recommender Networks. [[pdf](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)]
