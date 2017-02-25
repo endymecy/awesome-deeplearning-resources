@@ -111,7 +111,7 @@
 - Coherent Dialogue with Attention-based Language Models. [[arxiv](https://arxiv.org/abs/1611.06997)]
 - Collective Entity Resolution with Multi-Focal Attention.  [[aclweb](https://www.aclweb.org/anthology/P/P16/P16-1059.pdf)]
 - [Gated-Attention Readers for Text Comprehension.](https://theneuralperspective.com/2017/01/19/gated-attention-readers-for-text-comprehension/) [[pdf]](docs/2016/Gated-Attention Readers for Text Comprehension.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi03LiIjNjQAhUFO7wKHXUmAE4QFggnMAE&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHkcdHtqlx&usg=AFQjCNF8nqsWtlgBgepZz-U1diL7mcGaYg)]
-- Hierarchical Attention Networks for Document Classification. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiF7N7ej9jQAhWIu7wKHVmKB6MQFgggMAA&url=https%3A%2F%2Fwww.cs.cmu.edu%2F~diyiy%2Fdocs%2Fnaacl16.pdf&usg=AFQjCNFokKFJ1g7WQSDYkYEM82XwhGiDGw)] :star: 
+- Hierarchical Attention Networks for Document Classification. [[pdf](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)] [[tensorflow](https://github.com/raviqqe/tensorflow-font2char2word2sent2doc)]:star: 
 - Hierarchical Memory Networks for Answer Selection on Unknown Words. [[arxiv](https://arxiv.org/abs/1609.08843)]
 - Implicit Distortion and Fertility Models for Attention-based Encoder-Decoder NMT Model. [[arxiv](https://arxiv.org/abs/1601.03317)]
 - Improving Attention Modeling with Implicit Distortion and Fertility for Machine Translation. [[pdf](https://www.aclweb.org/anthology/C/C16/C16-1290.pdf)]
