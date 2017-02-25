@@ -70,7 +70,7 @@ I will renew the recent papers and add notes to these papers.
 
 | year | name |  paper | code |
 | ------ | ------ | -------- | ------ | ------ |
-| 2012 | AlexNet | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | https://code.google.com/p/cuda-convnet/ |
+| 2012 | AlexNet | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | https://github.com/kratzert/finetune_alexnet_with_tensorflow |
 | 2013 | RCNN | [arxiv](https://arxiv.org/abs/1311.2524) | https://github.com/rbgirshick/rcnn | 
 | 2014 | CGNA | [arxiv](https://arxiv.org/abs/1411.1784) | https://github.com/zhangqianhui/Conditional-Gans | 
 | 2014 | DeepFaceVariant | [pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf) | https://github.com/joyhuang9473/deepid-implementation | 
