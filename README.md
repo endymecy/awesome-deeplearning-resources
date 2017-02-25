@@ -123,7 +123,7 @@ I will renew the recent papers and add notes to these papers.
 * [Berkeley] [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 * [Berkeley] [Stat212b：Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
 * [MIT] [S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-* [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
+* [CUHK] [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
 * [Stanford] [CS20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [Stanford] [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
 * [MIT] [S191: Introduction to Deep Learning](http://introtodeeplearning.com/schedule.html)
