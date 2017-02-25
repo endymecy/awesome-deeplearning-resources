@@ -178,13 +178,14 @@ I will renew the recent papers and add notes to these papers.
         - <b>[Blocks]</b> Blocks is a framework that helps you build neural network models on top of Theano [[Web](https://github.com/mila-udem/blocks)] :star:
         - <b>[Lasagne]</b> Lightweight library to build and train neural networks in Theano. [[Web](https://github.com/Lasagne/Lasagne)]
 - C++
-    - <b>[Singa]</b> Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
     - <b>[Caffe]</b> Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)] :star:
     - <b>[CNTK] </b>CNTK:The Microsoft Cognitive Toolkit. [[Web](https://github.com/Microsoft/CNTK)]
+    - <b>[DIGITS]</b> NVIDIA DIGITS is a new system for developing, training and visualizing deep neural networks. [[Web](https://developer.nvidia.com/digits)]
+    - <b>[DSSTNE]</b>DSSTNE is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models. [[Web](https://github.com/amznlabs/amazon-dsstne)]
+    - <b>[PaddlePaddle]</b> PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform. [[Web](http://www.paddlepaddle.org/)]
     - <b>[MXNet]</b> MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)] :star:
         - <b>[MinPy]</b> MinPy: Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend. [[Web](https://github.com/dmlc/minpy)]
-    - <b>[DIGITS]</b> NVIDIA DIGITS is a new system for developing, training and visualizing deep neural networks. [[Web](https://developer.nvidia.com/digits)]
-    - <b>[PaddlePaddle]</b> PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform. [[Web](http://www.paddlepaddle.org/)]
+    - <b>[Singa]</b> Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
     - <b>[Tensorflow]</b> Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)] :star:
 - Java
     - <b>[Deeplearning4J]</b> Deeplearning4J: Neural Net Platform. [[Web](https://github.com/deeplearning4j/deeplearning4j)] 
