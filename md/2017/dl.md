@@ -103,6 +103,7 @@
 - <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.01081)] [[code](https://github.com/imatge-upc/saliency-salgan-2017)] :star: 
 - Towards Principled Methods for Training Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04862)] :star:
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.02676)]
+- ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection. [[arxiv](https://arxiv.org/abs/1702.07191)]
 - <b>[WGAN]</b> [Wasserstein GAN.](https://zhuanlan.zhihu.com/p/25071913) [[arxiv](https://arxiv.org/abs/1701.07875)] [[code](https://github.com/martinarjovsky/WassersteinGAN)] [[tensorflow](https://github.com/Zardinality/WGAN-tensorflow)]:star:
   
 
