@@ -101,6 +101,7 @@ I will renew the recent papers and add notes to these papers.
 | 2016 | Multiple_teachers | [arxiv](https://arxiv.org/abs/1610.05755) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
 | 2016 | Neural Programmer | [pdf](https://openreview.net/pdf?id=ry2YOrcge) | https://github.com/tensorflow/models/tree/master/neural_programmer | 
 | 2016 | PCNN | [arxiv](https://arxiv.org/abs/1606.05328) | https://github.com/kundan2510/pixelCNN | 
+| 2016 | Pix2Pix | [arxiv](https://arxiv.org/abs/1611.07004) | https://github.com/yenchenlin/pix2pix-tensorflow | 
 | 2016 | PVANet | [arxiv](https://arxiv.org/abs/1611.08588) | https://github.com/sanghoon/pva-faster-rcnn | 
 | 2016 | R-FCN | [arxiv](https://arxiv.org/abs/1605.06409) | https://github.com/Orpine/py-R-FCN | 
 | 2016 | SeqGAN | [pdf](https://github.com/endymecy/awesome-deeplearning-papers/blob/master/md/2016/docs/2016/SeqGAN-%20Sequence%20Generative%20Adversarial%20Nets%20with%20Policy%20Gradient.pdf) | https://github.com/LantaoYu/SeqGAN | 

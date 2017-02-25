@@ -201,7 +201,7 @@
 - <b>[iGNA]</b> Generative Visual Manipulation on the Natural Image Manifold. [[berkeley](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/)] [[code](https://github.com/junyanz/iGAN)] :star: 
 - Generating Videos with Scene Dynamics. [[pdf](http://web.mit.edu/vondrick/tinyvideo/paper.pdf)] [[code](https://github.com/cvondrick/videogan)] [[tensorflow](https://github.com/Yuliang-Zou/tf_videogan)]:star:
 - How to Train a GAN. [[code](https://github.com/soumith/ganhacks)] :star:
-- <b>[Pix2Pix]</b>Image-to-Image Translation with Conditional Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.07004)] [[tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)]
+- <b>[Pix2Pix]</b>Image-to-Image Translation with Conditional Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.07004)] [[tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)] :star:
 - <b>[Improved GAN]</b> Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation. [[arxiv](https://arxiv.org/abs/1612.08354)] :star: 
 - [Improved Techniques for Training GANs.](http://blog.csdn.net/layumi1993/article/details/52413235) [[arxiv](https://arxiv.org/abs/1606.03498)] [[code](https://github.com/openai/improved-gan)] :star: 
 - <b>[InfoGAN]</b> [Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.](http://blog.csdn.net/Layumi1993/article/details/52474554) [[arxiv](https://arxiv.org/abs/1606.03657)] [[code](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/InfoGAN)] [[tensorflow](https://github.com/buriburisuri/supervised_infogan)] :star: 
@@ -234,7 +234,7 @@
 - Pixel-Level Domain Transfer. [[arxiv](https://arxiv.org/abs/1603.07442)]
 - [Progressive Neural Networks.](http://www.cnblogs.com/wangxiaocvpr/p/6002214.html) [[pdf]](docs/2016/Progressive Neural Networks.pdf) [[arxiv](https://arxiv.org/abs/1606.04671)] :star: 
 - Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks. [[arxiv](https://arxiv.org/abs/1603.01768)] [[code](https://github.com/alexjc/neural-doodle)] :star: 
-- Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. [[arxiv](https://arxiv.org/abs/1610.05755)] [[tensorflow](https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers)] :star:
+- <b>[Best Paper]</b>Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. [[arxiv](https://arxiv.org/abs/1610.05755)] [[tensorflow](https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers)] :star:
   
 ### One/zero-shot learning
 
