@@ -142,6 +142,7 @@ I will renew the recent papers and add notes to these papers.
 * [深度学习入门 by PaddlePaddle](https://github.com/PaddlePaddle/book)
 * [TensorFlow For Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
 * [First Contact With TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/)
+* [Learning scikit-learn: Machine Learning in Python](https://github.com/gmonce/scikit-learn-book)
 
 # Videos
 
