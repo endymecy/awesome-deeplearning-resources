@@ -172,10 +172,10 @@ I will renew the recent papers and add notes to these papers.
     - <b>[Keras]</b> Keras: Deep Learning library for Theano and TensorFlow. [[Web](https://keras.io/)] :star:
     - <b>[Kur]</b> Kur: Descriptive Deep Learning. [[Web](https://github.com/deepgram/kur)] :star:
     - <b>[Neon]</b> Neon is Nervana's Python based Deep Learning framework.[[Web](https://github.com/NervanaSystems/neon)]
-    - <b>[PyTorch]</b> Tensors and Dynamic neural networks in Python with strong GPU acceleration. [[Web](http://pytorch.org/)]
+    - <b>[PyTorch]</b> Tensors and Dynamic neural networks in Python with strong GPU acceleration. [[Web](http://pytorch.org/)] :star:
     - <b>[Theano]</b> Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
         - <b>[Pylearn2]</b> Theano-based deep learning libraries: [[Web](http://deeplearning.net/software/pylearn2/)]
-        - <b>[Blocks]</b> Blocks is a framework that helps you build neural network models on top of Theano [[Web](https://github.com/mila-udem/blocks)]
+        - <b>[Blocks]</b> Blocks is a framework that helps you build neural network models on top of Theano [[Web](https://github.com/mila-udem/blocks)] :star:
         - <b>[Lasagne]</b> Lightweight library to build and train neural networks in Theano. [[Web](https://github.com/Lasagne/Lasagne)]
 - C++
     - <b>[Singa]</b> Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
