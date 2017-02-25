@@ -160,7 +160,7 @@
 - Hybrid computing using a neural network with dynamic external memory. [[url](https://news.ycombinator.com/item?id=12694779)] :star: 
 - Hierarchical Memory Networks. [[arxiv](https://arxiv.org/abs/1605.07427)]
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning. [[arxiv](https://arxiv.org/abs/1612.01887)]
-- <b>[LightRNN]</b> LightRNN: Memory and Computation-Efficient Recurrent Neural Networks.[[arxiv](https://arxiv.org/abs/1610.09893)] :star: 
+- <b>[LightRNN]</b> LightRNN: Memory and Computation-Efficient Recurrent Neural Networks.[[arxiv](https://arxiv.org/abs/1610.09893)] [[tensorflow](https://github.com/YisenWang/LightRNN-NIPS2016-Tensorflow_code)]:star: 
 - Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer. [[arxiv](https://arxiv.org/abs/1612.03928)] [[code](https://github.com/szagoruyko/attention-transfer)]
 - Prioritizing Attention in Fast Data: Principles and Promise.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwit8PWH3YbRAhVhylQKHWaEB7sQFggjMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%62%61%69%6c%69%73%2e%6f%72%67%2f%70%61%70%65%72%73%2f%66%61%73%74%64%61%74%61%2d%63%69%64%72%32%30%31%37%2e%70%64%66&usg=AFQjCNGjaCZQibbMWVBbnEsobBSFqhtiqQ)]
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj87ID_p9jQAhXMbbwKHWsGCa8QFggtMAE&url=http%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2016%2Fpapers%2FLee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf&usg=AFQjCNHu6HWiCwoAQHidVLJlIwBf0vTsqA)] :star: 
