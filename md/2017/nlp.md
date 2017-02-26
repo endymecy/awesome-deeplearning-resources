@@ -14,7 +14,7 @@
 - Neural Probabilistic Model for Non-projective MST Parsing. [[arXiv](https://arxiv.org/abs/1701.00874)]
 - One Representation per Word - Does it make Sense for Composition?.  [[arXiv](https://arxiv.org/abs/1702.06696)]
 - Outlier Detection for Text Data : An Extended Version. [[arXiv](https://128.84.21.199/abs/1701.01325v1)]
-- Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [[arXiv](https://arxiv.org/abs/1702.02171)]
+- Person Search with Natural Language Description. [[arXiv](https://arxiv.org/abs/1702.05729)]
 - Recurrent Recommender Networks. [[pdf](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)]
 - Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey. [[arXiv](https://arxiv.org/abs/1702.00764)]
 - Vector Embedding of Wikipedia Concepts and Entities. [[arXiv](https://arxiv.org/abs/1702.03470)] [[code](https://github.com/ehsansherkat/ConVec)]
