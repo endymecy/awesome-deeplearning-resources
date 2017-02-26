@@ -118,4 +118,6 @@
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[[arxiv](https://arxiv.org/abs/1701.08734)] :star:
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [[arxiv](https://arxiv.org/abs/1701.02357)]
 - Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [[pdf](https://openreview.net/pdf?id=HkpbnufYe)]
+- Transferring Face Verification Nets To Pain and Expression Regression. [[arxiv](https://arxiv.org/abs/1702.06925)] [[code](https://github.com/happynear/PainRegression)]
+  
 
