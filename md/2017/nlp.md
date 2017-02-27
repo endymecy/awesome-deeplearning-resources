@@ -17,7 +17,7 @@
 - Person Search with Natural Language Description. [[arXiv](https://arxiv.org/abs/1702.05729)]
 - Recurrent Recommender Networks. [[pdf](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)]
 - Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey. [[arXiv](https://arxiv.org/abs/1702.00764)]
-- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [[arXiv](https://arxiv.org/abs/1702.04488)]
+- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [[arXiv](https://arxiv.org/abs/1702.04488)] [[code](https://github.com/jincy520/Low-Resource-CWS-)]
 - Vector Embedding of Wikipedia Concepts and Entities. [[arXiv](https://arxiv.org/abs/1702.03470)] [[code](https://github.com/ehsansherkat/ConVec)]
 - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem. [[arXiv](https://arxiv.org/abs/1701.08376)]
 

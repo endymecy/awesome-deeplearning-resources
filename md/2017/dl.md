@@ -6,6 +6,7 @@
 - A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe. [[arxiv](https://arxiv.org/abs/1701.04949)]
 - Alignment of dynamic networks. [[arxiv](https://arxiv.org/abs/1701.08842)]
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [[arxiv](https://arxiv.org/abs/1701.01207)]
+- A Probabilistic Framework for Location Inference from Social Media. [[arxiv](https://arxiv.org/abs/1702.07281)]
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [[arxiv](https://arxiv.org/abs/1702.03275)] :star:
 - Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [[arxiv](https://arxiv.org/abs/1702.05870)]
