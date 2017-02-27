@@ -22,6 +22,7 @@
 - Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [[arxiv](https://arxiv.org/abs/1701.05923)]
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [[arxiv](https://arxiv.org/abs/1701.05616)]
+- Learning Chained Deep Features and Classifiers for Cascade in Object Detection. [[arxiv](https://arxiv.org/abs/1702.07054)]
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [[arxiv](https://arxiv.org/abs/1702.00763)]
 - Network Backboning with Noisy Data. [[arxiv](https://arxiv.org/abs/1701.07336)]
