@@ -73,6 +73,7 @@
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection.  [[arxiv](https://arxiv.org/abs/1702.05552)]
 - SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person. [[arxiv](https://arxiv.org/abs/1702.04069)]
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [[arxiv](https://arxiv.org/abs/1701.08349)]
+- Using Deep Learning and Google Street View to Estimate the Demographic Makeup of the US. [[arxiv](https://arxiv.org/abs/1702.06683)] :star:
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. [[arxiv](https://arxiv.org/abs/1701.01821)]
 - Video-based Person Re-identification with Accumulative Motion Context. [[arxiv](https://arxiv.org/abs/1701.00193)]
 - ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection. [[arxiv](https://arxiv.org/abs/1702.07191)]
