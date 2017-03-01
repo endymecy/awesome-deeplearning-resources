@@ -2,6 +2,7 @@
 
 ### Deep learning
 
+- Activation Ensembles for Deep Neural Networks. [[arxiv](https://arxiv.org/abs/1702.07790)]
 - A GPU-Based Solution to Fast Calculation of Betweenness Centrality on Large Weighted Networks. [[arxiv](https://arxiv.org/abs/1701.05975)]
 - A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe. [[arxiv](https://arxiv.org/abs/1701.04949)]
 - Alignment of dynamic networks. [[arxiv](https://arxiv.org/abs/1701.08842)]
