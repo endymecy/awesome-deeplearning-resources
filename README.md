@@ -184,6 +184,7 @@ I will renew the recent papers and add notes to these papers.
 - C++
     - <b>[Caffe]</b> Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)] :star:
     - <b>[CNTK] </b>CNTK:The Microsoft Cognitive Toolkit. [[Web](https://github.com/Microsoft/CNTK)]
+    - <b>[DeepDetect] </b>DeepDetect : Open Source Deep Learning Server & API [[Web](https://deepdetect.com/)]
     - <b>[DIGITS]</b> NVIDIA DIGITS is a new system for developing, training and visualizing deep neural networks. [[Web](https://developer.nvidia.com/digits)]
     - <b>[DSSTNE]</b>DSSTNE is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models. [[Web](https://github.com/amznlabs/amazon-dsstne)]
     - <b>[PaddlePaddle]</b> PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform. [[Web](http://www.paddlepaddle.org/)]
