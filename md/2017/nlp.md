@@ -16,6 +16,7 @@
 - One Representation per Word - Does it make Sense for Composition?.  [[arXiv](https://arxiv.org/abs/1702.06696)]
 - Outlier Detection for Text Data : An Extended Version. [[arXiv](https://128.84.21.199/abs/1701.01325v1)]
 - Person Search with Natural Language Description. [[arXiv](https://arxiv.org/abs/1702.05729)]
+- Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations. [[arXiv](https://arxiv.org/abs/1702.07826)] :star:
 - Recurrent Recommender Networks. [[pdf](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)]
 - Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey. [[arXiv](https://arxiv.org/abs/1702.00764)]
 - Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [[arXiv](https://arxiv.org/abs/1702.04488)] [[code](https://github.com/jincy520/Low-Resource-CWS-)]
