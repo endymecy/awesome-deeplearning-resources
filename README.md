@@ -191,6 +191,7 @@ I will renew the recent papers and add notes to these papers.
         - <b>[MinPy]</b> MinPy: Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend. [[Web](https://github.com/dmlc/minpy)]
     - <b>[Singa]</b> Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
     - <b>[Tensorflow]</b> Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)] :star:
+    - <b>[Tiny-dnn]</b> Tiny-dnn is a C++11 implementation of deep learning. [[Web](https://github.com/tiny-dnn/tiny-dnn)]
 - Java
     - <b>[CoreNLP]</b> Stanford CoreNLP: A Java suite of core NLP tools. [[Web](https://github.com/stanfordnlp/CoreNLP)] 
     - <b>[Deeplearning4J]</b> Deeplearning4J: Neural Net Platform. [[Web](https://github.com/deeplearning4j/deeplearning4j)] 
