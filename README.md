@@ -11,7 +11,6 @@ You should find the papers and software with star flag are more important or pop
 - [Model Zoo](#model-zoo)
 - [Courses](#courses)
 - [Books](#books)
-- [Videos](#videos)
 - [Software](#software)
 
 # Papers
@@ -129,6 +128,11 @@ You should find the papers and software with star flag are more important or pop
 * [Stanford] [CS20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [Stanford] [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
 * [MIT] [S191: Introduction to Deep Learning](http://introtodeeplearning.com/schedule.html)
+* [吴立德] [《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
+* [Oxford] [Deep Learning Course](http://www.computervisiontalks.com/tag/deep-learning-course/)
+* [David Silver] [RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
+* [MIT] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+* [Google] [Udacity Deep Learning Online Course](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
 
 # Books
 
@@ -145,22 +149,7 @@ You should find the papers and software with star flag are more important or pop
 * [TensorFlow For Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
 * [First Contact With TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/)
 * [Learning scikit-learn: Machine Learning in Python](https://github.com/gmonce/scikit-learn-book)
-
-# Videos
-
-* Talks
-  * [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24)
-  * [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs)
-  * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
-  * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
-* Courses
-  * [Deep Learning Course – Nando de Freitas@Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
-  * [吴立德 《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
-  * [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
-  * [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
-  * [Udacity Deep Learning Online Course, by google](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
-  * [Foundations of Machine Learning Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
-  
+ 
 # Software
 
 - python
