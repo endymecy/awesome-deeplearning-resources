@@ -31,7 +31,8 @@
 ### Generative learning
 
 - [Adversarial Learning for Neural Dialogue Generation.](https://zhuanlan.zhihu.com/p/25027693) [[arXiv](https://arxiv.org/abs/1701.06547)]
-
+- Improved Variational Autoencoders for Text Modeling using Dilated Convolutions. [[arXiv](https://arxiv.org/abs/1702.08139)] 
+  
 ### Transfer learning
 
 - Domain Adaptation in Question Answering. [[arXiv](https://arxiv.org/abs/1702.02171)]
