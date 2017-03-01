@@ -199,6 +199,8 @@ I will renew the recent papers and add notes to these papers.
 - Julia
     - <b>[Knet]</b> Knet: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia. [[Web](https://github.com/denizyuret/Knet.jl)]
     - <b>[Mocha]</b> Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
+- Js
+    - <b>[Keras-js]</b> Run Keras models (tensorflow backend) in the browser, with GPU support.[[Web](https://github.com/transcranial/keras-js)] 
 - Matlab
     - <b>[MatConvNet]</b> MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
 - Lua
