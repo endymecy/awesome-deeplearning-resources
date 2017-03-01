@@ -4,6 +4,7 @@
 
 - Automatic Rule Extraction from Long Short Term Memory Networks. [[arXiv](https://arxiv.org/abs/1702.02540)]
 - Deep Recurrent Neural Network for Protein Function Prediction from Sequence. [[arXiv](https://arxiv.org/abs/1701.08318)]
+- Deep Voice: Real-time Neural Text-to-Speech. [[arXiv](https://arxiv.org/abs/1702.07825)] :star:
 - Dialog Context Language Modeling with Recurrent Neural Networks. [[arXiv](https://arxiv.org/abs/1701.04056)]
 - dna2vec: Consistent vector representations of variable-length k-mers. [[arXiv](https://arxiv.org/abs/1701.06279)] [[code](https://pnpnpn.github.io/dna2vec/)]
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [[arXiv](https://arxiv.org/abs/1701.00946)]
