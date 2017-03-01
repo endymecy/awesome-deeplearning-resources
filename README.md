@@ -169,6 +169,7 @@ I will renew the recent papers and add notes to these papers.
     - <b>[Deepgaze]</b> Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
     - <b>[DeepQA]</b> Tensorflow implementation of "A neural conversational model", a Deep learning based chatbot. [[Web](https://github.com/Conchylicultor/DeepQA#deep-qa)]
     - <b>[Edward]</b> Edward: A library for probabilistic modeling, inference, and criticism. [[Web](http://edwardlib.org/)]
+    - <b>[Elephas]</b> Distributed Deep learning with Keras & Spark. [[Web](https://github.com/maxpumperla/elephas)]
     - <b>[Gensim]</b> Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.[[Web](http://radimrehurek.com/gensim/)]
     - <b>[Hebel]</b> Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA. [[Web](https://github.com/hannes-brt/hebel)]
     - <b>[Keras]</b> Keras: Deep Learning library for Theano and TensorFlow. [[Web](https://keras.io/)] :star:
