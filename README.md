@@ -194,6 +194,7 @@ I will renew the recent papers and add notes to these papers.
     - <b>[CoreNLP]</b> Stanford CoreNLP: A Java suite of core NLP tools. [[Web](https://github.com/stanfordnlp/CoreNLP)] 
     - <b>[Deeplearning4J]</b> Deeplearning4J: Neural Net Platform. [[Web](https://github.com/deeplearning4j/deeplearning4j)] 
     - <b>[Librec]</b> LibRec: A Java Library for Recommender Systems. [[Web](https://github.com/guoguibing/librec)] 
+    - <b>[NeuralNetworks]</b> This is a Java implementation of some of the algorithms for training deep neural networks. [[Web](https://github.com/ivan-vasilev/neuralnetworks)] 
 - Julia
     - <b>[Knet]</b> Knet: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia. [[Web](https://github.com/denizyuret/Knet.jl)]
     - <b>[Mocha]</b> Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
