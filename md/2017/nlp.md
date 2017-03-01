@@ -19,7 +19,6 @@
 - Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations. [[arXiv](https://arxiv.org/abs/1702.07826)] :star:
 - Recurrent Recommender Networks. [[pdf](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)]
 - Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey. [[arXiv](https://arxiv.org/abs/1702.00764)]
-- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [[arXiv](https://arxiv.org/abs/1702.04488)] [[code](https://github.com/jincy520/Low-Resource-CWS-)]
 - Vector Embedding of Wikipedia Concepts and Entities. [[arXiv](https://arxiv.org/abs/1702.03470)] [[code](https://github.com/ehsansherkat/ConVec)]
 - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem. [[arXiv](https://arxiv.org/abs/1701.08376)]
 
@@ -32,3 +31,8 @@
 ### Generative learning
 
 - [Adversarial Learning for Neural Dialogue Generation.](https://zhuanlan.zhihu.com/p/25027693) [[arXiv](https://arxiv.org/abs/1701.06547)]
+
+### Transfer learning
+
+- Domain Adaptation in Question Answering. [[arXiv](https://arxiv.org/abs/1702.02171)]
+- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [[arXiv](https://arxiv.org/abs/1702.04488)] [[code](https://github.com/jincy520/Low-Resource-CWS-)]
