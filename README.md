@@ -204,3 +204,6 @@ You should find the papers and software with star flag are more important or pop
 
 - pytorch
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
+    - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
+- theano
+    - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
