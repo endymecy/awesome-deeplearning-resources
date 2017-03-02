@@ -12,6 +12,7 @@
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [[arxiv](https://arxiv.org/abs/1702.03275)] :star:
 - Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [[arxiv](https://arxiv.org/abs/1702.05870)]
 - DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [[arxiv](https://arxiv.org/abs/1702.04280)]
+- [Deep and Hierarchical Implicit Models.](http://dustintran.com/blog/deep-and-hierarchical-implicit-models) [[arxiv](https://arxiv.org/abs/1702.08896)]
 - <b>[Deep Forest] </b>[Deep Forest: Towards An Alternative to Deep Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651994082&idx=1&sn=3a1f21ab37ea8322c6700f660b71648a) [[arxiv](https://arxiv.org/abs/1702.08835)] :star:
 - Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [[arxiv](https://arxiv.org/abs/1701.00458)] [[code](https://github.com/guille-c/Deep-HiTS)] :star: 
 - Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
@@ -41,7 +42,7 @@
 - Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures Via Semantic Representation. [[arxiv](https://arxiv.org/abs/1701.00804)]
 - Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1701.03441)] [[code](https://github.com/jingweimo/Modified-LSTM)] :star: 
 - Statistical inference for network samples using subgraph counts. [[arxiv](https://arxiv.org/abs/1701.00505)]
-- Steerable CNNs. *ICLR* [[pdf](https://openreview.net/pdf?id=rJQKYt5ll)]
+- Steerable CNNs. [[pdf](https://openreview.net/pdf?id=rJQKYt5ll)]
 - Stochastic Subsampling for Factorizing Huge Matrices. [[arxiv](https://arxiv.org/abs/1701.05363)] [[code](https://github.com/arthurmensch/modl)]
 - The Power of Sparsity in Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1702.06257)]
 - To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [[arxiv](https://arxiv.org/abs/1701.01692)]
