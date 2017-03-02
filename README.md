@@ -12,6 +12,7 @@ You should find the papers and software with star flag are more important or pop
 - [Courses](#courses)
 - [Books](#books)
 - [Software](#software)
+- [Packages](#Packages)
 
 # Papers
 
@@ -198,4 +199,8 @@ You should find the papers and software with star flag are more important or pop
     - <b>[MatConvNet]</b> MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
 - Lua
     - <b>[Torch7]</b> Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)] :star:
-       
+  
+# Packages
+
+- pytorch
+    - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
