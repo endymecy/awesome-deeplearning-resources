@@ -12,7 +12,7 @@
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [[arxiv](https://arxiv.org/abs/1702.03275)] :star:
 - Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [[arxiv](https://arxiv.org/abs/1702.05870)]
 - DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [[arxiv](https://arxiv.org/abs/1702.04280)]
-- <b>[Deep Forest] </b>Deep Forest: Towards An Alternative to Deep Neural Networks. [[arxiv](https://arxiv.org/abs/1702.08835)] :star:
+- <b>[Deep Forest] </b>[Deep Forest: Towards An Alternative to Deep Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651994082&idx=1&sn=3a1f21ab37ea8322c6700f660b71648a) [[arxiv](https://arxiv.org/abs/1702.08835)] :star:
 - Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [[arxiv](https://arxiv.org/abs/1701.00458)] [[code](https://github.com/guille-c/Deep-HiTS)] :star: 
 - Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
@@ -47,6 +47,7 @@
 - To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [[arxiv](https://arxiv.org/abs/1701.01692)]
 - Towards "AlphaChem": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies. [[arxiv](https://arxiv.org/abs/1702.00020)]
 - Towards a New Interpretation of Separable Convolutions. [[arxiv](https://arxiv.org/abs/1701.04489)]
+- Towards Deeper Understanding of Variational Autoencoding Models. [[arxiv](https://arxiv.org/abs/1702.08658)] [[code](https://github.com/ShengjiaZhao/Generalized-PixelVAE)]
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [[arxiv](https://arxiv.org/abs/1701.00485)]
 - Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1701.04128)]
 - Understanding trained CNNs by indexing neuron selectivity. [[arxiv](https://arxiv.org/abs/1702.00382)]
