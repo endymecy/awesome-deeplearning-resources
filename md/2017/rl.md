@@ -2,6 +2,7 @@
 
 ### papers
 
+- Bridging the Gap Between Value and Policy Based Reinforcement Learning.  [[arxiv](https://arxiv.org/abs/1702.08892)]
 - Deep Reinforcement Learning: An Overview. [[arxiv](https://arxiv.org/abs/1701.07274)]
 - Neural Architecture Search with Reinforcement Learning. [[arxiv](Neural Architecture Search with Reinforcement Learning)] [[tensorflow](https://github.com/tensorflow/models)]
 - Neural Map: Structured Memory for Deep Reinforcement Learning.  [[arxiv](https://arxiv.org/abs/1702.08360)]
