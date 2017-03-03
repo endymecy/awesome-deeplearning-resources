@@ -170,6 +170,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>[Neon]</b> Neon is Nervana's Python based Deep Learning framework.[[Web](https://github.com/NervanaSystems/neon)]
     - <b>[PyTorch]</b> Tensors and Dynamic neural networks in Python with strong GPU acceleration. [[Web](http://pytorch.org/)] :star:
     - <b>[Scikit-Learn]</b> scikit-learn: machine learning in Python. [[Web](http://scikit-learn.org)] :star:
+    - <b>[Skll]</b> SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments. [[Web](https://github.com/EducationalTestingService/skll)]
     - <b>[Theano]</b> Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
         - <b>[Pylearn2]</b> Theano-based deep learning libraries: [[Web](http://deeplearning.net/software/pylearn2/)]
         - <b>[Blocks]</b> Blocks is a framework that helps you build neural network models on top of Theano [[Web](https://github.com/mila-udem/blocks)] :star:
