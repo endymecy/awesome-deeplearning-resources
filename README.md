@@ -179,6 +179,7 @@ You should find the papers and software with star flag are more important or pop
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
     - [Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
+    - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
     - [YOLOv2 in PyTorch](https://github.com/longcw/yolo2-pytorch)
