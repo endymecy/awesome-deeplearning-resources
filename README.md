@@ -12,7 +12,7 @@ You should find the papers and software with star flag are more important or pop
 - [Courses](#courses)
 - [Books](#books)
 - [Software](#software)
-- [Packages](#packages)
+- [Applications](#applications)
 - [Awesome Projects](#awesome-projects)
 
 # Papers
@@ -206,7 +206,7 @@ You should find the papers and software with star flag are more important or pop
 - Lua
     - <b>[Torch7]</b> Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)] :star:
   
-# Packages
+# Applications
 
 - pytorch
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
@@ -220,6 +220,7 @@ You should find the papers and software with star flag are more important or pop
     - [A framework for developing and evaluating reinforcement learning algorithms](https://github.com/shaneshixiang/rllabplusplus)
     - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
     - [A Practical Guide for Debugging TensorFlow Codes](https://github.com/wookayin/tensorflow-talk-debugging)
+    - [Aspect Based Sentiment Analysis using End-to-End Memory Networks](https://github.com/ganeshjawahar/mem_absa)
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
