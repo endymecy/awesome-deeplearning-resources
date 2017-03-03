@@ -235,6 +235,7 @@ You should find the papers and software with star flag are more important or pop
 - [Collection of reinforcement learners implemented in python.](https://github.com/Islandman93/reinforcepy)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
+- [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
 
