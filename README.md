@@ -214,6 +214,7 @@ You should find the papers and software with star flag are more important or pop
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
 - theano
+    - [Deep Neural Network for Sentiment Analysis on Twitter](https://github.com/xiaohan2012/twitter-sent-dnn)
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
 - tensorflow
     - [A framework for developing and evaluating reinforcement learning algorithms](https://github.com/shaneshixiang/rllabplusplus)
