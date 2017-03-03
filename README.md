@@ -229,6 +229,7 @@ You should find the papers and software with star flag are more important or pop
     - [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
     - [Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets](https://github.com/affinelayer/pix2pix-tensorflow) :star:
     - [Tensorflow Tutorial files and Implementations of various Deep NLP and CV Models](https://github.com/siddk/deep-nlp)
+    - [Tutorials for deep learning](https://github.com/oduerr/dl_tutorial)
     - [使用TensorFlow实现的Sequence to Sequence的聊天机器人模型](https://github.com/qhduan/Seq2Seq_Chatbot_QA)
     
 # Awesome Projects
