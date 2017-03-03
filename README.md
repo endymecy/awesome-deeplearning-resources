@@ -207,3 +207,5 @@ You should find the papers and software with star flag are more important or pop
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
 - theano
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
+- tensorflow
+    - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
