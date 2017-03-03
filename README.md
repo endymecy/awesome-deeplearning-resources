@@ -207,6 +207,7 @@ You should find the papers and software with star flag are more important or pop
 
 - pytorch
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
+    - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
