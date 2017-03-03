@@ -193,6 +193,7 @@ You should find the papers and software with star flag are more important or pop
     - [Aspect Based Sentiment Analysis using End-to-End Memory Networks](https://github.com/ganeshjawahar/mem_absa)
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
+    - [DeepColor: Automatic coloring and shading of manga-style lineart](https://github.com/kvfrans/deepcolor)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Metasploit for machine learning.](https://github.com/cchio/deep-pwning)
