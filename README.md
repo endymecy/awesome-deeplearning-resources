@@ -174,6 +174,7 @@ You should find the papers and software with star flag are more important or pop
 # Applications
 
 - pytorch
+    - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
     - [Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
