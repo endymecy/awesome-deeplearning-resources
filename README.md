@@ -219,4 +219,5 @@ You should find the papers and software with star flag are more important or pop
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
+    - [Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets](https://github.com/affinelayer/pix2pix-tensorflow) :star:
     - [Tensorflow Tutorial files and Implementations of various Deep NLP and CV Models](https://github.com/siddk/deep-nlp)
