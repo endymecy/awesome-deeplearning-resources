@@ -216,6 +216,7 @@ You should find the papers and software with star flag are more important or pop
 - tensorflow
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
+    - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
