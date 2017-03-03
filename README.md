@@ -249,6 +249,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+- [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
 - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
