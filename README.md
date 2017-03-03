@@ -212,6 +212,7 @@ You should find the papers and software with star flag are more important or pop
     - [Udacity SDC: Vehicle Detection](https://github.com/balancap/SDC-Vehicle-Detection) :star:
 - Keras
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
+    - [Wasserstein DCGAN in Tensorflow/Keras](https://github.com/kuleshov/tf-wgan)
     
 # Awesome Projects
 
