@@ -210,4 +210,5 @@ You should find the papers and software with star flag are more important or pop
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
 - tensorflow
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
+    - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
