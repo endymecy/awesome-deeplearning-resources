@@ -211,6 +211,7 @@ You should find the papers and software with star flag are more important or pop
     - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
+    - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
 - theano
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
