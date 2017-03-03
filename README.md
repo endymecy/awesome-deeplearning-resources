@@ -180,6 +180,7 @@ You should find the papers and software with star flag are more important or pop
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
+    - [YOLOv2 in PyTorch](https://github.com/longcw/yolo2-pytorch)
 - theano
     - [CNN-yelp-challenge-2016-sentiment-classification](https://github.com/haoopeng/CNN-yelp-challenge-2016-sentiment-classification)
     - [Deep Neural Network for Sentiment Analysis on Twitter](https://github.com/xiaohan2012/twitter-sent-dnn)
