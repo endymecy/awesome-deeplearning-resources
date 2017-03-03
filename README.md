@@ -231,7 +231,8 @@ You should find the papers and software with star flag are more important or pop
     
 # Awesome Projects
 
-- [Awesome-Caffe](https://github.com/CaffeCN/Awesome-Caffe)
+- [Awesome-Caffe](https://github.com/MichaelXin/Awesome-Caffe)
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
 - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
