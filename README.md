@@ -205,6 +205,8 @@ You should find the papers and software with star flag are more important or pop
     - [Tutorials for deep learning](https://github.com/oduerr/dl_tutorial)
     - [使用TensorFlow实现的Sequence to Sequence的聊天机器人模型](https://github.com/qhduan/Seq2Seq_Chatbot_QA)
     - [Udacity SDC: Vehicle Detection](https://github.com/balancap/SDC-Vehicle-Detection) :star:
+- Keras
+    - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
     
 # Awesome Projects
 
