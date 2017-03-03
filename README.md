@@ -216,6 +216,7 @@ You should find the papers and software with star flag are more important or pop
 - theano
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
 - tensorflow
+    - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
     - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
