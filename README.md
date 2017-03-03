@@ -160,6 +160,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>[Deepnet]</b> Deepnet: a GPU-based python implementation of deep learning algorithms. [[Web](https://github.com/nitishsrivastava/deepnet)]
     - <b>[Deepgaze]</b> Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
     - <b>[DeepQA]</b> Tensorflow implementation of "A neural conversational model", a Deep learning based chatbot. [[Web](https://github.com/Conchylicultor/DeepQA#deep-qa)]
+    - <b>[DeepVideoAnalytics]</b> Analyze videos & images, perform detections, index frames & detected objects, search by examples.  [[Web](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)] 
     - <b>[Edward]</b> Edward: A library for probabilistic modeling, inference, and criticism. [[Web](http://edwardlib.org/)]
     - <b>[Elephas]</b> Distributed Deep learning with Keras & Spark. [[Web](https://github.com/maxpumperla/elephas)]
     - <b>[Gensim]</b> Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.[[Web](http://radimrehurek.com/gensim/)]
