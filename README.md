@@ -233,6 +233,7 @@ You should find the papers and software with star flag are more important or pop
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
     - [Realistic Handwriting with Tensorflow](https://github.com/greydanus/scribe)
     - [Self-Driving Car Engineer Nanodegree](https://github.com/upul/Behavioral-Cloning)
+    - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
     - [Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets](https://github.com/affinelayer/pix2pix-tensorflow) :star:
