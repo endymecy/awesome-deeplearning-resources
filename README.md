@@ -215,4 +215,5 @@ You should find the papers and software with star flag are more important or pop
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
+    - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [Tensorflow Tutorial files and Implementations of various Deep NLP and CV Models](https://github.com/siddk/deep-nlp)
