@@ -119,56 +119,56 @@ You should find the papers and software with star flag are more important or pop
 # Software
 
 - python
-    - <b>[Chainer]</b> Chainer bridge the gap between algorithms and implementations of deep learning. [[Web](http://chainer.org/)]
-    - <b>[ChainerRL]</b> ChainerRL is a deep reinforcement learning library built on top of Chainer. [[Web](https://github.com/pfnet/chainerrl)]
-    - <b>[DeepPy]</b> DeepPy is a Pythonic deep learning framework built on top of NumPy.[[Web](https://github.com/andersbll/deeppy)]
-    - <b>[Deepnet]</b> Deepnet: a GPU-based python implementation of deep learning algorithms. [[Web](https://github.com/nitishsrivastava/deepnet)]
-    - <b>[Deepgaze]</b> Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
-    - <b>[DeepQA]</b> Tensorflow implementation of "A neural conversational model", a Deep learning based chatbot. [[Web](https://github.com/Conchylicultor/DeepQA#deep-qa)]
-    - <b>[DeepVideoAnalytics]</b> Analyze videos & images, perform detections, index frames & detected objects, search by examples.  [[Web](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)] 
-    - <b>[Edward]</b> Edward: A library for probabilistic modeling, inference, and criticism. [[Web](http://edwardlib.org/)]
-    - <b>[Elephas]</b> Distributed Deep learning with Keras & Spark. [[Web](https://github.com/maxpumperla/elephas)]
-    - <b>[Gensim]</b> Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.[[Web](http://radimrehurek.com/gensim/)]
-    - <b>[Hebel]</b> Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA. [[Web](https://github.com/hannes-brt/hebel)]
-    - <b>[Keras]</b> Keras: Deep Learning library for Theano and TensorFlow. [[Web](https://keras.io/)] :star:
-    - <b>[Kur]</b> Kur: Descriptive Deep Learning. [[Web](https://github.com/deepgram/kur)] :star:
-    - <b>[Neon]</b> Neon is Nervana's Python based Deep Learning framework.[[Web](https://github.com/NervanaSystems/neon)]
-    - <b>[PyTorch]</b> Tensors and Dynamic neural networks in Python with strong GPU acceleration. [[Web](http://pytorch.org/)] :star:
-    - <b>[Scikit-Learn]</b> scikit-learn: machine learning in Python. [[Web](http://scikit-learn.org)] :star:
-    - <b>[Skll]</b> SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments. [[Web](https://github.com/EducationalTestingService/skll)]
-    - <b>[Theano]</b> Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
-        - <b>[Pylearn2]</b> Theano-based deep learning libraries: [[Web](http://deeplearning.net/software/pylearn2/)]
-        - <b>[Blocks]</b> Blocks is a framework that helps you build neural network models on top of Theano [[Web](https://github.com/mila-udem/blocks)] :star:
-        - <b>[Lasagne]</b> Lightweight library to build and train neural networks in Theano. [[Web](https://github.com/Lasagne/Lasagne)]
+    - <b>[Chainer]</b> [Chainer bridge the gap between algorithms and implementations of deep learning.](http://chainer.org/)
+    - <b>[ChainerRL]</b> [ChainerRL is a deep reinforcement learning library built on top of Chainer.](https://github.com/pfnet/chainerrl)
+    - <b>[DeepPy]</b> [DeepPy is a Pythonic deep learning framework built on top of NumPy.](https://github.com/andersbll/deeppy)
+    - <b>[Deepnet]</b> [Deepnet: a GPU-based python implementation of deep learning algorithms.](https://github.com/nitishsrivastava/deepnet) 
+    - <b>[Deepgaze]</b> [Deepgaze: A computer vision library for human-computer interaction based on CNNs](https://github.com/mpatacchiola/deepgaze) 
+    - <b>[DeepQA]</b> [Tensorflow implementation of "A neural conversational model", a Deep learning based chatbot.](https://github.com/Conchylicultor/DeepQA#deep-qa) 
+    - <b>[DeepVideoAnalytics]</b> [Analyze videos & images, perform detections, index frames & detected objects, search by examples.](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics) 
+    - <b>[Edward]</b> [Edward: A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/) 
+    - <b>[Elephas]</b> [Distributed Deep learning with Keras & Spark.](https://github.com/maxpumperla/elephas)
+    - <b>[Gensim]</b> [Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.](http://radimrehurek.com/gensim/)
+    - <b>[Hebel]</b> [Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA.](https://github.com/hannes-brt/hebel)
+    - <b>[Keras]</b> [Keras: Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
+    - <b>[Kur]</b> [Kur: Descriptive Deep Learning.](https://github.com/deepgram/kur)  :star:
+    - <b>[Neon]</b> [Neon is Nervana's Python based Deep Learning framework](https://github.com/NervanaSystems/neon).
+    - <b>[PyTorch]</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
+    - <b>[Scikit-Learn]</b> [scikit-learn: machine learning in Python.](http://scikit-learn.org)  :star:
+    - <b>[Skll]</b> [SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
+    - <b>[Theano]</b> [Theano: Mathematical library in Python, maintained by LISA lab](http://deeplearning.net/software/theano/) 
+        - <b>[Pylearn2]</b> [Theano-based deep learning libraries](http://deeplearning.net/software/pylearn2/) 
+        - <b>[Blocks]</b> [Blocks is a framework that helps you build neural network models on top of Theano](https://github.com/mila-udem/blocks)  :star:
+        - <b>[Lasagne]</b> [Lightweight library to build and train neural networks in Theano.](https://github.com/Lasagne/Lasagne) 
 - C++
-    - <b>[Caffe]</b> Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)] :star:
-    - <b>[CNTK] </b>CNTK:The Microsoft Cognitive Toolkit. [[Web](https://github.com/Microsoft/CNTK)]
-    - <b>[DeepDetect] </b>DeepDetect : Open Source Deep Learning Server & API [[Web](https://deepdetect.com/)]
-    - <b>[DIGITS]</b> NVIDIA DIGITS is a new system for developing, training and visualizing deep neural networks. [[Web](https://developer.nvidia.com/digits)]
-    - <b>[DSSTNE]</b>DSSTNE is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models. [[Web](https://github.com/amznlabs/amazon-dsstne)]
-    - <b>[PaddlePaddle]</b> PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform. [[Web](http://www.paddlepaddle.org/)]
-    - <b>[MXNet]</b> MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)] :star:
-        - <b>[MinPy]</b> MinPy: Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend. [[Web](https://github.com/dmlc/minpy)]
-    - <b>[Singa]</b> Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
-    - <b>[Tensorflow]</b> Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)] :star:
-    - <b>[Tiny-dnn]</b> Tiny-dnn is a C++11 implementation of deep learning. [[Web](https://github.com/tiny-dnn/tiny-dnn)]
+    - <b>[Caffe]</b> [Caffe: Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/) :star:
+    - <b>[CNTK] </b>[CNTK:The Microsoft Cognitive Toolkit.](https://github.com/Microsoft/CNTK) 
+    - <b>[DeepDetect] </b>[DeepDetect : Open Source Deep Learning Server & API](https://deepdetect.com/) 
+    - <b>[DIGITS]</b> [NVIDIA DIGITS is a new system for developing, training and visualizing deep neural networks.](https://developer.nvidia.com/digits) 
+    - <b>[DSSTNE]</b> [DSSTNE is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models.](https://github.com/amznlabs/amazon-dsstne) 
+    - <b>[PaddlePaddle]</b> [PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform.](http://www.paddlepaddle.org/)
+    - <b>[MXNet]</b> [MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support](http://mxnet.io/) :star:
+        - <b>[MinPy]</b> [MinPy: Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend.](https://github.com/dmlc/minpy)
+    - <b>[Singa]</b> [Singa: Singa is an Apache Incubating project for developing an open source deep learning library.](http://singa.incubator.apache.org/en/index.html)
+    - <b>[Tensorflow]</b> [Tensorflow: An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
+    - <b>[Tiny-dnn]</b> [Tiny-dnn is a C++11 implementation of deep learning.](https://github.com/tiny-dnn/tiny-dnn)
 - Java
-    - <b>[CoreNLP]</b> Stanford CoreNLP: A Java suite of core NLP tools. [[Web](https://github.com/stanfordnlp/CoreNLP)] 
-    - <b>[Deeplearning4J]</b> Deeplearning4J: Neural Net Platform. [[Web](https://github.com/deeplearning4j/deeplearning4j)] 
-    - <b>[Librec]</b> LibRec: A Java Library for Recommender Systems. [[Web](https://github.com/guoguibing/librec)] 
-    - <b>[NeuralNetworks]</b> This is a Java implementation of some of the algorithms for training deep neural networks. [[Web](https://github.com/ivan-vasilev/neuralnetworks)] 
+    - <b>[CoreNLP]</b> [Stanford CoreNLP: A Java suite of core NLP tools.](https://github.com/stanfordnlp/CoreNLP)
+    - <b>[Deeplearning4J]</b> [Deeplearning4J: Neural Net Platform.](https://github.com/deeplearning4j/deeplearning4j) 
+    - <b>[Librec]</b> [LibRec: A Java Library for Recommender Systems.](https://github.com/guoguibing/librec)
+    - <b>[NeuralNetworks]</b> [This is a Java implementation of some of the algorithms for training deep neural networks.](https://github.com/ivan-vasilev/neuralnetworks) 
 - Scala
-    - <b>[BigDL]</b> BigDL: Distributed Deep learning on Apache Spark. [[Web](https://github.com/intel-analytics/BigDL)]
+    - <b>[BigDL]</b> [BigDL: Distributed Deep learning on Apache Spark.](https://github.com/intel-analytics/BigDL) 
 - Julia
-    - <b>[Knet]</b> Knet: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia. [[Web](https://github.com/denizyuret/Knet.jl)]
-    - <b>[Mocha]</b> Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
+    - <b>[Knet]</b> [Knet: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia.](https://github.com/denizyuret/Knet.jl)
+    - <b>[Mocha]</b> [Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe.](https://github.com/pluskid/Mocha.jl) 
 - Js
-    - <b>[Keras-js]</b> Run Keras models (tensorflow backend) in the browser, with GPU support.[[Web](https://github.com/transcranial/keras-js)] 
-    - <b>[Neurojs]</b> A javascript deep learning and reinforcement learning library. [[Web](https://github.com/janhuenermann/neurojs)]
+    - <b>[Keras-js]</b> [Run Keras models (tensorflow backend) in the browser, with GPU support.](https://github.com/transcranial/keras-js)
+    - <b>[Neurojs]</b> [A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs) 
 - Matlab
-    - <b>[MatConvNet]</b> MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
+    - <b>[MatConvNet]</b> [MatConvNet: CNNs for MATLAB](http://www.vlfeat.org/matconvnet/) 
 - Lua
-    - <b>[Torch7]</b> Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)] :star:
+    - <b>[Torch7]</b> [Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind](http://torch.ch/)  :star:
   
 # Applications
 
