@@ -29,6 +29,7 @@
 - Hidden Community Detection in Social Networks. [[arxiv](https://arxiv.org/abs/1702.07462)]
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [[arxiv](https://arxiv.org/abs/1701.05616)]
 - Learning Chained Deep Features and Classifiers for Cascade in Object Detection. [[arxiv](https://arxiv.org/abs/1702.07054)]
+- Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees. [[arxiv](https://arxiv.org/abs/1702.08833)] :star: 
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [[arxiv](https://arxiv.org/abs/1702.00763)]
 - Network Backboning with Noisy Data. [[arxiv](https://arxiv.org/abs/1701.07336)]
