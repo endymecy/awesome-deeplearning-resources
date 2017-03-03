@@ -212,6 +212,7 @@ You should find the papers and software with star flag are more important or pop
 - theano
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
 - tensorflow
+    - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow)
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
