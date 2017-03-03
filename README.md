@@ -221,6 +221,7 @@ You should find the papers and software with star flag are more important or pop
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
+    - [Metasploit for machine learning.](https://github.com/cchio/deep-pwning)
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
