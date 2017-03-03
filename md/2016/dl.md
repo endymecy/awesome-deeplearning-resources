@@ -209,6 +209,7 @@
 - <b>[SimGAN]</b> Learning from Simulated and Unsupervised Images through Adversarial Training. [[arxiv](https://arxiv.org/abs/1612.07828)] [[keras](https://github.com/wayaai/SimGAN)] :star: 
 - Learning in Implicit Generative Models. [[arxiv](https://arxiv.org/abs/1610.03483)]
 - Learning to Protect Communications with Adversarial Neural Cryptography. [[pdf]](docs/2016/Learning to Protect Communications with Adversarial Neural Cryptography.pdf) [[arxiv](https://arxiv.org/abs/1610.06918)]
+- Least Squares Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1611.04076)] :star:
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.05362)]
 - Mode Regularized Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.02136)] :star: 
 - Neural Fill: Content Aware Image Fill with Generative Adversarial Neural Networks. [[stanford](http://cs231n.stanford.edu/reports2016/209_Report.pdf)]
