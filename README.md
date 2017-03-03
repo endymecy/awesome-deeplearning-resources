@@ -12,7 +12,8 @@ You should find the papers and software with star flag are more important or pop
 - [Courses](#courses)
 - [Books](#books)
 - [Software](#software)
-- [Packages](#Packages)
+- [Packages](#packages)
+- [Awesome Projects](#awesome-projects)
 
 # Papers
 
@@ -206,12 +207,9 @@ You should find the papers and software with star flag are more important or pop
 # Packages
 
 - pytorch
-    - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
-    - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
-    - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
 - theano
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
@@ -219,7 +217,6 @@ You should find the papers and software with star flag are more important or pop
     - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
-    - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
@@ -231,3 +228,12 @@ You should find the papers and software with star flag are more important or pop
     - [Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets](https://github.com/affinelayer/pix2pix-tensorflow) :star:
     - [Tensorflow Tutorial files and Implementations of various Deep NLP and CV Models](https://github.com/siddk/deep-nlp)
     - [使用TensorFlow实现的Sequence to Sequence的聊天机器人模型](https://github.com/qhduan/Seq2Seq_Chatbot_QA)
+    
+# Awesome Projects
+
+- [Awesome-Caffe](https://github.com/CaffeCN/Awesome-Caffe)
+- [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
+- [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
+- [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
+
