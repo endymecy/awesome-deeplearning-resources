@@ -82,6 +82,7 @@ You should find the papers and software with star flag are more important or pop
 
 # Courses
 
+* [Utah] [Applied Computational Genomics Course at UU](https://github.com/quinlan-lab/applied-computational-genomics)
 * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
