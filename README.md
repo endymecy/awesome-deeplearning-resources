@@ -195,6 +195,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>[Mocha]</b> Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
 - Js
     - <b>[Keras-js]</b> Run Keras models (tensorflow backend) in the browser, with GPU support.[[Web](https://github.com/transcranial/keras-js)] 
+    - <b>[Neurojs]</b> A javascript deep learning and reinforcement learning library. [[Web](https://github.com/janhuenermann/neurojs)]
 - Matlab
     - <b>[MatConvNet]</b> MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
 - Lua
