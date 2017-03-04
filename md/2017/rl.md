@@ -8,5 +8,5 @@
 - Neural Map: Structured Memory for Deep Reinforcement Learning.  [[arxiv](https://arxiv.org/abs/1702.08360)]
 - Reinforcement Learning via Recurrent Convolutional Neural Networks. [[arxiv](https://arxiv.org/abs/1701.02392)] [[code](https://github.com/tanmayshankar/RCNN_MDP)]
 - Reinforcement Learning with Deep Energy-Based Policies. [[arxiv](https://arxiv.org/abs/1702.08165)]
-  
+- Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation.[[arxiv](https://arxiv.org/abs/1703.00420)]   
   
