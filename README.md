@@ -199,6 +199,7 @@ You should find the papers and software with star flag are more important or pop
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Fully differentiable deep-neural decision forest in tensorflow](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
     - [Implementation of Generative Adversarial Networks, for Audio.](https://github.com/usernaamee/audio-GAN)
+    - [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://github.com/jostmey/rwa)
     - [Metasploit for machine learning.](https://github.com/cchio/deep-pwning)
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
