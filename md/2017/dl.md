@@ -142,6 +142,7 @@
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [[arxiv](https://arxiv.org/abs/1701.02357)]
 - Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [[pdf](https://openreview.net/pdf?id=HkpbnufYe)]
 - Transferring Face Verification Nets To Pain and Expression Regression. [[arxiv](https://arxiv.org/abs/1702.06925)] [[code](https://github.com/happynear/PainRegression)]
+- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [[arxiv](https://arxiv.org/abs/1702.04488)] 
 - Unsupervised Image-to-Image Translation Networks. [[arxiv](https://arxiv.org/abs/1703.00848)]
   
 
