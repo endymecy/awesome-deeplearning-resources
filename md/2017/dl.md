@@ -85,7 +85,6 @@
 - SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person. [[arxiv](https://arxiv.org/abs/1702.04069)]
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [[arxiv](https://arxiv.org/abs/1701.08349)]
 - Using Deep Learning and Google Street View to Estimate the Demographic Makeup of the US. [[arxiv](https://arxiv.org/abs/1702.06683)] :star:
-- Unsupervised Image-to-Image Translation Networks. [[arxiv](https://arxiv.org/abs/1703.00848)]
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. [[arxiv](https://arxiv.org/abs/1701.01821)]
 - Video-based Person Re-identification with Accumulative Motion Context. [[arxiv](https://arxiv.org/abs/1701.00193)]
 - ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection. [[arxiv](https://arxiv.org/abs/1702.07191)]
@@ -121,6 +120,7 @@
 - Generative Adversarial Active Learning. [[arxiv](https://arxiv.org/abs/1702.07956)]
 - Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit. [[arxiv](https://arxiv.org/abs/1702.00403)] [[code](https://github.com/SpaceML/GalaxyGAN/)]
 - Generative Temporal Models with Memory. [[arxiv](https://arxiv.org/abs/1702.04649)]
+- Generalization and Equilibrium in Generative Adversarial Nets (GANs). [[arxiv](https://arxiv.org/abs/1703.00573)]
 - Image De-raining Using a Conditional Generative Adversarial Network. [[arxiv](https://arxiv.org/abs/1701.05957)] [[caffe](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)]
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.04568)]
 - Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1702.07319)]
@@ -142,5 +142,6 @@
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [[arxiv](https://arxiv.org/abs/1701.02357)]
 - Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [[pdf](https://openreview.net/pdf?id=HkpbnufYe)]
 - Transferring Face Verification Nets To Pain and Expression Regression. [[arxiv](https://arxiv.org/abs/1702.06925)] [[code](https://github.com/happynear/PainRegression)]
+- Unsupervised Image-to-Image Translation Networks. [[arxiv](https://arxiv.org/abs/1703.00848)]
   
 
