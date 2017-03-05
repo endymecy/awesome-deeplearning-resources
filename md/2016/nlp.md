@@ -6,13 +6,11 @@
 
 - Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiwufX42tXQAhWCVbwKHZrPBOUQFgguMAE&url=https%3A%2F%2Faclweb.org%2Fanthology%2FK%2FK16%2FK16-1028.pdf&usg=AFQjCNHuJk3k7At-iCnwPJIQEE9GzvOFZg)]
 - AC-BLSTM: Asymmetric Convolutional Bidirectional LSTM Networks for Text Classification. [[arxiv](https://arxiv.org/abs/1611.01884)]
-- A Character-level Decoder without Explicit Segmentation for Neural Machine Translation. [[pdf]](docs/2016/A Character-level Decoder without Explicit Segmentation for Neural Machine Translation.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiZr6_ZpdPQAhWEu7wKHT_1AJ4QFggpMAE&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP16%2FP16-1160.pdf&usg=AFQjCNGNp_ng6FPcHatCYdgRC_jIsiufkg)] :star: 
 - Achieving Human Parity in Conversational Speech Recognition. [[arxiv](https://arxiv.org/abs/1610.05256)]
 - A General Framework for Content-enhanced Network Representation Learning. [[arxiv](https://arxiv.org/abs/1610.02906)]
 - A Joint Many-Task Model- Growing a Neural Network for Multiple NLP Tasks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiOjsTEp9PQAhWIwrwKHVeJBcsQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1611.01587&usg=AFQjCNHqixpFo9T8V4ayxskWgKMHkMtTCw)]
 - A Semisupervised Approach for Language Identification based on Ladder Networks. [[pdf](docs/2016/A Semisupervised Approach for Language Identification based on Ladder Networks.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiSmPz52dXQAhUJbbwKHb4BA48QFgguMAI&url=http%3A%2F%2Fwww.eng.biu.ac.il%2Fgoldbej%2Ffiles%2F2012%2F05%2FOdyssey_2016_paper.pdf&usg=AFQjCNGvxKufUzYjNCPDczZkWZ21H4sT-g)]
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation. [[arxiv](https://arxiv.org/abs/1611.08562)]
-- Aspect Level Sentiment Classification with Deep Memory Network. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwja0LeI3tXQAhXMgLwKHZ83A04QFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.08900&usg=AFQjCNGfnoyCcCzGnIDOhLeYky4UdUa2OQ)]
 - Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification. [[arxiv](https://arxiv.org/abs/1610.04989)]
 - Character-Aware Neural Language Models. [[pdf](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwia54TEqJTRAhVrw1QKHflTBOEQFggpMAE&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%61%61%61%69%2e%6f%72%67%2f%6f%63%73%2f%69%6e%64%65%78%2e%70%68%70%2f%41%41%41%49%2f%41%41%41%49%31%36%2f%70%61%70%65%72%2f%64%6f%77%6e%6c%6f%61%64%2f%31%32%34%38%39%2f%31%32%30%31%37&usg=AFQjCNHeBBKDjQEfBu4aDgG8zUkd5Y1tsA)] :star: 
 - Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution. [[arxiv](https://arxiv.org/abs/1609.06686)]
@@ -20,9 +18,7 @@
 - COCO-Text-Dataset and Benchmark for Text Detection and Recognition in Natural Images. [[pdf]](docs/2016/COCO-Text- Dataset and Benchmark for Text Detection and Recognition in Natural Images.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjWwraRgdjQAhVFwLwKHUhQCCQQFggxMAI&url=http%3A%2F%2Fsunw.csail.mit.edu%2Fpapers%2F01_Veit_SUNw.pdf&usg=AFQjCNEd0KdDVoHqEmAv4JVphvSIaTG_eg)]
 - Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks. [[arxiv](https://arxiv.org/abs/1611.00454)]
 - Context-aware Natural Language Generation with Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1611.09900)]
-- Context-Dependent Word Representation for Neural Machine Translation. [[arxiv](https://arxiv.org/pdf/1607.00578.pdf)]
 - <b>[CLSTM]</b> Contextual LSTM models for Large scale NLP tasks.[[pdf]](docs/2016/Contextual LSTM (CLSTM) models for Large scale NLP tasks.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiQ8O-YgtjQAhXGvrwKHV4OAA4QFggqMAE&url=http%3A%2F%2Fwww.csl.sri.com%2Fusers%2Fshalini%2Fclstm_dlkdd16.pdf&usg=AFQjCNFDWWi_vCjbubOD_XcN-IuQ6uotTQ)] :star: 
-- Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translatin. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjs08KahtjQAhVNQLwKHV8_DC0QFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.04199&usg=AFQjCNGE9o3aCzRNtLcwaKfUjO7FV2gYaA)]
 - Deep Semi-Supervised Learning with Linguistically Motivated Sequence Labeling Task Hierarchies. [[arxiv](https://arxiv.org/abs/1612.09113)]
 - Detecting Text in Natural Image with Connectionist Text Proposal Network. [[arxiv](https://arxiv.org/abs/1609.03605)]
 - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models. [[arxiv](https://arxiv.org/abs/1610.02424)]
@@ -34,7 +30,6 @@
 - Generative Deep Neural Networks for Dialogue: A Short Review. [[arxiv](https://arxiv.org/abs/1611.06216)]
 - Generating Factoid Questions With Recurrent Neural Networks- The 30M Factoid Question-Answer Corpus. [[pdf]](docs/2016/Generating Factoid Questions With Recurrent Neural Networks- The 30M Factoid Question-Answer Corpus.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjupJy3jNjQAhUCQLwKHTE5AVEQFggnMAE&url=https%3A%2F%2Faclweb.org%2Fanthology%2FP%2FP16%2FP16-1056.pdf&usg=AFQjCNGmLcxTx3Kq2u_yktAPC2XVzpmLzw)] :star: 
 - Globally Normalized Transition-Based Neural Networks. [[arxiv](https://arxiv.org/abs/1603.06042)] [[tensorflow](https://github.com/tensorflow/models/tree/master/syntaxnet)] :star:
-- How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs.[[arxiv](https://arxiv.org/abs/1612.04629)]
 - How NOT To Evaluate Your Dialogue System. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjd0o_ykNjQAhUEgbwKHTSiDR0QFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1603.08023&usg=AFQjCNFvRrB0IPgqFO1mhYIsas1dGzdtFQ)] :star: 
 - Improving neural language models with a continuous cache.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiAp7G86IvRAhXmiFQKHXr2CXcQFggiMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DB184E5qee&usg=AFQjCNEJ76Q5GPhvUBE_gOmo7_spiWbbmQ)]
 - Inducing Multilingual Text Analysis Tools Using Bidirectional Recurrent Neural Networks. [[pdf](https://hal.archives-ouvertes.fr/hal-01374205/document)]
@@ -59,11 +54,9 @@
 - On Random Weights for Texture Generation in One Layer Neural Networks.[[arxiv](https://arxiv.org/abs/1612.06070?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)]
 - Parallelizing Word2Vec in Shared and Distributed Memory.[[arxiv](https://arxiv.org/abs/1604.04661)] [[github](https://github.com/IntelLabs/pWord2Vec)]
 - Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences. [[arxiv](https://arxiv.org/abs/1610.09513)] [[code](https://github.com/dannyneil/public_plstm)]
-- Recurrent Memory Networks for Language Modeling. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiM-uaop9jQAhWEjLwKHacvB_oQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1601.01272&usg=AFQjCNE1W-90ZYxVaCls2sBch5JuzPbVcA)]
 - Recurrent Neural Network Grammars. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiu9uDep9jQAhXEerwKHU3QC_kQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.07776&usg=AFQjCNEy_Q-Yep2tn5g00XWwjiGcNgOnrg)] :star: 
 - ReasoNet: Learning to Stop Reading in Machine Comprehension. [[arxiv](https://arxiv.org/abs/1609.05284)]
 - Scalable Bayesian Learning of Recurrent Neural Networks for Language Modeling. [[arxiv](https://arxiv.org/abs/1611.08034)]
-- Semi-Supervised Learning for Neural Machine Translation. [[pdf](http://iiis.tsinghua.edu.cn/~weixu/files/acl2016_chengyong.pdf)]
 - Sentence Level Recurrent Topic Model- Letting Topics Speak for Themselves. [[pdf]](docs/2016/Sentence Level Recurrent Topic Model- Letting Topics Speak for Themselves.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiEnpWvqtjQAhWEVrwKHYS3B0YQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1604.02038&usg=AFQjCNGkbzfhZME1hdwVrys_l_9pg-L-hA)]
 - Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction. [[pdf]](docs/2016/Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction.pdf) [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj87-7nqtjQAhUBtZQKHdJiCuUQFggqMAE&url=https%3A%2F%2Faclweb.org%2Fanthology%2FW%2FW16%2FW16-0528.pdf&usg=AFQjCNFB0nh4eIORsJTs4MJ5NdHPCnFaqw)]
 - Sentence Ordering using Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1611.02654)]
@@ -72,17 +65,18 @@
 - Structured Sequence Modeling with Graph Convolutional Recurrent Networks.  [[arxiv](https://arxiv.org/abs/1612.07659)]
 - TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency. [[arxiv](https://arxiv.org/abs/1611.01702)]
 - Tracking the World State with Recurrent Entity Networks . [[arxiv](https://arxiv.org/abs/1612.03969)] :star: 
-- Tweet2Vec: Learning Tweet Embeddings Using Character-level CNN-LSTM Encoder-Decoder. *arXiv*.[[arxiv](https://arxiv.org/abs/1607.07514)] [[code](https://github.com/soroushv/Tweet2Vec)]
+- Tweet2Vec: Learning Tweet Embeddings Using Character-level CNN-LSTM Encoder-Decoder.[[arxiv](https://arxiv.org/abs/1607.07514)] [[code](https://github.com/soroushv/Tweet2Vec)]
 - Unsupervised Learning of Sentence Representations using Convolutional Neural Networks. [[url](https://arxiv.org/abs/1611.07897)]
 - Unsupervised neural and Bayesian models for zero-resource speech processing. [[arxiv](https://arxiv.org/abs/1701.00851)]
 - Unsupervised Pretraining for Sequence to Sequence Learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwidp53EsdjQAhVMzbwKHeSfBa4QFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1611.02683&usg=AFQjCNHdHMJUM2OIgLMaZs5wpbXfXvN4gA)]
-- UTCNN: a Deep Learning Model of Stance Classificationon on Social Media Text. *arXiv*.[[arxiv](https://arxiv.org/abs/1611.03599)]
+- UTCNN: a Deep Learning Model of Stance Classificationon on Social Media Text. [[arxiv](https://arxiv.org/abs/1611.03599)]
 - Very Deep Convolutional Networks for Natural Language Processing. [[pdf](docs/2016/Very Deep Convolutional Networks for Natural Language Processing.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjj79_ZsdjQAhVJy7wKHRLdAJEQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.01781&usg=AFQjCNEX8WGvkSXZgPzlKLelkfkhlC2Tnw)] :star: 
 - [Wide & Deep Learning for Recommender Systems.](http://blog.csdn.net/dinosoft/article/details/52581368) [[arxiv](https://arxiv.org/abs/1606.07792)] [[tensorflow](https://www.tensorflow.org/tutorials/wide_and_deep/)]:star:
 
 ### Generative learning
 
 - Adversarial Training Methods for Semi-Supervised Text Classification. [[arxiv](https://arxiv.org/abs/1605.07725)]
+- Aspect Level Sentiment Classification with Deep Memory Network. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwja0LeI3tXQAhXMgLwKHZ83A04QFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.08900&usg=AFQjCNGfnoyCcCzGnIDOhLeYky4UdUa2OQ)]
 - Generative Adversarial Text to Image Synthesis. [[arxiv](https://arxiv.org/abs/1605.05396)] :star: 
 - Modeling documents with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1612.09122)]
 - <b>[StackGAN]</b> StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks. [[url](https://arxiv.org/abs/1612.03242)] [[code](https://github.com/hanzhanggit/StackGAN)] :star:
@@ -111,6 +105,7 @@
 - Lexicon Integrated CNN Models with Attention for Sentiment Analysis. [[arxiv](https://arxiv.org/abs/1610.06272)]
 - Memory-enhanced Decoder for Neural Machine Translation. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjo_ezwntjQAhUBvbwKHdrrBzkQFggfMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1606.02003&usg=AFQjCNFi6ZffMp9CIjAr3oWHtfZCP5YpCg)]
 - Neural Language Correction with Character-Based Attention.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjBmYDwodjQAhXMTLwKHb_HB5sQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1603.09727&usg=AFQjCNHJRTjauP0qBRF20-J6Qpzq1Odxdw)]
+- Recurrent Memory Networks for Language Modeling. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiM-uaop9jQAhWEjLwKHacvB_oQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1601.01272&usg=AFQjCNE1W-90ZYxVaCls2sBch5JuzPbVcA)]
 - Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks. [[arxiv](https://arxiv.org/abs/1611.06204)]
 
 ### Machine Translation
