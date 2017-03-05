@@ -44,6 +44,7 @@
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [[arxiv](https://arxiv.org/abs/1701.02291)]
 - Semi-Supervised Deep Learning for Monocular Depth Map Prediction. [[arxiv](https://arxiv.org/abs/1702.02706)]
 - Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures Via Semantic Representation. [[arxiv](https://arxiv.org/abs/1701.00804)]
+- ShaResNet: reducing residual network parameter number by sharing weights. [[arxiv](https://arxiv.org/abs/1702.08782)] [[code](https://github.com/aboulch/sharesnet)]
 - Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1701.03441)] [[code](https://github.com/jingweimo/Modified-LSTM)] :star: 
 - Statistical inference for network samples using subgraph counts. [[arxiv](https://arxiv.org/abs/1701.00505)]
 - Steerable CNNs. [[pdf](https://openreview.net/pdf?id=rJQKYt5ll)]
