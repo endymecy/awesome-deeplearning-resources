@@ -100,7 +100,7 @@
 - Variable Computation in Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1611.06188)]
 - Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks. [[arxiv](https://arxiv.org/abs/1607.02586)] [[tensorflow](https://github.com/tensorflow/models/tree/master/next_frame_prediction)] :star:
 - Weight Normalization-A Simple Reparameterization to Accelerate Training of Deep Neural Networks. [[arxiv](https://arxiv.org/abs/1602.07868)] [[code](https://github.com/openai/weightnorm)] :star: 
-- Wide Residual Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjz5fiLs9jQAhWHUrwKHY0AA7QQFggxMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07146&usg=AFQjCNFZDRk-XZeK7gzPq37RARYjH9QYfA)] :star: 
+- Wide Residual Networks. [[arxiv](https://arxiv.org/abs/1605.07146)] [[pytorch](https://github.com/xternalz/WideResNet-pytorch)]:star: 
 - Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations. [[pdf](docs/2016/Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjBr5C2s9jQAhUCi7wKHSVWCDoQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1606.01305&usg=AFQjCNH95EDtZHJPro7M-X3qmADKDskt8A)] :star: 
 
 ### Computer vision

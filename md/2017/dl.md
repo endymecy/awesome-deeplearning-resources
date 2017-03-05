@@ -17,6 +17,7 @@
 - Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [[arxiv](https://arxiv.org/abs/1701.00458)] [[code](https://github.com/guille-c/Deep-HiTS)] :star: 
 - Deep Learning for Time-Series Analysis. [[arxiv](https://arxiv.org/abs/1701.01887)]
 - Deep Learning With Dynamic Computation Graphs. [[pdf](https://openreview.net/pdf?id=ryrGawqex)]
+- DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy. [[arxiv](https://arxiv.org/abs/1702.08192)] [[caffe](https://github.com/TJKlein/DeepNAT)]
 - Deep Network Guided Proof Search. [[arxiv](https://arxiv.org/abs/1701.06972)]
 - <b>[Edward]</b> Deep Probabilistic Programming. [[arxiv](https://arxiv.org/abs/1701.03757)] [[Web](http://edwardlib.org/)] :star: 
 - Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction. [[pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ST-ResNet-AAAI17-Zhang.pdf)] [[github](https://github.com/lucktroy/DeepST/tree/master/scripts/papers/AAAI17)] :star:
