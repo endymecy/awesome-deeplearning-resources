@@ -24,6 +24,7 @@
 - <b>[DeepStack]</b> [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker.](http://www.jiqizhixin.com/article/2395) [[arxiv](https://arxiv.org/abs/1701.01724)] :star:
 - <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)] [[code](https://github.com/clab/dynet)] :star: 
 - Efficient Information Flow Maximization in Probabilistic Graphs. [[arxiv](https://arxiv.org/abs/1701.05395)]
+- Evolving Deep Neural Networks. [[arxiv](https://arxiv.org/abs/1703.00548)]
 - Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs. [[arxiv](https://arxiv.org/abs/1701.08816)]
 - Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [[arxiv](https://arxiv.org/abs/1701.05923)]
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
