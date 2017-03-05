@@ -10,6 +10,7 @@
 - A Probabilistic Framework for Location Inference from Social Media. [[arxiv](https://arxiv.org/abs/1702.07281)]
 - Autoencoder Regularized Network For Driving Style Representation Learning. [[arxiv](https://arxiv.org/abs/1701.01272)]
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [[arxiv](https://arxiv.org/abs/1702.03275)] :star:
+- Complex Networks: from Classical to Quantum.  [[arxiv](https://arxiv.org/abs/1702.08459)]
 - Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [[arxiv](https://arxiv.org/abs/1702.05870)]
 - DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [[arxiv](https://arxiv.org/abs/1702.04280)]
 - [Deep and Hierarchical Implicit Models.](http://dustintran.com/blog/deep-and-hierarchical-implicit-models) [[arxiv](https://arxiv.org/abs/1702.08896)]
@@ -24,7 +25,7 @@
 - <b>[DeepStack]</b> [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker.](http://www.jiqizhixin.com/article/2395) [[arxiv](https://arxiv.org/abs/1701.01724)] :star:
 - <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)] [[code](https://github.com/clab/dynet)] :star: 
 - Efficient Information Flow Maximization in Probabilistic Graphs. [[arxiv](https://arxiv.org/abs/1701.05395)]
-- Evolving Deep Neural Networks. [[arxiv](https://arxiv.org/abs/1703.00548)]
+- Evolving Deep Neural Networks. [[arxiv](https://arxiv.org/abs/1703.00548)] :star:
 - Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs. [[arxiv](https://arxiv.org/abs/1701.08816)]
 - Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [[arxiv](https://arxiv.org/abs/1701.05923)]
 - Graph Structure Learning from Unlabeled Data for Event Detection. [[arxiv](https://arxiv.org/abs/1701.01470)]
