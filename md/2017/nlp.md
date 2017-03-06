@@ -8,6 +8,7 @@
 - Dialog Context Language Modeling with Recurrent Neural Networks. [[arXiv](https://arxiv.org/abs/1701.04056)]
 - dna2vec: Consistent vector representations of variable-length k-mers. [[arXiv](https://arxiv.org/abs/1701.06279)] [[code](https://pnpnpn.github.io/dna2vec/)]
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [[arXiv](https://arxiv.org/abs/1701.00946)]
+- Label Refinement Network for Coarse-to-Fine Semantic Segmentation. [[arXiv](https://arxiv.org/abs/1703.00551)]
 - LanideNN: Multilingual Language Identification on Character Window. [[arXiv](https://arxiv.org/abs/1701.03338)] [[code](https://github.com/tomkocmi/LanideNN)]
 - Learning a Natural Language Interface with Neural Programmer. [[arXiv](https://arxiv.org/abs/1611.08945)] [[tensorflow](https://github.com/tensorflow/models/tree/master/neural_programmer)] :star:
 - Learning Arbitrary Potentials in CRFs with Gradient Descent. [[arXiv](https://arxiv.org/abs/1701.06805)]
