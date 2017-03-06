@@ -175,8 +175,10 @@ You should find the papers and software with star flag are more important or pop
 
 - pytorch
     - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
+    - [A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
     - [Comprehensive Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
+    - [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle)
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
     - [Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
