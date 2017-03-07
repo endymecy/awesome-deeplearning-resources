@@ -137,6 +137,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>[PyTorch]</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
     - <b>[Scikit-Learn]</b> [scikit-learn: machine learning in Python.](http://scikit-learn.org)  :star:
     - <b>[Skll]</b> [SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
+    - <b>[TensorFX]</b> [TensorFX is an end to end application framework to simplifies machine learning with TensorFlow](https://github.com/TensorLab/tensorfx)
     - <b>[Theano]</b> [Theano: Mathematical library in Python, maintained by LISA lab](http://deeplearning.net/software/theano/) 
         - <b>[Pylearn2]</b> [Theano-based deep learning libraries](http://deeplearning.net/software/pylearn2/) 
         - <b>[Blocks]</b> [Blocks is a framework that helps you build neural network models on top of Theano](https://github.com/mila-udem/blocks)  :star:
