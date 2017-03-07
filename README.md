@@ -214,6 +214,7 @@ You should find the papers and software with star flag are more important or pop
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
+    - [TensorFlow on iOS demo](https://github.com/hollance/TensorFlow-iOS-Example)
     - [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
     - [Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets](https://github.com/affinelayer/pix2pix-tensorflow) :star:
     - [Tensorflow Tutorial files and Implementations of various Deep NLP and CV Models](https://github.com/siddk/deep-nlp)
