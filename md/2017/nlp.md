@@ -2,6 +2,7 @@
 
 ### deep learning
 
+- A Comparative Study of Word Embeddings for Reading Comprehension. [[arXiv](https://arxiv.org/abs/1703.00993)]
 - Automatic Rule Extraction from Long Short Term Memory Networks. [[arXiv](https://arxiv.org/abs/1702.02540)]
 - Deep Recurrent Neural Network for Protein Function Prediction from Sequence. [[arXiv](https://arxiv.org/abs/1701.08318)]
 - Deep Voice: Real-time Neural Text-to-Speech. [[arXiv](https://arxiv.org/abs/1702.07825)] :star:
