@@ -77,6 +77,7 @@
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [[arxiv](https://arxiv.org/abs/1701.08289)]
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [[arxiv](https://arxiv.org/abs/1701.08251)]
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [[arxiv](https://arxiv.org/abs/1701.02096)] [[code](https://github.com/DmitryUlyanov/texture_nets)]
+- Large-Scale Evolution of Image Classifiers. [[arxiv](https://arxiv.org/abs/1703.01041)]
 - Learning a Mixture of Deep Networks for Single Image Super-Resolution. [[arxiv](https://arxiv.org/abs/1701.00823)] [[code](http://t.cn/RM4pjZ4)]
 - Learning a time-dependent master saliency map from eye-tracking data in videos. [[arxiv](https://arxiv.org/abs/1702.00714)] [[code](http://antoinecoutrot.magix.net/public/saliency-with-lasso.html)]
 - Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models. [[arxiv](https://arxiv.org/abs/1702.06228)]
