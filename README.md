@@ -170,6 +170,7 @@ You should find the papers and software with star flag are more important or pop
 - Matlab
     - <b>[MatConvNet]</b> [MatConvNet: CNNs for MATLAB](http://www.vlfeat.org/matconvnet/) 
 - Lua
+    - <b>[OpenNMT]</b> [OpenNMT: Open-Source Neural Machine Translation](https://github.com/opennmt/opennmt)
     - <b>[Torch7]</b> [Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind](http://torch.ch/)  :star:
   
 # Applications
@@ -181,7 +182,7 @@ You should find the papers and software with star flag are more important or pop
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
     - [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle)
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
-    - [Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
+    - [OpenNMT: Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
