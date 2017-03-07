@@ -2,6 +2,7 @@
 
 ### papers
 
+- A Laplacian Framework for Option Discovery in Reinforcement Learning. [[arxiv](https://arxiv.org/abs/1703.00956)] :star:
 - Bridging the Gap Between Value and Policy Based Reinforcement Learning.  [[arxiv](https://arxiv.org/abs/1702.08892)]
 - Deep Reinforcement Learning: An Overview. [[arxiv](https://arxiv.org/abs/1701.07274)]
 - Neural Architecture Search with Reinforcement Learning. [[arxiv](Neural Architecture Search with Reinforcement Learning)] [[tensorflow](https://github.com/tensorflow/models)]
