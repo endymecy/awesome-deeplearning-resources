@@ -34,6 +34,7 @@
 - Learning Chained Deep Features and Classifiers for Cascade in Object Detection. [[arxiv](https://arxiv.org/abs/1702.07054)]
 - Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees. [[arxiv](https://arxiv.org/abs/1702.08833)] :star: 
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
+- Machine Learning on Sequential Data Using a Recurrent Weighted Average. [[arxiv](https://arxiv.org/abs/1703.01253)] [[tensorflow](https://github.com/jostmey/rwa)]
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [[arxiv](https://arxiv.org/abs/1702.00763)]
 - Network Backboning with Noisy Data. [[arxiv](https://arxiv.org/abs/1701.07336)]
 - Neural Decision Trees. [[arxiv](https://arxiv.org/abs/1702.07360)]
