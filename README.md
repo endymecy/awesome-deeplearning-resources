@@ -85,7 +85,7 @@ You should find the papers and software with star flag are more important or pop
 * [Utah] [Applied Computational Genomics Course at UU](https://github.com/quinlan-lab/applied-computational-genomics)
 * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
-* [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+* [Stanford] [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 * [Berkeley] [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
