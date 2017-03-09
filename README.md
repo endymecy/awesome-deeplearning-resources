@@ -211,6 +211,7 @@ You should find the papers and software with star flag are more important or pop
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
+    - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/charlesq34/pointnet) :star:
     - [Realistic Handwriting with Tensorflow](https://github.com/greydanus/scribe)
     - [Self-Driving Car Engineer Nanodegree](https://github.com/upul/Behavioral-Cloning)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
