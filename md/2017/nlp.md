@@ -40,4 +40,5 @@
 ### Transfer learning
 
 - Domain Adaptation in Question Answering. [[arXiv](https://arxiv.org/abs/1702.02171)]
+- Neural Machine Translation and Sequence-to-sequence Models: A Tutorial. [[arXiv](https://arxiv.org/abs/1703.01619)]
 - Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [[arXiv](https://arxiv.org/abs/1702.04488)] [[code](https://github.com/jincy520/Low-Resource-CWS-)]
