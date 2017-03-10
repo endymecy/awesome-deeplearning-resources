@@ -159,6 +159,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>[Deeplearning4J]</b> [Deeplearning4J: Neural Net Platform.](https://github.com/deeplearning4j/deeplearning4j) 
     - <b>[Librec]</b> [LibRec: A Java Library for Recommender Systems.](https://github.com/guoguibing/librec)
     - <b>[NeuralNetworks]</b> [This is a Java implementation of some of the algorithms for training deep neural networks.](https://github.com/ivan-vasilev/neuralnetworks) 
+    - <b>[NewralNet]</b> [A lightweight, easy to use and open source Java library for experimenting with feed-forward neural nets and deep learning.](https://gitlab.com/flimmerkiste/NewralNet/tree/master)
 - Scala
     - <b>[BigDL]</b> [BigDL: Distributed Deep learning on Apache Spark.](https://github.com/intel-analytics/BigDL) 
 - Julia
