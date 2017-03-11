@@ -84,6 +84,7 @@ You should find the papers and software with star flag are more important or pop
 # Pretrain Model
 
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
+* [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
 
 # Courses
