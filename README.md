@@ -9,7 +9,7 @@ You should find the papers and software with star flag are more important or pop
 
 - [Papers](#papers)
 - [Model Zoo](#model-zoo)
-- [Retrain Model](#retrain-model)
+- [Pretrain Model](#pretrain-model)
 - [Courses](#courses)
 - [Books](#books)
 - [Software](#software)
@@ -81,8 +81,9 @@ You should find the papers and software with star flag are more important or pop
 | 2017 | SalGAN | [arxiv](https://arxiv.org/abs/1701.01081) | https://github.com/imatge-upc/saliency-salgan-2017 | 
 | 2017 | WGAN | [arxiv](https://arxiv.org/abs/1701.07875) | https://github.com/Zardinality/WGAN-tensorflow | 
 
-# Retrain Model
+# Pretrain Model
 
+* [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
 
 # Courses
