@@ -81,10 +81,12 @@ You should find the papers and software with star flag are more important or pop
 | 2017 | SalGAN | [arxiv](https://arxiv.org/abs/1701.01081) | https://github.com/imatge-upc/saliency-salgan-2017 | 
 | 2017 | WGAN | [arxiv](https://arxiv.org/abs/1701.07875) | https://github.com/Zardinality/WGAN-tensorflow | 
 
-# Pretrain Model
+# Pretrained Model
 
+* [Inception-v3 of imagenet](http://download.tensorflow.org/models/image/imagenet/inception-v3-2016-03-01.tar.gz)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
+* [TensorFlow VGG-16 pre-trained model](https://github.com/ry/tensorflow-vgg16)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
 
 # Courses

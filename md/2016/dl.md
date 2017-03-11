@@ -124,7 +124,7 @@
 - Full Resolution Image Compression with Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1608.05148)] [[tensorflow](https://github.com/tensorflow/models/tree/master/compression)] :star:
 - Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization. [[arxiv](https://arxiv.org/abs/1610.02391)] [[tensorflow](https://github.com/Ankush96/grad-cam.tensorflow)] :star: 
 - Hardware for Machine Learning: Challenges and Opportunities. [[url](https://arxiv.org/abs/1612.07625?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)]
-- <b>[InceptionResNetV4]</b> Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning. [[arxiv](https://arxiv.org/abs/1602.07261)] :star: 
+- <b>[Inception-V4]</b> Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning. [[arxiv](https://arxiv.org/abs/1602.07261)] :star: 
 - Internet-Based Image Retrieval Using End-to-End Trained Deep Distributions. [[arxiv](https://arxiv.org/abs/1612.07697)]
 - Learning Non-Lambertian Object Intrinsics across ShapeNet Categories. [[arxiv](https://arxiv.org/abs/1612.08510)]
 - Learning Residual Images for Face Attribute Manipulation. [[arxiv](https://arxiv.org/abs/1612.05363)]
