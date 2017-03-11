@@ -9,6 +9,7 @@ You should find the papers and software with star flag are more important or pop
 
 - [Papers](#papers)
 - [Model Zoo](#model-zoo)
+- [Retrain Model](#retrain-model)
 - [Courses](#courses)
 - [Books](#books)
 - [Software](#software)
@@ -79,6 +80,10 @@ You should find the papers and software with star flag are more important or pop
 | 2016 | VGNA | [arxiv](https://arxiv.org/abs/1611.01799) | https://github.com/Shuangfei/vgan | 
 | 2017 | SalGAN | [arxiv](https://arxiv.org/abs/1701.01081) | https://github.com/imatge-upc/saliency-salgan-2017 | 
 | 2017 | WGAN | [arxiv](https://arxiv.org/abs/1701.07875) | https://github.com/Zardinality/WGAN-tensorflow | 
+
+# Retrain Model
+
+* [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
 
 # Courses
 
