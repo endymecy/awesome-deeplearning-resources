@@ -223,6 +223,7 @@ You should find the papers and software with star flag are more important or pop
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
     - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/charlesq34/pointnet) :star:
     - [Realistic Handwriting with Tensorflow](https://github.com/greydanus/scribe)
+    - [Real-time Joint Semantic Reasoning for Autonomous Driving](https://github.com/MarvinTeichmann/MultiNet)
     - [Self-Driving Car Engineer Nanodegree](https://github.com/upul/Behavioral-Cloning)
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
