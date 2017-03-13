@@ -206,6 +206,7 @@ You should find the papers and software with star flag are more important or pop
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
 - tensorflow
     - [A framework for developing and evaluating reinforcement learning algorithms](https://github.com/shaneshixiang/rllabplusplus)
+    - [A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.](https://github.com/google/seq2seq)
     - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
     - [A Practical Guide for Debugging TensorFlow Codes](https://github.com/wookayin/tensorflow-talk-debugging)
     - [Aspect Based Sentiment Analysis using End-to-End Memory Networks](https://github.com/ganeshjawahar/mem_absa)
