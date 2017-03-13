@@ -83,6 +83,7 @@ You should find the papers and software with star flag are more important or pop
 
 # Pretrained Model
 
+* [Available pretrained word embeddings](https://github.com/vzhong/embeddings)
 * [Inception-v3 of imagenet](http://download.tensorflow.org/models/image/imagenet/inception-v3-2016-03-01.tar.gz)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
