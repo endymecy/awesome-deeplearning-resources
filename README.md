@@ -9,7 +9,7 @@ You should find the papers and software with star flag are more important or pop
 
 - [Papers](#papers)
 - [Model Zoo](#model-zoo)
-- [Pretrain Model](#pretrain-model)
+- [Pretrained Model](#pretrain-model)
 - [Courses](#courses)
 - [Books](#books)
 - [Software](#software)
@@ -198,6 +198,7 @@ You should find the papers and software with star flag are more important or pop
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
     - [OpenNMT: Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
+    - [PyTorch implementation of the Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
