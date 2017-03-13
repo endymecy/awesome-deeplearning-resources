@@ -218,6 +218,7 @@ You should find the papers and software with star flag are more important or pop
     - [DeepColor: Automatic coloring and shading of manga-style lineart](https://github.com/kvfrans/deepcolor)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
+    - [Fast Multi(Interpolative) Style Transfer](https://github.com/Heumi/Fast_Multi_Style_Transfer-tf)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Fully differentiable deep-neural decision forest in tensorflow](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
     - [Implementation of Generative Adversarial Networks, for Audio.](https://github.com/usernaamee/audio-GAN)
