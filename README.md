@@ -183,7 +183,9 @@ You should find the papers and software with star flag are more important or pop
 - Lua
     - <b>[OpenNMT]</b> [OpenNMT: Open-Source Neural Machine Translation](https://github.com/opennmt/opennmt)
     - <b>[Torch7]</b> [Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind](http://torch.ch/)  :star:
-  
+- Php
+    - <b>[PHP-ML]</b> [PHP-ML - Machine Learning library for PHP](https://github.com/php-ai/php-ml)
+    
 # Applications
 
 - pytorch
