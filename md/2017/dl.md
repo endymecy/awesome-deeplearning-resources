@@ -144,6 +144,7 @@
 
 ### Transfer learning
 
+- Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning. [[arxiv](https://arxiv.org/abs/1702.08690)]
 - Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [[arxiv](https://arxiv.org/abs/1701.04928)]
 - DSSD : Deconvolutional Single Shot Detector. [[arxiv](https://arxiv.org/abs/1701.06659)]
 - Demystifying Neural Style Transfer. [[arxiv](https://arxiv.org/abs/1701.01036)]
