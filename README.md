@@ -200,6 +200,7 @@ You should find the papers and software with star flag are more important or pop
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [PyTorch implementation of the Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
+    - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
