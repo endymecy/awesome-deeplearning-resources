@@ -223,6 +223,7 @@ You should find the papers and software with star flag are more important or pop
     - [Fast Multi(Interpolative) Style Transfer](https://github.com/Heumi/Fast_Multi_Style_Transfer-tf)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Fully differentiable deep-neural decision forest in tensorflow](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
+    - [GA3C: Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/NVlabs/GA3C)
     - [Implementation of Generative Adversarial Networks, for Audio.](https://github.com/usernaamee/audio-GAN)
     - [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://github.com/jostmey/rwa)
     - [Metasploit for machine learning.](https://github.com/cchio/deep-pwning)
