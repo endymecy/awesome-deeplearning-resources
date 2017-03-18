@@ -188,6 +188,7 @@ You should find the papers and software with star flag are more important or pop
 
 - pytorch
     - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
+    - [A PyTorch Implementation of Single Shot MultiBox Detector.](https://github.com/amdegroot/ssd.pytorch)
     - [A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
     - [Comprehensive Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
