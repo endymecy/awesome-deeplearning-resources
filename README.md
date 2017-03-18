@@ -58,6 +58,7 @@ You should find the papers and software with star flag are more important or pop
 * 2015 | NeuralGPU | [arxiv](http://arxiv.org/abs/1511.08228) | https://github.com/tensorflow/models/tree/master/neural_gpu | 
 * 2015 | Pointer Net | [arxiv](https://arxiv.org/abs/1506.03134) | https://github.com/devsisters/pointer-network-tensorflow | 
 * 2015 | ResNet | [arxiv1](https://arxiv.org/pdf/1512.03385v1.pdf) , [arxiv2](https://arxiv.org/pdf/1605.07146v1.pdf), [arxiv3](https://arxiv.org/pdf/1603.05027v2.pdf) | https://github.com/tensorflow/models/tree/master/resnet | 
+* 2015 | Skip-Thought Vectors | [pdf](https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf) | https://github.com/tensorflow/models/tree/master/skip_thoughts |
 * 2015 | Transformer | [arxiv](https://arxiv.org/abs/1506.02025) | https://github.com/tensorflow/models/tree/master/transformer | 
 * 2016 | Dp_sgd | [arxiv](https://arxiv.org/abs/1607.00133) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
 * 2016 | EnergyGAN | [arxiv](https://arxiv.org/pdf/1609.03126) | https://github.com/buriburisuri/ebgan | 
