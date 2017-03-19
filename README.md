@@ -256,6 +256,7 @@ You should find the papers and software with star flag are more important or pop
 # Awesome Projects
 
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
+- [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 - [Awesome-Caffe](https://github.com/MichaelXin/Awesome-Caffe)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
