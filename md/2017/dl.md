@@ -37,6 +37,7 @@
 - Learning Gradient Descent: Better Generalization and Longer Horizons.  [[arxiv](https://arxiv.org/abs/1703.03633)] [[code](https://github.com/vfleaking/rnnprop)]
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
 - Machine Learning on Sequential Data Using a Recurrent Weighted Average. [[arxiv](https://arxiv.org/abs/1703.01253)] [[tensorflow](https://github.com/jostmey/rwa)]
+- Multiscale Hierarchical Convolutional Networks.  [[arxiv](https://arxiv.org/abs/1703.04140)] [[tensorflow](https://github.com/jhjacobsen/HierarchicalCNN)]
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [[arxiv](https://arxiv.org/abs/1702.00763)]
 - Network Backboning with Noisy Data. [[arxiv](https://arxiv.org/abs/1701.07336)]
 - Neural Decision Trees. [[arxiv](https://arxiv.org/abs/1702.07360)]
