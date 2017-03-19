@@ -84,8 +84,10 @@ You should find the papers and software with star flag are more important or pop
 
 * [Available pretrained word embeddings](https://github.com/vzhong/embeddings)
 * [Inception-v3 of imagenet](http://download.tensorflow.org/models/image/imagenet/inception-v3-2016-03-01.tar.gz)
+* [Dependency-Based Word Embeddings.](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/)
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
+* [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) :star:
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
 * [TensorFlow VGG-16 pre-trained model](https://github.com/ry/tensorflow-vgg16)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
@@ -278,6 +280,7 @@ You should find the papers and software with star flag are more important or pop
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
+- [SCODE Word Embeddings using Substitute Words](https://github.com/ai-ku/wvec)
 - [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
