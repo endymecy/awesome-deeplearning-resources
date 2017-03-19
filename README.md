@@ -203,6 +203,7 @@ You should find the papers and software with star flag are more important or pop
     - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
+    - [SSD: Single Shot MultiBox Object Detector, in PyTorch](https://github.com/amdegroot/ssd.pytorch)
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
     - [YOLOv2 in PyTorch](https://github.com/longcw/yolo2-pytorch)
 - theano
