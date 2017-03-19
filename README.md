@@ -77,6 +77,7 @@ You should find the papers and software with star flag are more important or pop
 * 2016 | SyntaxNet | [arxiv](https://arxiv.org/abs/1603.06042) | https://github.com/tensorflow/models/tree/master/syntaxnet | 
 * 2016 | Textsum |  | https://github.com/tensorflow/models/tree/master/textsum | 
 * 2016 | VGNA | [arxiv](https://arxiv.org/abs/1611.01799) | https://github.com/Shuangfei/vgan | 
+* 2017 | Learning to Remember Rare Events | [pdf](https://openreview.net/pdf?id=SJTQLdqlg) | https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events |
 * 2017 | SalGAN | [arxiv](https://arxiv.org/abs/1701.01081) | https://github.com/imatge-upc/saliency-salgan-2017 | 
 * 2017 | WGAN | [arxiv](https://arxiv.org/abs/1701.07875) | https://github.com/Zardinality/WGAN-tensorflow | 
 
