@@ -36,6 +36,7 @@
 - Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees. [[arxiv](https://arxiv.org/abs/1702.08833)] :star: 
 - Learning Gradient Descent: Better Generalization and Longer Horizons.  [[arxiv](https://arxiv.org/abs/1703.03633)] [[code](https://github.com/vfleaking/rnnprop)]
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [[arxiv](https://arxiv.org/abs/1701.03891)]
+- Learning to Remember Rare Events. [[pdf](https://openreview.net/pdf?id=SJTQLdqlg)] [[tensorflow](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events)] :star:
 - Machine Learning on Sequential Data Using a Recurrent Weighted Average. [[arxiv](https://arxiv.org/abs/1703.01253)] [[tensorflow](https://github.com/jostmey/rwa)]
 - Multiscale Hierarchical Convolutional Networks.  [[arxiv](https://arxiv.org/abs/1703.04140)] [[tensorflow](https://github.com/jhjacobsen/HierarchicalCNN)]
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [[arxiv](https://arxiv.org/abs/1702.00763)]
