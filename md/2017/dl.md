@@ -21,6 +21,7 @@
 - DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy. [[arxiv](https://arxiv.org/abs/1702.08192)] [[caffe](https://github.com/TJKlein/DeepNAT)]
 - Deep Network Guided Proof Search. [[arxiv](https://arxiv.org/abs/1701.06972)]
 - <b>[Edward]</b> Deep Probabilistic Programming. [[arxiv](https://arxiv.org/abs/1701.03757)] [[Web](http://edwardlib.org/)] :star: 
+- [Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval](https://arxiv.org/abs/1703.05605) [[code](https://github.com/ymcidence/DeepSketchHashing)]
 - Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction. [[pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ST-ResNet-AAAI17-Zhang.pdf)] [[github](https://github.com/lucktroy/DeepST/tree/master/scripts/papers/AAAI17)] :star:
 - <b>[DeepStack]</b> [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker.](http://www.jiqizhixin.com/article/2395) [[arxiv](https://arxiv.org/abs/1701.01724)] :star:
 - <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [[arxiv](https://arxiv.org/abs/1701.03980)] [[code](https://github.com/clab/dynet)] :star: 
