@@ -13,6 +13,7 @@
 - End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks. [[arXiv](https://arxiv.org/abs/1703.03305)]
 - End-to-End Task-Completion Neural Dialogue Systems. [[arXiv](https://arxiv.org/abs/1703.01008)] [[code](https://github.com/MiuLab/TC-Bot)] :star:
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [[arXiv](https://arxiv.org/abs/1701.00946)]
+- High-Throughput and Language-Agnostic Entity Disambiguation and Linking on User Generated Data. [[arXiv](https://arxiv.org/abs/1703.04498)]
 - Label Refinement Network for Coarse-to-Fine Semantic Segmentation. [[arXiv](https://arxiv.org/abs/1703.00551)]
 - LanideNN: Multilingual Language Identification on Character Window. [[arXiv](https://arxiv.org/abs/1701.03338)] [[code](https://github.com/tomkocmi/LanideNN)]
 - Learning a Natural Language Interface with Neural Programmer. [[arXiv](https://arxiv.org/abs/1611.08945)] [[tensorflow](https://github.com/tensorflow/models/tree/master/neural_programmer)] :star:
