@@ -279,6 +279,7 @@ You should find the papers and software with star flag are more important or pop
 - [Chainer Info](https://github.com/hidetomasuoka/chainer-info)
 - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
 - [Collection of reinforcement learners implemented in python.](https://github.com/Islandman93/reinforcepy)
+- [Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
 - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision/)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
