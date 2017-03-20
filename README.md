@@ -99,7 +99,6 @@ You should find the papers and software with star flag are more important or pop
 * [Utah] [Applied Computational Genomics Course at UU](https://github.com/quinlan-lab/applied-computational-genomics)
 * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
-* [Stanford] [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 * [Berkeley] [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
@@ -114,6 +113,7 @@ You should find the papers and software with star flag are more important or pop
 * [David Silver] [RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
 * [MIT] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
 * [Google] [Udacity Deep Learning Online Course](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
+* [OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
 
 # Books
 
