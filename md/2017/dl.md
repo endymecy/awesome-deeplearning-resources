@@ -47,7 +47,7 @@
 - OptNet: Differentiable Optimization as a Layer in Neural Networks. [[arxiv](https://arxiv.org/abs/1703.00443)] [[code](https://github.com/locuslab/optnet)] :star:
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.](http://mp.weixin.qq.com/s/qkYHcDpIMM5W7D_NWoa5ww) [[arxiv](https://arxiv.org/abs/1701.06538)]
 - <b>[PathNet]</b> PathNet: Evolution Channels Gradient Descent in Super Neural Networks. [[arxiv](https://arxiv.org/abs/1701.08734)] :star:
-- PixelNet: Representation of the pixels, by the pixels, and for the pixels. [[arxiv](https://arxiv.org/abs/1702.06506)]
+- PixelNet: Representation of the pixels, by the pixels, and for the pixels. [[arxiv](https://arxiv.org/abs/1702.06506)] [[code](https://github.com/aayushbansal/PixelNet)]
 - Privileged Multi-label Learning. [[arxiv](https://arxiv.org/abs/1701.07194)]
 - QCD-Aware Recursive Neural Networks for Jet Physics. [[arxiv](https://arxiv.org/abs/1702.00748)] [[code](https://github.com/glouppe/recnn)]
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [[arxiv](https://arxiv.org/abs/1701.02291)]
