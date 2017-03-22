@@ -26,6 +26,7 @@
 - Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations. [[arXiv](https://arxiv.org/abs/1702.07826)] :star:
 - Recurrent Recommender Networks. [[pdf](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)]
 - Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey. [[arXiv](https://arxiv.org/abs/1702.00764)]
+- Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval. [`arxiv`](https://arxiv.org/abs/1703.06618) [`code`](https://github.com/huyt16/Twitter100k/)
 - Understanding Convolution for Semantic Segmentation. [[arXiv](https://arxiv.org/abs/1702.08502)]
 - Vector Embedding of Wikipedia Concepts and Entities. [[arXiv](https://arxiv.org/abs/1702.03470)] [[code](https://github.com/ehsansherkat/ConVec)]
 - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem. [[arXiv](https://arxiv.org/abs/1701.08376)]
