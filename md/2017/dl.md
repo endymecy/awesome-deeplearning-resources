@@ -160,11 +160,12 @@
 - Demystifying Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1701.01036)
 - Massive Exploration of Neural Machine Translation Architectures. [`arxiv`](https://arxiv.org/abs/1703.03906) [`code`](https://github.com/google/seq2seq/)
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[`arxiv`](https://arxiv.org/abs/1701.08734) :star:
-- Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)]
+- Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
 - Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://openreview.net/pdf?id=HkpbnufYe)
 - Transferring Face Verification Nets To Pain and Expression Regression. [`arxiv`](https://arxiv.org/abs/1702.06925) [`code`](https://github.com/happynear/PainRegression)
 - Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04488) [`code`](https://github.com/jincy520/Low-Resource-CWS-)
+- Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks.  [`arxiv`](https://arxiv.org/abs/1703.06345)
 - Unsupervised Image-to-Image Translation Networks. [`arxiv`](https://arxiv.org/abs/1703.00848)
   
 
