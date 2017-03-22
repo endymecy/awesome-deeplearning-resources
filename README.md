@@ -225,6 +225,7 @@ You should find the papers and software with star flag are more important or pop
     - [Aspect Based Sentiment Analysis using End-to-End Memory Networks](https://github.com/ganeshjawahar/mem_absa)
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
+    - [Chinese Handwriting Recognition with CNNs](https://github.com/atgambardella/handwriting)
     - [DeepColor: Automatic coloring and shading of manga-style lineart](https://github.com/kvfrans/deepcolor)
     - [Deep Learning based Python Library for Stock Market Prediction and Modelling](https://github.com/achillesrasquinha/bulbea)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
@@ -265,6 +266,7 @@ You should find the papers and software with star flag are more important or pop
 # Awesome Projects
 
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
+- [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 - [Awesome-Caffe](https://github.com/MichaelXin/Awesome-Caffe)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
@@ -292,3 +294,4 @@ You should find the papers and software with star flag are more important or pop
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
 - [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus)
+- [图像文本位置感知与识别的论文资源汇总](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)
