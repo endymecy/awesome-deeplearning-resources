@@ -149,22 +149,22 @@
 - Unsupervised Diverse Colorization via Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1702.06674)]
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [[arxiv](https://arxiv.org/abs/1701.02676)]
 - <b>[WGAN]</b> [Wasserstein GAN.](https://zhuanlan.zhihu.com/p/25071913) [[arxiv](https://arxiv.org/abs/1701.07875)] [[code](https://github.com/martinarjovsky/WassersteinGAN)] [[tensorflow](https://github.com/Zardinality/WGAN-tensorflow)]:star:
-- WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images. [[arxiv](https://arxiv.org/abs/1702.07392)] [[code](https://github.com/kskin/WaterGAN)]
+- WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images. [[arxiv](https://arxiv.org/abs/1702.07392)] [`code`](https://github.com/kskin/WaterGAN)
 
 ### Transfer learning
 
-- Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization . [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://openreview.net/pdf?id=B1fUVMzKg) [[code](https://github.com/xunhuang1995/AdaIN-style)]
-- Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning. [[arxiv](https://arxiv.org/abs/1702.08690)]
-- Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [[arxiv](https://arxiv.org/abs/1701.04928)]
-- DSSD : Deconvolutional Single Shot Detector. [[arxiv](https://arxiv.org/abs/1701.06659)]
-- Demystifying Neural Style Transfer. [[arxiv](https://arxiv.org/abs/1701.01036)]
-- Massive Exploration of Neural Machine Translation Architectures. [[arxiv](https://arxiv.org/abs/1703.03906)] [[code](https://github.com/google/seq2seq/)]
-- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[[arxiv](https://arxiv.org/abs/1701.08734)] :star:
-- Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [[arXiv](https://arxiv.org/abs/1702.02171)]
-- Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [[arxiv](https://arxiv.org/abs/1701.02357)]
-- Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [[pdf](https://openreview.net/pdf?id=HkpbnufYe)]
-- Transferring Face Verification Nets To Pain and Expression Regression. [[arxiv](https://arxiv.org/abs/1702.06925)] [[code](https://github.com/happynear/PainRegression)]
-- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [[arxiv](https://arxiv.org/abs/1702.04488)] [[code](https://github.com/jincy520/Low-Resource-CWS-)]
-- Unsupervised Image-to-Image Translation Networks. [[arxiv](https://arxiv.org/abs/1703.00848)]
+- Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization . [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://openreview.net/pdf?id=B1fUVMzKg) [`code`](https://github.com/xunhuang1995/AdaIN-style)
+- Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning. [`arxiv`](https://arxiv.org/abs/1702.08690)
+- Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [`arxiv`](https://arxiv.org/abs/1701.04928)]
+- DSSD : Deconvolutional Single Shot Detector. [`arxiv`](https://arxiv.org/abs/1701.06659)
+- Demystifying Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1701.01036)]
+- Massive Exploration of Neural Machine Translation Architectures. [`arxiv`](https://arxiv.org/abs/1703.03906)] [`code`](https://github.com/google/seq2seq/)]
+- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[`arxiv`](https://arxiv.org/abs/1701.08734) :star:
+- Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)]
+- Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
+- Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://openreview.net/pdf?id=HkpbnufYe)
+- Transferring Face Verification Nets To Pain and Expression Regression. [`arxiv`](https://arxiv.org/abs/1702.06925) [`code`](https://github.com/happynear/PainRegression)
+- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04488) [`code`](https://github.com/jincy520/Low-Resource-CWS-)
+- Unsupervised Image-to-Image Translation Networks. [`arxiv`](https://arxiv.org/abs/1703.00848)
   
 
