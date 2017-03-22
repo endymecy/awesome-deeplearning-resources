@@ -248,6 +248,7 @@ You should find the papers and software with star flag are more important or pop
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
+    - [Teach machine to write all we want](https://github.com/zzw922cn/Neural_Writing_Machine) :star:
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [TensorFlow on iOS demo](https://github.com/hollance/TensorFlow-iOS-Example)
     - [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)

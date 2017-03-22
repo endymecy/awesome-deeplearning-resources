@@ -120,7 +120,7 @@
 
 - <b>[AdaGAN]</b> AdaGAN: Boosting Generative Models. [`arxiv`](https://arxiv.org/abs/1701.02386) :star: 
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs.[`arxiv`](https://arxiv.org/abs/1702.03410)
-- [Adversarial Attacks on Neural Network Policies.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993385&idx=2&sn=b381743378a7cfb04abc807f4a5b2f40) [[pdf](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf)] :star:
+- [Adversarial Attacks on Neural Network Policies.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993385&idx=2&sn=b381743378a7cfb04abc807f4a5b2f40)  [[pdf](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf)] :star:
 - Adversarial Discriminative Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1702.05464)
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer. [`arxiv`](https://arxiv.org/abs/1702.08014)
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1701.00188)
@@ -141,7 +141,7 @@
 - Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [[tensorflow](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)]
 - <b>[DiscoGAN]</b>Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [[code](https://github.com/dhgrs/chainer-DiscoGAN)] [[pytorch]] :star:
 - Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.07319)
-- [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020) [`arxiv`](https://arxiv.org/abs/1701.06264) [[code](https://github.com/guojunq/lsgan)]
+- [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [[code](https://github.com/guojunq/lsgan)]
 - <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081) [[code](https://github.com/imatge-upc/saliency-salgan-2017)] :star: 
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [[code](https://github.com/dvolkhonskiy/adversarial-steganography)]
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862) :star:
