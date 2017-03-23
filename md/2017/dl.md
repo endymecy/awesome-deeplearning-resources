@@ -13,6 +13,7 @@
 - Complex Networks: from Classical to Quantum.  [[arxiv](https://arxiv.org/abs/1702.08459)]
 - Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [[arxiv](https://arxiv.org/abs/1702.05870)]
 - DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [[arxiv](https://arxiv.org/abs/1702.04280)]
+- Dance Dance Convolution. [`arxiv`](https://arxiv.org/abs/1703.06891)
 - [Deep and Hierarchical Implicit Models.](http://dustintran.com/blog/deep-and-hierarchical-implicit-models) [[arxiv](https://arxiv.org/abs/1702.08896)]
 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [[arxiv](https://arxiv.org/abs/1703.04247)]
 - <b>[Deep Forest] </b>[Deep Forest: Towards An Alternative to Deep Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651994082&idx=1&sn=3a1f21ab37ea8322c6700f660b71648a) [[arxiv](https://arxiv.org/abs/1702.08835)] :star:
@@ -83,7 +84,7 @@
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [[arxiv](https://arxiv.org/abs/1701.08289)]
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [[arxiv](https://arxiv.org/abs/1701.08251)]
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [[arxiv](https://arxiv.org/abs/1701.02096)] [[code](https://github.com/DmitryUlyanov/texture_nets)]
-- Large-Scale Evolution of Image Classifiers. [[arxiv](https://arxiv.org/abs/1703.01041)]
+- Large-Scale Evolution of Image Classifiers. [`arxiv`](https://arxiv.org/abs/1703.01041) [`pytorch`](https://github.com/neuralix/google_evolution)
 - Learning a Mixture of Deep Networks for Single Image Super-Resolution. [[arxiv](https://arxiv.org/abs/1701.00823)] [[code](http://t.cn/RM4pjZ4)]
 - Learning a time-dependent master saliency map from eye-tracking data in videos. [[arxiv](https://arxiv.org/abs/1702.00714)] [[code](http://antoinecoutrot.magix.net/public/saliency-with-lasso.html)]
 - Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models. [[arxiv](https://arxiv.org/abs/1702.06228)]
