@@ -44,6 +44,7 @@
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [[arxiv](https://arxiv.org/abs/1702.00763)]
 - Network Backboning with Noisy Data. [[arxiv](https://arxiv.org/abs/1701.07336)]
 - Neural Decision Trees. [[arxiv](https://arxiv.org/abs/1702.07360)]
+- One-Shot Imitation Learning. [`arxiv`](https://arxiv.org/abs/1703.07326) :star:
 - Opening the Black Box of Deep Neural Networks via Information.  [[arxiv](https://arxiv.org/abs/1703.00810)] :star:
 - OptNet: Differentiable Optimization as a Layer in Neural Networks. [[arxiv](https://arxiv.org/abs/1703.00443)] [[code](https://github.com/locuslab/optnet)] :star:
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.](http://mp.weixin.qq.com/s/qkYHcDpIMM5W7D_NWoa5ww) [[arxiv](https://arxiv.org/abs/1701.06538)]
