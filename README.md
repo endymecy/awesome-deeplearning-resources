@@ -237,6 +237,7 @@ You should find the papers and software with star flag are more important or pop
     - [Fully differentiable deep-neural decision forest in tensorflow](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
     - [GA3C: Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/NVlabs/GA3C)
     - [Implementation of Generative Adversarial Networks, for Audio.](https://github.com/usernaamee/audio-GAN)
+    - [Implementations of deep RL papers and random experimentation](https://github.com/steveKapturowski/tensorflow-rl) :star:
     - [Interactive, node-by-node debugging and visualization for TensorFlow](https://github.com/ericjang/tdb) :star:
     - [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://github.com/jostmey/rwa)
     - [Metasploit for machine learning.](https://github.com/cchio/deep-pwning)
