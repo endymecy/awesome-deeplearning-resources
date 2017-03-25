@@ -83,6 +83,7 @@
 - Risk versus Uncertainty in Deep Learning: Bayes, Bootstrap and the Dangers of Dropout. [[pdf](http://bayesiandeeplearning.org/papers/BDL_4.pdf)]
 - RNN-based Encoder-decoder Approach with Word Frequency Estimation. [[arxiv](https://arxiv.org/abs/1701.00138)]
 - SampleRNN: An Unconditional End-To-End Neural Audio Generation Model. [[pdf](https://openreview.net/pdf?id=HyJsPvcgg)] [[github](https://github.com/soroushmehr/sampleRNN_ICLR2017)]
+- SoundNet: Learning Sound Representations from Unlabeled Video. [`psf`](http://web.mit.edu/vondrick/soundnet.pdf) [`tensorflow`](https://github.com/eborboihuc/SoundNet-tensorflow) :star:
 - Structured Receptive Fields in CNNs.  [[arxiv](https://arxiv.org/abs/1605.02971v2)] [[code](https://github.com/jhjacobsen/RFNN)]
 - Tagger: Deep Unsupervised Perceptual Grouping.  [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjp-razjufQAhWFLSYKHSF_CFcQFggsMAI&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6067-tagger-deep-unsupervised-perceptual-grouping.pdf&usg=AFQjCNG2BMZI5bfamUYu5Kbba9EbDsc9mw)]
 - TensorFlow- A system for large-scale machine learning. [[pdf](docs/2016/TensorFlow- A system for large-scale machine learning.pdf)] [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwid8I2JsNjQAhVGw7wKHXZjDDoQFggbMAA&url=http%3A%2F%2Fdownload.tensorflow.org%2Fpaper%2Fwhitepaper2015.pdf&usg=AFQjCNEAFa6vGrlp_CKFlVxs0EHLsyhVtQ)] :star: 
