@@ -204,6 +204,7 @@ You should find the papers and software with star flag are more important or pop
     - [Deep Q-Learning Network in pytorch](https://github.com/transedward/pytorch-dqn)
     - [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle)
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
+    - [Lightweight implementation of neural style in Pytorch with SqueezeNet](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
     - [OpenNMT: Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
