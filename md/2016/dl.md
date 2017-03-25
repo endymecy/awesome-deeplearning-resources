@@ -45,7 +45,7 @@
 - Event-driven Random Back-Propagation: Enabling Neuromorphic Deep Learning Machines. [[url](https://arxiv.org/abs/1612.05596?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)]
 - Fathom: Reference Workloads for Modern Deep Learning Methods. [[arxiv](https://arxiv.org/abs/1608.06581)]
 - Feedback arcs and node hierarchy in directed networks. [[arxiv](https://arxiv.org/abs/1612.05347)]
-- FINN: A framework for fast, scalable binarized neural network inference. [[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjMuJDuoInRAhXphVQKHT6pDkQQFggcMAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%69%64%69%2e%6e%74%6e%75%2e%6e%6f%2f%7e%79%61%6d%61%6e%75%2f%32%30%31%37%2d%66%70%67%61%2d%66%69%6e%6e%2d%70%72%65%70%72%69%6e%74%2e%70%64%66&usg=AFQjCNFY93dwPam2CufAbHPf6EtwSFVzmg)]
+- FINN: A framework for fast, scalable binarized neural network inference. [`arxiv`](https://arxiv.org/abs/1612.07119) [`code`](https://github.com/Xilinx/BNN-PYNQ)
 - FractalNet-Ultra-Deep Neural Networks without Residuals. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjWmMPHi9jQAhULVbwKHfoXDTwQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07648&usg=AFQjCNHDJqUxtKeCbEd0GkbFRAppVxmxgQ)]
 - <b>[URNN]</b> Full-Capacity Unitary Recurrent Neural Networks. [[arxiv](https://arxiv.org/abs/1611.00035)] [[code](https://github.com/stwisdom/urnn)] :star: 
 - Fused-Layer CNN Accelerators. [[pdf](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf)]
