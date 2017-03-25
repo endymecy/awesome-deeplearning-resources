@@ -111,51 +111,51 @@
   
 ### Attention and memory
 
-- Attention-Based Multimodal Fusion for Video Description. [[arxiv](https://arxiv.org/abs/1701.03126)]
-- Deep Memory Networks for Attitude Identification. [[arxiv](https://arxiv.org/abs/1701.04189)]
-- End-to-End Attention based Text-Dependent Speaker Verification. [[arxiv](https://arxiv.org/abs/1701.00562)]
-- <b>[HRAN]</b> Hierarchical Recurrent Attention Network for Response Generation. [[arxiv](https://arxiv.org/abs/1701.07149)] [[code](https://github.com/LynetteXing1991/HRAN)] :star:
-- Structural Attention Neural Networks for improved sentiment analysis. [[arxiv](https://arxiv.org/abs/1701.01811)]
-- Structured Attention Networks. [[arxiv](https://arxiv.org/abs/1702.00887)] [[github](https://github.com/harvardnlp/struct-attn)]
+- Attention-Based Multimodal Fusion for Video Description. [`arxiv`](https://arxiv.org/abs/1701.03126)
+- Deep Memory Networks for Attitude Identification. [`arxiv`](https://arxiv.org/abs/1701.04189)
+- End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
+- <b>[HRAN]</b> Hierarchical Recurrent Attention Network for Response Generation. [`arxiv`](https://arxiv.org/abs/1701.07149) [`code`](https://github.com/LynetteXing1991/HRAN) :star:
+- Structural Attention Neural Networks for improved sentiment analysis. [`arxiv`](https://arxiv.org/abs/1701.01811)
+- Structured Attention Networks. [`arxiv`](https://arxiv.org/abs/1702.00887) [`github`](https://github.com/harvardnlp/struct-attn)
 
 ### Generative learning
 
 - <b>[AdaGAN]</b> AdaGAN: Boosting Generative Models. [`arxiv`](https://arxiv.org/abs/1701.02386) :star: 
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs.[`arxiv`](https://arxiv.org/abs/1702.03410)
-- [Adversarial Attacks on Neural Network Policies.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993385&idx=2&sn=b381743378a7cfb04abc807f4a5b2f40)  [[pdf](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf)] :star:
+- [Adversarial Attacks on Neural Network Policies.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993385&idx=2&sn=b381743378a7cfb04abc807f4a5b2f40)  [`pdf`](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf) :star:
 - Adversarial Discriminative Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1702.05464)
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer. [`arxiv`](https://arxiv.org/abs/1702.08014)
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1701.00188)
 - Automatic Generation of Typographic Font from a Small Font Subset. [`arxiv`](https://arxiv.org/abs/1701.05703) :star:
 - Boosted Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08484)
-- Counterfactual Control for Free from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.06676) [[code](https://github.com/arayabrain/GenerativeControl)]
+- Counterfactual Control for Free from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.06676) [`code`](https://github.com/arayabrain/GenerativeControl)
 - Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. [`arxiv`](https://arxiv.org/abs/1702.07464)
 - Dense Associative Memory is Robust to Adversarial Inputs. [`arxiv`](https://arxiv.org/abs/1701.00939)
-- Denoising Adversarial Autoencoders. [`arxiv`](https://arxiv.org/abs/1703.01220) [[code](https://github.com/ToniCreswell/DAAE_)] :star:
+- Denoising Adversarial Autoencoders. [`arxiv`](https://arxiv.org/abs/1703.01220) [`code`](https://github.com/ToniCreswell/DAAE_) :star:
 - Face Aging With Conditional Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.01983)
 - Face Synthesis from Facial Identity Features. [`arxiv`](https://arxiv.org/abs/1701.04851)
 - Generative Adversarial Active Learning. [`arxiv`](https://arxiv.org/abs/1702.07956)
-- Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit.[`arxiv`](https://arxiv.org/abs/1702.00403) [[code](https://github.com/SpaceML/GalaxyGAN/)]
+- Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit.[`arxiv`](https://arxiv.org/abs/1702.00403) [`code`](https://github.com/SpaceML/GalaxyGAN/)
 - Generative Temporal Models with Memory. [`arxiv`](https://arxiv.org/abs/1702.04649)
 - Generalization and Equilibrium in Generative Adversarial Nets (GANs). [`arxiv`](https://arxiv.org/abs/1703.00573)
-- Image De-raining Using a Conditional Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1701.05957) [[caffe](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)]
+- Image De-raining Using a Conditional Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1701.05957) [`caffe`](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04568)
-- Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [[tensorflow](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)]
-- <b>[DiscoGAN]</b>Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [[code](https://github.com/dhgrs/chainer-DiscoGAN)] [[pytorch]] :star:
+- Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [`tensorflow`](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)
+- <b>[DiscoGAN]</b>Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [`code`](https://github.com/dhgrs/chainer-DiscoGAN) :star:
 - Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.07319)
-- [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [[code](https://github.com/guojunq/lsgan)]
-- <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081) [[code](https://github.com/imatge-upc/saliency-salgan-2017)] :star: 
-- Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [[code](https://github.com/dvolkhonskiy/adversarial-steganography)]
+- [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [`code`](https://github.com/guojunq/lsgan)
+- <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081) [`code`](https://github.com/imatge-upc/saliency-salgan-2017) :star: 
+- Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862) :star:
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery. [`arxiv`](http://weibo.com/1402400261/EAKUStV9i?type=comment#_rnd1490105990159)
 - Unsupervised Diverse Colorization via Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.06674)
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.02676)
-- <b>[WGAN]</b> [Wasserstein GAN.](https://zhuanlan.zhihu.com/p/25071913) [`arxiv`](https://arxiv.org/abs/1701.07875) [[code](https://github.com/martinarjovsky/WassersteinGAN)] [[tensorflow](https://github.com/Zardinality/WGAN-tensorflow)]:star:
+- <b>[WGAN]</b> [Wasserstein GAN.](https://zhuanlan.zhihu.com/p/25071913) [`arxiv`](https://arxiv.org/abs/1701.07875) [`pytorch`](https://github.com/martinarjovsky/WassersteinGAN) [`tensorflow`](https://github.com/Zardinality/WGAN-tensorflow) :star:
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images. [`arxiv`](https://arxiv.org/abs/1702.07392) [`code`](https://github.com/kskin/WaterGAN)
 
 ### Transfer learning
 
-- Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization . [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://openreview.net/pdf?id=B1fUVMzKg) [`code`](https://github.com/xunhuang1995/AdaIN-style)
+- Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization . [`pdf`](https://openreview.net/pdf?id=B1fUVMzKg) [`code`](https://github.com/xunhuang1995/AdaIN-style)
 - Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning. [`arxiv`](https://arxiv.org/abs/1702.08690)
 - Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [`arxiv`](https://arxiv.org/abs/1701.04928)
 - DSSD : Deconvolutional Single Shot Detector. [`arxiv`](https://arxiv.org/abs/1701.06659)
@@ -164,7 +164,7 @@
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[`arxiv`](https://arxiv.org/abs/1701.08734) :star:
 - Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
-- Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://openreview.net/pdf?id=HkpbnufYe)
+- Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [`pdf`](https://openreview.net/pdf?id=HkpbnufYe)
 - Transferring Face Verification Nets To Pain and Expression Regression. [`arxiv`](https://arxiv.org/abs/1702.06925) [`code`](https://github.com/happynear/PainRegression)
 - Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04488) [`code`](https://github.com/jincy520/Low-Resource-CWS-)
 - Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks.  [`arxiv`](https://arxiv.org/abs/1703.06345)
