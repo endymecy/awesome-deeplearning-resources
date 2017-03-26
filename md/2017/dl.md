@@ -1,4 +1,4 @@
-## deep learning
+## Deep Learning
 
 ### Deep learning
 

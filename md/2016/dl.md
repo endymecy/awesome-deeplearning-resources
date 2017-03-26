@@ -1,4 +1,4 @@
-## deep learning
+## Deep Learning
 
 - [return to home](../../README.md)
 
