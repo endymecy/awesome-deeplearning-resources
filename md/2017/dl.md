@@ -163,6 +163,7 @@
 - DSSD : Deconvolutional Single Shot Detector. [`arxiv`](https://arxiv.org/abs/1701.06659)
 - Demystifying Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1701.01036)
 - Massive Exploration of Neural Machine Translation Architectures. [`arxiv`](https://arxiv.org/abs/1703.03906) [`code`](https://github.com/google/seq2seq/)
+- [Multi-style Generative Network for Real-time Transfer.](https://zhuanlan.zhihu.com/p/25892708) [`arxiv`](https://arxiv.org/abs/1703.06953) [`torch`](https://github.com/zhanghang1989/MSG-Net) :star:
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[`arxiv`](https://arxiv.org/abs/1701.08734) :star:
 - Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
