@@ -32,6 +32,7 @@
 - Evolving Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00548) :star:
 - Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs. [`arxiv`](https://arxiv.org/abs/1701.08816)
 - Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.05923)
+- Graffinity: Visualizing Connectivity In Large Graphs. [`arxiv`](https://arxiv.org/abs/1703.07729) [`code`](https://github.com/visdesignlab/graffinity)
 - Graph Structure Learning from Unlabeled Data for Event Detection. [`arxiv`](https://arxiv.org/abs/1701.01470)
 - Hidden Community Detection in Social Networks. [`arxiv`](https://arxiv.org/abs/1702.07462)
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [`arxiv`](https://arxiv.org/abs/1701.05616)
