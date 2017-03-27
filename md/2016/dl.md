@@ -139,6 +139,7 @@
 - <b>[R-FCN]</b> [R-FCN: Object Detection via Region-based Fully Convolutional Networks](http://blog.csdn.net/u012361214/article/details/51507590). [[arxiv](https://arxiv.org/abs/1605.06409)] [[code](https://github.com/Orpine/py-R-FCN)] :star: 
 - Robust LSTM-Autoencoders for Face De-Occlusion in the Wild. [[arxiv](https://arxiv.org/abs/1612.08534)]
 - Semantic Video Segmentation by Gated Recurrent Flow Propagation. [[arxiv](https://arxiv.org/abs/1612.08871)]
+- Spatially Adaptive Computation Time for Residual Networks. [`arxiv`](https://arxiv.org/abs/1612.02297) [`tensorflow`](https://github.com/mfigurnov/sact)
 - <b>[SqueezeNet]</b> [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://blog.csdn.net/human_recognition/article/details/51902285) [[arxiv](https://arxiv.org/abs/1602.07360)] [[code](https://github.com/songhan/SqueezeNet-Deep-Compression)] :star: 
 - Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge. [[arxiv](http://arxiv.org/abs/1609.06647)] [[tensorflow](https://github.com/tensorflow/models/tree/master/im2txt)] :star:
 - sk_p- a neural program corrector for MOOCs. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjd4Oa2rNjQAhVBybwKHfc0BCcQFggoMAE&url=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2989222&usg=AFQjCNH0zVeffptTqLbMnTSc3COazWc1OA)]
