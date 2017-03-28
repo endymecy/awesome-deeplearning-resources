@@ -75,7 +75,7 @@ You should find the papers and software with star flag are more important or pop
 * 2016 | SqueezeNet | [`arxiv`](https://arxiv.org/abs/1602.07360) | [`code`](https://github.com/songhan/SqueezeNet-Deep-Compression) 
 * 2016 | Swivel | [`arxiv`](https://arxiv.org/abs/1602.02215) | [`code`](https://github.com/tensorflow/models/tree/master/swivel) 
 * 2016 | SyntaxNet | [`arxiv`](https://arxiv.org/abs/1603.06042) | [`code`](https://github.com/tensorflow/models/tree/master/syntaxnet) 
-* 2016 | Textsum |  | [`code`](https://github.com/tensorflow/models/tree/master/textsum)
+* 2016 | Textsum |  [`code`](https://github.com/tensorflow/models/tree/master/textsum)
 * 2016 | VGNA | [`arxiv`](https://arxiv.org/abs/1611.01799)  [`code`](https://github.com/Shuangfei/vgan) 
 * 2017 | Learning to Remember Rare Events |  [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg) | [`code`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events) 
 * 2017 | SalGAN | [`arxiv`](https://arxiv.org/abs/1701.01081)  [`code`](https://github.com/imatge-upc/saliency-salgan-2017) 
