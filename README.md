@@ -88,6 +88,7 @@ You should find the papers and software with star flag are more important or pop
 * [Dependency-Based Word Embeddings.](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/)
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
+* [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
 * [Pre-Trained Doc2Vec Models](https://github.com/jhlau/doc2vec)
 * [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) :star:
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
