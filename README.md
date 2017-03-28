@@ -270,6 +270,7 @@ You should find the papers and software with star flag are more important or pop
     - [Deep Voice: Real-time Neural Text-to-Speech](https://github.com/israelg99/deepvoice)
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
     - [Experimental implementation of novel neural network structures](https://github.com/DingKe/nn_playground)
+    - [Five video classification methods](https://github.com/harvitronix/five-video-classification-methods)
     - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings)
     - [Wasserstein DCGAN in Tensorflow/Keras](https://github.com/kuleshov/tf-wgan)
     
