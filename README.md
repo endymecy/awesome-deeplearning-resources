@@ -137,6 +137,7 @@ You should find the papers and software with star flag are more important or pop
 # Software
 
 - python
+    - <b>[`Aorun`]</b> [Aorun: Deep Learning over PyTorch](https://github.com/ramon-oliveira/aorun)
     - <b>[`Chainer`]</b> [Chainer bridge the gap between algorithms and implementations of deep learning.](http://chainer.org/)
     - <b>[`ChainerRL`]</b> [ChainerRL is a deep reinforcement learning library built on top of Chainer.](https://github.com/pfnet/chainerrl)
     - <b>[`DeepPy`]</b> [DeepPy is a Pythonic deep learning framework built on top of NumPy.](https://github.com/andersbll/deeppy)
