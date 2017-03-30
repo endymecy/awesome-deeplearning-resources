@@ -29,13 +29,13 @@
 - Decoupled Neural Interfaces using Synthetic Gradients. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi35fnHhNjQAhUEwrwKHb-CCBEQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1608.05343&usg=AFQjCNEM1lpTJvZ8Q57ENC_8hoEYOn8tKg)]
 - <b>DeepMind Lab.</b> [`url`](https://arxiv.org/abs/1612.03801) :star: 
 - Deep API Learning.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjul43zhNjQAhWMwLwKHQEjA6UQFggnMAE&url=http%3A%2F%2Fhome.cse.ust.hk%2F~xguaa%2Fpapers%2Fdeepapi.pdf&usg=AFQjCNHljxBLzjHzj38PRMQXK9Ew5oVIjw)]
-- <b>[DeepCoder]</b> [DeepCoder: Learning to Write Programs](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723632&idx=5&sn=2654d4e512ff3c23e1bd17b2e9e562d5)] :star:
+- <b>[DeepCoder]</b> [DeepCoder: Learning to Write Programs](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723632&idx=5&sn=2654d4e512ff3c23e1bd17b2e9e562d5) :star:
 - Deep Learning without Poor Local Minima.[[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiv97uNhdjQAhXFfbwKHX4mBUYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07110&usg=AFQjCNHt8kPnzQkWZCGJEusOBkwtrCikBQ)] :star: 
 - Deep Learning with Differential Privacy. [`arxiv`](https://arxiv.org/abs/1607.00133) [`tensorflow`](https://github.com/tensorflow/models/tree/master/differential_privacy/privacy_accountant) :star:
 - Deep Neural Networks for YouTube Recommendations. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU-vfIhdjQAhXMe7wKHclLCoIQFggbMAA&url=http%3A%2F%2Fresearch.google.com%2Fpubs%2Farchive%2F45530.pdf&usg=AFQjCNGW4ovtzUBkxT4qx4mnogD74QHfzA)]
 - Deep Portfolio Theory. [`arxiv`](https://arxiv.org/pdf/1605.07230.pdf)
 - Deeply-Fused Nets. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjm87i4htjQAhXHxLwKHRW4CfkQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07716&usg=AFQjCNFr85h2BVJrvAqLlIqT_JhQP7wnzA)] :star: 
-- <b>[DenseNet]</b> [Densely Connected Convolutional Networks.](https://medium.com/@illarionkhlestov/notes-on-the-implementation-densenet-in-tensorflow-beeda9dd1504#.a88ur45ce) [`arxiv`](https://arxiv.org/abs/1608.06993) [[pytorch](https://github.com/andreasveit/densenet-pytorch)] :star:
+- <b>[DenseNet]</b> [Densely Connected Convolutional Networks.](https://medium.com/@illarionkhlestov/notes-on-the-implementation-densenet-in-tensorflow-beeda9dd1504#.a88ur45ce) [`arxiv`](https://arxiv.org/abs/1608.06993) [`pytorch`](https://github.com/andreasveit/densenet-pytorch) :star:
 - Density estimation using Real NVP.[`arxiv`](https://arxiv.org/abs/1605.08803)[`tensorflow`](https://github.com/tensorflow/models/tree/master/real_nvp)
 - Domain Separation Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwij0dG5oI7RAhVriVQKHV3gAfwQFggsMAE&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6254-domain-separation-networks.pdf&usg=AFQjCNFRd_0epq_0QAs21drboBmgCRdg1A)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes. [`arxiv`](https://arxiv.org/abs/1607.00036)
@@ -89,7 +89,7 @@
 - Tensors and algebra give interpretable groups for crosstalk mechanisms in breast cancer.[`arxiv`](https://arxiv.org/abs/1612.08116)
 - The Inevitability of Probability- Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiAq9iqsNjQAhUEjpQKHUZjBq0QFggbMAA&url=https%3A%2F%2F128.84.21.199%2Fabs%2F1601.03060v1&usg=AFQjCNG5CeOHSBphHdIAmvp8U_iTvsBiEA)]
 - The Predictron: End-To-End Learning and Planning. [`arxiv`](https://arxiv.org/abs/1612.08810) [`code`](https://github.com/zhongwen/predictron)
-- Towards an integration of deep learning and neuroscience. [`arxiv`](https://arxiv.org/abs/1606.03813)]
+- Towards an integration of deep learning and neuroscience. [`arxiv`](https://arxiv.org/abs/1606.03813)
 - Training Recurrent Neural Networks by Diffusion.  [`arxiv`](https://arxiv.org/abs/1601.04114)]
 - Tutorial on Variational Autoencoders.[`arxiv`](https://arxiv.org/abs/1606.05908) :star: 
 - Understanding Deep Convolutional Networks.  [`arxiv`](https://arxiv.org/abs/1601.04920) :star: 
