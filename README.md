@@ -233,6 +233,7 @@ You should find the papers and software with star flag are more important or pop
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
     - [Chinese Handwriting Recognition with CNNs](https://github.com/atgambardella/handwriting)
+    - [Convolutional Neural Network for Multi-label Multi-instance Relation Extraction in Tensorflow](https://github.com/may-/cnn-re-tf)
     - [DeepColor: Automatic coloring and shading of manga-style lineart](https://github.com/kvfrans/deepcolor)
     - [Deep Learning based Python Library for Stock Market Prediction and Modelling](https://github.com/achillesrasquinha/bulbea)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
