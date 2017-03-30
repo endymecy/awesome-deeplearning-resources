@@ -74,6 +74,7 @@
 - Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04128)
 - Understanding trained CNNs by indexing neuron selectivity. [`arxiv`](https://arxiv.org/abs/1702.00382)
 - Variational Inference using Implicit Distributions. [`arxiv`](https://arxiv.org/abs/1702.08235)
+- Who Said What: Modeling Individual Labelers Improves Classification. [`arxiv`](https://arxiv.org/abs/1703.08774) :star:
   
 ### Computer vision
 
