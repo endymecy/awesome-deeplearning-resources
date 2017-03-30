@@ -130,6 +130,7 @@
 - Learning Residual Images for Face Attribute Manipulation. [`arxiv`](https://arxiv.org/abs/1612.05363)
 - Maxmin convolutional neural networks for image classification. [`arxiv`](https://arxiv.org/abs/1610.07882)
 - Movie Description.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi5x_fNn9jQAhUCE7wKHWKYBaAQFggvMAI&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.03705&usg=AFQjCNGSn_eGmE9NF1hgqvIDYlT8KV-zmA)]
+- OctNet: Learning Deep 3D Representations at High Resolutions. [`arxiv`](https://arxiv.org/abs/1611.05009) [`code`](https://github.com/griegler/octnet) 
 - <b>[PRNN]</b> Pixel Recurrent Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjb3q_DpdjQAhXCTbwKHcmnDl4QFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1601.06759&usg=AFQjCNE6yFapsTPP1_31UvCK8WRf-P_47Q)] :star: 
 - Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. [`arxiv`](https://arxiv.org/abs/1612.00005)
 - Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1612.07429)
