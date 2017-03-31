@@ -45,6 +45,7 @@
 - LipNet: Sentence-level Lipreading. [`pdf`](https://openreview.net/pdf?id=BkjLkSqxg) [`torch`](https://github.com/bshillingford/LipNet)
 - Machine Learning on Sequential Data Using a Recurrent Weighted Average. [`arxiv`](https://arxiv.org/abs/1703.01253) [`tensorflow`](https://github.com/jostmey/rwa)
 - [Mask R-CNN.](https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488392&idx=2&sn=7c8e41aef37c370d6155607283d776ef) [`arxiv`](https://arxiv.org/abs/1703.06870) :star:
+- Multi-Scale Dense Convolutional Networks for Efficient Prediction. [`arxiv`](https://arxiv.org/abs/1703.09844) [`code`](https://github.com/gaohuang/MSDNet)
 - Multiscale Hierarchical Convolutional Networks.  [`arxiv`](https://arxiv.org/abs/1703.04140) [`tensorflow`](https://github.com/jhjacobsen/HierarchicalCNN)
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [`arxiv`](https://arxiv.org/abs/1702.00763)
 - Network Backboning with Noisy Data. [`arxiv`](https://arxiv.org/abs/1701.07336)
