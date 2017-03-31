@@ -240,13 +240,11 @@
 - [Progressive Neural Networks.](http://www.cnblogs.com/wangxiaocvpr/p/6002214.html)  [`arxiv`](https://arxiv.org/abs/1606.04671) :star: 
 - Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks.[`arxiv`](https://arxiv.org/abs/1603.01768)[`code`](https://github.com/alexjc/neural-doodle) :star: 
 - <b>[Best Paper]</b>Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. [`arxiv`](https://arxiv.org/abs/1610.05755) [`tensorflow`](https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers) :star:
-  
-### One/zero-shot learning
-
 - FastMask: Segment Multi-scale Object Candidates in One Shot.[`arxiv`](https://arxiv.org/abs/1612.08843)
 - Learning feed-forward one-shot learners. [`arxiv`](https://arxiv.org/abs/1606.05233)
 - Low-shot Visual Recognition by Shrinking and Hallucinating Features. [`arxiv`](https://arxiv.org/abs/1606.02819) :star: 
 - Matching Networks for One Shot Learning. [`arxiv`](https://arxiv.org/abs/1606.04080)
 - One-Shot Generalization in Deep Generative Models. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiF7YmmpNjQAhXKw7wKHU_qDeUQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.05106&usg=AFQjCNH2H_wgC0cAuwZfEHn8wghdoD0uRQ)] :star: 
 - One-shot Learning with Memory-Augmented Neural Networks. [`arxiv`](https://arxiv.org/abs/1605.06065) [`tensorflow`](https://github.com/hmishra2250/NTM-One-Shot-TF):star: 
+- One-Shot Video Object Segmentation. [`arxiv`](https://arxiv.org/abs/1611.05198) [`tensorflow`](https://github.com/scaelles/OSVOS-TensorFlow)
 - Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery. [`arxiv`](https://arxiv.org/abs/1612.04901)
