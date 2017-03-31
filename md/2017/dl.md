@@ -149,6 +149,7 @@
 - Generative Adversarial Residual Pairwise Networks for One Shot Learning. [`arxiv`](https://arxiv.org/abs/1703.08033)
 - Generative Temporal Models with Memory. [`arxiv`](https://arxiv.org/abs/1702.04649)
 - Generalization and Equilibrium in Generative Adversarial Nets (GANs). [`arxiv`](https://arxiv.org/abs/1703.00573)
+- GP-GAN: Towards Realistic High-Resolution Image Blending.  [`arxiv`](https://arxiv.org/abs/1703.07195) [`code`](https://github.com/wuhuikai/GP-GAN) 
 - Image De-raining Using a Conditional Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1701.05957) [`caffe`](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04568)
 - Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [`tensorflow`](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)
