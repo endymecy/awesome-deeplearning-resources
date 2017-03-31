@@ -263,8 +263,9 @@ You should find the papers and software with star flag are more important or pop
     - [Tensorflow implementation of attention mechanism for text classification tasks.](https://github.com/ilivans/tf-rnn-attention)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation](https://github.com/shekkizh/FCN.tensorflow)
+    - [Tensorflow for Time Series Applications](https://github.com/abhishekmalali/TimeFlow)
     - [TensorFlow on iOS demo](https://github.com/hollance/TensorFlow-iOS-Example)
-    - [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
+    - [TensorFlow on Spark](https://github.com/yahoo/TensorFlowOnSpark)
     - [Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets](https://github.com/affinelayer/pix2pix-tensorflow) :star:
     - [Tensorflow Tutorial files and Implementations of various Deep NLP and CV Models](https://github.com/siddk/deep-nlp)
     - [Tutorials for deep learning](https://github.com/oduerr/dl_tutorial)
