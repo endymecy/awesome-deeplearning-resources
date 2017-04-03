@@ -5,6 +5,7 @@
 ### Deep learning
 
 - A Deep Learning Approach To Multiple Kernel Fusion. [`arxiv`](https://arxiv.org/abs/1612.09007)
+- Aggregated Residual Transformations for Deep Neural Networks.  [`arxiv`](https://arxiv.org/abs/1611.05431) [`tensorflow`](https://github.com/wenxinxu/ResNeXt-in-tensorflow) 
 - A guide to convolution arithmetic for deep learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjhcmhp9PQAhVG2LwKHcCEDFUQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.07285&usg=AFQjCNFzA126l1euYTfLgEniFKh7EI4N9w)]
 - A New Method to Visualize Deep Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjVzJrT2dXQAhUJW7wKHZR-CNIQFggsMAE&url=https%3A%2F%2Ficmlviz.github.io%2Fassets%2Fpapers%2F23.pdf&usg=AFQjCNGOxMWK9cOTxt5Qjv1SEEsPWoJHfQ)]
 - A Persona-Based Neural Conversation Model.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiI9pnm2dXQAhWDTbwKHTUEBZUQFggtMAE&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP16%2FP16-1094.pdf&usg=AFQjCNFghz9P9_V6TL-VSYRH1h22rIAoHw)]
