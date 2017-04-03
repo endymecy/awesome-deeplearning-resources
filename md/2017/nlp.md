@@ -12,6 +12,7 @@
 - Dialog Context Language Modeling with Recurrent Neural Networks. [[arXiv](https://arxiv.org/abs/1701.04056)]
 - dna2vec: Consistent vector representations of variable-length k-mers. [[arXiv](https://arxiv.org/abs/1701.06279)] [[code](https://pnpnpn.github.io/dna2vec/)]
 - Efficient Vector Representation For Documents Through Corruption. [[pdf](https://openreview.net/pdf?id=B1Igu2ogg)] [[code](https://github.com/mchen24/iclr2017)] :star:
+- End-to-End MAP Training of a Hybrid HMM-DNN Model. [`arXiv`](https://arxiv.org/abs/1703.10356)
 - End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks. [[arXiv](https://arxiv.org/abs/1703.03305)]
 - End-to-End Task-Completion Neural Dialogue Systems. [[arXiv](https://arxiv.org/abs/1703.01008)] [[code](https://github.com/MiuLab/TC-Bot)] :star:
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [[arXiv](https://arxiv.org/abs/1701.00946)]
