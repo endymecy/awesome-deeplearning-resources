@@ -124,6 +124,7 @@
 
 - Attention-Based Multimodal Fusion for Video Description. [`arxiv`](https://arxiv.org/abs/1701.03126)
 - Deep Memory Networks for Attitude Identification. [`arxiv`](https://arxiv.org/abs/1701.04189)
+- Dynamic Computational Time for Visual Attention(DT-RAM). [`arxiv`](https://arxiv.org/abs/1703.10332) [`torch`](https://github.com/baidu-research/DT-RAM) :star:
 - End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
 - <b>[HRAN]</b> Hierarchical Recurrent Attention Network for Response Generation. [`arxiv`](https://arxiv.org/abs/1701.07149) [`code`](https://github.com/LynetteXing1991/HRAN) :star:
 - Structural Attention Neural Networks for improved sentiment analysis. [`arxiv`](https://arxiv.org/abs/1701.01811)
