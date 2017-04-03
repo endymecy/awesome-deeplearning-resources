@@ -200,6 +200,7 @@ You should find the papers and software with star flag are more important or pop
 # Applications
 
 - pytorch
+    - [Adversarial Autoencoders](https://github.com/fducau/AAE_pytorch)
     - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
     - [A PyTorch Implementation for Triplet Networks](https://github.com/andreasveit/triplet-network-pytorch)
     - [A PyTorch Implementation of Single Shot MultiBox Detector.](https://github.com/amdegroot/ssd.pytorch)
