@@ -108,6 +108,7 @@ You should find the papers and software with star flag are more important or pop
 * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
 * [Stanford] [CS20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [Stanford] [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
+* [Stanford] [CS 228: Probabilistic Graphical Models](http://cs.stanford.edu/~ermon/cs228/index.html)
 * [MIT] [S191: Introduction to Deep Learning](http://introtodeeplearning.com/schedule.html)
 * [吴立德] [《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
 * [Oxford] [Deep Learning Course](http://www.computervisiontalks.com/tag/deep-learning-course/)
