@@ -167,6 +167,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>[`DeepDetect`] </b>[DeepDetect : Open Source Deep Learning Server & API](https://deepdetect.com/) 
     - <b>[`DIGITS`]</b> [NVIDIA DIGITS is a new system for developing, training and visualizing deep neural networks.](https://developer.nvidia.com/digits) 
     - <b>[`DSSTNE`]</b> [DSSTNE is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models.](https://github.com/amznlabs/amazon-dsstne) 
+    - <b>[`Jik`]</b> [Lightweight Deep Learning Framework](https://github.com/oliviersoares/jik)
     - <b>[`PaddlePaddle`]</b> [PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform.](http://www.paddlepaddle.org/)
     - <b>[`MRPT`]</b> [The Mobile Robot Programming Toolkit (MRPT)](https://github.com/MRPT/mrpt)
     - <b>[`MXNet`]</b> [MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support](http://mxnet.io/) :star:
