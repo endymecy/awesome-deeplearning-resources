@@ -45,7 +45,7 @@
 
 ### Generative learning
 
-- [Adversarial Learning for Neural Dialogue Generation.](https://zhuanlan.zhihu.com/p/25027693) [[arXiv](https://arxiv.org/abs/1701.06547)]
+- [Adversarial Learning for Neural Dialogue Generation.](https://zhuanlan.zhihu.com/p/25027693) [`arXiv`](https://arxiv.org/abs/1701.06547) [`tensorflow`](https://github.com/BigPlay/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow)
 - Improved Variational Autoencoders for Text Modeling using Dilated Convolutions. [[arXiv](https://arxiv.org/abs/1702.08139)] 
   
 ### Transfer learning

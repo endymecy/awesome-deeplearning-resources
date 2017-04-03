@@ -14,10 +14,10 @@
 - Control of Memory, Active Perception, and Action in Minecraft, J. Oh et al., *ICML*. [[arxiv](http://arxiv.org/abs/1605.09128)]
 - Continuous Deep Q-Learning with Model-based Acceleration, S. Gu et al., *ICML*. [[arxiv](http://arxiv.org/abs/1603.00748)]
 - Continuous control with deep reinforcement learning. [[arxiv](http://arxiv.org/abs/1509.02971)] :star: 
-- Deep Successor Reinforcement Learning, T. D. Kulkarni et al., *arXiv*. [[arxiv](http://arxiv.org/abs/1606.02396)]
+- Deep Successor Reinforcement Learning. [[arxiv](http://arxiv.org/abs/1606.02396)]
 - Dynamic Frame skip Deep Q Network, A. S. Lakshminarayanan et al., *IJCAI Deep RL Workshop*. [[arxiv](http://arxiv.org/abs/1605.05365)]
 - Deep Exploration via Bootstrapped DQN. [[arxiv](http://arxiv.org/abs/1602.04621)] :star: 
-- Deep Reinforcement Learning for Dialogue Generation. [[arxiv](https://arxiv.org/abs/1606.01541)]
+- Deep Reinforcement Learning for Dialogue Generation. [[arxiv](https://arxiv.org/abs/1606.01541)] [`tensorflow`](https://github.com/BigPlay/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow)
 - Deep Reinforcement Learning in Parameterized Action Space. [[arxiv](http://arxiv.org/abs/1511.04143)] :star: 
 - Deep Reinforcement Learning with Successor Features for Navigation across Similar Environments.[[url](https://scirate.com/arxiv/1612.05533)]
 - Dialogue manager domain adaptation using Gaussian process reinforcement learning. [[arxiv](https://arxiv.org/abs/1609.02846)]
