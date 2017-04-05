@@ -169,6 +169,7 @@
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN. [`arxiv`](http://weibo.com/1402400261/EBP7EgRkQ?type=comment#_rnd1490711748139)
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862) :star:
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10593)  [`torch`](https://github.com/junyanz/CycleGAN) :star:
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery. [`arxiv`](http://weibo.com/1402400261/EAKUStV9i?type=comment#_rnd1490105990159)
 - Unsupervised Diverse Colorization via Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.06674)
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.02676)
