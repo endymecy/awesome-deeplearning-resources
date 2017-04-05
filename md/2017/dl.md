@@ -12,6 +12,7 @@
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [`arxiv`](https://arxiv.org/abs/1702.03275) :star:
 - [Billion-scale similarity search with GPUs.](http://weibo.com/1402400261/ECqPJziqk?type=comment#_rnd1491216627188) [`arxiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star: 
 - Complex Networks: from Classical to Quantum.  [`arxiv`](https://arxiv.org/abs/1702.08459)
+- Coordinating Filters for Faster Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.09746) [`caffle`](https://github.com/wenwei202/caffe/tree/sfm)
 - Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.05870)
 - DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04280)
 - Dance Dance Convolution. [`arxiv`](https://arxiv.org/abs/1703.06891)
