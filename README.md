@@ -36,8 +36,8 @@ You should find the papers and software with star flag are more important or pop
 
 # Model Zoo
 
-* 2012 | AlexNet | [`pdf`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [`code`](https://github.com/kratzert/finetune_alexnet_with_tensorflow)
-* 2013 | RCNN | [`arxiv`](https://arxiv.org/abs/1311.2524)  [`code`](https://github.com/rbgirshick/rcnn) 
+* 2012 | AlexNet: ImageNet Classification with Deep Convolutional Neural Networks. [`pdf`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [`code`](https://github.com/kratzert/finetune_alexnet_with_tensorflow)
+* 2013 | RCNN: Rich feature hierarchies for accurate object detection and semantic segmentation.  [`arxiv`](https://arxiv.org/abs/1311.2524)  [`code`](https://github.com/rbgirshick/rcnn) 
 * 2014 | CGNA | [`arxiv`](https://arxiv.org/abs/1411.1784)  [`code`](https://github.com/zhangqianhui/Conditional-Gans) 
 * 2014 | DeepFaceVariant | [`pdf`](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)  [`code`](https://github.com/joyhuang9473/deepid-implementation) 
 * 2014 | GAN | [`arxiv`](https://arxiv.org/abs/1406.2661)  [`code`](https://github.com/goodfeli/adversarial) 
