@@ -139,29 +139,27 @@ You should find the papers and software with star flag are more important or pop
 # Software
 
 - `Python`
-    - <b>[`Aorun`]</b> [Aorun: Deep Learning over PyTorch](https://github.com/ramon-oliveira/aorun)
-    - <b>[`Chainer`]</b> [Chainer bridge the gap between algorithms and implementations of deep learning.](http://chainer.org/)
-    - <b>[`ChainerRL`]</b> [ChainerRL is a deep reinforcement learning library built on top of Chainer.](https://github.com/pfnet/chainerrl)
-    - <b>[`DeepPy`]</b> [DeepPy is a Pythonic deep learning framework built on top of NumPy.](https://github.com/andersbll/deeppy)
-    - <b>[`Deepnet`]</b> [Deepnet: a GPU-based python implementation of deep learning algorithms.](https://github.com/nitishsrivastava/deepnet) 
-    - <b>[`Deepgaze`]</b> [Deepgaze: A computer vision library for human-computer interaction based on CNNs](https://github.com/mpatacchiola/deepgaze) 
-    - <b>[`DeepQA`]</b> [Tensorflow implementation of "A neural conversational model", a Deep learning based chatbot.](https://github.com/Conchylicultor/DeepQA#deep-qa) 
-    - <b>[`DeepVideoAnalytics`]</b> [Analyze videos & images, perform detections, index frames & detected objects, search by examples.](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics) 
-    - <b>[`Edward`]</b> [Edward: A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/) 
-    - <b>[`Elephas`]</b> [Distributed Deep learning with Keras & Spark.](https://github.com/maxpumperla/elephas)
-    - <b>[`Gensim`]</b> [Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.](http://radimrehurek.com/gensim/)
-    - <b>[`Hebel`]</b> [Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA.](https://github.com/hannes-brt/hebel)
-    - <b>[`Keras`]</b> [Keras: Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
-    - <b>[`Kur`]</b> [Kur: Descriptive Deep Learning.](https://github.com/deepgram/kur)  :star:
-    - <b>[`Neon`]</b> [Neon is Nervana's Python based Deep Learning framework](https://github.com/NervanaSystems/neon).
-    - <b>[`PyTorch`]</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
-    - <b>[`Scikit-Learn`]</b> [scikit-learn: machine learning in Python.](http://scikit-learn.org)  :star:
-    - <b>[`Skll`]</b> [SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
-    - <b>[`TensorFX`]</b> [TensorFX is an end to end application framework to simplifies machine learning with TensorFlow](https://github.com/TensorLab/tensorfx)
-    - <b>[`Theano`]</b> [Theano: Mathematical library in Python, maintained by LISA lab](http://deeplearning.net/software/theano/) 
-        - <b>[`Pylearn2`]</b> [Theano-based deep learning libraries](http://deeplearning.net/software/pylearn2/) 
-        - <b>[`Blocks`]</b> [Blocks is a framework that helps you build neural network models on top of Theano](https://github.com/mila-udem/blocks)  :star:
-        - <b>[`Lasagne`]</b> [Lightweight library to build and train neural networks in Theano.](https://github.com/Lasagne/Lasagne) 
+    - [Aorun: Deep Learning over PyTorch](https://github.com/ramon-oliveira/aorun)
+    - [Chainer: Chainer bridge the gap between algorithms and implementations of deep learning.](http://chainer.org/)
+    - [ChainerRL: ChainerRL is a deep reinforcement learning library built on top of Chainer.](https://github.com/pfnet/chainerrl)
+    - [DeepPy: DeepPy is a Pythonic deep learning framework built on top of NumPy.](https://github.com/andersbll/deeppy)
+    - [Deepnet: a GPU-based python implementation of deep learning algorithms.](https://github.com/nitishsrivastava/deepnet) 
+    - [Deepgaze: A computer vision library for human-computer interaction based on CNNs](https://github.com/mpatacchiola/deepgaze) 
+    - [Edward: A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/) 
+    - [Elephas: Distributed Deep learning with Keras & Spark.](https://github.com/maxpumperla/elephas)
+    - [Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.](http://radimrehurek.com/gensim/)
+    - [Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA.](https://github.com/hannes-brt/hebel)
+    - [Keras: Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
+    - [Kur: Descriptive Deep Learning.](https://github.com/deepgram/kur)  :star:
+    - [Neon: Neon is Nervana's Python based Deep Learning framework](https://github.com/NervanaSystems/neon).
+    - [PyTorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
+    - [Scikit-Learn: machine learning in Python.](http://scikit-learn.org)  :star:
+    - [SKLL: SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
+    - [TensorFX: TensorFX is an end to end application framework to simplifies machine learning with TensorFlow](https://github.com/TensorLab/tensorfx)
+    - [Theano: Mathematical library in Python, maintained by LISA lab](http://deeplearning.net/software/theano/) 
+        - [Pylearn2: Theano-based deep learning libraries](http://deeplearning.net/software/pylearn2/) 
+        - [Blocks: Blocks is a framework that helps you build neural network models on top of Theano](https://github.com/mila-udem/blocks)  :star:
+        - [Lasagne: Lightweight library to build and train neural networks in Theano.](https://github.com/Lasagne/Lasagne) 
 - `C++`
     - <b>[`Caffe`]</b> [Caffe: Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/) :star:
     - <b>[`CNTK`] </b>[CNTK:The Microsoft Cognitive Toolkit.](https://github.com/Microsoft/CNTK) 
@@ -270,6 +268,7 @@ You should find the papers and software with star flag are more important or pop
     - [Tensorflow implementation of attention mechanism for text classification tasks.](https://github.com/ilivans/tf-rnn-attention)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation](https://github.com/shekkizh/FCN.tensorflow)
+    - [Tensorflow implementation of "A neural conversational model", a Deep learning based chatbot](https://github.com/Conchylicultor/DeepQA#deep-qa)
     - [Tensorflow for Time Series Applications](https://github.com/abhishekmalali/TimeFlow)
     - [TensorFlow on iOS demo](https://github.com/hollance/TensorFlow-iOS-Example)
     - [TensorFlow on Spark](https://github.com/yahoo/TensorFlowOnSpark)
