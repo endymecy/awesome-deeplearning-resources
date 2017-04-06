@@ -138,7 +138,7 @@ You should find the papers and software with star flag are more important or pop
  
 # Software
 
-- python
+- `Python`
     - <b>[`Aorun`]</b> [Aorun: Deep Learning over PyTorch](https://github.com/ramon-oliveira/aorun)
     - <b>[`Chainer`]</b> [Chainer bridge the gap between algorithms and implementations of deep learning.](http://chainer.org/)
     - <b>[`ChainerRL`]</b> [ChainerRL is a deep reinforcement learning library built on top of Chainer.](https://github.com/pfnet/chainerrl)
@@ -162,7 +162,7 @@ You should find the papers and software with star flag are more important or pop
         - <b>[`Pylearn2`]</b> [Theano-based deep learning libraries](http://deeplearning.net/software/pylearn2/) 
         - <b>[`Blocks`]</b> [Blocks is a framework that helps you build neural network models on top of Theano](https://github.com/mila-udem/blocks)  :star:
         - <b>[`Lasagne`]</b> [Lightweight library to build and train neural networks in Theano.](https://github.com/Lasagne/Lasagne) 
-- C++
+- `C++`
     - <b>[`Caffe`]</b> [Caffe: Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/) :star:
     - <b>[`CNTK`] </b>[CNTK:The Microsoft Cognitive Toolkit.](https://github.com/Microsoft/CNTK) 
     - <b>[`DeepDetect`] </b>[DeepDetect : Open Source Deep Learning Server & API](https://deepdetect.com/) 
@@ -176,26 +176,26 @@ You should find the papers and software with star flag are more important or pop
     - <b>[`Singa`]</b> [Singa: Singa is an Apache Incubating project for developing an open source deep learning library.](http://singa.incubator.apache.org/en/index.html)
     - <b>[`Tensorflow`]</b> [Tensorflow: An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
     - <b>[`Tiny-dnn`]</b> [Tiny-dnn is a C++11 implementation of deep learning.](https://github.com/tiny-dnn/tiny-dnn)
-- Java
+- `Java`
     - <b>[`CoreNLP`]</b> [Stanford CoreNLP: A Java suite of core NLP tools.](https://github.com/stanfordnlp/CoreNLP)
     - <b>[`Deeplearning4J`]</b> [Deeplearning4J: Neural Net Platform.](https://github.com/deeplearning4j/deeplearning4j) 
     - <b>[`Librec`]</b> [LibRec: A Java Library for Recommender Systems.](https://github.com/guoguibing/librec)
     - <b>[`NeuralNetworks`]</b> [This is a Java implementation of some of the algorithms for training deep neural networks.](https://github.com/ivan-vasilev/neuralnetworks) 
     - <b>[`NewralNet`]</b> [A lightweight, easy to use and open source Java library for experimenting with feed-forward neural nets and deep learning.](https://gitlab.com/flimmerkiste/NewralNet/tree/master)
-- Scala
+- `Scala`
     - <b>[`BigDL`]</b> [BigDL: Distributed Deep learning on Apache Spark.](https://github.com/intel-analytics/BigDL) 
-- Julia
+- `Julia`
     - <b>[`Knet`]</b> [Knet: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia.](https://github.com/denizyuret/Knet.jl)
     - <b>[`Mocha`]</b> [Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe.](https://github.com/pluskid/Mocha.jl) 
-- Js
+- `Js`
     - <b>[`Keras-js`]</b> [Run Keras models (tensorflow backend) in the browser, with GPU support.](https://github.com/transcranial/keras-js)
     - <b>[`Neurojs`]</b> [A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs) 
-- Matlab
+- `Matlab`
     - <b>[`MatConvNet`]</b> [MatConvNet: CNNs for MATLAB](http://www.vlfeat.org/matconvnet/) 
-- Lua
+- `Lua`
     - <b>[`OpenNMT`]</b> [OpenNMT: Open-Source Neural Machine Translation](https://github.com/opennmt/opennmt)
     - <b>[`Torch7`]</b> [Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind](http://torch.ch/)  :star:
-- Php
+- `Php`
     - <b>[`PHP-ML`]</b> [PHP-ML - Machine Learning library for PHP](https://github.com/php-ai/php-ml)
     
 # Applications
