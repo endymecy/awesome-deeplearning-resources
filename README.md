@@ -316,6 +316,7 @@ You should find the papers and software with star flag are more important or pop
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 - [SCODE Word Embeddings using Substitute Words](https://github.com/ai-ku/wvec)
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
