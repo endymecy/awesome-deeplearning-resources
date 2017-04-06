@@ -210,6 +210,7 @@ You should find the papers and software with star flag are more important or pop
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
     - [Convolutional recurrent network in pytorch](https://github.com/meijieru/crnn.pytorch)
     - [Deep Q-Learning Network in pytorch](https://github.com/transedward/pytorch-dqn)
+    - [Draw like Bob Ross using the power of Neural Networks](https://github.com/kendricktan/drawlikebobross)
     - [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle)
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
     - [Lightweight implementation of neural style in Pytorch with SqueezeNet](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
