@@ -143,7 +143,7 @@
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer. [`arxiv`](https://arxiv.org/abs/1702.08014)
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1701.00188)
 - Automatic Generation of Typographic Font from a Small Font Subset. [`arxiv`](https://arxiv.org/abs/1701.05703) :star:
-- BEGAN: Boundary Equilibrium Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10717) [`pytorch`](https://github.com/carpedm20/BEGAN-pytorch)
+- BEGAN: Boundary Equilibrium Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10717) [`pytorch`](https://github.com/carpedm20/BEGAN-pytorch) [`tensorflow`](https://github.com/carpedm20/BEGAN-tensorflow) :star:
 - Boosted Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08484)
 - Counterfactual Control for Free from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.06676) [`code`](https://github.com/arayabrain/GenerativeControl)
 - Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. [`arxiv`](https://arxiv.org/abs/1702.07464)
