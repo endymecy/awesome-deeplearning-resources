@@ -172,6 +172,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`MRPT`</b> [The Mobile Robot Programming Toolkit (MRPT)](https://github.com/MRPT/mrpt)
     - <b>`MXNet`</b> [A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support](http://mxnet.io/) :star:
         - <b>`MinPy`</b> [Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend.](https://github.com/dmlc/minpy)
+    - <b>`Neural Designer`</b> [Neural Designer is the most advanced analytics software](https://www.neuraldesigner.com/)
     - <b>`NVIDIA TensorRT`</b> [High performance deep learning inference for production deployment](https://developer.nvidia.com/tensorrt)
     - <b>`Singa`</b> [An Apache Incubating project for developing an open source deep learning library.](http://singa.incubator.apache.org/en/index.html)
     - <b>`Tensorflow`</b> [An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
