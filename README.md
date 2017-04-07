@@ -171,6 +171,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`MRPT`</b> [The Mobile Robot Programming Toolkit (MRPT)](https://github.com/MRPT/mrpt)
     - <b>`MXNet`</b> [A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support](http://mxnet.io/) :star:
         - <b>`MinPy`</b> [Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend.](https://github.com/dmlc/minpy)
+    - <b>`NVIDIA TensorRT`</b> [High performance deep learning inference for production deployment](https://developer.nvidia.com/tensorrt)
     - <b>`Singa`</b> [An Apache Incubating project for developing an open source deep learning library.](http://singa.incubator.apache.org/en/index.html)
     - <b>`Tensorflow`</b> [An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
     - <b>`Tiny-dnn`</b> [A C++11 implementation of deep learning.](https://github.com/tiny-dnn/tiny-dnn)
@@ -264,6 +265,7 @@ You should find the papers and software with star flag are more important or pop
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
     - [Teach machine to write all we want](https://github.com/zzw922cn/Neural_Writing_Machine) :star:
+    - [Tensorflow-based Distributed Factorization Machine](https://github.com/kopopt/fast_tffm) :star:
     - [Tensorflow implementation of attention mechanism for text classification tasks.](https://github.com/ilivans/tf-rnn-attention)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation](https://github.com/shekkizh/FCN.tensorflow)
