@@ -261,6 +261,7 @@ You should find the papers and software with star flag are more important or pop
     - [Named Entity Recognition using multilayered bidirectional LSTM](https://github.com/monikkinom/ner-lstm)
     - [NeuroNER: Named-entity recognition using neural networks.](https://github.com/Franck-Dernoncourt/NeuroNER)
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
+    - [OCR text recognition using tensorflow with attention](https://github.com/pannous/tensorflow-ocr)
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
     - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/charlesq34/pointnet) :star:
     - [Realistic Handwriting with Tensorflow](https://github.com/greydanus/scribe)
