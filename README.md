@@ -157,6 +157,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Scikit-Learn`</b> [Machine learning in Python.](http://scikit-learn.org)  :star:
         - <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
     - <b>`Skll`</b> [SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
+    - <b>`Sonnet`</b> [TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
     - <b>`TensorFX`</b> [An end to end application framework to simplifies machine learning with TensorFlow](https://github.com/TensorLab/tensorfx)
     - <b>`Theano`</b> [Mathematical library in Python, maintained by LISA lab](http://deeplearning.net/software/theano/) 
         - <b>`Pylearn2`</b> [Theano-based deep learning libraries](http://deeplearning.net/software/pylearn2/) 
