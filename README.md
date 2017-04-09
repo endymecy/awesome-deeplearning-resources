@@ -154,6 +154,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Neon`</b> [Neon is Nervana's Python based Deep Learning framework](https://github.com/NervanaSystems/neon).
     - <b>`PyTorch`</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
     - <b>`Scikit-Learn`</b> [Machine learning in Python.](http://scikit-learn.org)  :star:
+        - <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
     - <b>`Skll`</b> [SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
     - <b>`TensorFX`</b> [An end to end application framework to simplifies machine learning with TensorFlow](https://github.com/TensorLab/tensorfx)
     - <b>`Theano`</b> [Mathematical library in Python, maintained by LISA lab](http://deeplearning.net/software/theano/) 
