@@ -120,6 +120,7 @@ You should find the papers and software with star flag are more important or pop
 * [Jeremy Howard] [Deep Learning For Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM)
 * [Paris Saclay][Deep Learning course: lecture slides and lab notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)
 * [Toronto] [CSC 2541 Fall 2016:Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+* [李宏毅] [Machine Learning and having it Deep and Structured](https://www.youtube.com/playlist?list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)
 
 # Books
 
