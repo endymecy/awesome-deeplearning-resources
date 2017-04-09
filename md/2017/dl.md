@@ -89,6 +89,7 @@
 - <b>[AENet]</b> AENet: Learning Deep Audio Features for Video Analysis. [`arxiv`](https://arxiv.org/abs/1701.00599) [`code`](https://github.com/znaoya/aenet) :star:
 - A network of deep neural networks for distant speech recognition. [`arXiv`](https://arxiv.org/abs/1703.08002) :star:
 - A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction. [`arxiv`](https://arxiv.org/abs/1701.06190)
+- CSVideoNet: A Real-time End-to-end Learning Framework for High-frame-rate Video Compressive Sensing. [`arXiv`](https://arxiv.org/abs/1612.05203) [`caffe`](https://github.com/PSCLab-ASU/CSVideoNet)
 - Cost-Effective Active Learning for Deep Image Classification. [`arxiv`](https://arxiv.org/abs/1701.03551)
 - Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks. [`arxiv`](https://arxiv.org/abs/1701.04658) [`caffe`](https://github.com/kmaninis/COB)
 - DCT-like Transform for Image Compression Requires 14 Additions Only. [`arxiv`](https://arxiv.org/abs/1702.00817)
