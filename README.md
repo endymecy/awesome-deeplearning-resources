@@ -94,6 +94,7 @@ You should find the papers and software with star flag are more important or pop
 * [Pre-Trained Doc2Vec Models](https://github.com/jhlau/doc2vec)
 * [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) :star:
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
+* [Single Image 3D Interpreter Network](https://github.com/jiajunwu/3dinn)
 * [TensorFlow VGG-16 pre-trained model](https://github.com/ry/tensorflow-vgg16)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
 
