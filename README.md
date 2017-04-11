@@ -295,6 +295,7 @@ You should find the papers and software with star flag are more important or pop
     - [Experimental implementation of novel neural network structures](https://github.com/DingKe/nn_playground)
     - [Five video classification methods](https://github.com/harvitronix/five-video-classification-methods)
     - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings)
+    - [Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/yhenon/keras-frcnn)
     - [Wasserstein DCGAN in Tensorflow/Keras](https://github.com/kuleshov/tf-wgan)
     
 # Awesome Projects
