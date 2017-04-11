@@ -18,7 +18,7 @@
 - Dance Dance Convolution. [`arxiv`](https://arxiv.org/abs/1703.06891)
 - [Deep and Hierarchical Implicit Models.](http://dustintran.com/blog/deep-and-hierarchical-implicit-models) [`arxiv`](https://arxiv.org/abs/1702.08896)
 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [`arxiv`](https://arxiv.org/abs/1703.04247)
-- <b>[Deep Forest] </b>[Deep Forest: Towards An Alternative to Deep Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651994082&idx=1&sn=3a1f21ab37ea8322c6700f660b71648a) [`arxiv`](https://arxiv.org/abs/1702.08835) :star:
+- <b>[Deep Forest] </b>[Towards An Alternative to Deep Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651994082&idx=1&sn=3a1f21ab37ea8322c6700f660b71648a) [`arxiv`](https://arxiv.org/abs/1702.08835) :star:
 - Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [`arxiv`](https://arxiv.org/abs/1701.00458) [`code`](https://github.com/guille-c/Deep-HiTS) :star: 
 - Deep Learning for Time-Series Analysis. [`arxiv`](https://arxiv.org/abs/1701.01887)
 - Deep Learning With Dynamic Computation Graphs. [`pdf`](https://openreview.net/pdf?id=ryrGawqex)
@@ -28,9 +28,9 @@
 - <b>[Edward]</b> Deep Probabilistic Programming. [`arxiv`](https://arxiv.org/abs/1701.03757) [`Web`](http://edwardlib.org/) :star: 
 - [Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval.](https://arxiv.org/abs/1703.05605) [`code`](https://github.com/ymcidence/DeepSketchHashing)
 - Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction. [`pdf`](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ST-ResNet-AAAI17-Zhang.pdf) [`code`](https://github.com/lucktroy/DeepST/tree/master/scripts/papers/AAAI17)] :star:
-- <b>[DeepStack]</b> [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker.](http://www.jiqizhixin.com/article/2395) [`arxiv`](https://arxiv.org/abs/1701.01724) :star:
+- <b>[DeepStack]</b> [Expert-Level Artificial Intelligence in No-Limit Poker.](http://www.jiqizhixin.com/article/2395) [`arxiv`](https://arxiv.org/abs/1701.01724) :star:
 - Diabetic Retinopathy Detection via Deep Convolutional Networks for Discriminative Localization and Visual Explanation. [`arxiv`](https://arxiv.org/abs/1703.10757) [`code`](https://github.com/cauchyturing/kaggle_diabetic_RAM)
-- <b>[DyNet]</b> DyNet: The Dynamic Neural Network Toolkit. [`arxiv`](https://arxiv.org/abs/1701.03980) [`code`](https://github.com/clab/dynet) :star: 
+- <b>[DyNet]</b> The Dynamic Neural Network Toolkit. [`arxiv`](https://arxiv.org/abs/1701.03980) [`code`](https://github.com/clab/dynet) :star: 
 - Efficient Information Flow Maximization in Probabilistic Graphs. [`arxiv`](https://arxiv.org/abs/1701.05395)
 - Encouraging LSTMs to Anticipate Actions Very Early. [`arxiv`](https://arxiv.org/abs/1703.07023)
 - Evolving Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00548) :star:
@@ -59,7 +59,7 @@
 - Opening the Black Box of Deep Neural Networks via Information.  [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
 - OptNet: Differentiable Optimization as a Layer in Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00443) [`code`](https://github.com/locuslab/optnet) :star:
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.](http://mp.weixin.qq.com/s/qkYHcDpIMM5W7D_NWoa5ww) [`arxiv`](https://arxiv.org/abs/1701.06538)
-- <b>[PathNet]</b> PathNet: Evolution Channels Gradient Descent in Super Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.08734) :star:
+- <b>[PathNet]</b> Evolution Channels Gradient Descent in Super Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.08734) :star:
 - PixelNet: Representation of the pixels, by the pixels, and for the pixels. [`arxiv`](https://arxiv.org/abs/1702.06506) [`code`](https://github.com/aayushbansal/PixelNet)
 - Privileged Multi-label Learning. [`arxiv`](https://arxiv.org/abs/1701.07194)
 - QCD-Aware Recursive Neural Networks for Jet Physics. [`arxiv`](https://arxiv.org/abs/1702.00748) [`code`](https://github.com/glouppe/recnn)
@@ -87,7 +87,7 @@
 ### Computer vision
 
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder. [`arxiv`](https://arxiv.org/abs/1701.01546)
-- <b>[AENet]</b> AENet: Learning Deep Audio Features for Video Analysis. [`arxiv`](https://arxiv.org/abs/1701.00599) [`code`](https://github.com/znaoya/aenet) :star:
+- <b>[AENet]</b> Learning Deep Audio Features for Video Analysis. [`arxiv`](https://arxiv.org/abs/1701.00599) [`code`](https://github.com/znaoya/aenet) :star:
 - A network of deep neural networks for distant speech recognition. [`arXiv`](https://arxiv.org/abs/1703.08002) :star:
 - A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction. [`arxiv`](https://arxiv.org/abs/1701.06190)
 - CSVideoNet: A Real-time End-to-end Learning Framework for High-frame-rate Video Compressive Sensing. [`arXiv`](https://arxiv.org/abs/1612.05203) [`caffe`](https://github.com/PSCLab-ASU/CSVideoNet)
@@ -115,6 +115,7 @@
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection.  [`arxiv`](https://arxiv.org/abs/1702.05552)
 - SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person.[`arxiv`](https://arxiv.org/abs/1702.04069)
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [`arxiv`](https://arxiv.org/abs/1701.08349)
+- <b>[Tacotron]</b> Towards End-to-End Speech Synthesis. [`arxiv`](https://arxiv.org/abs/1703.10135) [`code`](https://github.com/google/tacotron) :star:
 - Using Deep Learning and Google Street View to Estimate the Demographic Makeup of the US. [`arxiv`](https://arxiv.org/abs/1702.06683) :star:
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. [`arxiv`](https://arxiv.org/abs/1701.01821)
 - Video-based Person Re-identification with Accumulative Motion Context. [`arxiv`](https://arxiv.org/abs/1701.00193)
@@ -137,7 +138,7 @@
 
 ### Generative learning
 
-- <b>[AdaGAN]</b> AdaGAN: Boosting Generative Models. [`arxiv`](https://arxiv.org/abs/1701.02386) :star: 
+- <b>[AdaGAN]</b> Boosting Generative Models. [`arxiv`](https://arxiv.org/abs/1701.02386) :star: 
 - Adversarial Generator-Encoder Networks. [`pdf`](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf) [`code`](https://github.com/DmitryUlyanov/AGE)
 - Age Progression/Regression by Conditional Adversarial Autoencoder.  [`arxiv`](https://arxiv.org/abs/1702.08423) [`tensorflow`](https://github.com/ZZUTK/Face-Aging-CAAE)
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs.[`arxiv`](https://arxiv.org/abs/1702.03410)
@@ -170,7 +171,7 @@
 - Mastering Sketching: Adversarial Augmentation for Structured Prediction.  [`arxiv`](https://arxiv.org/abs/1703.08966) :star:
 - Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction. [`arxiv`](https://arxiv.org/abs/1704.01691)  [`code`](https://github.com/violet-zct/MSVED-morph-reinflection)
 - Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders. [`arxiv`](https://arxiv.org/abs/1704.01279) [`tensorflow`](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) :star:
-- <b>[SalGAN]</b> SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081) [`code`](https://github.com/imatge-upc/saliency-salgan-2017) :star: 
+- <b>[SalGAN]</b> Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081) [`code`](https://github.com/imatge-upc/saliency-salgan-2017) :star: 
 - Scene Graph Generation by Iterative Message Passing. [`arxiv`](https://arxiv.org/abs/1701.02426) [`tensorflow`](https://github.com/danfeiX/scene-graph-TF-release)
 - SEGAN: Speech Enhancement Generative Adversarial Network.  [`arxiv`](https://arxiv.org/abs/1703.09452) [`tensorflow`](https://github.com/santi-pdp/segan)
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
