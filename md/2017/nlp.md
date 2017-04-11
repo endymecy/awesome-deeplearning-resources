@@ -3,6 +3,7 @@
 ### deep learning
 
 - A Comparative Study of Word Embeddings for Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1703.00993)
+- An Automated Text Categorization Framework based on Hyperparameter Optimization. [`arxiv`](https://arxiv.org/abs/1704.01975) [`code`](https://github.com/INGEOTEC/microTC)
 - A Tidy Data Model for Natural Language Processing using cleanNLP. [`arXiv`](https://arxiv.org/abs/1703.09570)
 - Autoencoding Variational Inference For Topic Models. [`arxiv`](https://arxiv.org/abs/1703.01488) [`tensorflow`](https://github.com/akashgit/autoencoding_vi_for_topic_models) :star:
 - Automatic Rule Extraction from Long Short Term Memory Networks. [`arxiv`](https://arxiv.org/abs/1702.02540)
