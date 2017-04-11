@@ -39,6 +39,7 @@
 - <b>[DenseNet]</b> [Densely Connected Convolutional Networks.](https://medium.com/@illarionkhlestov/notes-on-the-implementation-densenet-in-tensorflow-beeda9dd1504#.a88ur45ce) [`arxiv`](https://arxiv.org/abs/1608.06993) [`pytorch`](https://github.com/andreasveit/densenet-pytorch) :star:
 - Density estimation using Real NVP.[`arxiv`](https://arxiv.org/abs/1605.08803)[`tensorflow`](https://github.com/tensorflow/models/tree/master/real_nvp)
 - Domain Separation Networks. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwij0dG5oI7RAhVriVQKHV3gAfwQFggsMAE&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6254-domain-separation-networks.pdf&usg=AFQjCNFRd_0epq_0QAs21drboBmgCRdg1A)]
+- <b>[DrMAD]</b> [Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks.](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650326224&idx=1&sn=d40d8e0078f71b76c140ebe5185a8f80&chksm=f235a3dac5422acc9c8a0fa9a485cd666b792e52a188b4be3ec25cc800423be8ffecb069ae23&mpshare=1)) [`arxiv`](https://arxiv.org/abs/1601.00917) [`code`](https://github.com/bigaidream-projects/drmad) :star:
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes. [`arxiv`](https://arxiv.org/abs/1607.00036)
 - Efficient Training of Very Deep Neural Networks for Supervised Hashing. [`arxiv`](https://arxiv.org/abs/1511.04524)
 - Episodic Exploration for Deep Deterministic Policies- An Application to StarCraft Micromanagement Tasks. [`arxiv`](https://arxiv.org/abs/1609.02993)
