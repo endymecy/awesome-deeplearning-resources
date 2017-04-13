@@ -183,6 +183,7 @@
 - Adversarial Multiclass Classification: A Risk Minimization Perspective. [`pdf`](https://www.cs.uic.edu/~rfathony/pdf/fathony2016adversarial.pdf) [`code`](https://github.com/rizalzaf/adversarial-multiclass)
 - Adversarial Perturbations Against Deep Neural Networks for Malware Classification. [`arxiv`](https://arxiv.org/abs/1606.04435)
 - Adversarial Training For Sketch Retrieval.[`arxiv`](https://arxiv.org/abs/1607.02748)
+- A Point Set Generation Network for 3D Object Reconstruction from a Single Image. [`arxiv`](https://arxiv.org/abs/1612.00603) [`code`](https://github.com/fanhqme/PointSetGeneration)
 - Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJxbeU39XQAhVRObwKHWiMBf0QFggsMAE&url=https%3A%2F%2Fwww.jair.org%2Fmedia%2F4900%2Flive-4900-9139-jair.pdf&usg=AFQjCNEGLLDKzFhjIGCyL20rLlXurEDJyg)] 
 - Automatic Colorization with Deep Convolutional Generative Adversarial Networks. [`stanford`](http://cs231n.stanford.edu/reports2016/224_Report.pdf)
 - Auxiliary Deep Generative Models. [`arxiv`](https://arxiv.org/abs/1602.05473) [`code`](https://github.com/larsmaaloee/auxiliary-deep-generative-models) :star: 
