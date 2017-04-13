@@ -87,7 +87,8 @@
 - SoundNet: Learning Sound Representations from Unlabeled Video. [`pdf`](http://web.mit.edu/vondrick/soundnet.pdf) [`tensorflow`](https://github.com/eborboihuc/SoundNet-tensorflow) :star:
 - Structured Receptive Fields in CNNs.  [`arxiv`](https://arxiv.org/abs/1605.02971v2) [`code`](https://github.com/jhjacobsen/RFNN)
 - Tagger: Deep Unsupervised Perceptual Grouping.  [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjp-razjufQAhWFLSYKHSF_CFcQFggsMAI&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6067-tagger-deep-unsupervised-perceptual-grouping.pdf&usg=AFQjCNG2BMZI5bfamUYu5Kbba9EbDsc9mw)]
-- TensorFlow- A system for large-scale machine learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwid8I2JsNjQAhVGw7wKHXZjDDoQFggbMAA&url=http%3A%2F%2Fdownload.tensorflow.org%2Fpaper%2Fwhitepaper2015.pdf&usg=AFQjCNEAFa6vGrlp_CKFlVxs0EHLsyhVtQ)] :star: 
+- Temporal Ensembling for Semi-Supervised Learning. [`arxiv`](https://arxiv.org/abs/1610.02242)  [`code`](https://github.com/smlaine2/tempens)
+- TensorFlow- A system for large-scale machine learning. [`pdf`](http://download.tensorflow.org/paper/whitepaper2015.pdf) :star: 
 - Tensors and algebra give interpretable groups for crosstalk mechanisms in breast cancer.[`arxiv`](https://arxiv.org/abs/1612.08116)
 - The Inevitability of Probability- Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiAq9iqsNjQAhUEjpQKHUZjBq0QFggbMAA&url=https%3A%2F%2F128.84.21.199%2Fabs%2F1601.03060v1&usg=AFQjCNG5CeOHSBphHdIAmvp8U_iTvsBiEA)]
 - The Predictron: End-To-End Learning and Planning. [`arxiv`](https://arxiv.org/abs/1612.08810) [`code`](https://github.com/zhongwen/predictron)
