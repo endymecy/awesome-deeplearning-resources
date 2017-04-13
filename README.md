@@ -81,6 +81,7 @@ You should find the papers and software with star flag are more important or pop
 * 2017 | Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg)  [`code`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events) 
 * 2017 | SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081)  [`code`](https://github.com/imatge-upc/saliency-salgan-2017) 
 * 2017 | WGAN: Wasserstein GAN. [`arxiv`](https://arxiv.org/abs/1701.07875)  [`code`](https://github.com/Zardinality/WGAN-tensorflow) 
+* 2017 | BEGAN: Boundary Equilibrium Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10717) [`code`](https://github.com/carpedm20/BEGAN-tensorflow)
 
 # Pretrained Model
 
