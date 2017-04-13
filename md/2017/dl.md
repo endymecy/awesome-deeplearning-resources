@@ -8,7 +8,7 @@
 - Alignment of dynamic networks. [`arxiv`](https://arxiv.org/abs/1701.08842)
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [`arxiv`](https://arxiv.org/abs/1701.01207)
 - A Probabilistic Framework for Location Inference from Social Media. [`arxiv`](https://arxiv.org/abs/1702.07281)
-- Automated Curriculum Learning for Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.03003)
+- Automated Curriculum Learning for Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.03003) :star:
 - Autoencoder Regularized Network For Driving Style Representation Learning. [`arxiv`](https://arxiv.org/abs/1701.01272)
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [`arxiv`](https://arxiv.org/abs/1702.03275) :star:
 - [Billion-scale similarity search with GPUs.](http://weibo.com/1402400261/ECqPJziqk?type=comment#_rnd1491216627188) [`arxiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star: 
@@ -42,6 +42,7 @@
 - Graph Structure Learning from Unlabeled Data for Event Detection. [`arxiv`](https://arxiv.org/abs/1701.01470)
 - Hidden Community Detection in Social Networks. [`arxiv`](https://arxiv.org/abs/1702.07462)
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [`arxiv`](https://arxiv.org/abs/1701.05616)
+- Interpretable Explanations of Black Boxes by Meaningful Perturbation. [`arxiv`](https://arxiv.org/abs/1704.03296)
 - Learning Chained Deep Features and Classifiers for Cascade in Object Detection. [`arxiv`](https://arxiv.org/abs/1702.07054)
 - Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees. [`arxiv`](https://arxiv.org/abs/1702.08833) :star: 
 - Learning Gradient Descent: Better Generalization and Longer Horizons.  [`arxiv`](https://arxiv.org/abs/1703.03633) [`code`](https://github.com/vfleaking/rnnprop)
@@ -202,6 +203,7 @@
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
 - StyleBank: An Explicit Representation for Neural Image Style Transfer. [`arxiv`](https://arxiv.org/abs/1703.09210)
 - Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [`pdf`](https://openreview.net/pdf?id=HkpbnufYe)
+- The Space of Transferable Adversarial Examples. [`arxiv`](https://arxiv.org/abs/1704.03453)
 - Transferring Face Verification Nets To Pain and Expression Regression. [`arxiv`](https://arxiv.org/abs/1702.06925) [`code`](https://github.com/happynear/PainRegression)
 - Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04488) [`code`](https://github.com/jincy520/Low-Resource-CWS-)
 - Transfer learning for music classification and regression tasks. [`arxiv`](https://arxiv.org/abs/1703.09179) [`keras`](https://github.com/keunwoochoi/transfer_learning_music)
