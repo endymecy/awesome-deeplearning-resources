@@ -150,7 +150,7 @@
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer. [`arxiv`](https://arxiv.org/abs/1702.08014)
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1701.00188)
 - Automatic Generation of Typographic Font from a Small Font Subset. [`arxiv`](https://arxiv.org/abs/1701.05703) :star:
-- BEGAN: Boundary Equilibrium Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10717) [`pytorch`](https://github.com/carpedm20/BEGAN-pytorch) [`tensorflow`](https://github.com/carpedm20/BEGAN-tensorflow) :star:
+- <b>[BEGAN]</b> Boundary Equilibrium Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10717) [`pytorch`](https://github.com/carpedm20/BEGAN-pytorch) [`tensorflow`](https://github.com/carpedm20/BEGAN-tensorflow) :star:
 - Boosted Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08484)
 - Counterfactual Control for Free from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.06676) [`code`](https://github.com/arayabrain/GenerativeControl)
 - Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. [`arxiv`](https://arxiv.org/abs/1702.07464)
@@ -168,7 +168,7 @@
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04568)
 - Improved Training of Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1704.00028) [`tensorflow`](https://github.com/igul222/improved_wgan_training) :star:
 - Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [`tensorflow`](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)
-- <b>[DiscoGAN]</b>Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [`code`](https://github.com/dhgrs/chainer-DiscoGAN) :star:
+- <b>[DiscoGAN]</b> Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [`code`](https://github.com/dhgrs/chainer-DiscoGAN) :star:
 - Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.07319)
 - [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [`code`](https://github.com/guojunq/lsgan)
 - Mastering Sketching: Adversarial Augmentation for Structured Prediction.  [`arxiv`](https://arxiv.org/abs/1703.08966) :star:

@@ -33,6 +33,7 @@
 - Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations. [`arxiv`](https://arxiv.org/abs/1702.07826) :star:
 - Recurrent and Contextual Models for Visual Question Answering. [`arxiv`](https://arxiv.org/abs/1703.08120)
 - Recurrent Recommender Networks. [`pdf`](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)
+- struc2vec: Learning Node Representations from Structural Identity. [`arxiv`](https://arxiv.org/abs/1704.03165) [`code`](https://github.com/leoribeiro/struc2vec)
 - Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey. [`arxiv`](https://arxiv.org/abs/1702.00764)
 - Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model. [`arxiv`](https://arxiv.org/abs/1703.10135) [`code`](https://github.com/google/tacotron)
 - Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval. [`arxiv`](https://arxiv.org/abs/1703.06618) [`code`](https://github.com/huyt16/Twitter100k/)
