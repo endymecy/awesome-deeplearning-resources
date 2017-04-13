@@ -305,6 +305,7 @@ You should find the papers and software with star flag are more important or pop
 - [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+- [Awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 - [Awesome-Caffe](https://github.com/MichaelXin/Awesome-Caffe)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
