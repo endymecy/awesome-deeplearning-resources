@@ -143,6 +143,7 @@
 - <b>[R-FCN]</b> [R-FCN: Object Detection via Region-based Fully Convolutional Networks](http://blog.csdn.net/u012361214/article/details/51507590). [`arxiv`](https://arxiv.org/abs/1605.06409) [`code`](https://github.com/Orpine/py-R-FCN) :star: 
 - Robust LSTM-Autoencoders for Face De-Occlusion in the Wild. [`arxiv`](https://arxiv.org/abs/1612.08534)
 - Semantic Video Segmentation by Gated Recurrent Flow Propagation.[`arxiv`](https://arxiv.org/abs/1612.08871)
+- Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis. [`arxiv`](https://arxiv.org/abs/1612.00101) [`torch`](https://github.com/angeladai/cnncomplete) :star:
 - Spatially Adaptive Computation Time for Residual Networks. [`arxiv`](https://arxiv.org/abs/1612.02297) [`tensorflow`](https://github.com/mfigurnov/sact)
 - <b>[SqueezeNet]</b> [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://blog.csdn.net/human_recognition/article/details/51902285) [`arxiv`](https://arxiv.org/abs/1602.07360) [`code`](https://github.com/songhan/SqueezeNet-Deep-Compression) :star: 
 - Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge. [`arxiv`](http://arxiv.org/abs/1609.06647) [`tensorflow`](https://github.com/tensorflow/models/tree/master/im2txt) :star:
@@ -158,7 +159,6 @@
 
 ### Attention and memory
 
-- Attention-based Extraction of Structured Information from Street View Imagery. [`arxiv`](https://arxiv.org/abs/1704.03549) :star:
 - Attention Based Recurrent Neural Networks for Online Advertising. [`pdf`](http://www2016.net/proceedings/companion/p141.pdf)]
 - Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling. [`arxiv`](https://arxiv.org/abs/1609.01454) [`tensorflow`](https://github.com/HadoopIt/rnn-nlu) :star:
 - Can Active Memory Replace Attention? [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj477KzgNjQAhWJu7wKHQDCCbsQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08613&usg=AFQjCNGWvnbekotBNutPv47XNVPgRbwglw)]
