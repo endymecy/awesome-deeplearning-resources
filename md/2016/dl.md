@@ -158,6 +158,7 @@
 
 ### Attention and memory
 
+- Attention-based Extraction of Structured Information from Street View Imagery. [`arxiv`](https://arxiv.org/abs/1704.03549) :star:
 - Attention Based Recurrent Neural Networks for Online Advertising. [`pdf`](http://www2016.net/proceedings/companion/p141.pdf)]
 - Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling. [`arxiv`](https://arxiv.org/abs/1609.01454) [`tensorflow`](https://github.com/HadoopIt/rnn-nlu) :star:
 - Can Active Memory Replace Attention? [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj477KzgNjQAhWJu7wKHQDCCbsQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.08613&usg=AFQjCNGWvnbekotBNutPv47XNVPgRbwglw)]
