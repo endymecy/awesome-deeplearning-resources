@@ -84,6 +84,7 @@
 - Risk versus Uncertainty in Deep Learning: Bayes, Bootstrap and the Dangers of Dropout. [`pdf`](http://bayesiandeeplearning.org/papers/BDL_4.pdf)
 - RNN-based Encoder-decoder Approach with Word Frequency Estimation. [`arxiv`](https://arxiv.org/abs/1701.00138)
 - SampleRNN: An Unconditional End-To-End Neural Audio Generation Model. [`pdf`](https://openreview.net/pdf?id=HyJsPvcgg) [`code`](https://github.com/soroushmehr/sampleRNN_ICLR2017)
+- Semantic3D.net: A new Large-scale Point Cloud Classification Benchmark.[`arxiv`](https://arxiv.org/abs/1704.03847) [`code`](https://github.com/nsavinov/semantic3dnet) 
 - SoundNet: Learning Sound Representations from Unlabeled Video. [`pdf`](http://web.mit.edu/vondrick/soundnet.pdf) [`tensorflow`](https://github.com/eborboihuc/SoundNet-tensorflow) :star:
 - Structured Receptive Fields in CNNs.  [`arxiv`](https://arxiv.org/abs/1605.02971v2) [`code`](https://github.com/jhjacobsen/RFNN)
 - Tagger: Deep Unsupervised Perceptual Grouping.  [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjp-razjufQAhWFLSYKHSF_CFcQFggsMAI&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6067-tagger-deep-unsupervised-perceptual-grouping.pdf&usg=AFQjCNG2BMZI5bfamUYu5Kbba9EbDsc9mw)]
