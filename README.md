@@ -245,6 +245,7 @@ You should find the papers and software with star flag are more important or pop
     - [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) :star:
     - [Aspect Based Sentiment Analysis using End-to-End Memory Networks](https://github.com/ganeshjawahar/mem_absa)
     - [A tensorflow implementation for SqueezeDet, a convolutional neural network for object detection.](https://github.com/BichenWuUCB/squeezeDet)
+    - [A Tensorflow implementation of CNN-LSTM image caption generator architecture](https://github.com/mosessoh/CNN-LSTM-Caption-Generator)
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
     - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
     - [Chinese Handwriting Recognition with CNNs](https://github.com/atgambardella/handwriting)
