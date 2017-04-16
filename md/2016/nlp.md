@@ -8,6 +8,7 @@
 - AC-BLSTM: Asymmetric Convolutional Bidirectional LSTM Networks for Text Classification. [[arxiv](https://arxiv.org/abs/1611.01884)]
 - Achieving Human Parity in Conversational Speech Recognition. [[arxiv](https://arxiv.org/abs/1610.05256)]
 - A General Framework for Content-enhanced Network Representation Learning. [[arxiv](https://arxiv.org/abs/1610.02906)]
+- A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering. [`pdf`](http://ieeexplore.ieee.org/document/7474366/?reload=true) [`code`](https://github.com/taki0112/Vector_Similarity)
 - A Joint Many-Task Model- Growing a Neural Network for Multiple NLP Tasks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiOjsTEp9PQAhWIwrwKHVeJBcsQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1611.01587&usg=AFQjCNHqixpFo9T8V4ayxskWgKMHkMtTCw)]
 - A Semisupervised Approach for Language Identification based on Ladder Networks.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiSmPz52dXQAhUJbbwKHb4BA48QFgguMAI&url=http%3A%2F%2Fwww.eng.biu.ac.il%2Fgoldbej%2Ffiles%2F2012%2F05%2FOdyssey_2016_paper.pdf&usg=AFQjCNGvxKufUzYjNCPDczZkWZ21H4sT-g)]
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation. [[arxiv](https://arxiv.org/abs/1611.08562)]
