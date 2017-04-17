@@ -125,6 +125,7 @@ You should find the papers and software with star flag are more important or pop
 * [Toronto] [CSC 2541 Fall 2016:Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * [李宏毅] [Machine Learning and having it Deep and Structured](https://www.youtube.com/playlist?list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)
 * [Hinton] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+
 # Books
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/), [[zh](https://github.com/exacity/deeplearningbook-chinese)]
@@ -333,6 +334,7 @@ You should find the papers and software with star flag are more important or pop
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
+- [Really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation)
 - [SCODE Word Embeddings using Substitute Words](https://github.com/ai-ku/wvec)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
