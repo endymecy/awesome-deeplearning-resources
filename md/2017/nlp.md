@@ -42,6 +42,8 @@
 - Understanding Convolution for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1702.08502)
 - Vector Embedding of Wikipedia Concepts and Entities. [`arxiv`](https://arxiv.org/abs/1702.03470) [`code`](https://github.com/ehsansherkat/ConVec)]
 - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem. [`arxiv`](https://arxiv.org/abs/1701.08376)
+- What's in a Question: Using Visual Questions as a Form of Supervision. [`arxiv`](https://arxiv.org/abs/1704.03895) [`code`](https://github.com/sidgan/whats_in_a_question)
+  
 
 ### Attention and memory 
 
