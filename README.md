@@ -159,6 +159,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Keras`</b> [Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
     - <b>`Kur`</b> [Descriptive Deep Learning.](https://github.com/deepgram/kur)  :star:
     - <b>`Neon`</b> [Neon is Nervana's Python based Deep Learning framework](https://github.com/NervanaSystems/neon).
+    - <b>`Pyclustering`</b> [A Python, C++ data mining clustering, graph coloring algorithms, oscillatory networks, neural networks library.](https://github.com/annoviko/pyclustering)
     - <b>`PyTorch`</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
     - <b>`Scikit-Learn`</b> [Machine learning in Python.](http://scikit-learn.org)  :star:
         - <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
@@ -334,6 +335,7 @@ You should find the papers and software with star flag are more important or pop
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
+- [Really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 - [Really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation)
 - [SCODE Word Embeddings using Substitute Words](https://github.com/ai-ku/wvec)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
