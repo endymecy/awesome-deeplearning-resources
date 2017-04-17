@@ -22,6 +22,7 @@
 - LanideNN: Multilingual Language Identification on Character Window. [`arxiv`](https://arxiv.org/abs/1701.03338) [`code`](https://github.com/tomkocmi/LanideNN)
 - Learning a Natural Language Interface with Neural Programmer. [`arxiv`](https://arxiv.org/abs/1611.08945) [`tensorflow`](https://github.com/tensorflow/models/tree/master/neural_programmer) :star:
 - Learning Arbitrary Potentials in CRFs with Gradient Descent. [`arxiv`](https://arxiv.org/abs/1701.06805)
+- Learning Important Features Through Propagating Activation Differences. [`arxiv`](https://arxiv.org/abs/1704.02685) [`code`](https://github.com/kundajelab/deeplift) :star:
 - Learning to Generate Reviews and Discovering Sentiment. [`arxiv`](https://arxiv.org/abs/1704.01444) [`code`](https://github.com/openai/generating-reviews-discovering-sentiment)
 - Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities. [`arxiv`](https://arxiv.org/abs/1701.02025)
 - Neural Probabilistic Model for Non-projective MST Parsing. [`arxiv`](https://arxiv.org/abs/1701.00874)
