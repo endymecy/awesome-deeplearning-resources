@@ -332,6 +332,7 @@ You should find the papers and software with star flag are more important or pop
 - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision/)
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [Generative Models](https://github.com/wiseodd/generative-models)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
