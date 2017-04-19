@@ -174,6 +174,7 @@
 - Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.07319)
 - [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [`code`](https://github.com/guojunq/lsgan)
 - Mastering Sketching: Adversarial Augmentation for Structured Prediction.  [`arxiv`](https://arxiv.org/abs/1703.08966) :star:
+- <b>[MADGAN]</b> Multi-Agent Diverse Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1704.02906) [`code`](https://github.com/arnabgho/MADGAN)
 - Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction. [`arxiv`](https://arxiv.org/abs/1704.01691)  [`code`](https://github.com/violet-zct/MSVED-morph-reinflection)
 - Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders. [`arxiv`](https://arxiv.org/abs/1704.01279) [`tensorflow`](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) :star:
 - Reconstruction of three-dimensional porous media using generative adversarial neural networks. [`arxiv`](https://arxiv.org/abs/1704.03225) [`code`](https://github.com/LukasMosser/PorousMediaGan)
