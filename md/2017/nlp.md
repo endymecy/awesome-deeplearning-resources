@@ -7,6 +7,7 @@
 - A Tidy Data Model for Natural Language Processing using cleanNLP. [`arXiv`](https://arxiv.org/abs/1703.09570)
 - Autoencoding Variational Inference For Topic Models. [`arxiv`](https://arxiv.org/abs/1703.01488) [`tensorflow`](https://github.com/akashgit/autoencoding_vi_for_topic_models) :star:
 - Automatic Rule Extraction from Long Short Term Memory Networks. [`arxiv`](https://arxiv.org/abs/1702.02540)
+- Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow. [`url`](https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274) [`tensorflow`](https://github.com/dmesquita/understanding_tensorflow_nn)
 - Billion-scale similarity search with GPUs. [`arXiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star:
 - Deep Recurrent Neural Network for Protein Function Prediction from Sequence. [`arxiv`](https://arxiv.org/abs/1701.08318)
 - Deep Voice: Real-time Neural Text-to-Speech. [`arxiv`](https://arxiv.org/abs/1702.07825) :star:
