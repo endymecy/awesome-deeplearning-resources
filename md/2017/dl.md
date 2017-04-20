@@ -111,7 +111,7 @@
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [`arxiv`](https://arxiv.org/abs/1701.00295)
 - Linear Disentangled Representation Learning for Facial Actions. [`arxiv`](https://arxiv.org/abs/1701.03102) [`code`](https://github.com/eglxiang/FacialAU.)
 - Modeling Relational Data with Graph Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1703.06103) :star:
-- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) :star:
+- <b>[MobileNets]</b> Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`keras`](https://github.com/rcmalli/keras-mobilenet) :star:
 - MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. [`arxiv`](https://arxiv.org/abs/1701.02354)
 - Optimizing Deep CNN-Based Queries over Video Streams at Scale. [`arxiv`](https://arxiv.org/abs/1703.02529) [`tensorflow`](https://github.com/stanford-futuredata/tensorflow-noscope)
 - Perceptually Optimized Image Rendering. [`arxiv`](https://arxiv.org/abs/1701.06641)
