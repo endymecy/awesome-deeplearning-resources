@@ -97,6 +97,7 @@ You should find the papers and software with star flag are more important or pop
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
 * [Single Image 3D Interpreter Network](https://github.com/jiajunwu/3dinn)
 * [TensorFlow VGG-16 pre-trained model](https://github.com/ry/tensorflow-vgg16)
+* [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
 
 # Courses
@@ -306,6 +307,7 @@ You should find the papers and software with star flag are more important or pop
     - [Five video classification methods](https://github.com/harvitronix/five-video-classification-methods)
     - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings)
     - [Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/yhenon/keras-frcnn)
+    - [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models) :star:
     - [Wasserstein DCGAN in Tensorflow/Keras](https://github.com/kuleshov/tf-wgan)
     
 # Awesome Projects
