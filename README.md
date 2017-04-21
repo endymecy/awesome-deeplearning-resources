@@ -348,6 +348,7 @@ You should find the papers and software with star flag are more important or pop
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 - [TensorFlow and Deep Learning Tutorials](https://github.com/wagamamaz/tensorflow-tutorial)
+- [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
 - [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus)
