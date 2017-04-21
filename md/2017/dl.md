@@ -60,6 +60,7 @@
 - Neural Decision Trees. [`arxiv`](https://arxiv.org/abs/1702.07360)
 - One-Shot Imitation Learning. [`arxiv`](https://arxiv.org/abs/1703.07326) :star:
 - Opening the Black Box of Deep Neural Networks via Information.  [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
+- Optimization as a Model for Few-Shot Learning. [`pdf`](https://openreview.net/pdf?id=rJY0-Kcll) [`torch`](https://github.com/twitter/meta-learning-lstm) :star:
 - OptNet: Differentiable Optimization as a Layer in Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00443) [`code`](https://github.com/locuslab/optnet) :star:
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.](http://mp.weixin.qq.com/s/qkYHcDpIMM5W7D_NWoa5ww) [`arxiv`](https://arxiv.org/abs/1701.06538)
 - <b>[PathNet]</b> Evolution Channels Gradient Descent in Super Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.08734) :star:
