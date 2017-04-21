@@ -104,10 +104,11 @@
 - Using Fast Weights to Attend to the Recent Past. [`arxiv`](https://arxiv.org/abs/1610.06258) [`code`](https://github.com/jiamings/fast-weights)
 - Value Iteration Networks. [`arxiv`](https://arxiv.org/abs/1602.02867) [`code`](https://github.com/karpathy/paper-notes/blob/master/vin.md)] :star: 
 - Variable Computation in Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.06188)
-- Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks.[`arxiv`](https://arxiv.org/abs/1607.02586) [`tensorflow`](https://github.com/tensorflow/models/tree/master/next_frame_prediction) :star:
+- Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1607.02586) [`tensorflow`](https://github.com/tensorflow/models/tree/master/next_frame_prediction) :star:
 - Weight Normalization-A Simple Reparameterization to Accelerate Training of Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1602.07868) [`code`](https://github.com/openai/weightnorm) :star: 
 - Wide Residual Networks. [`arxiv`](https://arxiv.org/abs/1605.07146) [`pytorch`](https://github.com/xternalz/WideResNet-pytorch):star: 
-- Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjBr5C2s9jQAhUCi7wKHSVWCDoQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1606.01305&usg=AFQjCNH95EDtZHJPro7M-X3qmADKDskt8A)] :star: 
+- <b>[Xception]</b> Deep Learning with Depthwise Separable Convolutions. [`arxiv`](https://arxiv.org/abs/1610.02357v2) [`tensorflow`](https://github.com/fchollet/deep-learning-models/blob/master/xception.py) :star:
+- Zoneout- Regularizing RNNs by Randomly Preserving Hidden Activations.  [`arxiv`](https://arxiv.org/abs/1606.01305) :star: 
 
 ### Computer vision
 
