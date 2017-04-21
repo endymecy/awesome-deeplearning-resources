@@ -67,6 +67,7 @@
 - Unsupervised Pretraining for Sequence to Sequence Learning. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwidp53EsdjQAhVMzbwKHeSfBa4QFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1611.02683&usg=AFQjCNHdHMJUM2OIgLMaZs5wpbXfXvN4gA)]
 - UTCNN: a Deep Learning Model of Stance Classificationon on Social Media Text. [[arxiv](https://arxiv.org/abs/1611.03599)]
 - Very Deep Convolutional Networks for Natural Language Processing.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjj79_ZsdjQAhVJy7wKHRLdAJEQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.01781&usg=AFQjCNEX8WGvkSXZgPzlKLelkfkhlC2Tnw)] :star: 
+- Visual Dialog. [`arxiv`](https://arxiv.org/abs/1611.08669) [`code`](https://github.com/Cloud-CV/visual-chatbot) :star:
 - [Wide & Deep Learning for Recommender Systems.](http://blog.csdn.net/dinosoft/article/details/52581368) [[arxiv](https://arxiv.org/abs/1606.07792)] [[tensorflow](https://www.tensorflow.org/tutorials/wide_and_deep/)]:star:
 
 ### Generative learning
