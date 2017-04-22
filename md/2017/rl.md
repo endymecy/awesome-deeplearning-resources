@@ -11,6 +11,7 @@
 - Neural Map: Structured Memory for Deep Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08360)
 - Reinforcement Learning via Recurrent Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.02392) [`code`](https://github.com/tanmayshankar/RCNN_MDP)
 - Reinforcement Learning with Deep Energy-Based Policies. [`arxiv`](https://arxiv.org/abs/1702.08165)
+- Reinforcement Learning with External Knowledge and Two-Stage Q-functions for Predicting Popular Reddit Threads. [`arxiv`](https://arxiv.org/abs/1704.06217)
 - Stochastic Neural Networks for Hierarchical Reinforcement Learning. [`pdf`](https://openreview.net/pdf?id=B1oK8aoxe) [`code`](https://github.com/florensacc/snn4hrl) 
 - Tackling Error Propagation through Reinforcement Learning: A Case of Greedy Dependency Parsing. [`arxiv`](https://arxiv.org/abs/1702.06794) [`code`](https://bitbucket.org/cltl/redep-java)
 - Task-Oriented Query Reformulation with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1704.04572) [`code`](https://github.com/nyu-dl/QueryReformulator)
