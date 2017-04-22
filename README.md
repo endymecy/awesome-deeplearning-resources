@@ -305,6 +305,7 @@ You should find the papers and software with star flag are more important or pop
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
     - [Experimental implementation of novel neural network structures](https://github.com/DingKe/nn_playground)
     - [Five video classification methods](https://github.com/harvitronix/five-video-classification-methods)
+    - [Isolating vocals from music with a Convolutional Neural Network.](https://github.com/madebyollin/acapellabot)
     - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings)
     - [Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/yhenon/keras-frcnn)
     - [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models) :star:
