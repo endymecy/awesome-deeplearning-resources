@@ -85,6 +85,7 @@ You should find the papers and software with star flag are more important or pop
 
 # Pretrained Model
 
+* [Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual)
 * [Available pretrained word embeddings](https://github.com/vzhong/embeddings)
 * [Inception-v3 of imagenet](http://download.tensorflow.org/models/image/imagenet/inception-v3-2016-03-01.tar.gz)
 * [Dependency-Based Word Embeddings.](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/)
