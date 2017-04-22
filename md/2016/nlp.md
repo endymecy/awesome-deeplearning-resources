@@ -23,6 +23,7 @@
 - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models. [[arxiv](https://arxiv.org/abs/1610.02424)]
 - Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj1yYXdh9jQAhXCebwKHW8vDMMQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.00367&usg=AFQjCNF15R9nAUvB5OqWHM2bwLwgrxRPBw)]
 - End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension. [[arxiv](https://arxiv.org/abs/1610.09996)]
+- End-to-End Multi-View Networks for Text Classification. [`arxiv`](https://arxiv.org/abs/1704.05907)
 - End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjaiLCOiNjQAhWMv7wKHeLQCfsQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1603.01354&usg=AFQjCNG-KfCDJTOPEYjMoohV-fdTGOK9ew)] :star:
 - Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference. [[arxiv](https://arxiv.org/abs/1609.06038)]
 - Generative Deep Neural Networks for Dialogue: A Short Review. [[arxiv](https://arxiv.org/abs/1611.06216)]
