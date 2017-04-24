@@ -119,7 +119,7 @@ You should find the papers and software with star flag are more important or pop
 * [吴立德] [《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
 * [Oxford] [Deep Learning Course](http://www.computervisiontalks.com/tag/deep-learning-course/)
 * [David Silver] [RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
-* [MIT] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+* [MIT] [Practical Deep LeTensorFlowarning For Coders](http://course.fast.ai/index.html)
 * [Google] [Udacity Deep Learning Online Course](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
 * [YouTube][OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
 * [Jeremy Howard] [Deep Learning For Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM)
@@ -127,6 +127,7 @@ You should find the papers and software with star flag are more important or pop
 * [Toronto] [CSC 2541 Fall 2016:Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * [李宏毅] [Machine Learning and having it Deep and Structured](https://www.youtube.com/playlist?list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)
 * [Hinton] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+* [Hvass Laboratories] [TensorFlow](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 # Books
 
