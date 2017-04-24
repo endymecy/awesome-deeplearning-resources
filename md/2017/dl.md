@@ -93,6 +93,7 @@
 ### Computer vision
 
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder. [`arxiv`](https://arxiv.org/abs/1701.01546)
+- Accurate Single Stage Detector Using Recurrent Rolling Convolution. [`arxiv`](https://arxiv.org/abs/1704.05776) [`code`](https://github.com/xiaohaoChen/rrc_detection)
 - <b>[AENet]</b> Learning Deep Audio Features for Video Analysis. [`arxiv`](https://arxiv.org/abs/1701.00599) [`code`](https://github.com/znaoya/aenet) :star:
 - A network of deep neural networks for distant speech recognition. [`arXiv`](https://arxiv.org/abs/1703.08002) :star:
 - A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction. [`arxiv`](https://arxiv.org/abs/1701.06190)
