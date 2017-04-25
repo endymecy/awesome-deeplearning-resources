@@ -115,6 +115,7 @@
 - Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models. [`arxiv`](https://arxiv.org/abs/1702.06228)
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [`arxiv`](https://arxiv.org/abs/1701.00295)
 - Linear Disentangled Representation Learning for Facial Actions. [`arxiv`](https://arxiv.org/abs/1701.03102) [`code`](https://github.com/eglxiang/FacialAU.)
+- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`pytorch`](https://github.com/marvis/pytorch-mobilenet)
 - Modeling Relational Data with Graph Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1703.06103) :star:
 - <b>[MobileNets]</b> Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`keras`](https://github.com/rcmalli/keras-mobilenet) :star:
 - MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. [`arxiv`](https://arxiv.org/abs/1701.02354)
