@@ -85,6 +85,7 @@
 - Towards a New Interpretation of Separable Convolutions. [`arxiv`](https://arxiv.org/abs/1701.04489)
 - Towards Deeper Understanding of Variational Autoencoding Models. [`arxiv`](https://arxiv.org/abs/1702.08658) [`code`](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [`arxiv`](https://arxiv.org/abs/1701.00485)
+- [Understanding deep learning requires rethinking generalization.](http://weibo.com/ttarticle/p/show?id=2309351000224100795007132875&u=1402400261&m=4100900743750148&cu=3655689037) [`arxiv`](https://arxiv.org/abs/1611.03530) :star:
 - Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04128)
 - Understanding trained CNNs by indexing neuron selectivity. [`arxiv`](https://arxiv.org/abs/1702.00382)
 - Variational Inference using Implicit Distributions. [`arxiv`](https://arxiv.org/abs/1702.08235)
