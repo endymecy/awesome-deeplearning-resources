@@ -182,6 +182,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Dlib`</b> [A modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++.](http://dlib.net/)
     - <b>`DSSTNE`</b> [An Amazon developed library for building Deep Learning (DL) machine learning (ML) models.](https://github.com/amznlabs/amazon-dsstne) 
     - <b>`Jik`</b> [Lightweight Deep Learning Framework](https://github.com/oliviersoares/jik)
+    - <b>`Kann`</b> [A lightweight C library for artificial neural networks](https://github.com/attractivechaos/kann)
     - <b>`PaddlePaddle`</b> [An easy-to-use, efficient, flexible and scalable deep learning platform.](http://www.paddlepaddle.org/)
     - <b>`MRPT`</b> [The Mobile Robot Programming Toolkit (MRPT)](https://github.com/MRPT/mrpt)
     - <b>`MXNet`</b> [A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support](http://mxnet.io/) :star:
