@@ -39,6 +39,7 @@
 - Transfer learning for collaborative filtering via a rating-matrix generative model.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjNs6n5so7RAhVJrVQKHbKsDFEQFghEMAM&url=http%3A%2F%2Fvideolectures.net%2Fsite%2Fnormal_dl%2Ftag%3D47942%2Ficml09_li_tlcfvrmgm_01.pdf&usg=AFQjCNGUCLWwmiR1zhCb6L_BzmMHyB6z5w)]
 - Transfer learning from multiple source domains via consensus regularization. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiloLWpuo7RAhWqrFQKHbyMD-kQFggwMAI&url=http%3A%2F%2Fwww3.ntu.edu.sg%2Fhome%2Fsinnopan%2Fpublications%2F%5BEMCL14%5DTransfer%2520Learning%2520with%2520Multiple%2520Sources%2520via%2520Consensus%2520Regularized%2520Autoencoders.pdf&usg=AFQjCNFi6ftA2gms7vi71-ktkt_WTum46Q)]
 - Transfer Learning for Reinforcement Learning Domains: A Survey. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiu9KmlsY7RAhXJiVQKHTs_B34QFggfMAA&url=http%3A%2F%2Fwww.cs.utexas.edu%2F~ai-lab%2Fpubs%2FJMLR09-taylor.pdf&usg=AFQjCNH-Irnjnro_TgQx2T9D8mAz4KwHhw)] :star: 
+- <b>[Zero-Shot]</b> Zero-Shot Learning with Semantic Output Codes. [`pdf`](http://www.cs.cmu.edu/afs/cs/project/theo-73/www/papers/zero-shot-learning.pdf) :star:
 
 #### Instance transfer
 
