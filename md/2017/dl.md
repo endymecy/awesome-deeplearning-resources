@@ -8,6 +8,7 @@
 - Alignment of dynamic networks. [`arxiv`](https://arxiv.org/abs/1701.08842)
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [`arxiv`](https://arxiv.org/abs/1701.01207)
 - A Probabilistic Framework for Location Inference from Social Media. [`arxiv`](https://arxiv.org/abs/1702.07281)
+- A Saddle Point Approach to Structured Low-rank Matrix Learning in Large-scale Applications.  [`arxiv`](https://arxiv.org/abs/1704.07352)
 - Automated Curriculum Learning for Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.03003) :star:
 - Autoencoder Regularized Network For Driving Style Representation Learning. [`arxiv`](https://arxiv.org/abs/1701.01272)
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [`arxiv`](https://arxiv.org/abs/1702.03275) :star:
@@ -80,7 +81,7 @@
 - Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
 - Stochastic Subsampling for Factorizing Huge Matrices. [`arxiv`](https://arxiv.org/abs/1701.05363) [`code`](https://github.com/arthurmensch/modl)
 - The Power of Sparsity in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.06257)
-- Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation. [`arxiv`](https://arxiv.org/abs/1704.06888)
+- Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation. [`arxiv`](https://arxiv.org/abs/1704.06888) :star:
 - To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [`arxiv`](https://arxiv.org/abs/1701.01692)
 - Towards "AlphaChem": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies. [`arxiv`](https://arxiv.org/abs/1702.00020)
 - Towards a New Interpretation of Separable Convolutions. [`arxiv`](https://arxiv.org/abs/1701.04489)
