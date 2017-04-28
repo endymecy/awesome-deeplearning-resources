@@ -287,6 +287,7 @@ You should find the papers and software with star flag are more important or pop
     - [Realistic Handwriting with Tensorflow](https://github.com/greydanus/scribe)
     - [Real-time Joint Semantic Reasoning for Autonomous Driving](https://github.com/MarvinTeichmann/MultiNet)
     - [Self-Driving Car Engineer Nanodegree](https://github.com/upul/Behavioral-Cloning)
+    - [Sequence prediction using recurrent neural networks(LSTM) with TensorFlow](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
