@@ -48,6 +48,7 @@
 - Fathom: Reference Workloads for Modern Deep Learning Methods.[`arxiv`](https://arxiv.org/abs/1608.06581)
 - Feedback arcs and node hierarchy in directed networks. [`arxiv`](https://arxiv.org/abs/1612.05347)
 - FINN: A framework for fast, scalable binarized neural network inference. [`arxiv`](https://arxiv.org/abs/1612.07119) [`code`](https://github.com/Xilinx/BNN-PYNQ)
+- FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. [`arxiv`](https://arxiv.org/abs/1612.01925) [`code`](https://github.com/lmb-freiburg/flownet2)
 - FractalNet-Ultra-Deep Neural Networks without Residuals. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjWmMPHi9jQAhULVbwKHfoXDTwQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07648&usg=AFQjCNHDJqUxtKeCbEd0GkbFRAppVxmxgQ)]
 - <b>[URNN]</b> Full-Capacity Unitary Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.00035) [`code`](https://github.com/stwisdom/urnn) :star: 
 - Fused-Layer CNN Accelerators. [`pdf`](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf)
