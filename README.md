@@ -383,6 +383,7 @@ You should find the papers and software with star flag are more important or pop
 - [ClueWeb09 FACC](http://lemurproject.org/clueweb09/FACC1/): [ClueWeb09](http://lemurproject.org/clueweb09/) with Freebase annotations (72 GB)
 - [ClueWeb11 FACC](http://lemurproject.org/clueweb12/FACC1/): [ClueWeb11](http://lemurproject.org/clueweb12/) with Freebase annotations (92 GB)
 - [Common Crawl Corpus](http://aws.amazon.com/de/datasets/common-crawl-corpus/): web crawl data composed of over 5 billion web pages (541 TB)
+- [Cool Datasets](http://cooldatasets.com/#Machine-Learning-Datasets): A place to find cool datasets. :star:
 - [Cornell Movie Dialog Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html): contains a large metadata-rich collection of fictional conversations extracted from raw movie scripts: 220,579 conversational exchanges between 10,292 pairs of movie characters, 617 movies (9.5 MB)
 - [Corporate messaging](http://aws.amazon.com/de/datasets/common-crawl-corpus/): A data categorization job concerning what corporations actually talk about on social media. Contributors were asked to classify statements as information (objective statements about the company or it’s activities), dialog (replies to users, etc.), or action (messages that ask for votes or ask users to click on links, etc.). (600 KB)
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
