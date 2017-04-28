@@ -323,7 +323,6 @@ You should find the papers and software with star flag are more important or pop
 
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
 - [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
-- [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 - [Awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
@@ -369,6 +368,8 @@ You should find the papers and software with star flag are more important or pop
 
 # Corpus
 
+## NLP Corpus
+
 - [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus)
 - [搜狗实验室](http://www.sogou.com/labs/)
 - [情感分析︱网络公开的免费文本语料训练数据集汇总](http://blog.csdn.net/sinat_26917383/article/details/51321505)
@@ -379,7 +380,6 @@ You should find the papers and software with star flag are more important or pop
 - [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html): Stanford collection of 35 million amazon reviews. (11 GB)
 - [ArXiv](http://arxiv.org/help/bulk_data_s3): All the Papers on archive as fulltext (270 GB) + sourcefiles (190 GB).
 - [Classification of political social media](https://www.crowdflower.com/data-for-everyone/): Social media messages from politicians classified by content. (4 MB)
-- [CLiPS Stylometry Investigation (CSI) Corpus](http://www.clips.uantwerpen.be/datasets/csi-corpus): a yearly expanded corpus of student texts in two genres: essays and reviews. The purpose of this corpus lies primarily in stylometric research, but other applications are possible. (on request)
 - [ClueWeb09 FACC](http://lemurproject.org/clueweb09/FACC1/): [ClueWeb09](http://lemurproject.org/clueweb09/) with Freebase annotations (72 GB)
 - [ClueWeb11 FACC](http://lemurproject.org/clueweb12/FACC1/): [ClueWeb11](http://lemurproject.org/clueweb12/) with Freebase annotations (92 GB)
 - [Common Crawl Corpus](http://aws.amazon.com/de/datasets/common-crawl-corpus/): web crawl data composed of over 5 billion web pages (541 TB)
