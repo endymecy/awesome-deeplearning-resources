@@ -15,6 +15,7 @@ You should find the papers and software with star flag are more important or pop
 - [Software](#software)
 - [Applications](#applications)
 - [Awesome Projects](#awesome-projects)
+- [Corpus](#corpus)
 
 # Papers
 
@@ -366,3 +367,7 @@ You should find the papers and software with star flag are more important or pop
 - [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus)
 - [图像文本位置感知与识别的论文资源汇总](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)
 - [深度学习进行目标识别的资源列表](http://www.thinkface.cn/thread-4434-1-1.html)
+
+# Corpus
+
+- [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
