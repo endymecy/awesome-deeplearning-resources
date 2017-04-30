@@ -280,6 +280,7 @@ You should find the papers and software with star flag are more important or pop
     - [Metasploit for machine learning.](https://github.com/cchio/deep-pwning)
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
     - [Named Entity Recognition using multilayered bidirectional LSTM](https://github.com/monikkinom/ner-lstm)
+    - [Named Entity Recognition using Recurrent Neural Networks in Tensorflow and TFLearn](https://github.com/dhwajraj/NER-RNN)
     - [NeuroNER: Named-entity recognition using neural networks.](https://github.com/Franck-Dernoncourt/NeuroNER)
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
     - [OCR text recognition using tensorflow with attention](https://github.com/pannous/tensorflow-ocr)
