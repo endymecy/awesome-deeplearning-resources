@@ -265,6 +265,7 @@ You should find the papers and software with star flag are more important or pop
     - [Convolutional Neural Network for Multi-label Multi-instance Relation Extraction in Tensorflow](https://github.com/may-/cnn-re-tf)
     - [DeepColor: Automatic coloring and shading of manga-style lineart](https://github.com/kvfrans/deepcolor)
     - [Deep Learning based Python Library for Stock Market Prediction and Modelling](https://github.com/achillesrasquinha/bulbea)
+    - [Deep LSTM siamese network for text similarity](https://github.com/dhwajraj/deep-siamese-text-similarity)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
     - [Fast Multi(Interpolative) Style Transfer](https://github.com/Heumi/Fast_Multi_Style_Transfer-tf)
