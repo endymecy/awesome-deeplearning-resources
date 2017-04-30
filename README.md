@@ -272,6 +272,7 @@ You should find the papers and software with star flag are more important or pop
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Fully differentiable deep-neural decision forest in tensorflow](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
     - [GA3C: Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/NVlabs/GA3C)
+    - [Generic U-Net Tensorflow implementation for image segmentation](https://github.com/jakeret/tf_unet)
     - [Implementation of Generative Adversarial Networks, for Audio.](https://github.com/usernaamee/audio-GAN)
     - [Implementations of deep RL papers and random experimentation](https://github.com/steveKapturowski/tensorflow-rl) :star:
     - [Implementation of Monte Carlo Word Movers Distance in Python with TensorFlow](https://github.com/jwbaum91/MCWMD)
