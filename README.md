@@ -374,5 +374,6 @@ You should find the papers and software with star flag are more important or pop
 - [A large-scale and high-quality dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
 - [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
 - [An awesome list of high-quality datasets](https://webhose.io/datasets) :star:
+- [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
 - [Cool Datasets](http://cooldatasets.com/#Machine-Learning-Datasets) :star:
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
