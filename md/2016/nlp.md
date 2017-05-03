@@ -30,6 +30,7 @@
 - Generative Deep Neural Networks for Dialogue: A Short Review. [[arxiv](https://arxiv.org/abs/1611.06216)]
 - Generating Factoid Questions With Recurrent Neural Networks- The 30M Factoid Question-Answer Corpus.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjupJy3jNjQAhUCQLwKHTE5AVEQFggnMAE&url=https%3A%2F%2Faclweb.org%2Fanthology%2FP%2FP16%2FP16-1056.pdf&usg=AFQjCNGmLcxTx3Kq2u_yktAPC2XVzpmLzw)] :star: 
 - Globally Normalized Transition-Based Neural Networks. [[arxiv](https://arxiv.org/abs/1603.06042)] [[tensorflow](https://github.com/tensorflow/models/tree/master/syntaxnet)] :star:
+- GraphNet: Recommendation system based on language and network structure. [`pdf`](https://web.stanford.edu/class/cs224n/reports/2758630.pdf)
 - How NOT To Evaluate Your Dialogue System. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjd0o_ykNjQAhUEgbwKHTSiDR0QFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1603.08023&usg=AFQjCNFvRrB0IPgqFO1mhYIsas1dGzdtFQ)] :star: 
 - Inducing Multilingual Text Analysis Tools Using Bidirectional Recurrent Neural Networks. [[pdf](https://hal.archives-ouvertes.fr/hal-01374205/document)]
 - Key-Value Memory Networks for Directly Reading Documents.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjT98WjktjQAhVDOrwKHfi7CbgQFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.03126&usg=AFQjCNEWuqc4X4BJjsozF8U7cxT9RgJXLA)]
