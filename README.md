@@ -100,6 +100,7 @@ You should find the papers and software with star flag are more important or pop
 * [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) :star:
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
 * [Single Image 3D Interpreter Network](https://github.com/jiajunwu/3dinn)
+* [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
 * [TensorFlow VGG-16 pre-trained model](https://github.com/ry/tensorflow-vgg16)
 * [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
@@ -294,6 +295,7 @@ You should find the papers and software with star flag are more important or pop
     - [Sequence prediction using recurrent neural networks(LSTM) with TensorFlow](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
+    - [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
     - [Teach machine to write all we want](https://github.com/zzw922cn/Neural_Writing_Machine) :star:
     - [Tensorflow-based Distributed Factorization Machine](https://github.com/kopopt/fast_tffm) :star:
