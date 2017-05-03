@@ -13,6 +13,7 @@
 - A Semisupervised Approach for Language Identification based on Ladder Networks.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiSmPz52dXQAhUJbbwKHb4BA48QFgguMAI&url=http%3A%2F%2Fwww.eng.biu.ac.il%2Fgoldbej%2Ffiles%2F2012%2F05%2FOdyssey_2016_paper.pdf&usg=AFQjCNGvxKufUzYjNCPDczZkWZ21H4sT-g)]
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation. [[arxiv](https://arxiv.org/abs/1611.08562)]
 - Aspect Level Sentiment Classification with Deep Memory Network. [`arxiv`](https://arxiv.org/abs/1605.08900) [`tensorflow`](https://github.com/endymecy/transwarp-nlp) :star:
+- A Strong Baseline for Learning Cross-Lingual Word Embeddings from Sentence Alignments. [`arxiv`](https://arxiv.org/abs/1608.05426)
 - Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification. [[arxiv](https://arxiv.org/abs/1610.04989)]
 - Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution. [[arxiv](https://arxiv.org/abs/1609.06686)]
 - COCO-Text-Dataset and Benchmark for Text Detection and Recognition in Natural Images.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjWwraRgdjQAhVFwLwKHUhQCCQQFggxMAI&url=http%3A%2F%2Fsunw.csail.mit.edu%2Fpapers%2F01_Veit_SUNw.pdf&usg=AFQjCNEd0KdDVoHqEmAv4JVphvSIaTG_eg)]
