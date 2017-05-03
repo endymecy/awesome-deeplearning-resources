@@ -103,6 +103,7 @@
 - Tutorial on Variational Autoencoders.[`arxiv`](https://arxiv.org/abs/1606.05908) :star: 
 - Understanding Deep Convolutional Networks.  [`arxiv`](https://arxiv.org/abs/1601.04920) :star: 
 - <b>[ICLR:Best Paper]</b> Understanding deep learning requires rethinking generalization. [`arxiv`](https://arxiv.org/abs/1611.03530) :star:
+- Understanding deep learning requires rethinking generalization. [`arxiv`](https://arxiv.org/abs/1611.03530) [`code`](https://github.com/pluskid/fitting-random-labels) :star:
 - Understanding Neural Networks through Representation Erasure. [`arxiv`](https://arxiv.org/abs/1612.08220)
 - Unsupervised Perceptual Rewards for Imitation Learning.[`arxiv`](https://scirate.com/arxiv/1612.06699)]
 - Using Fast Weights to Attend to the Recent Past. [`arxiv`](https://arxiv.org/abs/1610.06258) [`code`](https://github.com/jiamings/fast-weights)
