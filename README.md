@@ -385,3 +385,4 @@ You should find the papers and software with star flag are more important or pop
 - [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
 - [Cool Datasets](http://cooldatasets.com/#Machine-Learning-Datasets) :star:
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
