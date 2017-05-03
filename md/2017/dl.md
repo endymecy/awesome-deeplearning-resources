@@ -63,8 +63,8 @@
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [`arxiv`](https://arxiv.org/abs/1702.00763)
 - Network Backboning with Noisy Data. [`arxiv`](https://arxiv.org/abs/1701.07336)
 - Neural Decision Trees. [`arxiv`](https://arxiv.org/abs/1702.07360)
-- One-Shot Imitation Learning. [`arxiv`](https://arxiv.org/abs/1703.07326) :star:
-- Opening the Black Box of Deep Neural Networks via Information.  [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
+- On weight initialization in deep neural networks. [`arxiv`](https://arxiv.org/abs/1704.08863) [`code`](https://github.com/sidkk86/weight_initialization)
+- Opening the Black Box of Deep Neural Networks via Information. [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
 - Optimization as a Model for Few-Shot Learning. [`pdf`](https://openreview.net/pdf?id=rJY0-Kcll) [`torch`](https://github.com/twitter/meta-learning-lstm) :star:
 - OptNet: Differentiable Optimization as a Layer in Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00443) [`code`](https://github.com/locuslab/optnet) :star:
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.](http://mp.weixin.qq.com/s/qkYHcDpIMM5W7D_NWoa5ww) [`arxiv`](https://arxiv.org/abs/1701.06538)
@@ -222,6 +222,7 @@
 - Demystifying Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1701.01036)
 - Massive Exploration of Neural Machine Translation Architectures. [`arxiv`](https://arxiv.org/abs/1703.03906) [`code`](https://github.com/google/seq2seq/)
 - [Multi-style Generative Network for Real-time Transfer.](https://zhuanlan.zhihu.com/p/25892708) [`arxiv`](https://arxiv.org/abs/1703.06953) [`torch`](https://github.com/zhanghang1989/MSG-Net) :star:
+- One-Shot Imitation Learning. [`arxiv`](https://arxiv.org/abs/1703.07326) :star:
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[`arxiv`](https://arxiv.org/abs/1701.08734) :star:
 - Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
