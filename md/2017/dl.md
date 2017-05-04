@@ -176,6 +176,7 @@
 - Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. [`arxiv`](https://arxiv.org/abs/1702.07464)
 - Dense Associative Memory is Robust to Adversarial Inputs. [`arxiv`](https://arxiv.org/abs/1701.00939)
 - Denoising Adversarial Autoencoders. [`arxiv`](https://arxiv.org/abs/1703.01220) [`code`](https://github.com/ToniCreswell/DAAE_) :star:
+- Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters. [`arxiv`](https://arxiv.org/abs/1703.06283) [`tensorflow`](https://github.com/huangshiyu13/RPNplus)
 - Face Aging With Conditional Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.01983)
 - Face Synthesis from Facial Identity Features. [`arxiv`](https://arxiv.org/abs/1701.04851)
 - Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking. [`arxiv`](https://arxiv.org/abs/1704.04865)
