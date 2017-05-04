@@ -246,6 +246,7 @@ You should find the papers and software with star flag are more important or pop
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
     - [SSD: Single Shot MultiBox Object Detector, in PyTorch](https://github.com/amdegroot/ssd.pytorch)
     - [t-SNE experiments in pytorch](https://github.com/cemoody/topicsne)
+    - [Weight normalization](https://github.com/ruotianluo/weightnorm-pytorch)
     - [YOLOv2 in PyTorch](https://github.com/longcw/yolo2-pytorch)
 - theano
     - [CNN-yelp-challenge-2016-sentiment-classification](https://github.com/haoopeng/CNN-yelp-challenge-2016-sentiment-classification)
