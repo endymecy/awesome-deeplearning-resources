@@ -280,6 +280,7 @@ You should find the papers and software with star flag are more important or pop
     - [Implementations of deep RL papers and random experimentation](https://github.com/steveKapturowski/tensorflow-rl) :star:
     - [Implementation of Monte Carlo Word Movers Distance in Python with TensorFlow](https://github.com/jwbaum91/MCWMD)
     - [Interactive, node-by-node debugging and visualization for TensorFlow](https://github.com/ericjang/tdb) :star:
+    - [LSTM Language Model with Subword Units Input Representations](https://github.com/claravania/subword-lstm-lm)
     - [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://github.com/jostmey/rwa)
     - [Metasploit for machine learning.](https://github.com/cchio/deep-pwning)
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
