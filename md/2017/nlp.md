@@ -14,6 +14,7 @@
 - Deep Voice: Real-time Neural Text-to-Speech. [`arxiv`](https://arxiv.org/abs/1702.07825) :star:
 - Dialog Context Language Modeling with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04056)
 - dna2vec: Consistent vector representations of variable-length k-mers. [`arxiv`](https://arxiv.org/abs/1701.06279) [`code`](https://pnpnpn.github.io/dna2vec/)
+- Efficient Natural Language Response Suggestion for Smart Reply. [`arxiv`](https://arxiv.org/abs/1705.00652)
 - Efficient Vector Representation For Documents Through Corruption. [`pdf`](https://openreview.net/pdf?id=B1Igu2ogg)] [`code`](https://github.com/mchen24/iclr2017) :star:
 - End-to-End MAP Training of a Hybrid HMM-DNN Model. [`arXiv`](https://arxiv.org/abs/1703.10356)
 - End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks. [`arxiv`](https://arxiv.org/abs/1703.03305)
