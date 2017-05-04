@@ -109,6 +109,7 @@
 - DCT-like Transform for Image Compression Requires 14 Additions Only. [`arxiv`](https://arxiv.org/abs/1702.00817)
 - Deep Convolutional Neural Networks for Pairwise Causality. [`arxiv`](https://arxiv.org/abs/1701.00597)
 - Deep Learning Features at Scale for Visual Place Recognition. [`arxiv`](https://arxiv.org/abs/1701.05105)
+- Deep Learning for Tumor Classification in Imaging Mass Spectrometry. [`arxiv`](https://arxiv.org/abs/1705.01015)
 - Deep Hybrid Similarity Learning for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1702.04858)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
