@@ -20,6 +20,7 @@
 - Deep Reinforcement Learning for Dialogue Generation. [[arxiv](https://arxiv.org/abs/1606.01541)] [`tensorflow`](https://github.com/BigPlay/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow)
 - Deep Reinforcement Learning in Parameterized Action Space. [[arxiv](http://arxiv.org/abs/1511.04143)] :star: 
 - Deep Reinforcement Learning with Successor Features for Navigation across Similar Environments.[[url](https://scirate.com/arxiv/1612.05533)]
+- Designing Neural Network Architectures using Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1611.02167) [`code`](https://bowenbaker.github.io/metaqnn/)
 - Dialogue manager domain adaptation using Gaussian process reinforcement learning. [[arxiv](https://arxiv.org/abs/1609.02846)]
 - End-to-End Reinforcement Learning of Dialogue Agents for Information Access. [[arxiv](https://arxiv.org/abs/1609.00777)]
 - Generating Text with Deep Reinforcement Learning. [[arxiv](https://arxiv.org/abs/1510.09202)]
