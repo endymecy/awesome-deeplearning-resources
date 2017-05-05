@@ -378,11 +378,12 @@ You should find the papers and software with star flag are more important or pop
 - [深度学习进行目标识别的资源列表](http://www.thinkface.cn/thread-4434-1-1.html)
 
 # Corpus
-
+语料库在线
 - [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus)
 - [搜狗实验室](http://www.sogou.com/labs/)
 - [情感分析︱网络公开的免费文本语料训练数据集汇总](http://blog.csdn.net/sinat_26917383/article/details/51321505)
 - [人民日报切分/标注语料库](http://www.icl.pku.edu.cn/icl_res/)
+- [语料库在线](http://www.cncorpus.org/index.aspx)
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
 - [A large-scale and high-quality dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
 - [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
