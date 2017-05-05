@@ -389,6 +389,7 @@ You should find the papers and software with star flag are more important or pop
 - [语料库在线](http://www.cncorpus.org/index.aspx)
 - [中文句结构树资料库](http://turing.iis.sinica.edu.tw/treesearch/)
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
+- [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 - [A large-scale and high-quality dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
 - [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
 - [An awesome list of high-quality datasets](https://webhose.io/datasets) :star:
