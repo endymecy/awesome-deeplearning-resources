@@ -385,6 +385,7 @@ You should find the papers and software with star flag are more important or pop
 - [人民日报切分/标注语料库](http://www.icl.pku.edu.cn/icl_res/)
 - [哈工大信息检索研究中心(HIT CIR)语言技术平台共享资源](http://ir.hit.edu.cn/demo/ltp/Sharing_Plan.htm)
 - [语料库在线](http://www.cncorpus.org/index.aspx)
+- [中文句结构树资料库](http://turing.iis.sinica.edu.tw/treesearch/)
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
 - [A large-scale and high-quality dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
 - [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
