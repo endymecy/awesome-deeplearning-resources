@@ -384,6 +384,7 @@ You should find the papers and software with star flag are more important or pop
 - [情感分析︱网络公开的免费文本语料训练数据集汇总](http://blog.csdn.net/sinat_26917383/article/details/51321505)
 - [中文情感分析用词语集](http://www.keenage.com/html/c_bulletin_2007.htm)
 - [人民日报切分/标注语料库](http://www.icl.pku.edu.cn/icl_res/)
+- [数据堂](http://more.datatang.com/)
 - [哈工大信息检索研究中心(HIT CIR)语言技术平台共享资源](http://ir.hit.edu.cn/demo/ltp/Sharing_Plan.htm)
 - [语料库在线](http://www.cncorpus.org/index.aspx)
 - [中文句结构树资料库](http://turing.iis.sinica.edu.tw/treesearch/)
