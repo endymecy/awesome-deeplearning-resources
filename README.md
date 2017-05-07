@@ -403,3 +403,4 @@ You should find the papers and software with star flag are more important or pop
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+- [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
