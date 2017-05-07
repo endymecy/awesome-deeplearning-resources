@@ -14,9 +14,9 @@
 - Architectural Complexity Measures of Recurrent Neural Networks. [`arxiv`](https://arxiv.org/pdf/1602.08210.pdf)
 - Associative Long Short-Term Memory. [`arxiv`](https://arxiv.org/pdf/1602.03032.pdf) :star: 
 - Batch Policy Gradient Methods for Improving Neural Conversation Models.  [`url`](https://openreview.net/pdf?id=rJfMusFll)
-- Benefits of depth in neural networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi_pPfi39XQAhXDT7wKHegRC2UQFggpMAE&url=http%3A%2F%2Fwww.jmlr.org%2Fproceedings%2Fpapers%2Fv49%2Ftelgarsky16.pdf&usg=AFQjCNFn_N2Ccc_Qlo87kCHdZzo7w2V0qg)]
-- BinaryNet-Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiVrJCa4NXQAhVIfLwKHQKAAqQQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.02830&usg=AFQjCNHeWAIQ5RZbEHoCuc961mIvkONnVQ)]
-- Bitwise Neural Networks.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj29Om14NXQAhUIVrwKHc4yCakQFggpMAE&url=http%3A%2F%2Fparis.cs.illinois.edu%2Fpubs%2Fminje-icmlw2015.pdf&usg=AFQjCNG8Ejx8jW2agQZ2KWfWIQTMDUG7JQ)]
+- Benefits of depth in neural networks. [`url`](http://proceedings.mlr.press/v49/telgarsky16.pdf)
+- BinaryNet-Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1. [`arxiv`](https://arxiv.org/abs/1602.02830)
+- Bitwise Neural Networks.  [`pdf`](http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf)
 - Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex.  [`arxiv`](https://arxiv.org/abs/1604.03640)
 - Building Machines That Learn and Think Like People.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwis38fi4NXQAhVIf7wKHRCcDX0QFggpMAE&url=http%3A%2F%2Fwww.mit.edu%2F~tomeru%2Fpapers%2Fmachines_that_think.pdf&usg=AFQjCNEn0pmZd3k44Tm4SoLwtnItBk7doA)] :star: 
 - Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors. [`arxiv`](https://arxiv.org/abs/1612.04342)
