@@ -7,8 +7,8 @@
 - A Deep Learning Approach To Multiple Kernel Fusion. [`arxiv`](https://arxiv.org/abs/1612.09007)
 - Aggregated Residual Transformations for Deep Neural Networks.  [`arxiv`](https://arxiv.org/abs/1611.05431) [`tensorflow`](https://github.com/wenxinxu/ResNeXt-in-tensorflow) 
 - A guide to convolution arithmetic for deep learning. [`arxiv`](https://arxiv.org/pdf/1603.07285.pdf)
-- A New Method to Visualize Deep Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjVzJrT2dXQAhUJW7wKHZR-CNIQFggsMAE&url=https%3A%2F%2Ficmlviz.github.io%2Fassets%2Fpapers%2F23.pdf&usg=AFQjCNGOxMWK9cOTxt5Qjv1SEEsPWoJHfQ)]
-- A Persona-Based Neural Conversation Model.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiI9pnm2dXQAhWDTbwKHTUEBZUQFggtMAE&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP%2FP16%2FP16-1094.pdf&usg=AFQjCNFghz9P9_V6TL-VSYRH1h22rIAoHw)]
+- A New Method to Visualize Deep Neural Networks. [`pdf`](https://icmlviz.github.io/assets/papers/23.pdf)
+- A Persona-Based Neural Conversation Model. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-1094.pdf)
 - A Way out of the Odyssey- Analyzing and Combining Recent Insights for LSTMs. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjGksKS2tXQAhXIW7wKHUrbA_YQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1611.05104&usg=AFQjCNHwsiRO21i-DKyD64JMATZI9drjLw)] :star: 
 - Adaptive Computation Time for Recurrent Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjEg73u3NXQAhWIu7wKHcC9AbcQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1603.08983&usg=AFQjCNFO7GWPoTtHFSrky_F0MNz5acCI4A)] :star: 
 - Architectural Complexity Measures of Recurrent Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwidmJCt3dXQAhUDVrwKHe_UCscQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1602.08210&usg=AFQjCNHuzPq9Ab2A1-3l_iWIk15yO33r3Q)]
