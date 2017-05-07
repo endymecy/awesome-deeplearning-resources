@@ -18,7 +18,7 @@
 - BinaryNet-Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1. [`arxiv`](https://arxiv.org/abs/1602.02830)
 - Bitwise Neural Networks.  [`pdf`](http://paris.cs.illinois.edu/pubs/minje-icmlw2015.pdf)
 - Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex.  [`arxiv`](https://arxiv.org/abs/1604.03640)
-- Building Machines That Learn and Think Like People.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwis38fi4NXQAhVIf7wKHRCcDX0QFggpMAE&url=http%3A%2F%2Fwww.mit.edu%2F~tomeru%2Fpapers%2Fmachines_that_think.pdf&usg=AFQjCNEn0pmZd3k44Tm4SoLwtnItBk7doA)] :star: 
+- Building Machines That Learn and Think Like People. [`pdf`](http://www.mit.edu/~tomeru/papers/machines_that_think.pdf) :star: 
 - Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors. [`arxiv`](https://arxiv.org/abs/1612.04342)
 - Composing graphical models with neural networks for structured representations and fast inference .[`arxiv`](https://arxiv.org/abs/1603.06277) [`code`](https://github.com/mattjj/svae)
 - Conditional Generative Moment-Matching Networks. [`arxiv`](https://arxiv.org/abs/1606.04218)
