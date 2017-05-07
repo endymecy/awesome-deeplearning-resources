@@ -11,7 +11,7 @@
 - A Persona-Based Neural Conversation Model. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-1094.pdf)
 - A Way out of the Odyssey- Analyzing and Combining Recent Insights for LSTMs. [`arxiv`](https://arxiv.org/abs/1611.05104) :star: 
 - Adaptive Computation Time for Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1603.08983) :star: 
-- Architectural Complexity Measures of Recurrent Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwidmJCt3dXQAhUDVrwKHe_UCscQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1602.08210&usg=AFQjCNHuzPq9Ab2A1-3l_iWIk15yO33r3Q)]
+- Architectural Complexity Measures of Recurrent Neural Networks. [`arxiv`](https://arxiv.org/pdf/1602.08210.pdf)
 - Associative Long Short-Term Memory.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwizyqSz3tXQAhWBWbwKHerACFcQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1602.03032&usg=AFQjCNE9r8WhJMUhVNMb0Fvd1pG9WahrUQ)] :star: 
 - Batch Policy Gradient Methods for Improving Neural Conversation Models.  [`url`](https://openreview.net/pdf?id=rJfMusFll)
 - Benefits of depth in neural networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi_pPfi39XQAhXDT7wKHegRC2UQFggpMAE&url=http%3A%2F%2Fwww.jmlr.org%2Fproceedings%2Fpapers%2Fv49%2Ftelgarsky16.pdf&usg=AFQjCNFn_N2Ccc_Qlo87kCHdZzo7w2V0qg)]
