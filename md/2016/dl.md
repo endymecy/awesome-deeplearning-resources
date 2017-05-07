@@ -10,7 +10,7 @@
 - A New Method to Visualize Deep Neural Networks. [`pdf`](https://icmlviz.github.io/assets/papers/23.pdf)
 - A Persona-Based Neural Conversation Model. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-1094.pdf)
 - A Way out of the Odyssey- Analyzing and Combining Recent Insights for LSTMs. [`arxiv`](https://arxiv.org/abs/1611.05104) :star: 
-- Adaptive Computation Time for Recurrent Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjEg73u3NXQAhWIu7wKHcC9AbcQFgggMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1603.08983&usg=AFQjCNFO7GWPoTtHFSrky_F0MNz5acCI4A)] :star: 
+- Adaptive Computation Time for Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1603.08983) :star: 
 - Architectural Complexity Measures of Recurrent Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwidmJCt3dXQAhUDVrwKHe_UCscQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1602.08210&usg=AFQjCNHuzPq9Ab2A1-3l_iWIk15yO33r3Q)]
 - Associative Long Short-Term Memory.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwizyqSz3tXQAhWBWbwKHerACFcQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1602.03032&usg=AFQjCNE9r8WhJMUhVNMb0Fvd1pG9WahrUQ)] :star: 
 - Batch Policy Gradient Methods for Improving Neural Conversation Models.  [`url`](https://openreview.net/pdf?id=rJfMusFll)
