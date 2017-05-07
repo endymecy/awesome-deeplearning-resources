@@ -32,6 +32,7 @@
 - <b>DeepMind Lab.</b> [`url`](https://arxiv.org/abs/1612.03801) :star: 
 - Deep API Learning.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjul43zhNjQAhWMwLwKHQEjA6UQFggnMAE&url=http%3A%2F%2Fhome.cse.ust.hk%2F~xguaa%2Fpapers%2Fdeepapi.pdf&usg=AFQjCNHljxBLzjHzj38PRMQXK9Ew5oVIjw)]
 - <b>[DeepCoder]</b> [DeepCoder: Learning to Write Programs](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723632&idx=5&sn=2654d4e512ff3c23e1bd17b2e9e562d5) :star:
+- <b>[DeepFashion]</b> Powering Robust Clothes Recognition and Retrieval with Rich Annotations. [`pdf`](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf) [`code`](https://github.com/liuziwei7/fashion-detection)
 - Deep Learning without Poor Local Minima.[[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiv97uNhdjQAhXFfbwKHX4mBUYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07110&usg=AFQjCNHt8kPnzQkWZCGJEusOBkwtrCikBQ)] :star: 
 - Deep Learning with Differential Privacy. [`arxiv`](https://arxiv.org/abs/1607.00133) [`tensorflow`](https://github.com/tensorflow/models/tree/master/differential_privacy/privacy_accountant) :star:
 - Deep Neural Networks for YouTube Recommendations. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU-vfIhdjQAhXMe7wKHclLCoIQFggbMAA&url=http%3A%2F%2Fresearch.google.com%2Fpubs%2Farchive%2F45530.pdf&usg=AFQjCNGW4ovtzUBkxT4qx4mnogD74QHfzA)]
