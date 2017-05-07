@@ -12,7 +12,7 @@
 - A Way out of the Odyssey- Analyzing and Combining Recent Insights for LSTMs. [`arxiv`](https://arxiv.org/abs/1611.05104) :star: 
 - Adaptive Computation Time for Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1603.08983) :star: 
 - Architectural Complexity Measures of Recurrent Neural Networks. [`arxiv`](https://arxiv.org/pdf/1602.08210.pdf)
-- Associative Long Short-Term Memory.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwizyqSz3tXQAhWBWbwKHerACFcQFgguMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1602.03032&usg=AFQjCNE9r8WhJMUhVNMb0Fvd1pG9WahrUQ)] :star: 
+- Associative Long Short-Term Memory. [`arxiv`](https://arxiv.org/pdf/1602.03032.pdf) :star: 
 - Batch Policy Gradient Methods for Improving Neural Conversation Models.  [`url`](https://openreview.net/pdf?id=rJfMusFll)
 - Benefits of depth in neural networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi_pPfi39XQAhXDT7wKHegRC2UQFggpMAE&url=http%3A%2F%2Fwww.jmlr.org%2Fproceedings%2Fpapers%2Fv49%2Ftelgarsky16.pdf&usg=AFQjCNFn_N2Ccc_Qlo87kCHdZzo7w2V0qg)]
 - BinaryNet-Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiVrJCa4NXQAhVIfLwKHQKAAqQQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.02830&usg=AFQjCNHeWAIQ5RZbEHoCuc961mIvkONnVQ)]
