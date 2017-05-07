@@ -85,7 +85,7 @@
 - Recurrent Batch Normalization. [`arxiv`](https://arxiv.org/pdf/1603.09025.pdf) :star: 
 - Recurrent Dropout without Memory Loss. [`arxiv`](https://arxiv.org/abs/1603.05118) :star: 
 - Recurrent Highway Networks. [`arxiv`](https://arxiv.org/abs/1607.03474)
-- Residual Networks of Residual Networks- Multilevel Residual Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj9pdzSqNjQAhUDWbwKHVv8CvQQFgghMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1608.02908&usg=AFQjCNGQgVySemq62Dt8FN7cF-mHSpinIg)]
+- Residual Networks of Residual Networks- Multilevel Residual Networks. [`arxiv`](https://arxiv.org/abs/1608.02908)
 - Risk versus Uncertainty in Deep Learning: Bayes, Bootstrap and the Dangers of Dropout. [`pdf`](http://bayesiandeeplearning.org/papers/BDL_4.pdf)
 - RNN-based Encoder-decoder Approach with Word Frequency Estimation. [`arxiv`](https://arxiv.org/abs/1701.00138)
 - SampleRNN: An Unconditional End-To-End Neural Audio Generation Model. [`pdf`](https://openreview.net/pdf?id=HyJsPvcgg) [`code`](https://github.com/soroushmehr/sampleRNN_ICLR2017)
