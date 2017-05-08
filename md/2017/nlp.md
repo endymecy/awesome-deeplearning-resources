@@ -29,6 +29,7 @@
 - Learning Arbitrary Potentials in CRFs with Gradient Descent. [`arxiv`](https://arxiv.org/abs/1701.06805)
 - Learning Important Features Through Propagating Activation Differences. [`arxiv`](https://arxiv.org/abs/1704.02685) [`code`](https://github.com/kundajelab/deeplift) :star:
 - Learning to Generate Reviews and Discovering Sentiment. [`arxiv`](https://arxiv.org/abs/1704.01444) [`code`](https://github.com/openai/generating-reviews-discovering-sentiment)
+- Learning with Confident Examples: Rank Pruning for Robust Classification with Noisy Labels. [`arxiv`](https://arxiv.org/abs/1705.01936) [`code`](https://github.com/cgnorthcutt/rankpruning)
 - Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities. [`arxiv`](https://arxiv.org/abs/1701.02025)
 - Neural Probabilistic Model for Non-projective MST Parsing. [`arxiv`](https://arxiv.org/abs/1701.00874)
 - N-gram Language Modeling using Recurrent Neural Network Estimation. [`arxiv`](https://arxiv.org/abs/1703.10724) :star:
