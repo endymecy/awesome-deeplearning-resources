@@ -65,7 +65,8 @@
 - Adversarial Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1704.06933)
 - Get To The Point: Summarization with Pointer-Generator Networks. [`arxiv`](https://arxiv.org/abs/1704.04368)
 - Improved Variational Autoencoders for Text Modeling using Dilated Convolutions. [`arxiv`](https://arxiv.org/abs/1702.08139)
-  
+- KATE: K-Competitive Autoencoder for Text. [`arxiv`](https://arxiv.org/abs/1705.02033) [`code`](https://github.com/hugochan/K-Competitive-Autoencoder-for-Text)
+    
 ### Transfer learning
 
 - Domain Adaptation in Question Answering. [`arxiv`](https://arxiv.org/abs/1702.02171)
