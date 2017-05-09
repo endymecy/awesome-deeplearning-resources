@@ -188,6 +188,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Jik`</b> [Lightweight Deep Learning Framework](https://github.com/oliviersoares/jik)
     - <b>`Kann`</b> [A lightweight C library for artificial neural networks](https://github.com/attractivechaos/kann)
     - <b>`PaddlePaddle`</b> [An easy-to-use, efficient, flexible and scalable deep learning platform.](http://www.paddlepaddle.org/)
+    - <b>`MaTEx`</b> [Machine Learning Toolkit for Extreme Scale](https://github.com/matex-org/matex)
     - <b>`MRPT`</b> [The Mobile Robot Programming Toolkit (MRPT)](https://github.com/MRPT/mrpt)
     - <b>`MXNet`</b> [A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support](http://mxnet.io/) :star:
         - <b>`MinPy`</b> [Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend.](https://github.com/dmlc/minpy)
