@@ -360,6 +360,7 @@ You should find the papers and software with star flag are more important or pop
 - [Collection of reinforcement learners implemented in python.](https://github.com/Islandman93/reinforcepy)
 - [Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
 - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision/)
+- [Deep Learning for Recommendation Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Deep Learning Toolbox](https://github.com/dmarnerides/dlt)
