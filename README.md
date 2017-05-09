@@ -402,6 +402,7 @@ You should find the papers and software with star flag are more important or pop
 - [An awesome list of high-quality open datasets in public domains](https://github.com/caesar0301/awesome-public-datasets) :star:
 - [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
 - [Cool Datasets](http://cooldatasets.com/#Machine-Learning-Datasets) :star:
+- [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
