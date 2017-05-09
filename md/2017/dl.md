@@ -36,6 +36,7 @@
 - <b>[DeepStack]</b> [Expert-Level Artificial Intelligence in No-Limit Poker.](http://www.jiqizhixin.com/article/2395) [`arxiv`](https://arxiv.org/abs/1701.01724) :star:
 - Diabetic Retinopathy Detection via Deep Convolutional Networks for Discriminative Localization and Visual Explanation. [`arxiv`](https://arxiv.org/abs/1703.10757) [`code`](https://github.com/cauchyturing/kaggle_diabetic_RAM)
 - Diagonal RNNs in Symbolic Music Modeling. [`arxiv`](https://arxiv.org/abs/1704.05420) [`tensorflow`](https://github.com/ycemsubakan/diagonal_rnns)
+- Distributed Online Learning of Event Definitions. [`arxiv`](https://arxiv.org/abs/1705.02175)
 - <b>[DyNet]</b> The Dynamic Neural Network Toolkit. [`arxiv`](https://arxiv.org/abs/1701.03980) [`code`](https://github.com/clab/dynet) :star: 
 - Efficient Information Flow Maximization in Probabilistic Graphs. [`arxiv`](https://arxiv.org/abs/1701.05395)
 - Encouraging LSTMs to Anticipate Actions Very Early. [`arxiv`](https://arxiv.org/abs/1703.07023)
