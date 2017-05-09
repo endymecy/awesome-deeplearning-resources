@@ -224,6 +224,7 @@
 - Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization . [`pdf`](https://openreview.net/pdf?id=B1fUVMzKg) [`code`](https://github.com/xunhuang1995/AdaIN-style)
 - Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning. [`arxiv`](https://arxiv.org/abs/1702.08690)
 - Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [`arxiv`](https://arxiv.org/abs/1701.04928)
+- Characterizing and Improving Stability in Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1705.02092)
 - DSSD : Deconvolutional Single Shot Detector. [`arxiv`](https://arxiv.org/abs/1701.06659)
 - Deep Photo Style Transfer. [`arxiv`](https://arxiv.org/abs/1703.07511) [`torch`](https://github.com/luanfujun/deep-photo-styletransfer)
 - Demystifying Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1701.01036)
