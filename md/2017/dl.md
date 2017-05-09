@@ -159,6 +159,7 @@
 - End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
 - <b>[HRAN]</b> Hierarchical Recurrent Attention Network for Response Generation. [`arxiv`](https://arxiv.org/abs/1701.07149) [`code`](https://github.com/LynetteXing1991/HRAN) :star:
 - Residual Attention Network for Image Classification. [`arxiv`](https://arxiv.org/abs/1704.06904) 
+- Sequential Attention. [`arxiv`](https://arxiv.org/abs/1705.02269)
 - Structural Attention Neural Networks for improved sentiment analysis. [`arxiv`](https://arxiv.org/abs/1701.01811)
 - Structured Attention Networks. [`arxiv`](https://arxiv.org/abs/1702.00887) [`github`](https://github.com/harvardnlp/struct-attn)
 
