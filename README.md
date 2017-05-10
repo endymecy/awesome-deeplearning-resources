@@ -329,6 +329,7 @@ You should find the papers and software with star flag are more important or pop
     - [Implementation of some basic GAN architectures in Keras](https://github.com/erilyth/DCGANs)
     - [Isolating vocals from music with a Convolutional Neural Network.](https://github.com/madebyollin/acapellabot)
     - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings)
+    - [Keras implementation of Deep Clustering](https://github.com/jcsilva/deep-clustering)
     - [Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/yhenon/keras-frcnn)
     - [Sis: simple image search engine](https://github.com/matsui528/sis)
     - [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models) :star:
