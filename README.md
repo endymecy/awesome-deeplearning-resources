@@ -399,7 +399,7 @@ You should find the papers and software with star flag are more important or pop
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
 - [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 - [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
-- [A large-scale and high-quality dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
+- [A large-scale and high-qualityFMA: A Dataset For Music Analysis dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
 - [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
 - [An awesome list of high-quality datasets](https://webhose.io/datasets) :star:
 - [An awesome list of high-quality open datasets in public domains](https://github.com/caesar0301/awesome-public-datasets) :star:
@@ -407,6 +407,7 @@ You should find the papers and software with star flag are more important or pop
 - [Cool Datasets](http://cooldatasets.com/#Machine-Learning-Datasets) :star:
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
+- [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 - [Japanese Word Similarity Dataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
