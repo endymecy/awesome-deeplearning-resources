@@ -191,6 +191,7 @@
 - Generative Adversarial Active Learning. [`arxiv`](https://arxiv.org/abs/1702.07956)
 - Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit.[`arxiv`](https://arxiv.org/abs/1702.00403) [`code`](https://github.com/SpaceML/GalaxyGAN/)
 - Generative Adversarial Residual Pairwise Networks for One Shot Learning. [`arxiv`](https://arxiv.org/abs/1703.08033)
+- Generative Cooperative Net for Image Generation and Data Augmentation. [`arxiv`](https://arxiv.org/abs/1705.02887)
 - Generative Face Completion. [`arxiv`](https://arxiv.org/abs/1704.05838)
 - Generative Temporal Models with Memory. [`arxiv`](https://arxiv.org/abs/1702.04649)
 - Generalization and Equilibrium in Generative Adversarial Nets (GANs). [`arxiv`](https://arxiv.org/abs/1703.00573)
