@@ -28,6 +28,7 @@
 - End-to-End Multi-View Networks for Text Classification. [`arxiv`](https://arxiv.org/abs/1704.05907)
 - End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjaiLCOiNjQAhWMv7wKHeLQCfsQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1603.01354&usg=AFQjCNG-KfCDJTOPEYjMoohV-fdTGOK9ew)] :star:
 - Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference. [[arxiv](https://arxiv.org/abs/1609.06038)]
+- Fully Convolutional Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1611.07709) [`code`](https://github.com/msracver/FCIS)
 - Generative Deep Neural Networks for Dialogue: A Short Review. [[arxiv](https://arxiv.org/abs/1611.06216)]
 - Generating Factoid Questions With Recurrent Neural Networks- The 30M Factoid Question-Answer Corpus.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjupJy3jNjQAhUCQLwKHTE5AVEQFggnMAE&url=https%3A%2F%2Faclweb.org%2Fanthology%2FP%2FP16%2FP16-1056.pdf&usg=AFQjCNGmLcxTx3Kq2u_yktAPC2XVzpmLzw)] :star: 
 - Globally Normalized Transition-Based Neural Networks. [[arxiv](https://arxiv.org/abs/1603.06042)] [[tensorflow](https://github.com/tensorflow/models/tree/master/syntaxnet)] :star:
