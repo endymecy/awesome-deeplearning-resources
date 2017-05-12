@@ -148,6 +148,7 @@
 - Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. [`arxiv`](https://arxiv.org/abs/1612.00005)
 - Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1612.07429)
 - PVANet: Lightweight Deep Neural Networks for Real-time Object Detection. [`arxiv`](https://arxiv.org/abs/1611.08588)[`code`](https://github.com/sanghoon/pva-faster-rcnn)
+- Richer Convolutional Features for Edge Detection. [`arxiv`](https://arxiv.org/abs/1612.02103) [`code`](https://github.com/yun-liu/rcf)
 - <b>[R-FCN]</b> [R-FCN: Object Detection via Region-based Fully Convolutional Networks](http://blog.csdn.net/u012361214/article/details/51507590). [`arxiv`](https://arxiv.org/abs/1605.06409) [`code`](https://github.com/Orpine/py-R-FCN) :star: 
 - Robust LSTM-Autoencoders for Face De-Occlusion in the Wild. [`arxiv`](https://arxiv.org/abs/1612.08534)
 - Semantic Video Segmentation by Gated Recurrent Flow Propagation.[`arxiv`](https://arxiv.org/abs/1612.08871)
