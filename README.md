@@ -243,6 +243,7 @@ You should find the papers and software with star flag are more important or pop
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [PyTorch implementation of the Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
+    - [PyTorch Marvelous ChatBot](https://github.com/jinfagang/pytorch_chatbot) :star:
     - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Quickly comparing your image classification models with the state-of-the-art models](https://github.com/felixgwu/img_classification_pk_pytorch)
