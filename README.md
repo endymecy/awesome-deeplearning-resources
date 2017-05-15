@@ -213,6 +213,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Neurojs`</b> [A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs) 
 - `Matlab`
     - <b>`MatConvNet`</b> [CNNs for MATLAB](http://www.vlfeat.org/matconvnet/) 
+    - <b>`DLMatFramework`</b> [Deep Learning Matlab Framework](https://github.com/leonardoaraujosantos/DLMatFramework)
 - `Lua`
     - <b>`OpenNMT`</b> [Open-Source Neural Machine Translation](https://github.com/opennmt/opennmt)
     - <b>`Torch7`</b> [Deep learning library in Lua, used by Facebook and Google Deepmind](http://torch.ch/)  :star:
