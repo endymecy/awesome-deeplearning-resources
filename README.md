@@ -338,6 +338,7 @@ You should find the papers and software with star flag are more important or pop
     - [Sis: simple image search engine](https://github.com/matsui528/sis)
     - [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models) :star:
     - [Transfer learning for flight-delay prediction via variational autoencoders in Keras](https://github.com/cavaunpeu/flight-delays)
+    - [Using Keras to implement recommender systems](https://github.com/sonyisme/keras-recommendation) :star:
     - [Wasserstein DCGAN in Tensorflow/Keras](https://github.com/kuleshov/tf-wgan)
     
 # Awesome Projects
