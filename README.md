@@ -267,6 +267,7 @@ You should find the papers and software with star flag are more important or pop
     - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
     - [A Practical Guide for Debugging TensorFlow Codes](https://github.com/wookayin/tensorflow-talk-debugging)
     - [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) :star:
+    - [A simple baseline for 3d human pose estimation in tensorflow.](https://github.com/una-dinosauria/3d-pose-baseline)
     - [Aspect Based Sentiment Analysis using End-to-End Memory Networks](https://github.com/ganeshjawahar/mem_absa)
     - [A tensorflow implementation for SqueezeDet, a convolutional neural network for object detection.](https://github.com/BichenWuUCB/squeezeDet)
     - [A Tensorflow implementation of CNN-LSTM image caption generator architecture](https://github.com/mosessoh/CNN-LSTM-Caption-Generator)
