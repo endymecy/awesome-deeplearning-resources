@@ -21,6 +21,7 @@
 - End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks. [`arxiv`](https://arxiv.org/abs/1703.03305)
 - End-to-End Task-Completion Neural Dialogue Systems. [`arxiv`](https://arxiv.org/abs/1703.01008) [`code`](https://github.com/MiuLab/TC-Bot)] :star:
 - Global Relation Embedding for Relation Extraction. [`arxiv`](https://arxiv.org/abs/1704.05958)
+- Graph Embedding Techniques, Applications, and Performance: A Survey. [`arxiv`](https://arxiv.org/abs/1705.02801) [`code`](https://github.com/palash1992/GEM)
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [`arxiv`](https://arxiv.org/abs/1701.00946)
 - High-Throughput and Language-Agnostic Entity Disambiguation and Linking on User Generated Data. [`arxiv`](https://arxiv.org/abs/1703.04498)
 - Label Refinement Network for Coarse-to-Fine Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1703.00551)
