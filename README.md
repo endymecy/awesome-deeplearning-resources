@@ -379,6 +379,7 @@ You should find the papers and software with star flag are more important or pop
 - [Machine Learning / Deep Learning Conferences](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+- [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLpapers)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 - [Really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
