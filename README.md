@@ -393,6 +393,7 @@ You should find the papers and software with star flag are more important or pop
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
 - [Use PyTorch to implement some classic frameworks](https://github.com/sunshineatnoon/Paper-Implementations)
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
+- [机器学习资源 Machine learning](https://github.com/allmachinelearning/MachineLearning)
 - [图像文本位置感知与识别的论文资源汇总](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)
 - [深度学习进行目标识别的资源列表](http://www.thinkface.cn/thread-4434-1-1.html)
 
