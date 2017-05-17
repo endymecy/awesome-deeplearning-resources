@@ -86,6 +86,7 @@
 
 ### Attention and memory
 
+- ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs. [`arxiv`](https://arxiv.org/abs/1512.05193) [`tensorflow`](https://github.com/galsang/ABCNN)
 - A Context-aware Attention Network for Interactive Question Answering. [`url`](https://openreview.net/pdf?id=SkyQWDcex)
 - A Decomposable Attention Model for Natural Language Inference. [[arxiv](https://arxiv.org/abs/1606.01933)] [[code](https://github.com/harvardnlp/decomp-attn)]
 - A self-attentive sentence embedding.[[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjv-M3H0Y_RAhVS0mMKHYz3BAsQFggeMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DBJC_jUqxe&usg=AFQjCNGzzX7jxAZ3tYtd7t4LlE6S7KNkpQ)]
