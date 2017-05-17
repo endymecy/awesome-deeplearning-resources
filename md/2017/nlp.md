@@ -47,7 +47,7 @@
 - [Semantic Instance Segmentation via Deep Metric Learning.](http://weibo.com/ttarticle/p/show?id=2309351000224096147458277147&u=1402400261&m=4096554547383656&cu=3291965747&ru=1402400261&rm=4091597186263507) [`arxiv`](https://arxiv.org/abs/1703.10277) :star: 
 - struc2vec: Learning Node Representations from Structural Identity. [`arxiv`](https://arxiv.org/abs/1704.03165) [`code`](https://github.com/leoribeiro/struc2vec)
 - Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey. [`arxiv`](https://arxiv.org/abs/1702.00764)
-- Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model. [`arxiv`](https://arxiv.org/abs/1703.10135) [`code`](https://github.com/google/tacotron)
+- <b>[Tacotron]</b> A Fully End-to-End Text-To-Speech Synthesis Model. [`arxiv`](https://arxiv.org/abs/1703.10135) [`code`](https://github.com/google/tacotron) [`tensorflow`](https://github.com/Kyubyong/tacotron) :star:
 - TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering. [`arxiv`](https://arxiv.org/abs/1704.04497) :star:
 - Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval. [`arxiv`](https://arxiv.org/abs/1703.06618) [`code`](https://github.com/huyt16/Twitter100k/)
 - Understanding Convolution for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1702.08502)
