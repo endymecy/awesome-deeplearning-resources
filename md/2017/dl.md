@@ -190,6 +190,7 @@
 - Face Synthesis from Facial Identity Features. [`arxiv`](https://arxiv.org/abs/1701.04851)
 - Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking. [`arxiv`](https://arxiv.org/abs/1704.04865)
 - Geometric GAN. [`arxiv`](https://arxiv.org/abs/1705.02894)
+- GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data. [`arxiv`](https://arxiv.org/abs/1705.04932) [`code`](https://github.com/Prinsphield/GeneGAN)
 - Generative Adversarial Active Learning. [`arxiv`](https://arxiv.org/abs/1702.07956)
 - Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit.[`arxiv`](https://arxiv.org/abs/1702.00403) [`code`](https://github.com/SpaceML/GalaxyGAN/)
 - Generative Adversarial Residual Pairwise Networks for One Shot Learning. [`arxiv`](https://arxiv.org/abs/1703.08033)
