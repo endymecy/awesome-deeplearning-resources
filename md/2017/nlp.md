@@ -75,4 +75,5 @@
 - Domain Adaptation in Question Answering. [`arxiv`](https://arxiv.org/abs/1702.02171)
 - Neural Machine Translation and Sequence-to-sequence Models: A Tutorial. [`arxiv`](https://arxiv.org/abs/1703.01619)
 - Semantic Autoencoder for Zero-Shot Learning. [`arxiv`](https://arxiv.org/abs/1704.08345) [`code`](https://github.com/Elyorcv/SAE)
-- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04488) [`code`](https://github.com/jincy520/Low-Resource-CWS-)]
+- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04488) [`code`](https://github.com/jincy520/Low-Resource-CWS-)
+- Transfer Learning for Named-Entity Recognition with Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.06273) [`code`](https://github.com/Franck-Dernoncourt/NeuroNER)
