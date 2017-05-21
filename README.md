@@ -417,7 +417,7 @@ You should find the papers and software with star flag are more important or pop
 - [An awesome list of high-quality datasets](https://webhose.io/datasets) :star:
 - [An awesome list of high-quality open datasets in public domains](https://github.com/caesar0301/awesome-public-datasets) :star:
 - [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
-- [Cool Datasets](http://cooldatasets.com/#Machine-Learning-Datasets) :star:
+- [Cool Datasets](http://cooldataseWolfram Data Repositoryts.com/#Machine-Learning-Datasets) :star:
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
@@ -429,3 +429,4 @@ You should find the papers and software with star flag are more important or pop
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
+- [Wolfram Data Repository](https://datarepository.wolframcloud.com/)
