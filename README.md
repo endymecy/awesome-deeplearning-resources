@@ -427,4 +427,5 @@ You should find the papers and software with star flag are more important or pop
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
+- [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
