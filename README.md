@@ -360,6 +360,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
+- [Awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
