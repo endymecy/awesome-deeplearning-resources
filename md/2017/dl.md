@@ -203,6 +203,7 @@
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04568)
 - Improved Training of Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1704.00028) [`tensorflow`](https://github.com/igul222/improved_wgan_training) [`pytorch`](https://github.com/caogang/wgan-gp) :star:
 - Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [`tensorflow`](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)
+- Learning Texture Manifolds with the Periodic Spatial GAN. [`arxiv`](https://arxiv.org/abs/1705.06566) [`code`](https://github.com/ubergmann/psgan)
 - <b>[DiscoGAN]</b> Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [`code`](https://github.com/dhgrs/chainer-DiscoGAN) :star:
 - Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.07319)
 - [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [`code`](https://github.com/guojunq/lsgan)
