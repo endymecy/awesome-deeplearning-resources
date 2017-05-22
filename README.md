@@ -244,6 +244,7 @@ You should find the papers and software with star flag are more important or pop
     - [Open source person re-identification library in python](https://github.com/Cysu/open-reid) :star:
     - [PyTorch Implementation of CycleGAN and SGAN for Domain Transfer](https://github.com/yunjey/mnist-svhn-transfer)
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
+    - [pytorch implementation of grammar variational autoencoder](https://github.com/episodeyang/grammar_variational_autoencoder)
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [PyTorch implementation of the Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
     - [PyTorch Marvelous ChatBot](https://github.com/jinfagang/pytorch_chatbot) :star:
