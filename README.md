@@ -211,6 +211,7 @@ You should find the papers and software with star flag are more important or pop
 - `Js`
     - <b>`Keras-js`</b> [Run Keras models (tensorflow backend) in the browser, with GPU support.](https://github.com/transcranial/keras-js)
     - <b>`Neurojs`</b> [A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs) 
+    - <b>`Brain`</b> [Brain.js is a library of JavaScript neural networks.](https://github.com/harthur-org/brain.js)
 - `Matlab`
     - <b>`MatConvNet`</b> [CNNs for MATLAB](http://www.vlfeat.org/matconvnet/) 
     - <b>`DLMatFramework`</b> [Deep Learning Matlab Framework](https://github.com/leonardoaraujosantos/DLMatFramework)
