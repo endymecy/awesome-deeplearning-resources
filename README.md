@@ -324,6 +324,7 @@ You should find the papers and software with star flag are more important or pop
     - [Tutorials for deep learning](https://github.com/oduerr/dl_tutorial)
     - [使用TensorFlow实现的Sequence to Sequence的聊天机器人模型](https://github.com/qhduan/Seq2Seq_Chatbot_QA)
     - [Udacity SDC: Vehicle Detection](https://github.com/balancap/SDC-Vehicle-Detection) :star:
+    - [Various models and code for the paraphrase identification task, specifically with the Quora Question Pairs dataset.](https://github.com/nelson-liu/paraphrase-id-tensorflow)
     - [中文古诗自动作诗机器人](https://github.com/jinfagang/tensorflow_poems)
 - Keras
     - [A facial expression classification system that recognizes 6 basic emotions: happy, sad, surprise, fear, anger and neutral.](https://github.com/JostineHo/mememoji)
