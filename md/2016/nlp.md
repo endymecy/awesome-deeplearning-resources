@@ -20,6 +20,7 @@
 - Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks. [`arxiv`](https://arxiv.org/abs/1611.00454)
 - Context-aware Natural Language Generation with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.09900)
 - <b>[CLSTM]</b> Contextual LSTM models for Large scale NLP tasks. [`pdf`](http://www.csl.sri.com/users/shalini/clstm_dlkdd16.pdf) :star: 
+- Deep Biaffine Attention for Neural Dependency Parsing. [`pdf`](https://openreview.net/pdf?id=Hk95PK9le) [`code`](https://github.com/tdozat/Parser)
 - Deep Semi-Supervised Learning with Linguistically Motivated Sequence Labeling Task Hierarchies. [`arxiv`](https://arxiv.org/abs/1612.09113)
 - Detecting Text in Natural Image with Connectionist Text Proposal Network. [`arxiv`](https://arxiv.org/abs/1609.03605)
 - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models. [`arxiv`](https://arxiv.org/abs/1610.02424)
