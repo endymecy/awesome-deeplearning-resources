@@ -37,7 +37,7 @@
 - Inducing Multilingual Text Analysis Tools Using Bidirectional Recurrent Neural Networks. [`pdf`](https://hal.archives-ouvertes.fr/hal-01374205/document)
 - Key-Value Memory Networks for Directly Reading Documents. [`pdf`](https://arxiv.org/pdf/1606.03126.pdf)
 - Learning Distributed Representations of Sentences from Unlabelled Data. [`arxiv`](https://arxiv.org/abs/1602.03483) :star: 
-- Learning End-to-End Goal-Oriented Dialog. [`arxiv`](https://arxiv.org/abs/1605.07683）[`tensorflow`](https://github.com/vyraun/chatbot-MemN2N-tensorflow) :star:
+- Learning End-to-End Goal-Oriented Dialog. [`arxiv`](https://arxiv.org/abs/1605.07683) [`tensorflow`](https://github.com/vyraun/chatbot-MemN2N-tensorflow) :star:
 - Learning Recurrent Span Representations for Extractive Question Answering. [`arxiv`](https://arxiv.org/abs/1611.01436)
 - Learning to Compose Neural Networks for Question Answering. [`arxiv`](https://arxiv.org/abs/1601.01705) :star: 
 - Learning to Translate in Real-time with Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1610.00388)
@@ -45,7 +45,7 @@
 - Long Short-Term Memory-Networks for Machine Reading. [`url`](https://aclweb.org/anthology/D16-1053) :star: 
 - <b>[lda2vec]</b> Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. [`arxiv`](https://arxiv.org/abs/1605.02019) [`code`](https://github.com/cemoody/lda2vec) [`tensorflow`](https://github.com/meereeum/lda2vec-tf) :star:
 - Modeling Coverage for Neural Machine Translation. [`pdf`](http://www.hangli-hl.com/uploads/3/4/4/6/34465961/tu_et_al_2016.pdf) :star: 
-- Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-2067.pdf)] :star: 
+- Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-2067.pdf) :star: 
 - MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving. [`arxiv`](https://arxiv.org/abs/1612.07695) :star: 
 - Neural Architectures for Fine-grained Entity Type Classification. [`arxiv`](https://arxiv.org/abs/1606.01341)
 - Neural Architectures for Named Entity Recognition. [`arxiv`](https://arxiv.org/abs/1603.01360) :star: 
@@ -60,7 +60,7 @@
 - Recurrent Neural Network Grammars. [`arxiv`](https://arxiv.org/abs/1602.07776) :star: 
 - ReasoNet: Learning to Stop Reading in Machine Comprehension. [`arxiv`](https://arxiv.org/abs/1609.05284)
 - Sentence Level Recurrent Topic Model- Letting Topics Speak for Themselves. [`arxiv`](https://arxiv.org/abs/1604.02038)
-- Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction. [`pdf`](https://aclweb.org/anthology/W/W16/W16-0528.pdf)]
+- Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction. [`pdf`](https://aclweb.org/anthology/W/W16/W16-0528.pdf)
 - Sentence Ordering using Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.02654)
 - Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation. [`arxiv`](https://arxiv.org/abs/1607.00970)
 - Sequential Match Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots. [`arxiv`](https://arxiv.org/abs/1612.01627)
@@ -92,7 +92,7 @@
 - A self-attentive sentence embedding. [`pdf`](https://openreview.net/pdf?id=BJC_jUqxe)
 - Aspect Level Sentiment Classification with Deep Memory Network. [`arxiv`](https://arxiv.org/abs/1605.08900) [`code`](http://nlp.stanford.edu/sentiment/code.html) :star:
 - AttSum: Joint Learning of Focusing and Summarization with Neural Attention. [`arxiv`](https://arxiv.org/abs/1604.00125)
-- Attention-over-Attention Neural Networks for Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1607.04423) [`code`](https://github.com/OlavHN/attention-over-attention)]
+- Attention-over-Attention Neural Networks for Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1607.04423) [`code`](https://github.com/OlavHN/attention-over-attention)
 - Collective Entity Resolution with Multi-Focal Attention. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-1059.pdf)
 - [Gated-Attention Readers for Text Comprehension.](https://theneuralperspective.com/2017/01/19/gated-attention-readers-for-text-comprehension/)  [`pdf`](https://openreview.net/pdf?id=HkcdHtqlx)
 - Hierarchical Attention Networks for Document Classification. [`pdf`](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf) [`tensorflow`](https://github.com/ematvey/deep-text-classifier) :star: 
@@ -145,7 +145,7 @@
 - Character-Level Language Modeling with Hierarchical Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1609.03777)
 - Coherent Dialogue with Attention-based Language Models. [`arxiv`](https://arxiv.org/abs/1611.06997)
 - Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1609.01462)
-- Improving neural language models with a continuous cache. [`pdf`](https://openreview.net/pdf?id=B184E5qee)]
+- Improving neural language models with a continuous cache. [`pdf`](https://openreview.net/pdf?id=B184E5qee)
 - Language Modeling with Gated Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1612.08083) [`tensorflow`](https://github.com/anantzoid/Language-Modeling-GatedCNN) :star: 
 - Scalable Bayesian Learning of Recurrent Neural Networks for Language Modeling. [`arxiv`](https://arxiv.org/abs/1611.08034)
 - Recurrent Memory Networks for Language Modeling. [`arxiv`](https://arxiv.org/pdf/1601.01272.pdf)
