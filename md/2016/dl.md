@@ -4,15 +4,16 @@
 
 ### Deep learning
 
+- Adaptive Computation Time for Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1603.08983) :star: 
 - A Deep Learning Approach To Multiple Kernel Fusion. [`arxiv`](https://arxiv.org/abs/1612.09007)
 - Aggregated Residual Transformations for Deep Neural Networks.  [`arxiv`](https://arxiv.org/abs/1611.05431) [`tensorflow`](https://github.com/wenxinxu/ResNeXt-in-tensorflow) 
 - A guide to convolution arithmetic for deep learning. [`arxiv`](https://arxiv.org/pdf/1603.07285.pdf)
 - A New Method to Visualize Deep Neural Networks. [`pdf`](https://icmlviz.github.io/assets/papers/23.pdf)
 - A Persona-Based Neural Conversation Model. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-1094.pdf)
-- A Way out of the Odyssey- Analyzing and Combining Recent Insights for LSTMs. [`arxiv`](https://arxiv.org/abs/1611.05104) :star: 
-- Adaptive Computation Time for Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1603.08983) :star: 
 - Architectural Complexity Measures of Recurrent Neural Networks. [`arxiv`](https://arxiv.org/pdf/1602.08210.pdf)
 - Associative Long Short-Term Memory. [`arxiv`](https://arxiv.org/pdf/1602.03032.pdf) :star: 
+- Automatic chemical design using a data-driven continuous representation of molecules. [`arxiv`](https://arxiv.org/abs/1610.02415) [`pytorch`](https://github.com/cxhernandez/molencoder)
+- A Way out of the Odyssey- Analyzing and Combining Recent Insights for LSTMs. [`arxiv`](https://arxiv.org/abs/1611.05104) :star: 
 - Batch Policy Gradient Methods for Improving Neural Conversation Models.  [`url`](https://openreview.net/pdf?id=rJfMusFll)
 - Benefits of depth in neural networks. [`url`](http://proceedings.mlr.press/v49/telgarsky16.pdf)
 - BinaryNet-Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1. [`arxiv`](https://arxiv.org/abs/1602.02830)
