@@ -82,6 +82,7 @@
 - QCD-Aware Recursive Neural Networks for Jet Physics. [`arxiv`](https://arxiv.org/abs/1702.00748) [`code`](https://github.com/glouppe/recnn)
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
 - Recurrent Additive Networks. [`arxiv`](https://arxiv.org/abs/1705.07393) [`pytorch`](https://github.com/bheinzerling/ran) :star:
+- Reducing Reparameterization Gradient Variance. [`arxiv`](https://arxiv.org/abs/1705.07880) [`code`](https://github.com/andymiller/ReducedVarianceReparamGradients)
 - Scaling the Scattering Transform: Deep Hybrid Networks. [`arxiv`](https://arxiv.org/abs/1703.08961) [`torch`](https://github.com/edouardoyallon/pyscatwave)
 - Semi-Supervised Deep Learning for Monocular Depth Map Prediction. [`arxiv`](https://arxiv.org/abs/1702.02706)
 - Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures Via Semantic Representation. [`arxiv`](https://arxiv.org/abs/1701.00804)
