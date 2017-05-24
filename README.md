@@ -210,6 +210,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Mocha`</b> [A Deep Learning framework for Julia, inspired by the C++ framework Caffe.](https://github.com/pluskid/Mocha.jl) 
 - `Js`
     - <b>`Keras-js`</b> [Run Keras models (tensorflow backend) in the browser, with GPU support.](https://github.com/transcranial/keras-js)
+    - <b>`Neataptic`</b> [Flexible neural network library with advanced neuroevolution](https://github.com/wagenaartje/neataptic)
     - <b>`Neurojs`</b> [A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs) 
     - <b>`Brain`</b> [Brain.js is a library of JavaScript neural networks.](https://github.com/harthur-org/brain.js)
 - `Matlab`
