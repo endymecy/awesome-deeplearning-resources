@@ -267,6 +267,7 @@ You should find the papers and software with star flag are more important or pop
     - [An easy implement of VGG19 with tensorflow, which has a detailed explanation.](https://github.com/hjptriplebee/VGG19_with_tensorflow)
     - [An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.](https://github.com/kengz/openai_lab) :star:
     - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
+    - [An implementation of skip-thought vectors in Tensorflow](https://github.com/persiyanov/skip-thought-tf)
     - [A Practical Guide for Debugging TensorFlow Codes](https://github.com/wookayin/tensorflow-talk-debugging)
     - [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) :star:
     - [A simple baseline for 3d human pose estimation in tensorflow.](https://github.com/una-dinosauria/3d-pose-baseline)
