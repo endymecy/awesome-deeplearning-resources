@@ -45,6 +45,7 @@
 - Encouraging LSTMs to Anticipate Actions Very Early. [`arxiv`](https://arxiv.org/abs/1703.07023)
 - Ensemble Sales Forecasting Study in Semiconductor Industry. [`arxiv`](https://arxiv.org/abs/1705.00003) [`code`](https://github.com/qx0731/ensemble_forecast_methods)
 - Evolving Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00548) :star:
+- Forward Thinking: Building Deep Random Forests. [`arxiv`](https://arxiv.org/abs/1705.07366) [`tensorflow`](https://github.com/tkchris93/ForwardThinking)
 - Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs. [`arxiv`](https://arxiv.org/abs/1701.08816)
 - Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.05923)
 - Graffinity: Visualizing Connectivity In Large Graphs. [`arxiv`](https://arxiv.org/abs/1703.07729) [`code`](https://github.com/visdesignlab/graffinity)
