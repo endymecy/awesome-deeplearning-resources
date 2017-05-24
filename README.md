@@ -95,9 +95,10 @@ You should find the papers and software with star flag are more important or pop
 * [Development kit for MIT Scene Parsing Benchmark](https://github.com/CSAILVision/sceneparsing)
 * [GloVe: Global Vectors for Word Representation](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
-* [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
 * [Pre-Trained Doc2Vec Models](https://github.com/jhlau/doc2vec)
+* [Pre-trained Show and Tell: A Neural Image Caption Generator](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model)
 * [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) :star:
+* [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors) :star:
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
 * [Single Image 3D Interpreter Network](https://github.com/jiajunwu/3dinn)
 * [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
