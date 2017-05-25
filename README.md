@@ -318,6 +318,7 @@ You should find the papers and software with star flag are more important or pop
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
     - [Teach machine to write all we want](https://github.com/zzw922cn/Neural_Writing_Machine) :star:
     - [Tensorflow-based Distributed Factorization Machine](https://github.com/kopopt/fast_tffm) :star:
+    - [TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer) :star:
     - [Tensorflow implementation of attention mechanism for text classification tasks.](https://github.com/ilivans/tf-rnn-attention)
     - [Tensorflow implementation of Dynamic Coattention Networks for Question Answering.](https://github.com/marshmelloX/dynamic-coattention-network)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
