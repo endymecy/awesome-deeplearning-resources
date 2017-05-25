@@ -12,6 +12,7 @@
 - Neural Architecture Search with Reinforcement Learning. [`arxiv`](Neural Architecture Search with Reinforcement Learning) [`tensorflow`](https://github.com/tensorflow/models)
 - Neural Map: Structured Memory for Deep Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08360)
 - Reinforcement Learning via Recurrent Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.02392) [`code`](https://github.com/tanmayshankar/RCNN_MDP)
+- Reinforcement Learning with a Corrupted Reward Channel. [`arxiv`](https://arxiv.org/abs/1705.08417) :star:
 - Reinforcement Learning with Deep Energy-Based Policies. [`arxiv`](https://arxiv.org/abs/1702.08165)
 - Reinforcement Learning with External Knowledge and Two-Stage Q-functions for Predicting Popular Reddit Threads. [`arxiv`](https://arxiv.org/abs/1704.06217)
 - Stochastic Neural Networks for Hierarchical Reinforcement Learning. [`pdf`](https://openreview.net/pdf?id=B1oK8aoxe) [`code`](https://github.com/florensacc/snn4hrl) 
