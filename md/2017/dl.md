@@ -234,6 +234,7 @@
 - Unsupervised Diverse Colorization via Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.06674)
 - Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.02676)
 - <b>[WGAN]</b> [Wasserstein GAN.](https://zhuanlan.zhihu.com/p/25071913) [`arxiv`](https://arxiv.org/abs/1701.07875) [`pytorch`](https://github.com/martinarjovsky/WassersteinGAN) [`tensorflow`](https://github.com/Zardinality/WGAN-tensorflow) :star:
+- Wasserstein Learning of Deep Generative Point Process Models. [`arxiv`](https://arxiv.org/abs/1705.08051)
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images. [`arxiv`](https://arxiv.org/abs/1702.07392) [`code`](https://github.com/kskin/WaterGAN)
 
 ### Transfer learning
