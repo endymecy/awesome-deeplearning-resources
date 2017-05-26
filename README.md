@@ -182,6 +182,7 @@ You should find the papers and software with star flag are more important or pop
         - <b>`Lasagne`</b> [Lightweight library to build and train neural networks in Theano.](https://github.com/Lasagne/Lasagne) 
 - `C++`
     - <b>`Caffe`</b> [Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/) :star:
+    - <b>`clDNN` </b>[Compute Library for Deep Neural Networks](https://github.com/01org/clDNN) 
     - <b>`CNTK` </b>[The Microsoft Cognitive Toolkit.](https://github.com/Microsoft/CNTK) 
     - <b>`DeepDetect` </b>[Open Source Deep Learning Server & API](https://deepdetect.com/) 
     - <b>`DIGITS`</b> [A new system for developing, training and visualizing deep neural networks.](https://developer.nvidia.com/digits) 
