@@ -209,6 +209,7 @@
 - Generative Temporal Models with Memory. [`arxiv`](https://arxiv.org/abs/1702.04649)
 - Generalization and Equilibrium in Generative Adversarial Nets (GANs). [`arxiv`](https://arxiv.org/abs/1703.00573)
 - GP-GAN: Towards Realistic High-Resolution Image Blending.  [`arxiv`](https://arxiv.org/abs/1703.07195) [`code`](https://github.com/wuhuikai/GP-GAN) 
+- How to Train Your DRAGAN. [`arxiv`](https://arxiv.org/abs/1705.07215) [`code`](https://github.com/kodalinaveen3/DRAGAN)
 - Image De-raining Using a Conditional Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1701.05957) [`caffe`](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04568)
 - Improved Training of Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1704.00028) [`tensorflow`](https://github.com/igul222/improved_wgan_training) [`pytorch`](https://github.com/caogang/wgan-gp) :star:
