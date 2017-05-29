@@ -185,6 +185,7 @@
 ### Generative learning
 
 - <b>[AdaGAN]</b> Boosting Generative Models. [`arxiv`](https://arxiv.org/abs/1701.02386) :star: 
+- Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods. [`arxiv`](https://arxiv.org/abs/1705.07263) [`code`](http://nicholas.carlini.com/code/)
 - Adversarial Generator-Encoder Networks. [`pdf`](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf) [`code`](https://github.com/DmitryUlyanov/AGE)
 - Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04722) [`tensorflow`](https://github.com/LMescheder/AdversarialVariationalBayes)
 - Age Progression/Regression by Conditional Adversarial Autoencoder.  [`arxiv`](https://arxiv.org/abs/1702.08423) [`tensorflow`](https://github.com/ZZUTK/Face-Aging-CAAE)
