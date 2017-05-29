@@ -101,6 +101,7 @@
 - Towards "AlphaChem": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies. [`arxiv`](https://arxiv.org/abs/1702.00020)
 - Towards a New Interpretation of Separable Convolutions. [`arxiv`](https://arxiv.org/abs/1701.04489)
 - Towards Deeper Understanding of Variational Autoencoding Models. [`arxiv`](https://arxiv.org/abs/1702.08658) [`code`](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
+- Train longer, generalize better: closing the generalization gap in large batch training of neural networks. [`arxiv`](https://arxiv.org/abs/1705.08741) [`pytorch`](https://github.com/eladhoffer/bigBatch)
 - Trust Region Policy Optimization.  [`arxiv`](https://arxiv.org/abs/1502.05477) [`pytorch`](https://github.com/ikostrikov/pytorch-trpo)
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [`arxiv`](https://arxiv.org/abs/1701.00485)
 - [Understanding deep learning requires rethinking generalization.](http://weibo.com/ttarticle/p/show?id=2309351000224100795007132875&u=1402400261&m=4100900743750148&cu=3655689037) [`arxiv`](https://arxiv.org/abs/1611.03530) :star:
