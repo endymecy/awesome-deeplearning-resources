@@ -6,6 +6,7 @@
 - An Automated Text Categorization Framework based on Hyperparameter Optimization. [`arxiv`](https://arxiv.org/abs/1704.01975) [`code`](https://github.com/INGEOTEC/microTC)
 - A Review on Deep Learning Techniques Applied to Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1704.06857)
 - A Tidy Data Model for Natural Language Processing using cleanNLP. [`arXiv`](https://arxiv.org/abs/1703.09570)
+- Attention-based Natural Language Person Retrieval. [`arxiv`](https://arxiv.org/abs/1705.08923)
 - Autoencoding Variational Inference For Topic Models. [`arxiv`](https://arxiv.org/abs/1703.01488) [`tensorflow`](https://github.com/akashgit/autoencoding_vi_for_topic_models) :star:
 - Automatic Rule Extraction from Long Short Term Memory Networks. [`arxiv`](https://arxiv.org/abs/1702.02540)
 - Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow. [`url`](https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274) [`tensorflow`](https://github.com/dmesquita/understanding_tensorflow_nn)
