@@ -4,6 +4,7 @@
 
 - A Comparative Study of Word Embeddings for Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1703.00993)
 - An Automated Text Categorization Framework based on Hyperparameter Optimization. [`arxiv`](https://arxiv.org/abs/1704.01975) [`code`](https://github.com/INGEOTEC/microTC)
+- A Neural Framework for Generalized Topic Models. [`arxiv`](https://arxiv.org/abs/1705.09296) [`code`](https://github.com/dallascard/neural_topic_models)
 - A Review on Deep Learning Techniques Applied to Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1704.06857)
 - A Tidy Data Model for Natural Language Processing using cleanNLP. [`arXiv`](https://arxiv.org/abs/1703.09570)
 - Attention-based Natural Language Person Retrieval. [`arxiv`](https://arxiv.org/abs/1705.08923)
