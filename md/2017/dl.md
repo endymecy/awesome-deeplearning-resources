@@ -72,6 +72,7 @@
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [`arxiv`](https://arxiv.org/abs/1702.00763)
 - Network Backboning with Noisy Data. [`arxiv`](https://arxiv.org/abs/1701.07336)
 - Neural Decision Trees. [`arxiv`](https://arxiv.org/abs/1702.07360)
+- Neural Message Passing for Quantum Chemistry. [`arxiv`](https://arxiv.org/abs/1704.01212) [`code`](https://github.com/priba/nmp_qc) :star:
 - Neural Ranking Models with Weak Supervision. [`arxiv`](https://arxiv.org/abs/1704.08803)
 - On weight initialization in deep neural networks. [`arxiv`](https://arxiv.org/abs/1704.08863) [`code`](https://github.com/sidkk86/weight_initialization)
 - Opening the Black Box of Deep Neural Networks via Information. [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
