@@ -181,6 +181,7 @@ You should find the papers and software with star flag are more important or pop
         - <b>`Pylearn2`</b> [Theano-based deep learning libraries](http://deeplearning.net/software/pylearn2/) 
         - <b>`Blocks`</b> [A framework that helps you build neural network models on top of Theano](https://github.com/mila-udem/blocks)  :star:
         - <b>`Lasagne`</b> [Lightweight library to build and train neural networks in Theano.](https://github.com/Lasagne/Lasagne) 
+    - <b>`WebDNN`</b> [Fastest DNN Execution Framework on Web Browser](https://mil-tokyo.github.io/webdnn/)
 - `C++`
     - <b>`Caffe`</b> [Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/) :star:
     - <b>`clDNN` </b>[Compute Library for Deep Neural Networks](https://github.com/01org/clDNN) 
