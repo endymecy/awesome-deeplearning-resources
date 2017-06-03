@@ -210,6 +210,7 @@
 - Face Aging With Conditional Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.01983)
 - Face Super-Resolution Through Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1705.02438) [`tensorflow`](https://github.com/MandyZChen/srez)
 - Face Synthesis from Facial Identity Features. [`arxiv`](https://arxiv.org/abs/1701.04851)
+- Fisher GAN. [`arxiv`](https://arxiv.org/abs/1705.09675)
 - Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking. [`arxiv`](https://arxiv.org/abs/1704.04865)
 - Geometric GAN. [`arxiv`](https://arxiv.org/abs/1705.02894)
 - GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data. [`arxiv`](https://arxiv.org/abs/1705.04932) [`code`](https://github.com/Prinsphield/GeneGAN)
