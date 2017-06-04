@@ -100,6 +100,7 @@
 - Steerable CNNs. [`pdf`](https://openreview.net/pdf?id=rJQKYt5ll)
 - Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
 - Stochastic Subsampling for Factorizing Huge Matrices. [`arxiv`](https://arxiv.org/abs/1701.05363) [`code`](https://github.com/arthurmensch/modl)
+- The Future of Ad Blocking: An Analytical Framework and New Techniques. [`arxiv`](https://arxiv.org/abs/1705.08568) [`code`](https://github.com/citp/ad-blocking)
 - The Power of Sparsity in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.06257)
 - Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation. [`arxiv`](https://arxiv.org/abs/1704.06888) :star:
 - To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [`arxiv`](https://arxiv.org/abs/1701.01692)
