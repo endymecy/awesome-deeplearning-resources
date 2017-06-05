@@ -98,6 +98,7 @@
 - ShaResNet: reducing residual network parameter number by sharing weights. [`arxiv`](https://arxiv.org/abs/1702.08782) [`code`](https://github.com/aboulch/sharesnet)
 - ShortFuse: Biomedical Time Series Representations in the Presence of Structured Information. [`arxiv`](https://arxiv.org/abs/1705.04790)
 - Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.03441) [`code`](https://github.com/jingweimo/Modified-LSTM) :star: 
+- Sparse canonical correlation analysis. [`arxiv`](https://arxiv.org/abs/1705.10865)
 - Statistical inference for network samples using subgraph counts. [`arxiv`](https://arxiv.org/abs/1701.00505)
 - Steerable CNNs. [`pdf`](https://openreview.net/pdf?id=rJQKYt5ll)
 - Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
