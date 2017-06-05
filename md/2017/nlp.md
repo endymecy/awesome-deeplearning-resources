@@ -29,6 +29,7 @@
 - High-Throughput and Language-Agnostic Entity Disambiguation and Linking on User Generated Data. [`arxiv`](https://arxiv.org/abs/1703.04498)
 - Label Refinement Network for Coarse-to-Fine Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1703.00551)
 - LanideNN: Multilingual Language Identification on Character Window. [`arxiv`](https://arxiv.org/abs/1701.03338) [`code`](https://github.com/tomkocmi/LanideNN)
+- Latent Intention Dialogue Models. [`arxiv`](https://arxiv.org/abs/1705.10229)
 - Learning a Natural Language Interface with Neural Programmer. [`arxiv`](https://arxiv.org/abs/1611.08945) [`tensorflow`](https://github.com/tensorflow/models/tree/master/neural_programmer) :star:
 - Learning Arbitrary Potentials in CRFs with Gradient Descent. [`arxiv`](https://arxiv.org/abs/1701.06805)
 - Learning Convolutional Text Representations for Visual Question Answering. [`arxiv`](https://arxiv.org/abs/1705.06824) [`code`](https://github.com/divelab/vqa-text) :star:
