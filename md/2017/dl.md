@@ -9,6 +9,7 @@
 - A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe. [`arxiv`](https://arxiv.org/abs/1701.04949)
 - Alignment of dynamic networks. [`arxiv`](https://arxiv.org/abs/1701.08842)
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [`arxiv`](https://arxiv.org/abs/1701.01207)
+- AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.09786)
 - A Probabilistic Framework for Location Inference from Social Media. [`arxiv`](https://arxiv.org/abs/1702.07281)
 - A Saddle Point Approach to Structured Low-rank Matrix Learning in Large-scale Applications.  [`arxiv`](https://arxiv.org/abs/1704.07352)
 - Automated Curriculum Learning for Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.03003) :star:
