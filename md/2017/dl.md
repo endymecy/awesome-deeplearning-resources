@@ -12,6 +12,7 @@
 - AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.09786)
 - A Probabilistic Framework for Location Inference from Social Media. [`arxiv`](https://arxiv.org/abs/1702.07281)
 - A Saddle Point Approach to Structured Low-rank Matrix Learning in Large-scale Applications.  [`arxiv`](https://arxiv.org/abs/1704.07352)
+- A simple neural network module for relational reasoning. [`arxiv`](https://arxiv.org/abs/1706.01427)
 - Automated Curriculum Learning for Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.03003) :star:
 - Autoencoder Regularized Network For Driving Style Representation Learning. [`arxiv`](https://arxiv.org/abs/1701.01272)
 - Backprop without Learning Rates Through Coin Betting. [`arxiv`](https://arxiv.org/abs/1705.07795) [`code`](https://github.com/bremen79/cocob)
