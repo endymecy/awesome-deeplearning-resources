@@ -31,6 +31,7 @@
 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [`arxiv`](https://arxiv.org/abs/1703.04247)
 - <b>[GcForest] </b>[Towards An Alternative to Deep Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651994082&idx=1&sn=3a1f21ab37ea8322c6700f660b71648a) [`arxiv`](https://arxiv.org/abs/1702.08835) [`code`](https://github.com/kingfengji/gcForest) :star:
 - Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [`arxiv`](https://arxiv.org/abs/1701.00458) [`code`](https://github.com/guille-c/Deep-HiTS) :star: 
+- Deep Learning: A Bayesian Perspective. [`arxiv`](https://arxiv.org/abs/1706.00473) 
 - Deep Learning for Time-Series Analysis. [`arxiv`](https://arxiv.org/abs/1701.01887)
 - Deep Learning With Dynamic Computation Graphs. [`pdf`](https://openreview.net/pdf?id=ryrGawqex)
 - DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy. [`arxiv`](https://arxiv.org/abs/1702.08192) [`caffe`](https://github.com/TJKlein/DeepNAT)
@@ -104,7 +105,6 @@
 - Steerable CNNs. [`pdf`](https://openreview.net/pdf?id=rJQKYt5ll)
 - Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
 - Stochastic Subsampling for Factorizing Huge Matrices. [`arxiv`](https://arxiv.org/abs/1701.05363) [`code`](https://github.com/arthurmensch/modl)
-- The Cramer Distance as a Solution to Biased Wasserstein Gradients. [`arxiv`](https://arxiv.org/abs/1705.10743) :star:
 - The Future of Ad Blocking: An Analytical Framework and New Techniques. [`arxiv`](https://arxiv.org/abs/1705.08568) [`code`](https://github.com/citp/ad-blocking)
 - The Power of Sparsity in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.06257)
 - Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation. [`arxiv`](https://arxiv.org/abs/1704.06888) :star:
@@ -255,6 +255,7 @@
 - SEGAN: Speech Enhancement Generative Adversarial Network.  [`arxiv`](https://arxiv.org/abs/1703.09452) [`tensorflow`](https://github.com/santi-pdp/segan)
 - Softmax GAN. [`arxiv`](https://arxiv.org/abs/1704.06191)
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
+- The Cramer Distance as a Solution to Biased Wasserstein Gradients. [`arxiv`](https://arxiv.org/abs/1705.10743) :star:
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN. [`arxiv`](http://weibo.com/1402400261/EBP7EgRkQ?type=comment#_rnd1490711748139)
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862) :star:
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10593)  [`torch`](https://github.com/junyanz/CycleGAN) :star:
