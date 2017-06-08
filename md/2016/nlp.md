@@ -46,7 +46,7 @@
 - Long Short-Term Memory-Networks for Machine Reading. [`url`](https://aclweb.org/anthology/D16-1053) :star: 
 - <b>[lda2vec]</b> Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. [`arxiv`](https://arxiv.org/abs/1605.02019) [`code`](https://github.com/cemoody/lda2vec) [`tensorflow`](https://github.com/meereeum/lda2vec-tf) :star:
 - Modeling Coverage for Neural Machine Translation. [`pdf`](http://www.hangli-hl.com/uploads/3/4/4/6/34465961/tu_et_al_2016.pdf) :star: 
-- Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-2067.pdf) :star: 
+- Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-2067.pdf) [`code`](https://github.com/bplank/bilstm-aux) :star: 
 - MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving. [`arxiv`](https://arxiv.org/abs/1612.07695) :star: 
 - Neural Architectures for Fine-grained Entity Type Classification. [`arxiv`](https://arxiv.org/abs/1606.01341)
 - Neural Architectures for Named Entity Recognition. [`arxiv`](https://arxiv.org/abs/1603.01360) :star: 
