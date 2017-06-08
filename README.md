@@ -341,6 +341,7 @@ You should find the papers and software with star flag are more important or pop
 - Keras
     - [A facial expression classification system that recognizes 6 basic emotions: happy, sad, surprise, fear, anger and neutral.](https://github.com/JostineHo/mememoji)
     - [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete)
+    - [Attention mechanism Implementation for Keras.](https://github.com/philipperemy/keras-attention-mechanism)
     - [Automated deep neural network design with genetic programming](https://github.com/joeddav/devol) :star:
     - [Deep Voice: Real-time Neural Text-to-Speech](https://github.com/israelg99/deepvoice)
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
