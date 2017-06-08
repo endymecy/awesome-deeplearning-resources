@@ -226,7 +226,7 @@
 - How to Train a GAN. [`code`](https://github.com/soumith/ganhacks) :star:
 - <b>[Pix2Pix]</b>Image-to-Image Translation with Conditional Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1611.07004) [`tensorflow`](https://github.com/yenchenlin/pix2pix-tensorflow) :star:
 - <b>[Improved GAN]</b> Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation. [`arxiv`](https://arxiv.org/abs/1612.08354) :star: 
-- [Improved Techniques for Training GANs.](http://blog.csdn.net/layumi1993/article/details/52413235)[`arxiv`](https://arxiv.org/abs/1606.03498) [`code`](https://github.com/openai/improved-gan) :star: 
+- [Improved Techniques for Training GANs.](http://blog.csdn.net/layumi1993/article/details/52413235)[`arxiv`](https://arxiv.org/abs/1606.03498) [`code`](https://github.com/openai/improved-gan) [`tensorflow`](https://github.com/shaohua0116/SSGAN-Tensorflow) :star: 
 - <b>[InfoGAN]</b> [Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.](http://blog.csdn.net/Layumi1993/article/details/52474554) [`arxiv`](https://arxiv.org/abs/1606.03657) [`code`](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/InfoGAN) [`tensorflow`](https://github.com/buriburisuri/supervised_infogan) :star: 
 - <b>[SimGAN]</b> Learning from Simulated and Unsupervised Images through Adversarial Training. [`arxiv`](https://arxiv.org/abs/1612.07828) [`keras`](https://github.com/wayaai/SimGAN) :star: 
 - Learning in Implicit Generative Models. [`arxiv`](https://arxiv.org/abs/1610.03483)
