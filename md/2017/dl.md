@@ -241,6 +241,7 @@
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04568)
 - Improved Training of Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1704.00028) [`tensorflow`](https://github.com/igul222/improved_wgan_training) [`pytorch`](https://github.com/caogang/wgan-gp) :star:
 - Improved Semi-supervised Learning with GANs using Manifold Invariances. [`arxiv`](https://arxiv.org/abs/1705.08850)
+- InfoVAE: Information Maximizing Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1706.02262)
 - Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [`tensorflow`](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)
 - Learning Texture Manifolds with the Periodic Spatial GAN. [`arxiv`](https://arxiv.org/abs/1705.06566) [`code`](https://github.com/ubergmann/psgan)
 - Lifelong Generative Modeling. [`arxiv`](https://arxiv.org/abs/1705.09847) [`code`](https://github.com/jramapuram/LifelongVAE)
