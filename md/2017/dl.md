@@ -27,6 +27,7 @@
 - Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.05870)
 - DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04280)
 - Dance Dance Convolution. [`arxiv`](https://arxiv.org/abs/1703.06891)
+- Deep Alignment Network: A convolutional neural network for robust face alignment. [`arxiv`](https://arxiv.org/abs/1706.01789) [`code`](https://github.com/MarekKowalski/DeepAlignmentNetwork)
 - [Deep and Hierarchical Implicit Models.](http://dustintran.com/blog/deep-and-hierarchical-implicit-models) [`arxiv`](https://arxiv.org/abs/1702.08896)
 - DeepArchitect: Automatically Designing and Training Deep Architectures. [`arxiv`](https://arxiv.org/abs/1704.08792) [`code`](https://github.com/negrinho/deep_architect)
 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [`arxiv`](https://arxiv.org/abs/1703.04247)
