@@ -28,6 +28,7 @@
 - Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs. [`arxiv`](https://arxiv.org/abs/1705.09189) :star:
 - High-Throughput and Language-Agnostic Entity Disambiguation and Linking on User Generated Data. [`arxiv`](https://arxiv.org/abs/1703.04498)
 - Label Refinement Network for Coarse-to-Fine Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1703.00551)
+- Language Generation with Recurrent Generative Adversarial Networks without Pre-training. [`arxiv`](https://arxiv.org/abs/1706.01399) [`code`](https://github.com/amirbar/rnn.wgan)
 - LanideNN: Multilingual Language Identification on Character Window. [`arxiv`](https://arxiv.org/abs/1701.03338) [`code`](https://github.com/tomkocmi/LanideNN)
 - Latent Intention Dialogue Models. [`arxiv`](https://arxiv.org/abs/1705.10229)
 - Learning a Natural Language Interface with Neural Programmer. [`arxiv`](https://arxiv.org/abs/1611.08945) [`tensorflow`](https://github.com/tensorflow/models/tree/master/neural_programmer) :star:
