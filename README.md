@@ -300,6 +300,7 @@ You should find the papers and software with star flag are more important or pop
     - [Generic U-Net Tensorflow implementation for image segmentation](https://github.com/jakeret/tf_unet)
     - [Implement SC-LSTM model for text generation in control of words, in Python/TensorFlow](https://github.com/hit-computer/SC-LSTM)
     - [Implementation of Generative Adversarial Networks, for Audio.](https://github.com/usernaamee/audio-GAN)
+    - [Implementation of Google's Tacotron in TensorFlow](https://github.com/barronalex/Tacotron)
     - [Implementations of deep RL papers and random experimentation](https://github.com/steveKapturowski/tensorflow-rl) :star:
     - [Implementation of Monte Carlo Word Movers Distance in Python with TensorFlow](https://github.com/jwbaum91/MCWMD)
     - [Interactive, node-by-node debugging and visualization for TensorFlow](https://github.com/ericjang/tdb) :star:
