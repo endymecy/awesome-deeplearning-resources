@@ -291,6 +291,7 @@ You should find the papers and software with star flag are more important or pop
     - [Deep Learning based Python Library for Stock Market Prediction and Modelling](https://github.com/achillesrasquinha/bulbea)
     - [Deep LSTM siamese network for text similarity](https://github.com/dhwajraj/deep-siamese-text-similarity)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
+    - [Dynamic Memory Network implementation in TensorFlow](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow)
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
     - [Fast Multi(Interpolative) Style Transfer](https://github.com/Heumi/Fast_Multi_Style_Transfer-tf)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
