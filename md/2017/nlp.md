@@ -15,6 +15,7 @@
 - Deep Multitask Learning for Semantic Dependency Parsing. [`arXiv`](https://arxiv.org/abs/1704.06855)
 - Deep Recurrent Neural Network for Protein Function Prediction from Sequence. [`arxiv`](https://arxiv.org/abs/1701.08318)
 - Deep Voice: Real-time Neural Text-to-Speech. [`arxiv`](https://arxiv.org/abs/1702.07825) :star:
+- Depthwise Separable Convolutions for Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1706.03059)
 - Dialog Context Language Modeling with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04056)
 - dna2vec: Consistent vector representations of variable-length k-mers. [`arxiv`](https://arxiv.org/abs/1701.06279) [`code`](https://pnpnpn.github.io/dna2vec/)
 - Efficient Natural Language Response Suggestion for Smart Reply. [`arxiv`](https://arxiv.org/abs/1705.00652)
