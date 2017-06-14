@@ -214,6 +214,7 @@
 - Adversarial Generator-Encoder Networks. [`pdf`](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf) [`code`](https://github.com/DmitryUlyanov/AGE)
 - Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04722) [`tensorflow`](https://github.com/LMescheder/AdversarialVariationalBayes)
 - Age Progression/Regression by Conditional Adversarial Autoencoder.  [`arxiv`](https://arxiv.org/abs/1702.08423) [`tensorflow`](https://github.com/ZZUTK/Face-Aging-CAAE)
+- An Online Learning Approach to Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1706.03269)
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs.[`arxiv`](https://arxiv.org/abs/1702.03410)
 - [Adversarial Attacks on Neural Network Policies.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993385&idx=2&sn=b381743378a7cfb04abc807f4a5b2f40)  [`pdf`](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf) :star:
 - Adversarial Discriminative Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1702.05464)
