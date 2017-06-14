@@ -195,6 +195,7 @@
 
 - Attention-based Extraction of Structured Information from Street View Imagery. [`arxiv`](https://arxiv.org/abs/1704.03549) :star:
 - Attention-Based Multimodal Fusion for Video Description. [`arxiv`](https://arxiv.org/abs/1701.03126)
+- Attention Is All You Need. [`arxiv`](https://arxiv.org/abs/1706.03762) :star:
 - Deep Memory Networks for Attitude Identification. [`arxiv`](https://arxiv.org/abs/1701.04189)
 - Dynamic Computational Time for Visual Attention(DT-RAM). [`arxiv`](https://arxiv.org/abs/1703.10332) [`torch`](https://github.com/baidu-research/DT-RAM) :star:
 - End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
