@@ -6,6 +6,7 @@
 - Bridging the Gap Between Value and Policy Based Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08892)
 - Curiosity-driven Exploration by Self-supervised Prediction. [`arxiv`](https://arxiv.org/abs/1705.05363) [`tensorflow`](https://github.com/pathak22/noreward-rl)
 - Deep Reinforcement Learning: An Overview. [`arxiv`](https://arxiv.org/abs/1701.07274)
+- Deep reinforcement learning from human preferences. [`arxiv`](https://arxiv.org/abs/1706.03741)
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.03864)
 - Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.06769)
 - Learning Multimodal Transition Dynamics for Model-Based Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.00470) [`tensorflow`](https://github.com/tmoer/multimodal_varinf)
