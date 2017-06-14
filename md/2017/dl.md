@@ -158,7 +158,7 @@
 - Learning to Estimate 3D Hand Pose from Single RGB Images. [`arxiv`](https://arxiv.org/abs/1705.01389) [`tensorflow`](https://github.com/lmb-freiburg/hand3d)
 - Learning to Estimate Pose by Watching Videos. [`arxiv`](https://arxiv.org/abs/1704.04081) 
 - Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models. [`arxiv`](https://arxiv.org/abs/1702.06228)
-- Learning to Learn from Noisy Web Videos. [`arxiv`](https://arxiv.org/abs/1706.02884) :star:
+- [Learning to Learn from Noisy Web Videos.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486059&idx=2&sn=8fee2ea4b1441e20be4630ff9cfc576e) [`arxiv`](https://arxiv.org/abs/1706.02884) :star:
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [`arxiv`](https://arxiv.org/abs/1701.00295)
 - Linear Disentangled Representation Learning for Facial Actions. [`arxiv`](https://arxiv.org/abs/1701.03102) [`code`](https://github.com/eglxiang/FacialAU.)
 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`pytorch`](https://github.com/marvis/pytorch-mobilenet)
