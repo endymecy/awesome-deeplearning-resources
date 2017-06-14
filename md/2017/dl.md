@@ -299,6 +299,7 @@
 - Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
 - StyleBank: An Explicit Representation for Neural Image Style Transfer. [`arxiv`](https://arxiv.org/abs/1703.09210)
+- Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN. [`arxiv`](https://arxiv.org/abs/1706.03319)
 - Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [`pdf`](https://openreview.net/pdf?id=HkpbnufYe)
 - The Space of Transferable Adversarial Examples. [`arxiv`](https://arxiv.org/abs/1704.03453)
 - Transferring Face Verification Nets To Pain and Expression Regression. [`arxiv`](https://arxiv.org/abs/1702.06925) [`code`](https://github.com/happynear/PainRegression)
