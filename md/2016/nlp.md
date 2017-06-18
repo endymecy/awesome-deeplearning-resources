@@ -68,6 +68,7 @@
 - Structured Sequence Modeling with Graph Convolutional Recurrent Networks. [`arxiv`](https://arxiv.org/abs/1612.07659)
 - [TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency.](http://weibo.com/ttarticle/p/show?id=2309404086416278721142) [`arxiv`](https://arxiv.org/abs/1611.01702)
 - Tracking the World State with Recurrent Entity Networks . [`arxiv`](https://arxiv.org/abs/1612.03969) :star: 
+- Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling. [`arxiv`](https://arxiv.org/abs/1611.01462) [`code`](https://github.com/icoxfog417/tying-wv-and-wc)
 - Tweet2Vec: Learning Tweet Embeddings Using Character-level CNN-LSTM Encoder-Decoder.[`arxiv`](https://arxiv.org/abs/1607.07514) [`code`](https://github.com/soroushv/Tweet2Vec)
 - Unsupervised Learning of Sentence Representations using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.07897)
 - Unsupervised neural and Bayesian models for zero-resource speech processing. [`arxiv`](https://arxiv.org/abs/1701.00851)
