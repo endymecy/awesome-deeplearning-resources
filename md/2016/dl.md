@@ -136,6 +136,7 @@
 - <b>[EnhanceNet]</b> EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1612.07919) :star: 
 - Factorized Bilinear Models for Image Recognition. [`arxiv`](https://arxiv.org/abs/1611.05709) [`code`](https://github.com/lyttonhao/Factorized-Bilinear-Network)
 - Fully Convolutional Networks for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1605.06211) :star: 
+- Fully-Convolutional Siamese Networks for Object Tracking. [`arxiv`](https://arxiv.org/abs/1606.09549) [`tensorflow`](https://github.com/torrvision/siamfc-tf)
 - Full Resolution Image Compression with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1608.05148) [`tensorflow`](https://github.com/tensorflow/models/tree/master/compression) :star:
 - Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization. [`arxiv`](https://arxiv.org/abs/1610.02391) [`tensorflow`](https://github.com/Ankush96/grad-cam.tensorflow) :star: 
 - Hardware for Machine Learning: Challenges and Opportunities. [`arxiv`](https://arxiv.org/abs/1612.07625?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)
