@@ -23,7 +23,7 @@
 - Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors. [`arxiv`](https://arxiv.org/abs/1612.04342)
 - Composing graphical models with neural networks for structured representations and fast inference .[`arxiv`](https://arxiv.org/abs/1603.06277) [`code`](https://github.com/mattjj/svae)
 - Conditional Generative Moment-Matching Networks. [`arxiv`](https://arxiv.org/abs/1606.04218)
-- Context Encoders: Feature Learning by Inpainting. [`arxiv`](https://arxiv.org/abs/1604.07379)
+- Context Encoders: Feature Learning by Inpainting. [`arxiv`](https://arxiv.org/abs/1604.07379) [`pytorch`](https://github.com/BoyuanJiang/context_encoder_pytorch)
 - Conversational Contextual Cues-The Case of Personalization and History for Response Ranking. [`arxiv`](https://arxiv.org/abs/1606.00372)
 - Controlling Output Length in Neural Encoder-Decoders. [`arxiv`](https://arxiv.org/abs/1609.09552) [`code`](https://github.com/kiyukuta/lencon)
 - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. [`arxiv`](https://arxiv.org/abs/1606.09375) [`code`](https://github.com/mdeff/cnn_graph)

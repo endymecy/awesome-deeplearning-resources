@@ -49,6 +49,7 @@
 - Diagonal RNNs in Symbolic Music Modeling. [`arxiv`](https://arxiv.org/abs/1704.05420) [`tensorflow`](https://github.com/ycemsubakan/diagonal_rnns)
 - Dilated Residual Networks. [`arxiv`](https://arxiv.org/abs/1705.09914) :star:
 - Distributed Online Learning of Event Definitions. [`arxiv`](https://arxiv.org/abs/1705.02175)
+- Doubly Stochastic Variational Inference for Deep Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1705.08933) [`code`](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
 - <b>[DyNet]</b> The Dynamic Neural Network Toolkit. [`arxiv`](https://arxiv.org/abs/1701.03980) [`code`](https://github.com/clab/dynet) :star: 
 - Efficient Information Flow Maximization in Probabilistic Graphs. [`arxiv`](https://arxiv.org/abs/1701.05395)
 - Encouraging LSTMs to Anticipate Actions Very Early. [`arxiv`](https://arxiv.org/abs/1703.07023)
