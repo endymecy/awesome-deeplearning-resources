@@ -254,6 +254,7 @@ You should find the papers and software with star flag are more important or pop
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [PyTorch implementation of the Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
     - [PyTorch Marvelous ChatBot](https://github.com/jinfagang/pytorch_chatbot) :star:
+    - [PyTorch module to use OpenFace's nn4.small2.v1.t7 model](https://github.com/thnkim/OpenFacePytorch)
     - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Quickly comparing your image classification models with the state-of-the-art models](https://github.com/felixgwu/img_classification_pk_pytorch)
