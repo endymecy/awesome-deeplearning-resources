@@ -38,6 +38,7 @@
 - Learning Important Features Through Propagating Activation Differences. [`arxiv`](https://arxiv.org/abs/1704.02685) [`code`](https://github.com/kundajelab/deeplift) :star:
 - Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1706.02337)
 - Learning to Generate Reviews and Discovering Sentiment. [`arxiv`](https://arxiv.org/abs/1704.01444) [`code`](https://github.com/openai/generating-reviews-discovering-sentiment)
+- Learning to Reason: End-to-End Module Networks for Visual Question Answering. [`arxiv`](https://arxiv.org/abs/1704.05526) [`tensorflow`](https://github.com/ronghanghu/n2nmn)
 - Learning to Skim Text. [`arxiv`](https://arxiv.org/abs/1704.06877)
 - Learning with Confident Examples: Rank Pruning for Robust Classification with Noisy Labels. [`arxiv`](https://arxiv.org/abs/1705.01936) [`code`](https://github.com/cgnorthcutt/rankpruning)
 - Machine Comprehension by Text-to-Text Neural Question Generation. [`arxiv`](https://arxiv.org/abs/1705.02012)
