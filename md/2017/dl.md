@@ -176,6 +176,7 @@
 - Perceptually Optimized Image Rendering. [`arxiv`](https://arxiv.org/abs/1701.06641)
 - [Pixel Recursive Super Resolution.](https://mp.weixin.qq.com/s?__biz=MzI0NDU4MDg5MA==&mid=2247484778&idx=1&sn=e9fe3cc1a8b084a79e65144720c1b11d) [`arxiv`](https://arxiv.org/abs/1702.00783) :star:
 - Putting a Face to the Voice: Fusing Audio and Visual Signals Across a Video to Determine Speakers. [`arxiv`](https://arxiv.org/abs/1706.00079)
+- Rethinking Atrous Convolution for Semantic Image Segmentation. [`arxiv`](https://arxiv.org/abs/1706.05587)
 - SfM-Net: Learning of Structure and Motion from Video. [`arxiv`](https://arxiv.org/abs/1704.07804) :star:
 - SLAM with Objects using a Nonparametric Pose Graph. [`arxiv`](https://arxiv.org/abs/1704.05959) [`code`](https://github.com/BeipengMu/objectSLAM)
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection.  [`arxiv`](https://arxiv.org/abs/1702.05552)
