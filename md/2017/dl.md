@@ -183,6 +183,7 @@
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [`arxiv`](https://arxiv.org/abs/1701.08349)
 - <b>[Tacotron]</b> Towards End-to-End Speech Synthesis. [`arxiv`](https://arxiv.org/abs/1703.10135) [`code`](https://github.com/google/tacotron) :star:
 - Towards a Principled Integration of Multi-Camera Re-Identification and Tracking through Optimal Bayes Filters.  [`arxiv`](https://arxiv.org/abs/1705.04608)
+- Towards perspective-free object counting with deep learning. [`pdf`](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf) [`code`](https://github.com/gramuah/ccnn)
 - Training object class detectors with click supervision. [`arxiv`](https://arxiv.org/abs/1704.06189)
 - TransFlow: Unsupervised Motion Flow by Joint Geometric and Pixel-level Estimation. [`arxiv`](https://arxiv.org/abs/1706.00322) [`code`](https://github.com/stefanoalletto/TransFlow)
 - Using Deep Learning and Google Street View to Estimate the Demographic Makeup of the US. [`arxiv`](https://arxiv.org/abs/1702.06683) :star:
