@@ -115,6 +115,7 @@
 - Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
 - Stochastic Subsampling for Factorizing Huge Matrices. [`arxiv`](https://arxiv.org/abs/1701.05363) [`code`](https://github.com/arthurmensch/modl)
 - Submanifold Sparse Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1706.01307)
+- [The Cramer Distance as a Solution to Biased Wasserstein Gradients.](https://medium.com/towards-data-science/notes-on-the-cramer-gan-752abd505c00) [`arxiv`](https://arxiv.org/abs/1705.10743) [`pytorch`](https://github.com/ypxie/pytorch-cramer-Gan) :star:
 - The Future of Ad Blocking: An Analytical Framework and New Techniques. [`arxiv`](https://arxiv.org/abs/1705.08568) [`code`](https://github.com/citp/ad-blocking)
 - The Power of Sparsity in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.06257)
 - Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation. [`arxiv`](https://arxiv.org/abs/1704.06888) :star:
@@ -281,7 +282,6 @@
 - Softmax GAN. [`arxiv`](https://arxiv.org/abs/1704.06191)
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches. [`arxiv`](https://arxiv.org/abs/1706.02823) 
-- The Cramer Distance as a Solution to Biased Wasserstein Gradients. [`arxiv`](https://arxiv.org/abs/1705.10743) [`pytorch`](https://github.com/ypxie/pytorch-cramer-Gan) :star:
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN. [`arxiv`](http://weibo.com/1402400261/EBP7EgRkQ?type=comment#_rnd1490711748139)
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862) :star:
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10593)  [`torch`](https://github.com/junyanz/CycleGAN) :star:
