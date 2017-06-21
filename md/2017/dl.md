@@ -145,6 +145,7 @@
 - DCT-like Transform for Image Compression Requires 14 Additions Only. [`arxiv`](https://arxiv.org/abs/1702.00817)
 - Deep Convolutional Neural Networks for Pairwise Causality. [`arxiv`](https://arxiv.org/abs/1701.00597)
 - DeepFix: Fixing Common C Language Errors by Deep Learning. [`pdf`](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14603/13921) [`code`](https://bitbucket.org/iiscseal/deepfix)
+- DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [`arxiv`](https://arxiv.org/abs/1703.04247) [`tensorflow`](https://github.com/Leavingseason/OpenLearning4DeepRecsys)
 - Deep Learning Features at Scale for Visual Place Recognition. [`arxiv`](https://arxiv.org/abs/1701.05105)
 - Deep Learning for Tumor Classification in Imaging Mass Spectrometry. [`arxiv`](https://arxiv.org/abs/1705.01015)
 - Deep Hybrid Similarity Learning for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1702.04858)
