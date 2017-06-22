@@ -153,6 +153,7 @@ You should find the papers and software with star flag are more important or pop
 * [First Contact With TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/)
 * [Learning scikit-learn: Machine Learning in Python](https://github.com/gmonce/scikit-learn-book)
 * [Neural Networks: Tricks of the Trade (Lecture Notes in Computer Science)](https://link.springer.com/book/10.1007%2F978-3-642-35289-8)
+* [Scikit-learn 秘籍](https://www.gitbook.com/book/wizardforcel/sklearn-cookbook/details)
 
 # Software
 
