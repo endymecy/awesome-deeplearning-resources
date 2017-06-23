@@ -14,6 +14,7 @@
 - Micro-Objective Learning : Accelerating Deep Reinforcement Learning through the Discovery of Continuous Subgoals. [`arxiv`](https://arxiv.org/abs/1703.03933)
 - Neural Architecture Search with Reinforcement Learning. [`arxiv`](Neural Architecture Search with Reinforcement Learning) [`tensorflow`](https://github.com/tensorflow/models)
 - Neural Map: Structured Memory for Deep Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08360)
+- Observational Learning by Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1706.06617)
 - Reinforcement Learning via Recurrent Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.02392) [`code`](https://github.com/tanmayshankar/RCNN_MDP)
 - Reinforcement Learning with a Corrupted Reward Channel. [`arxiv`](https://arxiv.org/abs/1705.08417) :star:
 - Reinforcement Learning with Deep Energy-Based Policies. [`arxiv`](https://arxiv.org/abs/1702.08165)
