@@ -250,6 +250,7 @@ You should find the papers and software with star flag are more important or pop
     - [Lightweight implementation of neural style in Pytorch with SqueezeNet](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
     - [OpenNMT: Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [Open source person re-identification library in python](https://github.com/Cysu/open-reid) :star:
+    - [Probabilistic Programming and Statistical Inference in PyTorch](https://github.com/stepelu/ptstat)
     - [PyTorch Implementation of CycleGAN and SGAN for Domain Transfer](https://github.com/yunjey/mnist-svhn-transfer)
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
     - [pytorch implementation of grammar variational autoencoder](https://github.com/episodeyang/grammar_variational_autoencoder)
