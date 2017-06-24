@@ -77,6 +77,7 @@
 
 - Adversarial Generation of Natural Language. [`arXiv`](https://arxiv.org/abs/1705.10929)
 - [Adversarial Learning for Neural Dialogue Generation.](https://zhuanlan.zhihu.com/p/25027693) [`arXiv`](https://arxiv.org/abs/1701.06547) [`tensorflow`](https://github.com/BigPlay/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow)
+- Adversarial Multi-Criteria Learning for Chinese Word Segmentation. [`arxiv`](https://arxiv.org/abs/1704.07556) [`tensorflow`](https://github.com/FudanNLP/adversarial-multi-criteria-learning-for-CWS) :star:
 - Adversarial Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1704.06933)
 - Get To The Point: Summarization with Pointer-Generator Networks. [`arxiv`](https://arxiv.org/abs/1704.04368)
 - Improved Variational Autoencoders for Text Modeling using Dilated Convolutions. [`arxiv`](https://arxiv.org/abs/1702.08139)
