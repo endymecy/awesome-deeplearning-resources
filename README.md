@@ -80,6 +80,7 @@ You should find the papers and software with star flag are more important or pop
 * 2016 | Textsum: Sequence-to-Sequence with Attention Model for Text Summarization. [`pdf`](https://openreview.net/pdf?id=gZ9OMgQWoIAPowrRUAN6) [`code`](https://github.com/tensorflow/models/tree/master/textsum)
 * 2016 | VGNA: Generative Adversarial Networks as Variational Training of Energy Based Models. [`arxiv`](https://arxiv.org/abs/1611.01799)  [`code`](https://github.com/Shuangfei/vgan) 
 * 2017 | Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg)  [`code`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events) 
+* 2017 | LFADS - Latent Factor Analysis via Dynamical Systems. [`arxiv`](https://arxiv.org/abs/1608.06315) [`code`](https://github.com/tensorflow/models/tree/master/lfads)
 * 2017 | SalGAN: Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081)  [`code`](https://github.com/imatge-upc/saliency-salgan-2017) 
 * 2017 | WGAN: Wasserstein GAN. [`arxiv`](https://arxiv.org/abs/1701.07875)  [`code`](https://github.com/Zardinality/WGAN-tensorflow) 
 * 2017 | BEGAN: Boundary Equilibrium Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10717) [`code`](https://github.com/carpedm20/BEGAN-tensorflow)
