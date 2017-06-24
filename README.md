@@ -75,6 +75,7 @@ You should find the papers and software with star flag are more important or pop
 * 2016 | R-FCN: Object Detection via Region-based Fully Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1605.06409)  [`code`](https://github.com/Orpine/py-R-FCN) 
 * 2016 | SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient. [`arxiv`](https://arxiv.org/abs/1609.05473)  [`code`](https://github.com/LantaoYu/SeqGAN) 
 * 2016 | SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size. [`arxiv`](https://arxiv.org/abs/1602.07360)  [`code`](https://github.com/songhan/SqueezeNet-Deep-Compression) 
+* 2016 | StreetView Tensorflow Recurrent End-to-End Transcription (STREET) Model. [`arxiv`](https://arxiv.org/abs/1702.03970) [`code`](https://github.com/tensorflow/models/tree/master/street)
 * 2016 | Swivel: Improving Embeddings by Noticing What's Missing. [`arxiv`](https://arxiv.org/abs/1602.02215)  [`code`](https://github.com/tensorflow/models/tree/master/swivel) 
 * 2016 | SyntaxNet: Globally Normalized Transition-Based Neural Networks. [`arxiv`](https://arxiv.org/abs/1603.06042)  [`code`](https://github.com/tensorflow/models/tree/master/syntaxnet) 
 * 2016 | Textsum: Sequence-to-Sequence with Attention Model for Text Summarization. [`pdf`](https://openreview.net/pdf?id=gZ9OMgQWoIAPowrRUAN6) [`code`](https://github.com/tensorflow/models/tree/master/textsum)
