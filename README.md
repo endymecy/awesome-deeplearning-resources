@@ -363,9 +363,9 @@ You should find the papers and software with star flag are more important or pop
     - [Inception-v4, Inception - Resnet-v1 and v2 Architectures in Keras](https://github.com/titu1994/Inception-v4)
     - [Implementation of some basic GAN architectures in Keras](https://github.com/erilyth/DCGANs)
     - [Isolating vocals from music with a Convolutional Neural Network.](https://github.com/madebyollin/acapellabot)
-    - [Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
+    - [Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre) :star:
     - [Keras code and weights files for popular deep learning models.](https://github.com/fchollet/deep-learning-models)
-    - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings)
+    - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings) 
     - [Keras implementation of Deep Clustering](https://github.com/jcsilva/deep-clustering)
     - [Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/yhenon/keras-frcnn)
     - [Python toolbox to create adversarial examples that fool neural networks](https://github.com/bethgelab/foolbox)
