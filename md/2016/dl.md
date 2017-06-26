@@ -210,7 +210,7 @@
 - <b>[b-GAN]</b> Unified Framework of Generative Adversarial Networks. [`pdf`](https://openreview.net/pdf?id=S1JG13oee)] :star: 
 - Conditional Image Synthesis With Auxiliary Classifier GANs. [`arxiv`](https://arxiv.org/abs/1610.09585) [`code`](https://github.com/lukedeo/keras-acgan)
 - Connecting Generative Adversarial Networks and Actor-Critic Methods.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwienPG-gdjQAhUCwLwKHYlODhAQFggeMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.01945&usg=AFQjCNEncFhnZs_H2J9JdQBpSygXtR4kMw)]
-- Coupled Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1606.07536)
+- Coupled Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1606.07536) [`code`](https://github.com/mingyuliutw/CoGAN)
 - DARN: a Deep Adversial Residual Network for Intrinsic Image Decomposition. [`url`](https://128.84.21.199/abs/1612.07899?context=cs)
 - DeMIAN: Deep Modality Invariant Adversarial Network. [[url](http://www.mathpubs.com/detail/1612.07976v1/DeMIAN-Deep-Modality-Invariant-Adversarial-Network)]
 - Deep Learning Adversarial Examples. [`url`](http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
