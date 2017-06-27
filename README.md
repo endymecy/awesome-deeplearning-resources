@@ -286,6 +286,7 @@ You should find the papers and software with star flag are more important or pop
     - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
     - [An implementation of skip-thought vectors in Tensorflow](https://github.com/persiyanov/skip-thought-tf)
     - [A Practical Guide for Debugging TensorFlow Codes](https://github.com/wookayin/tensorflow-talk-debugging)
+    - [A real-time object recognition application using Google's TensorFlow Object Detection API and OpenCV.](https://github.com/datitran/Object-Detector-App)
     - [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) :star:
     - [A simple baseline for 3d human pose estimation in tensorflow.](https://github.com/una-dinosauria/3d-pose-baseline)
     - [Aspect Based Sentiment Analysis using End-to-End Memory Networks](https://github.com/ganeshjawahar/mem_absa)
