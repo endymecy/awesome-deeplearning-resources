@@ -343,6 +343,7 @@ You should find the papers and software with star flag are more important or pop
     - [Tensorflow implementation of Dynamic Coattention Networks for Question Answering.](https://github.com/marshmelloX/dynamic-coattention-network)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation](https://github.com/shekkizh/FCN.tensorflow)
+    - [Tensorflow implementation of YOLO : Real-Time Object Detection](https://github.com/nilboy/tensorflow-yolo)
     - [Tensorflow for Time Series Applications](https://github.com/abhishekmalali/TimeFlow)
     - [TensorFlow on iOS demo](https://github.com/hollance/TensorFlow-iOS-Example)
     - [TensorFlow on Spark](https://github.com/yahoo/TensorFlowOnSpark)
