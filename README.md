@@ -459,6 +459,7 @@ You should find the papers and software with star flag are more important or pop
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
+- [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
 - [Japanese Word Similarity Dataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
