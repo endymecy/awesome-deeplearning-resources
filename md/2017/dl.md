@@ -171,7 +171,7 @@
 - [Learning to Learn from Noisy Web Videos.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486059&idx=2&sn=8fee2ea4b1441e20be4630ff9cfc576e) [`arxiv`](https://arxiv.org/abs/1706.02884) :star:
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [`arxiv`](https://arxiv.org/abs/1701.00295)
 - Linear Disentangled Representation Learning for Facial Actions. [`arxiv`](https://arxiv.org/abs/1701.03102) [`code`](https://github.com/eglxiang/FacialAU.)
-- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`pytorch`](https://github.com/marvis/pytorch-mobilenet)
+- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`pytorch`](https://github.com/marvis/pytorch-mobilenet) [`keras`](https://github.com/titu1994/MobileNetworks)
 - Modeling Relational Data with Graph Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1703.06103) :star:
 - <b>[MobileNets]</b> Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`keras`](https://github.com/rcmalli/keras-mobilenet) :star:
 - MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. [`arxiv`](https://arxiv.org/abs/1701.02354)
