@@ -172,6 +172,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Hebel`</b> [A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA.](https://github.com/hannes-brt/hebel)
     - <b>`Keras`</b> [Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
     - <b>`Kur`</b> [Descriptive Deep Learning.](https://github.com/deepgram/kur)  :star:
+    - <b>`Mujoco-py`</b> [MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.](https://github.com/openai/mujoco-py)
     - <b>`Neon`</b> [Neon is Nervana's Python based Deep Learning framework](https://github.com/NervanaSystems/neon).
     - <b>`Pyclustering`</b> [A Python, C++ data mining clustering, graph coloring algorithms, oscillatory networks, neural networks library.](https://github.com/annoviko/pyclustering)
     - <b>`PyTorch`</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
