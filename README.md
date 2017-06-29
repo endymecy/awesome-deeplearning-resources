@@ -335,6 +335,7 @@ You should find the papers and software with star flag are more important or pop
     - [Sentiment Analysis with LSTMs in Tensorflow](https://github.com/adeshpande3/LSTM-Sentiment-Analysis)
     - [Sequence prediction using recurrent neural networks(LSTM) with TensorFlow](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
+    - [Simple embedding based text classifier inspired by fastText, implemented in tensorflow](https://github.com/apcode/tensorflow_fasttext)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
     - [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
