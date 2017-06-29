@@ -251,6 +251,8 @@
 - [Understanding deep learning requires rethinking generalization.](https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/)[`arxiv`](https://arxiv.org/abs/1611.03530) :star:
 - Unsupervised domain adaptation in brain lesion segmentation with adversarial networks.[`arxiv`](https://arxiv.org/abs/1612.08894?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)
 - Unrolled Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1611.02163) [`code`](https://github.com/poolio/unrolled_gan)
+- Variational Graph Auto-Encoders. [`arxiv`](https://arxiv.org/abs/1611.07308) [`tensorflow`](https://github.com/tkipf/gae) :star:
+  
   
 ### Transfer learning
 
