@@ -415,6 +415,7 @@ You should find the papers and software with star flag are more important or pop
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Deep Learning Toolbox](https://github.com/dmarnerides/dlt)
+- [First International Workshop on Deep Learning and Music](https://arxiv.org/html/1706.08675)
 - [Generative Models](https://github.com/wiseodd/generative-models)
 - [Machine Learning / Deep Learning Conferences](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
