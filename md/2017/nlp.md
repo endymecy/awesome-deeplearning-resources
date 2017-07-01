@@ -82,6 +82,7 @@
 - [Adversarial Learning for Neural Dialogue Generation.](https://zhuanlan.zhihu.com/p/25027693) [`arXiv`](https://arxiv.org/abs/1701.06547) [`tensorflow`](https://github.com/BigPlay/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow)
 - Adversarial Multi-Criteria Learning for Chinese Word Segmentation. [`arxiv`](https://arxiv.org/abs/1704.07556) [`tensorflow`](https://github.com/FudanNLP/adversarial-multi-criteria-learning-for-CWS) :star:
 - Adversarial Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1704.06933)
+- Data-driven Natural Language Generation: Paving the Road to Success. [`arxiv`](https://arxiv.org/abs/1706.09433)
 - Get To The Point: Summarization with Pointer-Generator Networks. [`arxiv`](https://arxiv.org/abs/1704.04368)
 - Improved Variational Autoencoders for Text Modeling using Dilated Convolutions. [`arxiv`](https://arxiv.org/abs/1702.08139)
 - IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models. [`arxiv`](https://arxiv.org/abs/1705.10513) [`code`](https://github.com/geek-ai/irgan)
