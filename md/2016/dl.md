@@ -135,6 +135,7 @@
 - Deep Learning on Lie Groups for Skeleton-based Action Recognition. [`arxiv`](https://arxiv.org/abs/1612.05877)
 - Differential Geometry Boosts Convolutional Neural Networks for Object Detection. [`url`](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/html/Wang_Differential_Geometry_Boosts_CVPR_2016_paper.html)
 - Efficient Action Detection in Untrimmed Videos via Multi-Task Learning. [`arxiv`](https://arxiv.org/abs/1612.07403)
+- ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1606.02147) [`tensorflow`](https://github.com/kwotsin/TensorFlow-ENet)
 - <b>[EnhanceNet]</b> EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1612.07919) :star: 
 - Factorized Bilinear Models for Image Recognition. [`arxiv`](https://arxiv.org/abs/1611.05709) [`code`](https://github.com/lyttonhao/Factorized-Bilinear-Network)
 - Fully Convolutional Networks for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1605.06211) :star: 
