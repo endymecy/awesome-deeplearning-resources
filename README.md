@@ -388,6 +388,7 @@ You should find the papers and software with star flag are more important or pop
 - [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+- [Awesome ARKit](https://github.com/olucurious/awesome-arkit)
 - [Awesome bayesian deep learning](https://github.com/robi56/awesome-bayesian-deep-learning)
 - [Awesome deep vision web demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 - [Awesome Caffe](https://github.com/MichaelXin/Awesome-Caffe)
