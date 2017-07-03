@@ -213,6 +213,7 @@
   
 ### Attention and memory
 
+- A Structured Self-attentive Sentence Embedding. [`arxiv`](https://arxiv.org/abs/1703.03130) [`tensorflow`](https://github.com/Diego999/SelfSent)
 - Attention-based Extraction of Structured Information from Street View Imagery. [`arxiv`](https://arxiv.org/abs/1704.03549) :star:
 - Attention-Based Multimodal Fusion for Video Description. [`arxiv`](https://arxiv.org/abs/1701.03126)
 - Attention Is All You Need. [`arxiv`](https://arxiv.org/abs/1706.03762) [`tensorflow`](https://github.com/Kyubyong/transformer) :star:
