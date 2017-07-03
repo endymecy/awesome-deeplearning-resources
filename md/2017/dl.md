@@ -201,6 +201,7 @@
 - Using Deep Learning and Google Street View to Estimate the Demographic Makeup of the US. [`arxiv`](https://arxiv.org/abs/1702.06683) :star:
 - Unsupervised Learning by Predicting Noise. [`arxiv`](https://arxiv.org/abs/1704.05310) :star:
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. [`arxiv`](https://arxiv.org/abs/1701.01821)
+- [Variational Approaches for Auto-Encoding Generative Adversarial Networks.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486161&idx=2&sn=e11c6bb9839a1fde85e96d26ac2d0b75) [`arxiv`](https://arxiv.org/abs/1706.04987) :star:
 - Video-based Person Re-identification with Accumulative Motion Context. [`arxiv`](https://arxiv.org/abs/1701.00193)
 - ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection. [`arxiv`](https://arxiv.org/abs/1702.07191)
 - Visualizing LSTM decisions. [`arxiv`](https://arxiv.org/abs/1705.08153)
