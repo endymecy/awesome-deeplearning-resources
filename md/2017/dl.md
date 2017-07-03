@@ -89,6 +89,7 @@
 - Neural Message Passing for Quantum Chemistry. [`arxiv`](https://arxiv.org/abs/1704.01212) [`code`](https://github.com/priba/nmp_qc) :star:
 - Neural Ranking Models with Weak Supervision. [`arxiv`](https://arxiv.org/abs/1704.08803)
 - One Model To Learn Them All. [`arxiv`](https://arxiv.org/abs/1706.05137) [`tensorflow`](https://github.com/tensorflow/tensor2tensor) :star:
+- Online Convolutional Dictionary Learning. [`arxiv`](https://arxiv.org/abs/1706.09563)
 - On weight initialization in deep neural networks. [`arxiv`](https://arxiv.org/abs/1704.08863) [`code`](https://github.com/sidkk86/weight_initialization)
 - Opening the Black Box of Deep Neural Networks via Information. [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
 - Optimization as a Model for Few-Shot Learning. [`pdf`](https://openreview.net/pdf?id=rJY0-Kcll) [`torch`](https://github.com/twitter/meta-learning-lstm) :star:
