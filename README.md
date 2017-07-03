@@ -406,6 +406,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 - [Awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 - [Awesome speech recognition papers](https://github.com/zzw922cn/awesome-speech-recognition-papers)
+- [Awesome speech recognition speech synthesis papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
 - [Chainer Info](https://github.com/hidetomasuoka/chainer-info)
 - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
