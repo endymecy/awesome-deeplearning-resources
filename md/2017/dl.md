@@ -19,6 +19,7 @@
 - Backprop without Learning Rates Through Coin Betting. [`arxiv`](https://arxiv.org/abs/1705.07795) [`code`](https://github.com/bremen79/cocob)
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [`arxiv`](https://arxiv.org/abs/1702.03275) :star:
 - [Billion-scale similarity search with GPUs.](http://weibo.com/1402400261/ECqPJziqk?type=comment#_rnd1491216627188) [`arxiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star: 
+- Bolt: Accelerated Data Mining with Fast Vector Compression. [`arxiv`](https://arxiv.org/abs/1706.10283) [`code`](https://github.com/dblalock/bolt)
 - Complex Networks: from Classical to Quantum.  [`arxiv`](https://arxiv.org/abs/1702.08459)
 - Concrete Dropout. [`arxiv`](https://arxiv.org/abs/1705.07832)
 - Conversation Modeling on Reddit using a Graph-Structured LSTM. [`arxiv`](https://arxiv.org/abs/1704.02080) :star:
