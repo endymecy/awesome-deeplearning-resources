@@ -394,6 +394,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Caffe](https://github.com/MichaelXin/Awesome-Caffe)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
+- [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
