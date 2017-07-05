@@ -246,6 +246,7 @@
 - Semi-Supervised Learning with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1606.01583)
 - <b>[SeqGAN]</b> Sequence Generative Adversarial Nets with Policy Gradient. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY0NWEq9jQAhXEEbwKHReIDrQQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1609.05473&usg=AFQjCNHxaAv6rC-G4DbBpCkEvcgEdKGWeQ)] [[code](https://github.com/LantaoYu/SeqGAN)] :star: 
 - Simple black-box adversarial perturbations for deep networks. [`url`](https://openreview.net/pdf?id=SJCscQcge)
+- Stick-Breaking Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1605.06197) [`code`](https://github.com/enalisnick/stick-breaking_dgms)
 - Stochastic Video Prediction with Deep Conditional Generative Models. [`stanford`](http://cs231n.stanford.edu/reports2016/215_Report.pdf)
 - Task Specific Adversarial Cost Function. [`arxiv`](https://arxiv.org/abs/1609.08661)
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862)]
