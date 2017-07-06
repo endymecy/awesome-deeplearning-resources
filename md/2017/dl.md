@@ -336,5 +336,7 @@
 - Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks.  [`arxiv`](https://arxiv.org/abs/1703.06345)
 - Unsupervised Image-to-Image Translation Networks. [`arxiv`](https://arxiv.org/abs/1703.00848)
 - Visual Attribute Transfer through Deep Image Analogy. [`arxiv`](https://arxiv.org/abs/1705.01088) [`code`](https://github.com/msracver/Deep-Image-Analogy)
+- Zero-Shot Transfer Learning for Event Extraction. [`arxiv`](https://arxiv.org/abs/1707.01066)
+  
   
 
