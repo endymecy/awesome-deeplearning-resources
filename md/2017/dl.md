@@ -222,6 +222,7 @@
 - Attention Is All You Need. [`arxiv`](https://arxiv.org/abs/1706.03762) [`tensorflow`](https://github.com/Kyubyong/transformer) :star:
 - Deep Memory Networks for Attitude Identification. [`arxiv`](https://arxiv.org/abs/1701.04189)
 - Dynamic Computational Time for Visual Attention(DT-RAM). [`arxiv`](https://arxiv.org/abs/1703.10332) [`torch`](https://github.com/baidu-research/DT-RAM) :star:
+- Efficient Attention using a Fixed-Size Memory Representation. [`arxiv`](https://arxiv.org/abs/1707.00110)
 - End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
 - <b>[HRAN]</b> Hierarchical Recurrent Attention Network for Response Generation. [`arxiv`](https://arxiv.org/abs/1701.07149) [`code`](https://github.com/LynetteXing1991/HRAN) :star:
 - Residual Attention Network for Image Classification. [`arxiv`](https://arxiv.org/abs/1704.06904) 
