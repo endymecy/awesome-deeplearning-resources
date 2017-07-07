@@ -399,6 +399,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+- [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
