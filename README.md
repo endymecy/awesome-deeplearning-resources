@@ -427,6 +427,7 @@ You should find the papers and software with star flag are more important or pop
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLpapers)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+- [Over 7 million published research papers in Computer Science and Neuroscience.](http://labs.semanticscholar.org/corpus/)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 - [Really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 - [Really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation)
