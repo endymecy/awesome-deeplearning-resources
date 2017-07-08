@@ -187,6 +187,7 @@
 - Object Detection Using Deep CNNs Trained on Synthetic Images. [`arxiv`](https://arxiv.org/abs/1706.06782) [`code`](https://github.com/paramrajpura/Syn2Real)
 - Octree Generating Networks: Efficient Convolutional Architectures for High-resolution 3D Outputs. [`arxiv`](https://arxiv.org/abs/1703.09438) [`code`](https://github.com/lmb-freiburg/ogn)
 - Optimizing Deep CNN-Based Queries over Video Streams at Scale. [`arxiv`](https://arxiv.org/abs/1703.02529) [`tensorflow`](https://github.com/stanford-futuredata/tensorflow-noscope)
+- Pedestrian Alignment Network for Large-scale Person Re-identification. [`arxiv`](https://arxiv.org/abs/1707.00408) [`code`](https://github.com/layumi/Pedestrian_Alignment)
 - Perceptually Optimized Image Rendering. [`arxiv`](https://arxiv.org/abs/1701.06641)
 - [Pixel Recursive Super Resolution.](https://mp.weixin.qq.com/s?__biz=MzI0NDU4MDg5MA==&mid=2247484778&idx=1&sn=e9fe3cc1a8b084a79e65144720c1b11d) [`arxiv`](https://arxiv.org/abs/1702.00783) :star:
 - Putting a Face to the Voice: Fusing Audio and Visual Signals Across a Video to Determine Speakers. [`arxiv`](https://arxiv.org/abs/1706.00079)
