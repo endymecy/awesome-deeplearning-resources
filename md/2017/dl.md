@@ -41,6 +41,7 @@
 - Deep Learning With Dynamic Computation Graphs. [`pdf`](https://openreview.net/pdf?id=ryrGawqex)
 - DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy. [`arxiv`](https://arxiv.org/abs/1702.08192) [`caffe`](https://github.com/TJKlein/DeepNAT)
 - Deep Network Guided Proof Search. [`arxiv`](https://arxiv.org/abs/1701.06972)
+- Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs. [`arxiv`](https://arxiv.org/abs/1703.04363) [`tensorflow`](https://github.com/gyglim/dvn) :star:
 - [DeepXplore: Automated Whitebox Testing of Deep Learning Systems.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726926&idx=5&sn=9e053e9864dc789f5b393a4c49242486) [`arxiv`](https://arxiv.org/abs/1705.06640)
 - [Deformable Convolutional Networks](https://mp.weixin.qq.com/s?__biz=MzA3Mjk0OTgyMg==&mid=2651123298&idx=1&sn=9f1159e14a3dba122f122aed1b51dbb7). [`arxiv`](https://arxiv.org/abs/1703.06211) :star:
 - <b>[Edward]</b> Deep Probabilistic Programming. [`arxiv`](https://arxiv.org/abs/1701.03757) [`Web`](http://edwardlib.org/) :star: 
