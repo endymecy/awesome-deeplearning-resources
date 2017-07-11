@@ -158,6 +158,7 @@
 - Cost-Effective Active Learning for Deep Image Classification. [`arxiv`](https://arxiv.org/abs/1701.03551)
 - Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks. [`arxiv`](https://arxiv.org/abs/1701.04658) [`caffe`](https://github.com/kmaninis/COB)
 - DCT-like Transform for Image Compression Requires 14 Additions Only. [`arxiv`](https://arxiv.org/abs/1702.00817)
+- Deep Bayesian Active Learning with Image Data. [`arxiv`](https://arxiv.org/abs/1703.02910) [`keras`](https://github.com/Riashat/Deep-Bayesian-Active-Learning)
 - Deep Convolutional Neural Networks for Pairwise Causality. [`arxiv`](https://arxiv.org/abs/1701.00597)
 - DeepFix: Fixing Common C Language Errors by Deep Learning. [`pdf`](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14603/13921) [`code`](https://bitbucket.org/iiscseal/deepfix)
 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [`arxiv`](https://arxiv.org/abs/1703.04247) [`tensorflow`](https://github.com/Leavingseason/OpenLearning4DeepRecsys)
