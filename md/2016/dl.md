@@ -129,6 +129,7 @@
 - CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection. [`arxiv`](https://arxiv.org/abs/1606.05413)
 - Colorful Image Colorization. [`arxiv`](https://arxiv.org/abs/1603.08511v1) [`tensorflow`](https://github.com/nilboy/colorization-tf) :star:
 - <b>[PCNN]</b> Conditional Image Generation with PixelCNN Decoders. [`arxiv`](https://arxiv.org/abs/1606.05328) [`code`](https://github.com/kundan2510/pixelCNN) :star: 
+- DA-RNN: Semantic Mapping with Data Associated Recurrent Neural Networks. [`arXiv`](https://arxiv.org/abs/1703.03098) [`code`](https://github.com/yuxng/DA-RNN)
 - <b>[Use VGG19]</b> Deep Feature Interpolation for Image Content Changes. [`arxiv`](https://arxiv.org/abs/1611.05507) [`tensorflow`](https://github.com/slang03/dfi-tensorflow) :star:
 - DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs. [`arxiv`](https://arxiv.org/abs/1606.00915) :star: 
 - Deep Learning Logo Detection with Data Expansion by Synthesising Context. [`arxiv`](https://arxiv.org/abs/1612.09322)
