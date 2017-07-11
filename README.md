@@ -239,6 +239,7 @@ You should find the papers and software with star flag are more important or pop
     - [Adversarial Autoencoders](https://github.com/fducau/AAE_pytorch)
     - [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet)
     - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
+    - [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) :star:
     - [A PyTorch Implementation for Triplet Networks](https://github.com/andreasveit/triplet-network-pytorch)
     - [A PyTorch Implementation of Single Shot MultiBox Detector.](https://github.com/amdegroot/ssd.pytorch)
     - [A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
