@@ -115,6 +115,7 @@
 - Shake-Shake regularization. [`arxiv`](https://arxiv.org/abs/1705.07485) [`code`](https://github.com/xgastaldi/shake-shake)
 - ShaResNet: reducing residual network parameter number by sharing weights. [`arxiv`](https://arxiv.org/abs/1702.08782) [`code`](https://github.com/aboulch/sharesnet)
 - ShortFuse: Biomedical Time Series Representations in the Presence of Structured Information. [`arxiv`](https://arxiv.org/abs/1705.04790)
+- ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. [`arxiv`](https://arxiv.org/abs/1707.01083) [`code`](https://github.com/camel007/Caffe-ShuffleNet)
 - Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.03441) [`code`](https://github.com/jingweimo/Modified-LSTM) :star: 
 - Sparse canonical correlation analysis. [`arxiv`](https://arxiv.org/abs/1705.10865)
 - Sparse Neural Networks Topologies. [`arxiv`](https://arxiv.org/abs/1706.05683) :star:
