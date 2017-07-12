@@ -420,6 +420,7 @@ You should find the papers and software with star flag are more important or pop
 - [Chainer Info](https://github.com/hidetomasuoka/chainer-info)
 - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
 - [Collection of reinforcement learners implemented in python.](https://github.com/Islandman93/reinforcepy)
+- [Curated list of python software and packages related to scientific research in audio](https://github.com/faroit/awesome-python-scientific-audio)
 - [Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
 - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision/)
 - [Deep Learning for Recommendation Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
