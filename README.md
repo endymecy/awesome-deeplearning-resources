@@ -311,6 +311,7 @@ You should find the papers and software with star flag are more important or pop
     - [Fast Multi(Interpolative) Style Transfer](https://github.com/Heumi/Fast_Multi_Style_Transfer-tf)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Feature Importance in the Inception (v1) Network](https://github.com/ankurtaly/Attributions)
+    - [Fully Convlutional Neural Networks for state-of-the-art time series classification](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline)
     - [Fully differentiable deep-neural decision forest in tensorflow](https://github.com/chrischoy/fully-differentiable-deep-ndf-tf)
     - [GA3C: Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/NVlabs/GA3C)
     - [Generic U-Net Tensorflow implementation for image segmentation](https://github.com/jakeret/tf_unet)
