@@ -329,13 +329,14 @@ You should find the papers and software with star flag are more important or pop
     - [Named Entity Recognition using Recurrent Neural Networks in Tensorflow and TFLearn](https://github.com/dhwajraj/NER-RNN)
     - [NeuroNER: Named-entity recognition using neural networks.](https://github.com/Franck-Dernoncourt/NeuroNER)
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
-    - [OCR text recognition using tensorflow with attention](https://github.com/pannous/tensorflow-ocr)
+    - [OCR text recognition using tensorflow with attention](https://github.com/pannous/tensorflow-ocr) :star:
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
     - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/charlesq34/pointnet) :star:
     - [Realistic Handwriting with Tensorflow](https://github.com/greydanus/scribe)
     - [Real-time Joint Semantic Reasoning for Autonomous Driving](https://github.com/MarvinTeichmann/MultiNet)
     - [Self-Driving Car Engineer Nanodegree](https://github.com/upul/Behavioral-Cloning)
     - [Sentiment Analysis with LSTMs in Tensorflow](https://github.com/adeshpande3/LSTM-Sentiment-Analysis)
+    - [Separating singing voice from music based on deep neural net in Tensorflow](https://github.com/andabi/music-source-separation)
     - [Sequence prediction using recurrent neural networks(LSTM) with TensorFlow](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
     - [Simple embedding based text classifier inspired by fastText, implemented in tensorflow](https://github.com/apcode/tensorflow_fasttext)
