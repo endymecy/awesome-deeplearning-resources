@@ -444,6 +444,7 @@ You should find the papers and software with star flag are more important or pop
 - [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 - [TensorFlow and Deep Learning Tutorials](https://github.com/wagamamaz/tensorflow-tutorial)
 - [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples) :star:
+- [TensorFlow World Resources](https://github.com/astorfi/TensorFlow-World-Resources)
 - [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
 - [Use PyTorch to implement some classic frameworks](https://github.com/sunshineatnoon/Paper-Implementations)
