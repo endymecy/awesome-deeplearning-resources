@@ -392,6 +392,7 @@ You should find the papers and software with star flag are more important or pop
 
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
 - [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
+- [A list of artificial intelligence tools you can use today](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 - [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
