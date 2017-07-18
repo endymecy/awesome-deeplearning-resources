@@ -170,6 +170,7 @@
 - Deep Learning Features at Scale for Visual Place Recognition. [`arxiv`](https://arxiv.org/abs/1701.05105)
 - Deep Learning for Tumor Classification in Imaging Mass Spectrometry. [`arxiv`](https://arxiv.org/abs/1705.01015)
 - Deep Hybrid Similarity Learning for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1702.04858)
+- Disentangling Motion, Foreground and Background Features in Videos. [`arxiv`](https://arxiv.org/abs/1707.04092) [`code`](https://github.com/imatge-upc/unsupervised-2017-cvprw)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
