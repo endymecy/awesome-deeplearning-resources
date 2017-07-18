@@ -124,7 +124,7 @@
 - Steerable CNNs. [`pdf`](https://openreview.net/pdf?id=rJQKYt5ll)
 - Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
 - Stochastic Subsampling for Factorizing Huge Matrices. [`arxiv`](https://arxiv.org/abs/1701.05363) [`code`](https://github.com/arthurmensch/modl)
-- Submanifold Sparse Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1706.01307)
+- Submanifold Sparse Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1706.01307) [`pytorch`](https://github.com/facebookresearch/SparseConvNet)
 - [The Cramer Distance as a Solution to Biased Wasserstein Gradients.](https://medium.com/towards-data-science/notes-on-the-cramer-gan-752abd505c00) [`arxiv`](https://arxiv.org/abs/1705.10743) [`pytorch`](https://github.com/ypxie/pytorch-cramer-Gan) :star:
 - The Future of Ad Blocking: An Analytical Framework and New Techniques. [`arxiv`](https://arxiv.org/abs/1705.08568) [`code`](https://github.com/citp/ad-blocking)
 - The Power of Sparsity in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.06257)
