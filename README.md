@@ -415,6 +415,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 - [Awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
+- [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 - [Awesome speech recognition papers](https://github.com/zzw922cn/awesome-speech-recognition-papers)
 - [Awesome speech recognition speech synthesis papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
