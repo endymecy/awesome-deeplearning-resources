@@ -476,6 +476,7 @@ You should find the papers and software with star flag are more important or pop
 - [An awesome list of high-quality datasets](https://webhose.io/datasets) :star:
 - [An awesome list of high-quality open datasets in public domains](https://github.com/caesar0301/awesome-public-datasets) :star:
 - [A new dataset for Attribute Based Classification and Zero-Shot Learning](http://cvml.ist.ac.at/AwA2/)
+- [A New Multi-Turn, Multi-Domain, Task-Oriented Dialogue Dataset](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/)
 - [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
 - [Cool Datasets](http://cooldataseWolfram Data Repositoryts.com/#Machine-Learning-Datasets) :star:
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
