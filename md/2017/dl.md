@@ -156,6 +156,7 @@
 - A Neural Representation of Sketch Drawings. [`arxiv`](https://arxiv.org/abs/1704.03477) [`pytorch`](https://github.com/alexis-jacq/Pytorch-Sketch-RNN) :star:
 - A network of deep neural networks for distant speech recognition. [`arXiv`](https://arxiv.org/abs/1703.08002) :star:
 - A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction. [`arxiv`](https://arxiv.org/abs/1701.06190)
+- Annotating Object Instances with a Polygon-RNN. [`arXiv`](https://arxiv.org/abs/1704.05548)
 - Class-Weighted Convolutional Features for Visual Instance Search. [`arxiv`](https://arxiv.org/abs/1707.02581) [`code`](https://github.com/imatge-upc/retrieval-2017-cam)
 - Convolutional 2D Knowledge Graph Embeddings. [`arxiv`](https://arxiv.org/abs/1707.01476) [`code`](https://github.com/TimDettmers/ConvE)
 - CortexNet: a Generic Network Family for Robust Visual Temporal Representations. [`arXiv`](https://arxiv.org/abs/1706.02735) [`code`](https://github.com/atcold/pytorch-CortexNet)
