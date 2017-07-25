@@ -28,6 +28,7 @@
 - End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks. [`arxiv`](https://arxiv.org/abs/1703.03305)
 - End-to-End Task-Completion Neural Dialogue Systems. [`arxiv`](https://arxiv.org/abs/1703.01008) [`code`](https://github.com/MiuLab/TC-Bot)] :star:
 - Explaining Recurrent Neural Network Predictions in Sentiment Analysis. [`arxiv`](https://arxiv.org/abs/1706.07206) [`code`](https://github.com/ArrasL/LRP_for_LSTM)
+- Fast and Accurate Entity Recognition with Iterated Dilated Convolutions. [`arxiv`](https://arxiv.org/abs/1702.02098) [`tensorflow`](https://github.com/iesl/dilated-cnn-ner)
 - Global Relation Embedding for Relation Extraction. [`arxiv`](https://arxiv.org/abs/1704.05958) [`code`](https://github.com/ppuliu/GloRE)
 - Graph Embedding Techniques, Applications, and Performance: A Survey. [`arxiv`](https://arxiv.org/abs/1705.02801) [`code`](https://github.com/palash1992/GEM)
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [`arxiv`](https://arxiv.org/abs/1701.00946)
