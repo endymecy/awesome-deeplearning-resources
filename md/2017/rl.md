@@ -2,6 +2,7 @@
 
 ### papers
 
+- A Distributional Perspective on Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1707.06887)
 - A Laplacian Framework for Option Discovery in Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.00956) :star:
 - Bridging the Gap Between Value and Policy Based Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08892)
 - Curiosity-driven Exploration by Self-supervised Prediction. [`arxiv`](https://arxiv.org/abs/1705.05363) [`tensorflow`](https://github.com/pathak22/noreward-rl)
