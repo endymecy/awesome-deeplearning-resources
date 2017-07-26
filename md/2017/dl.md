@@ -177,6 +177,7 @@
 - Deep Hybrid Similarity Learning for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1702.04858)
 - Disentangling Motion, Foreground and Background Features in Videos. [`arxiv`](https://arxiv.org/abs/1707.04092) [`code`](https://github.com/imatge-upc/unsupervised-2017-cvprw)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
+- Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [`arxiv`](https://arxiv.org/abs/1701.08251)
