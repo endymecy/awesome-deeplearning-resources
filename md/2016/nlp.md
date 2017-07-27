@@ -59,6 +59,7 @@
 - Parallelizing Word2Vec in Shared and Distributed Memory.[`arxiv`](https://arxiv.org/abs/1604.04661) [`code`](https://github.com/IntelLabs/pWord2Vec)
 - Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences. [`arxiv`](https://arxiv.org/abs/1610.09513) [`code`](https://github.com/dannyneil/public_plstm)
 - Recurrent Neural Network Grammars. [`arxiv`](https://arxiv.org/abs/1602.07776) :star: 
+- Reading Wikipedia to Answer Open-Domain Questions. [`arxiv`](https://arxiv.org/abs/1704.00051) [`pytorch`](https://github.com/facebookresearch/DrQA)
 - ReasoNet: Learning to Stop Reading in Machine Comprehension. [`arxiv`](https://arxiv.org/abs/1609.05284)
 - Sentence Level Recurrent Topic Model- Letting Topics Speak for Themselves. [`arxiv`](https://arxiv.org/abs/1604.02038)
 - Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction. [`pdf`](https://aclweb.org/anthology/W/W16/W16-0528.pdf)
