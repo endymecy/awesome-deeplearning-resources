@@ -285,6 +285,7 @@ You should find the papers and software with star flag are more important or pop
     - [A framework for developing and evaluating reinforcement learning algorithms](https://github.com/shaneshixiang/rllabplusplus)
     - [A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.](https://github.com/google/seq2seq)
     - [A generic image detection program that uses tensorflow and a pre-trained Inception.](https://github.com/ArunMichaelDsouza/tensorflow-image-detection)
+    - [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) :star:
     - [Applying transfer learning to a custom dataset by retraining Inception's final layer](https://github.com/HusainZafar/TransferLearningTutorial)
     - [An easy implement of VGG19 with tensorflow, which has a detailed explanation.](https://github.com/hjptriplebee/VGG19_with_tensorflow)
     - [An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.](https://github.com/kengz/openai_lab) :star:
