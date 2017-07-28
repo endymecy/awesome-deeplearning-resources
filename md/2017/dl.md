@@ -59,6 +59,7 @@
 - Dual Path Networks. [`arxiv`](https://arxiv.org/abs/1707.01629) [`pytorch`](https://github.com/oyam/pytorch-DPNs) :star:
 - <b>[DyNet]</b> The Dynamic Neural Network Toolkit. [`arxiv`](https://arxiv.org/abs/1701.03980) [`code`](https://github.com/clab/dynet) :star: 
 - Efficient Information Flow Maximization in Probabilistic Graphs. [`arxiv`](https://arxiv.org/abs/1701.05395)
+- Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback. [`pdf`](https://www.nature.com/articles/s41467-017-00181-8.pdf) [`code`](https://github.com/eminorhan/inevitable-probability) :star:
 - Encouraging LSTMs to Anticipate Actions Very Early. [`arxiv`](https://arxiv.org/abs/1703.07023)
 - Ensemble Sales Forecasting Study in Semiconductor Industry. [`arxiv`](https://arxiv.org/abs/1705.00003) [`code`](https://github.com/qx0731/ensemble_forecast_methods)
 - Evolving Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00548) :star:
