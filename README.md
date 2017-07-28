@@ -347,6 +347,7 @@ You should find the papers and software with star flag are more important or pop
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
     - [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
+    - [SSD: Single Shot MultiBox Detector in TensorFlow](https://github.com/balancap/SSD-Tensorflow) :star:
     - [Teach machine to write all we want](https://github.com/zzw922cn/Neural_Writing_Machine) :star:
     - [Tensorflow-based Distributed Factorization Machine](https://github.com/kopopt/fast_tffm) :star:
     - [TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer) :star:
