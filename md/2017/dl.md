@@ -75,6 +75,7 @@
 - Hidden Community Detection in Social Networks. [`arxiv`](https://arxiv.org/abs/1702.07462)
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [`arxiv`](https://arxiv.org/abs/1701.05616)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation. [`arxiv`](https://arxiv.org/abs/1704.03296)
+- Learning by Association - A versatile semi-supervised training method for neural networks. [`arxiv`](https://arxiv.org/abs/1706.00909) [`code`](https://github.com/haeusser/learning_by_association)
 - Learning Chained Deep Features and Classifiers for Cascade in Object Detection. [`arxiv`](https://arxiv.org/abs/1702.07054)
 - Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees. [`arxiv`](https://arxiv.org/abs/1702.08833) :star: 
 - Learning Gradient Descent: Better Generalization and Longer Horizons.  [`arxiv`](https://arxiv.org/abs/1703.03633) [`code`](https://github.com/vfleaking/rnnprop)
