@@ -114,6 +114,7 @@
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
 - Recurrent Additive Networks. [`arxiv`](https://arxiv.org/abs/1705.07393) [`pytorch`](https://github.com/bheinzerling/ran) :star:
 - Reducing Reparameterization Gradient Variance. [`arxiv`](https://arxiv.org/abs/1705.07880) [`code`](https://github.com/andymiller/ReducedVarianceReparamGradients)
+- Resting state fMRI functional connectivity-based classification using a convolutional neural network architecture. [`arxiv`](https://arxiv.org/abs/1707.06682) [`code`](https://github.com/MRegina/connectome_conv_net)
 - Scaling the Scattering Transform: Deep Hybrid Networks. [`arxiv`](https://arxiv.org/abs/1703.08961) [`torch`](https://github.com/edouardoyallon/pyscatwave)
 - [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts.](https://deepmind.com/blog/imagine-creating-new-visual-concepts-recombining-familiar-ones/) [`arxiv`](https://arxiv.org/abs/1707.03389)
 - [See, Hear, and Read: Deep Aligned Representations.](http://people.csail.mit.edu/yusuf/see-hear-read/) [`arxiv`](https://arxiv.org/abs/1706.00932)
