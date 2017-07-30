@@ -53,6 +53,7 @@
 - Neural Probabilistic Model for Non-projective MST Parsing. [`arxiv`](https://arxiv.org/abs/1701.00874)
 - N-gram Language Modeling using Recurrent Neural Network Estimation. [`arxiv`](https://arxiv.org/abs/1703.10724) :star:
 - One Representation per Word - Does it make Sense for Composition?.  [`arxiv`](https://arxiv.org/abs/1702.06696)
+- Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks. [`arxiv`](https://arxiv.org/abs/1707.06799) [`tensorflow`](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf) :star:
 - Outlier Detection for Text Data : An Extended Version. [`arxiv`](https://128.84.21.199/abs/1701.01325v1)
 - Person Search with Natural Language Description. [`arxiv`](https://arxiv.org/abs/1702.05729)
 - Question Answering from Unstructured Text by Retrieval and Comprehension. [`arxiv`](https://arxiv.org/abs/1703.08885)
