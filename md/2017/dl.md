@@ -127,6 +127,7 @@
 - ShortFuse: Biomedical Time Series Representations in the Presence of Structured Information. [`arxiv`](https://arxiv.org/abs/1705.04790)
 - ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. [`arxiv`](https://arxiv.org/abs/1707.01083) [`code`](https://github.com/camel007/Caffe-ShuffleNet)
 - Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.03441) [`code`](https://github.com/jingweimo/Modified-LSTM) :star: 
+- SmoothGrad: removing noise by adding noise. [`arxiv`](https://arxiv.org/abs/1706.03825) [`code`](https://github.com/PAIR-code/saliency)
 - Sparse canonical correlation analysis. [`arxiv`](https://arxiv.org/abs/1705.10865)
 - Sparse Neural Networks Topologies. [`arxiv`](https://arxiv.org/abs/1706.05683) :star:
 - Statistical inference for network samples using subgraph counts. [`arxiv`](https://arxiv.org/abs/1701.00505)
