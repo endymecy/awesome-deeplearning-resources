@@ -310,6 +310,7 @@ You should find the papers and software with star flag are more important or pop
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Dynamic Memory Network implementation in TensorFlow](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow)
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
+    - [Face Rank - Rank Face by CNN Model based on TensorFlow](https://github.com/fendouai/FaceRank)
     - [Fast Multi(Interpolative) Style Transfer](https://github.com/Heumi/Fast_Multi_Style_Transfer-tf)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
     - [Feature Importance in the Inception (v1) Network](https://github.com/ankurtaly/Attributions)
