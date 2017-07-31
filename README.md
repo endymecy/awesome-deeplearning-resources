@@ -339,6 +339,7 @@ You should find the papers and software with star flag are more important or pop
     - [Realistic Handwriting with Tensorflow](https://github.com/greydanus/scribe)
     - [Real-time Joint Semantic Reasoning for Autonomous Driving](https://github.com/MarvinTeichmann/MultiNet)
     - [RL course experiments](https://github.com/Scitator/rl-course-experiments)
+    - [Raccoon Detector Dataset](https://github.com/datitran/raccoon-dataset)
     - [Self-Driving Car Engineer Nanodegree](https://github.com/upul/Behavioral-Cloning)
     - [Sentiment Analysis with LSTMs in Tensorflow](https://github.com/adeshpande3/LSTM-Sentiment-Analysis)
     - [Separating singing voice from music based on deep neural net in Tensorflow](https://github.com/andabi/music-source-separation)
