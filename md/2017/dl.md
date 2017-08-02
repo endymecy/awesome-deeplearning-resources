@@ -188,6 +188,7 @@
 - Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
+- FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras. [`arxiv`](https://arxiv.org/abs/1707.09476)
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [`arxiv`](https://arxiv.org/abs/1701.08251)
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1701.02096) [`code`](https://github.com/DmitryUlyanov/texture_nets)
 - Joint auto-encoders: a flexible multi-task learning framework. [`arxiv`](https://arxiv.org/abs/1705.10494)
