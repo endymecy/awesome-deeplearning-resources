@@ -371,6 +371,7 @@
 - Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04488) [`code`](https://github.com/jincy520/Low-Resource-CWS-)
 - Transfer learning for music classification and regression tasks. [`arxiv`](https://arxiv.org/abs/1703.09179) [`keras`](https://github.com/keunwoochoi/transfer_learning_music)
 - Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks.  [`arxiv`](https://arxiv.org/abs/1703.06345)
+- Transfer Learning with Label Noise. [`arxiv`](https://arxiv.org/abs/1707.09724)
 - Unsupervised Image-to-Image Translation Networks. [`arxiv`](https://arxiv.org/abs/1703.00848)
 - Visual Attribute Transfer through Deep Image Analogy. [`arxiv`](https://arxiv.org/abs/1705.01088) [`code`](https://github.com/msracver/Deep-Image-Analogy)
 - Zero-Shot Transfer Learning for Event Extraction. [`arxiv`](https://arxiv.org/abs/1707.01066)
