@@ -376,6 +376,7 @@ You should find the papers and software with star flag are more important or pop
     - [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete)
     - [Attention mechanism Implementation for Keras.](https://github.com/philipperemy/keras-attention-mechanism)
     - [Automated deep neural network design with genetic programming](https://github.com/joeddav/devol) :star:
+    - [Code for Document Similarity on Reuters dataset using Encode, Embed, Attend, Predict recipe](https://github.com/sujitpal/eeap-examples)
     - [Deep Voice: Real-time Neural Text-to-Speech](https://github.com/israelg99/deepvoice)
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
     - [Experimental implementation of novel neural network structures](https://github.com/DingKe/nn_playground)
