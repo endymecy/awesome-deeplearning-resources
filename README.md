@@ -262,6 +262,7 @@ You should find the papers and software with star flag are more important or pop
     - [Probabilistic Programming and Statistical Inference in PyTorch](https://github.com/stepelu/ptstat)
     - [PyTorch Implementation of CycleGAN and SGAN for Domain Transfer](https://github.com/yunjey/mnist-svhn-transfer)
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
+    - [Pytorch Implementation of Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/ceshine/fast-neural-style)
     - [pytorch implementation of grammar variational autoencoder](https://github.com/episodeyang/grammar_variational_autoencoder)
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
     - [PyTorch implementation of the Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
