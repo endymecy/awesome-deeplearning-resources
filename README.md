@@ -95,6 +95,7 @@ You should find the papers and software with star flag are more important or pop
 * [Chinese word vectors](https://github.com/candlewill/Chinsese_word_vectors)
 * [Dependency-Based Word Embeddings.](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/)
 * [Development kit for MIT Scene Parsing Benchmark](https://github.com/CSAILVision/sceneparsing)
+* [English word vectors](https://fasttext.cc/docs/en/english-vectors.html)
 * [GloVe: Global Vectors for Word Representation](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
 * [Pre-Trained Doc2Vec Models](https://github.com/jhlau/doc2vec)
