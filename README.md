@@ -233,6 +233,8 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Torch7`</b> [Deep learning library in Lua, used by Facebook and Google Deepmind](http://torch.ch/)  :star:
 - `Php`
     - <b>`PHP-ML`</b> [Machine Learning library for PHP](https://github.com/php-ai/php-ml)
+- `Dub`
+    - <b>`Vectorflow`</b> [A minimalist neural network library optimized for sparse data and single machine environments.](https://github.com/Netflix/vectorflow)
     
 # Applications
 
