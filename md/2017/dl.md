@@ -317,6 +317,7 @@
 - Learning Texture Manifolds with the Periodic Spatial GAN. [`arxiv`](https://arxiv.org/abs/1705.06566) [`code`](https://github.com/ubergmann/psgan)
 - Lifelong Generative Modeling. [`arxiv`](https://arxiv.org/abs/1705.09847) [`code`](https://github.com/jramapuram/LifelongVAE)
 - Learning Disentangled Representations with Semi-Supervised Deep Generative Models. [`arxiv`](https://arxiv.org/abs/1706.00400)
+- LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation. [`arxiv`](https://arxiv.org/abs/1703.01560) [`pytorch`](https://github.com/jwyang/lr-gan.pytorch)
 - <b>[DiscoGAN]</b> Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [`code`](https://github.com/dhgrs/chainer-DiscoGAN) :star:
 - Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.07319)
 - [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [`code`](https://github.com/guojunq/lsgan)
