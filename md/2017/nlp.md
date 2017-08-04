@@ -52,6 +52,7 @@
 - Machine Comprehension by Text-to-Text Neural Question Generation. [`arxiv`](https://arxiv.org/abs/1705.02012)
 - Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities. [`arxiv`](https://arxiv.org/abs/1701.02025)
 - Named Entity Recognition with stack residual LSTM and trainable bias decoding. [`arxiv`](https://arxiv.org/abs/1706.07598) :star:
+- Natural Language Processing with Small Feed-Forward Networks. [`arxiv`](https://arxiv.org/abs/1708.00214)
 - Neural Probabilistic Model for Non-projective MST Parsing. [`arxiv`](https://arxiv.org/abs/1701.00874)
 - N-gram Language Modeling using Recurrent Neural Network Estimation. [`arxiv`](https://arxiv.org/abs/1703.10724) :star:
 - One Representation per Word - Does it make Sense for Composition?.  [`arxiv`](https://arxiv.org/abs/1702.06696)
