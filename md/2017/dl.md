@@ -151,6 +151,7 @@
 - [Understanding deep learning requires rethinking generalization.](http://weibo.com/ttarticle/p/show?id=2309351000224100795007132875&u=1402400261&m=4100900743750148&cu=3655689037) [`arxiv`](https://arxiv.org/abs/1611.03530) :star:
 - Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04128)
 - Understanding trained CNNs by indexing neuron selectivity. [`arxiv`](https://arxiv.org/abs/1702.00382)
+- Unsupervised Representation Learning by Sorting Sequences. [`arxiv`](https://arxiv.org/abs/1708.01246) [`code`](https://github.com/HsinYingLee/OPN)
 - Variational Inference using Implicit Distributions. [`arxiv`](https://arxiv.org/abs/1702.08235)
 - Visual Explanations for Convolutional Neural Networks via Input Resampling. [`arxiv`](https://arxiv.org/abs/1707.09641) [`code`](https://github.com/blengerich/explainable-cnn)
 - Who Said What: Modeling Individual Labelers Improves Classification. [`arxiv`](https://arxiv.org/abs/1703.08774) :star:
