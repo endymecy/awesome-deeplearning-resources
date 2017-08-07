@@ -366,6 +366,7 @@
 - One-Shot Imitation Learning. [`arxiv`](https://arxiv.org/abs/1703.07326) :star:
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[`arxiv`](https://arxiv.org/abs/1701.08734) :star:
 - Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)
+- Real-Time Neural Style Transfer for Videos. [`pdf`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)
 - Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
 - StyleBank: An Explicit Representation for Neural Image Style Transfer. [`arxiv`](https://arxiv.org/abs/1703.09210)
 - Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN. [`arxiv`](https://arxiv.org/abs/1706.03319)
