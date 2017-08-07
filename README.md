@@ -380,6 +380,7 @@ You should find the papers and software with star flag are more important or pop
     - [Various models and code for the paraphrase identification task, specifically with the Quora Question Pairs dataset.](https://github.com/nelson-liu/paraphrase-id-tensorflow)
     - [中文古诗自动作诗机器人](https://github.com/jinfagang/tensorflow_poems)
 - Keras
+    - [A DCGAN to generate anime faces using custom mined dataset](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras)
     - [A facial expression classification system that recognizes 6 basic emotions: happy, sad, surprise, fear, anger and neutral.](https://github.com/JostineHo/mememoji)
     - [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete)
     - [Attention mechanism Implementation for Keras.](https://github.com/philipperemy/keras-attention-mechanism)
