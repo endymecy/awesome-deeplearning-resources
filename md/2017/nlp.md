@@ -82,6 +82,7 @@
 
 - End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
 - Frustratingly Short Attention Spans in Neural Language Modeling. [`arxiv`](https://arxiv.org/abs/1702.04521)
+- Recurrent Neural Network-Based Sentence Encoder with Gated Attention for Natural Language Inference. [`arxiv`](https://arxiv.org/abs/1708.01353) [`code`](https://github.com/lukecq1231/enc_nli)
 - Structural Attention Neural Networks for improved sentiment analysis. [`arxiv`](https://arxiv.org/abs/1701.01811)
 
 ### Generative learning
