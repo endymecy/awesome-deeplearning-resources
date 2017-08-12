@@ -77,6 +77,7 @@
 - Hidden Community Detection in Social Networks. [`arxiv`](https://arxiv.org/abs/1702.07462)
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [`arxiv`](https://arxiv.org/abs/1701.05616)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation. [`arxiv`](https://arxiv.org/abs/1704.03296)
+- Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization. [`arxiv`](https://arxiv.org/abs/1708.01001) [`caffe`](https://github.com/dongyp13/Stochastic-Quantization)
 - Learning Bag-of-Features Pooling for Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1707.08105) [`code`](https://github.com/passalis/cbof)
 - Learning by Association - A versatile semi-supervised training method for neural networks. [`arxiv`](https://arxiv.org/abs/1706.00909) [`code`](https://github.com/haeusser/learning_by_association)
 - Learning Chained Deep Features and Classifiers for Cascade in Object Detection. [`arxiv`](https://arxiv.org/abs/1702.07054)
