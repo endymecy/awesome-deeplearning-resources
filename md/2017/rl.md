@@ -12,6 +12,7 @@
 - Device Placement Optimization with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1706.04972)
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.03864)
 - Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.06769)
+- Learning how to Active Learn: A Deep Reinforcement Learning Approach. [`arxiv`](https://arxiv.org/abs/1708.02383) [`tensorflow`](https://github.com/mengf1/PAL)
 - Learning Multimodal Transition Dynamics for Model-Based Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.00470) [`tensorflow`](https://github.com/tmoer/multimodal_varinf)
 - Micro-Objective Learning : Accelerating Deep Reinforcement Learning through the Discovery of Continuous Subgoals. [`arxiv`](https://arxiv.org/abs/1703.03933)
 - Neural Architecture Search with Reinforcement Learning. [`arxiv`](Neural Architecture Search with Reinforcement Learning) [`tensorflow`](https://github.com/tensorflow/models)
