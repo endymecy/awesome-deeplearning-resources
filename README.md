@@ -255,6 +255,7 @@ You should find the papers and software with star flag are more important or pop
     - [Deep Q-Learning Network in pytorch](https://github.com/transedward/pytorch-dqn)
     - [Draw like Bob Ross using the power of Neural Networks](https://github.com/kendricktan/drawlikebobross)
     - [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle)
+    - [Faster RCNN with PyTorch](https://github.com/longcw/faster_rcnn_pytorch)
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
     - [Image Classification Project Killer in PyTorch](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) :star:
