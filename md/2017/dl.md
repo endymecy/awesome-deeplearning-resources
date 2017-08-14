@@ -206,6 +206,7 @@
 - Learning a time-dependent master saliency map from eye-tracking data in videos. [`arxiv`](https://arxiv.org/abs/1702.00714) [`code`](http://antoinecoutrot.magix.net/public/saliency-with-lasso.html)
 - Learning Deep Representations for Scene Labeling with Semantic Context Guided Supervision. [`arxiv`](https://arxiv.org/abs/1706.02493)
 - Learning Deep ResNet Blocks Sequentially using Boosting Theory. [`arxiv`](https://arxiv.org/abs/1706.04964)
+- Learning Feature Pyramids for Human Pose Estimation. [`arxiv`](https://arxiv.org/abs/1708.01101) [`code`](https://github.com/bearpaw/PyraNet)
 - Learning to Estimate 3D Hand Pose from Single RGB Images. [`arxiv`](https://arxiv.org/abs/1705.01389) [`tensorflow`](https://github.com/lmb-freiburg/hand3d)
 - Learning to Estimate Pose by Watching Videos. [`arxiv`](https://arxiv.org/abs/1704.04081) 
 - Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models. [`arxiv`](https://arxiv.org/abs/1702.06228)
