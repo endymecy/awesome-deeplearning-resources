@@ -149,6 +149,7 @@
 - Towards a New Interpretation of Separable Convolutions. [`arxiv`](https://arxiv.org/abs/1701.04489)
 - Towards Deeper Understanding of Variational Autoencoding Models. [`arxiv`](https://arxiv.org/abs/1702.08658) [`code`](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
 - Towards Understanding Generalization of Deep Learning: Perspective of Loss Landscapes. [`arxiv`](https://arxiv.org/abs/1706.10239)
+- Training a Fully Convolutional Neural Network to Route Integrated Circuits. [`arxiv`](https://arxiv.org/abs/1706.08948) [`pytorch`](https://github.com/sjain-stanford/deep-route)
 - Training Quantized Nets: A Deeper Understanding. [`arxiv`](https://arxiv.org/abs/1706.02379)
 - Train longer, generalize better: closing the generalization gap in large batch training of neural networks. [`arxiv`](https://arxiv.org/abs/1705.08741) [`pytorch`](https://github.com/eladhoffer/bigBatch)
 - Trust Region Policy Optimization.  [`arxiv`](https://arxiv.org/abs/1502.05477) [`pytorch`](https://github.com/ikostrikov/pytorch-trpo)
