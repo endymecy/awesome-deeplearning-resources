@@ -494,6 +494,7 @@ You should find the papers and software with star flag are more important or pop
 - [语料库在线](http://www.cncorpus.org/index.aspx)
 - [中文句结构树资料库](http://turing.iis.sinica.edu.tw/treesearch/)
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
+- [联合国平行语料库](https://conferences.unite.un.org/UNCorpus/zh)
 - [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 - [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
 - [A dataset for book recommendations: ten thousand books, one million ratings](https://www.kaggle.com/zygmunt/goodbooks-10k)
