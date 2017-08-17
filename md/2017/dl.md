@@ -56,6 +56,7 @@
 - Diagonal RNNs in Symbolic Music Modeling. [`arxiv`](https://arxiv.org/abs/1704.05420) [`tensorflow`](https://github.com/ycemsubakan/diagonal_rnns)
 - Dilated Residual Networks. [`arxiv`](https://arxiv.org/abs/1705.09914) :star:
 - Distributed Online Learning of Event Definitions. [`arxiv`](https://arxiv.org/abs/1705.02175)
+- Dockerface: an easy to install and use Faster R-CNN face detector in a Docker container. [`arxiv`](https://arxiv.org/abs/1708.04370) [`code`](https://github.com/natanielruiz/dockerface)
 - Doubly Stochastic Variational Inference for Deep Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1705.08933) [`code`](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
 - DSOD: Learning Deeply Supervised Object Detectors from Scratch. [`arxiv`](https://arxiv.org/abs/1708.01241) [`caffe`](https://github.com/szq0214/DSOD)
 - Dual Path Networks. [`arxiv`](https://arxiv.org/abs/1707.01629) [`pytorch`](https://github.com/oyam/pytorch-DPNs) :star:
