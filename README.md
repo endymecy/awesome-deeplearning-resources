@@ -356,6 +356,7 @@ You should find the papers and software with star flag are more important or pop
     - [Implementation of Google's Tacotron in TensorFlow](https://github.com/barronalex/Tacotron)
     - [Implementations of deep RL papers and random experimentation](https://github.com/steveKapturowski/tensorflow-rl) :star:
     - [Implementation of Monte Carlo Word Movers Distance in Python with TensorFlow](https://github.com/jwbaum91/MCWMD)
+    - [Implementation of Restricted Boltzmann Machine (RBM) and its variants in Tensorflow](https://github.com/omimo/xRBM)
     - [Implementation of SmoothGrad as well as several other saliency techniques](https://github.com/tensorflow/saliency)
     - [Implementation of the Differentiable Neural Computer in Tensorflow](https://github.com/bgavran/DNC)
     - [Interactive, node-by-node debugging and visualization for TensorFlow](https://github.com/ericjang/tdb) :star:
