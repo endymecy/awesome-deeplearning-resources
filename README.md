@@ -433,6 +433,7 @@ You should find the papers and software with star flag are more important or pop
     - [Transfer learning for flight-delay prediction via variational autoencoders in Keras](https://github.com/cavaunpeu/flight-delays)
     - [Using Keras to implement recommender systems](https://github.com/sonyisme/keras-recommendation) :star:
     - [Wasserstein DCGAN in Tensorflow/Keras](https://github.com/kuleshov/tf-wgan)
+    - [W-net: Self-Supervised Learning of Depthmap from Stereo Images.](https://github.com/LouisFoucard/w-net)
     
 # Awesome Projects
 
