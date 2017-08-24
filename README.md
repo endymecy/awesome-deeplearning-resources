@@ -495,6 +495,7 @@ You should find the papers and software with star flag are more important or pop
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 - [Really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 - [Really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation)
+- [Related Paper of Efficient Deep Neural Networks](https://github.com/Zhouaojun/Efficient-Deep-Learning)
 - [Repository to research & share the machine learning articles](https://github.com/arXivTimes/arXivTimes)
 - [Resources and codes about transfer learning and domain adaptation](https://github.com/jindongwang/transferlearning)
 - [SCODE Word Embeddings using Substitute Words](https://github.com/ai-ku/wvec)
