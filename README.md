@@ -270,6 +270,7 @@ You should find the papers and software with star flag are more important or pop
     - [A PyTorch Implementation for Triplet Networks](https://github.com/andreasveit/triplet-network-pytorch)
     - [A PyTorch Implementation of Single Shot MultiBox Detector.](https://github.com/amdegroot/ssd.pytorch)
     - [A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
+    - [A short tutorial on performing fine tuning or transfer learning in PyTorch.](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial)
     - [A utility library around PyTorch](https://github.com/nasimrahaman/inferno)
     - [Comprehensive Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
