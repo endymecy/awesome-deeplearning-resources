@@ -542,6 +542,7 @@ You should find the papers and software with star flag are more important or pop
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
 - [DATASETS FOR DATA MINING](http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html)
 - [Datasets of Annotated Semantic Relationships](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
+- [Datasets for Data Science and Machine Learning](https://elitedatascience.com/datasets)
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 - [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
