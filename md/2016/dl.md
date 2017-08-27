@@ -40,7 +40,7 @@
 - Deep Neural Networks for YouTube Recommendations. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU-vfIhdjQAhXMe7wKHclLCoIQFggbMAA&url=http%3A%2F%2Fresearch.google.com%2Fpubs%2Farchive%2F45530.pdf&usg=AFQjCNGW4ovtzUBkxT4qx4mnogD74QHfzA)]
 - Deep Portfolio Theory. [`arxiv`](https://arxiv.org/pdf/1605.07230.pdf)
 - Deeply-Fused Nets. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjm87i4htjQAhXHxLwKHRW4CfkQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07716&usg=AFQjCNFr85h2BVJrvAqLlIqT_JhQP7wnzA)] :star: 
-- DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing. [`arxiv`](https://arxiv.org/abs/1611.01942)
+- DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing. [`arxiv`](https://arxiv.org/abs/1611.01942) [`code`](https://github.com/yscacaca/DeepSense)
 - Densely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1608.06993) [`pytorch`](http://www.weibo.com/1402400261/FfDPdBLum?type=comment)
 - Detect, Replace, Refine: Deep Structured Prediction For Pixel Wise Labeling. [`arxiv`](https://arxiv.org/abs/1612.04770) [`code`](https://github.com/gidariss/DRR_struct_pred)
 - <b>[DenseNet]</b> [Densely Connected Convolutional Networks.](https://medium.com/@illarionkhlestov/notes-on-the-implementation-densenet-in-tensorflow-beeda9dd1504#.a88ur45ce) [`arxiv`](https://arxiv.org/abs/1608.06993) [`pytorch`](https://github.com/andreasveit/densenet-pytorch) :star:
