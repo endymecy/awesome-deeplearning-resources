@@ -335,6 +335,7 @@ You should find the papers and software with star flag are more important or pop
     - [A tiny implementation of Deep Q Learning, using TensorFlow and OpenAI gym](https://github.com/ageron/tiny-dqn)
     - [Char-RNN implemented using TensorFlow.](https://github.com/crazydonkey200/tensorflow-char-rnn)
     - [Chinese Handwriting Recognition with CNNs](https://github.com/atgambardella/handwriting)
+    - [Collection of generative models in Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
     - [Convolutional Neural Network for Multi-label Multi-instance Relation Extraction in Tensorflow](https://github.com/may-/cnn-re-tf)
     - [Deep-Atrous-CNN-Text-Network: End-to-end word level model for sentiment analysis and other text classifications](https://github.com/randomrandom/deep-atrous-cnn-sentiment)
     - [DeepColor: Automatic coloring and shading of manga-style lineart](https://github.com/kvfrans/deepcolor)
