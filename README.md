@@ -299,6 +299,7 @@ You should find the papers and software with star flag are more important or pop
     - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Quickly comparing your image classification models with the state-of-the-art models](https://github.com/felixgwu/img_classification_pk_pytorch)
+    - [Semantic Image Segmentation in Pytorch](https://github.com/warmspringwinds/dense-ai)
     - [Semantic Segmentation Architectures Implemented in PyTorch](https://github.com/meetshah1995/pytorch-semseg)
     - [Sequence-to-Sequence learning using PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
     - [Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
