@@ -535,6 +535,7 @@ You should find the papers and software with star flag are more important or pop
 - [A dataset of 200k English plaintext jokes.](https://github.com/taivop/joke-dataset)
 - [A large-scale and high-qualityFMA: A Dataset For Music Analysis dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
 - [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
+- [A MNIST-like fashion product database](https://github.com/zalandoresearch/fashion-mnist) :star:
 - [An awesome list of high-quality datasets](https://webhose.io/datasets) :star:
 - [An awesome list of high-quality open datasets in public domains](https://github.com/caesar0301/awesome-public-datasets) :star:
 - [A new dataset for Attribute Based Classification and Zero-Shot Learning](http://cvml.ist.ac.at/AwA2/)
