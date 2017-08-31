@@ -76,6 +76,7 @@
 - Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.05923)
 - gkm-DNN: efficient prediction using gapped k-mer features and deep neural networks. [`pdf`](http://www.biorxiv.org/content/biorxiv/early/2017/07/31/170761.full.pdf)
 - Good Semi-supervised Learning that Requires a Bad GAN. [`arxiv`](https://arxiv.org/abs/1705.09783)
+- Gradual Learning of Deep Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1708.08863) 
 - Graffinity: Visualizing Connectivity In Large Graphs. [`arxiv`](https://arxiv.org/abs/1703.07729) [`code`](https://github.com/visdesignlab/graffinity)
 - Graph Structure Learning from Unlabeled Data for Event Detection. [`arxiv`](https://arxiv.org/abs/1701.01470)
 - Hidden Community Detection in Social Networks. [`arxiv`](https://arxiv.org/abs/1702.07462)
