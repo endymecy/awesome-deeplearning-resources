@@ -510,6 +510,7 @@ You should find the papers and software with star flag are more important or pop
 - [TensorFlow World Resources](https://github.com/astorfi/TensorFlow-World-Resources)
 - [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
+- [Using python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Use PyTorch to implement some classic frameworks](https://github.com/sunshineatnoon/Paper-Implementations)
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
 - [机器学习资源 Machine learning](https://github.com/allmachinelearning/MachineLearning)
