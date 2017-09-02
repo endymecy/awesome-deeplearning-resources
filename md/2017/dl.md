@@ -117,6 +117,7 @@
 - <b>[PathNet]</b> Evolution Channels Gradient Descent in Super Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.08734) [`tensorflow`](https://github.com/jaesik817/pathnet):star:
 - pix2code: Generating Code from a Graphical User Interface Screenshot. [`arxiv`](https://arxiv.org/abs/1705.07962) [`code`](https://github.com/tonybeltramelli/pix2code)
 - PixelNet: Representation of the pixels, by the pixels, and for the pixels. [`arxiv`](https://arxiv.org/abs/1702.06506) [`code`](https://github.com/aayushbansal/PixelNet)
+- PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. [`arxiv`](https://arxiv.org/abs/1706.02413) [`code`](https://github.com/charlesq34/pointnet2)
 - Privileged Multi-label Learning. [`arxiv`](https://arxiv.org/abs/1701.07194)
 - QCD-Aware Recursive Neural Networks for Jet Physics. [`arxiv`](https://arxiv.org/abs/1702.00748) [`code`](https://github.com/glouppe/recnn)
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
