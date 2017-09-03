@@ -411,6 +411,7 @@ You should find the papers and software with star flag are more important or pop
     - [Udacity SDC: Vehicle Detection](https://github.com/balancap/SDC-Vehicle-Detection) :star:
     - [Using neural networks to build an automatic number plate recognition system](https://github.com/matthewearl/deep-anpr) :star:
     - [Various models and code for the paraphrase identification task, specifically with the Quora Question Pairs dataset.](https://github.com/nelson-liu/paraphrase-id-tensorflow)
+    - [基于LSTM的中文问答系统](https://github.com/S-H-Y-GitHub/QA)
     - [中文古诗自动作诗机器人](https://github.com/jinfagang/tensorflow_poems)
 - Keras
     - [A DCGAN to generate anime faces using custom mined dataset](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras)
