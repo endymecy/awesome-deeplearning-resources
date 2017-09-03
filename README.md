@@ -461,6 +461,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Chatbot Projects,Corpus,Papers,Tutorials.](https://github.com/fendouai/Awesome-Chatbot)
 - [Awesome deep vision web demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 - [Awesome Caffe](https://github.com/MichaelXin/Awesome-Caffe)
+- [Awesome Chatbot Projects](https://github.com/fendouai/Awesome-Chatbot)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
 - [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
