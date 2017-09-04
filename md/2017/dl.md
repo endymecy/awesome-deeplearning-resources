@@ -62,6 +62,7 @@
 - DSOD: Learning Deeply Supervised Object Detectors from Scratch. [`arxiv`](https://arxiv.org/abs/1708.01241) [`caffe`](https://github.com/szq0214/DSOD)
 - Dual Path Networks. [`arxiv`](https://arxiv.org/abs/1707.01629) [`pytorch`](https://github.com/oyam/pytorch-DPNs) :star:
 - <b>[DyNet]</b> The Dynamic Neural Network Toolkit. [`arxiv`](https://arxiv.org/abs/1701.03980) [`code`](https://github.com/clab/dynet) :star: 
+- EC3: Combining Clustering and Classification for Ensemble Learning. [`arxiv`](https://arxiv.org/abs/1708.08591)
 - Efficient Information Flow Maximization in Probabilistic Graphs. [`arxiv`](https://arxiv.org/abs/1701.05395)
 - Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback. [`pdf`](https://www.nature.com/articles/s41467-017-00181-8.pdf) [`code`](https://github.com/eminorhan/inevitable-probability) :star:
 - Encouraging LSTMs to Anticipate Actions Very Early. [`arxiv`](https://arxiv.org/abs/1703.07023)
