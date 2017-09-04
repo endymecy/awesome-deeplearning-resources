@@ -21,6 +21,7 @@
 - Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex.  [`arxiv`](https://arxiv.org/abs/1604.03640)
 - Building Machines That Learn and Think Like People. [`pdf`](http://www.mit.edu/~tomeru/papers/machines_that_think.pdf) :star: 
 - Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors. [`arxiv`](https://arxiv.org/abs/1612.04342)
+- CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples. [`arxiv`](https://arxiv.org/abs/1604.02426) [`code`](https://github.com/filipradenovic/cnnimageretrieval)
 - Composing graphical models with neural networks for structured representations and fast inference .[`arxiv`](https://arxiv.org/abs/1603.06277) [`code`](https://github.com/mattjj/svae)
 - Conditional Generative Moment-Matching Networks. [`arxiv`](https://arxiv.org/abs/1606.04218)
 - Context Encoders: Feature Learning by Inpainting. [`arxiv`](https://arxiv.org/abs/1604.07379) [`pytorch`](https://github.com/BoyuanJiang/context_encoder_pytorch)
