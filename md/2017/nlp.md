@@ -11,6 +11,7 @@
 - A Tidy Data Model for Natural Language Processing using cleanNLP. [`arXiv`](https://arxiv.org/abs/1703.09570)
 - Attention-based Natural Language Person Retrieval. [`arxiv`](https://arxiv.org/abs/1705.08923)
 - Autoencoding Variational Inference For Topic Models. [`arxiv`](https://arxiv.org/abs/1703.01488) [`tensorflow`](https://github.com/akashgit/autoencoding_vi_for_topic_models) :star:
+- Automated Crowdturfing Attacks and Defenses in Online Review Systems. [`arxiv`](https://arxiv.org/abs/1708.08151)
 - Automatic Rule Extraction from Long Short Term Memory Networks. [`arxiv`](https://arxiv.org/abs/1702.02540)
 - A Wavenet for Speech Denoising. [`arxiv`](https://arxiv.org/abs/1706.07162) [`code`](https://github.com/drethage/speech-denoising-wavenet)
 - Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow. [`url`](https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274) [`tensorflow`](https://github.com/dmesquita/understanding_tensorflow_nn)
