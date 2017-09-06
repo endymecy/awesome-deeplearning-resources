@@ -204,6 +204,7 @@
 - DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild. [`arxiv`](https://arxiv.org/abs/1612.01202) [`code`](https://github.com/ralpguler/DenseReg)
 - Detecting Oriented Text in Natural Images by Linking Segments. [`arxiv`](https://arxiv.org/abs/1703.06520) [`tensorflow`](https://github.com/dengdan/seglink) :star:
 - Disentangling Motion, Foreground and Background Features in Videos. [`arxiv`](https://arxiv.org/abs/1707.04092) [`code`](https://github.com/imatge-upc/unsupervised-2017-cvprw)
+- Disguised Face Identification (DFI) with Facial KeyPoints using Spatial Fusion Convolutional Network. [`arxiv`](https://arxiv.org/abs/1708.09317)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
 - End-to-end Training for Whole Image Breast Cancer Diagnosis using An All Convolutional Design. [`arxiv`](https://arxiv.org/abs/1708.09427) [`code`](https://github.com/lishen/end2end-all-conv)
 - Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
