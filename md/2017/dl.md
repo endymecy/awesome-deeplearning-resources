@@ -82,6 +82,7 @@
 - Graffinity: Visualizing Connectivity In Large Graphs. [`arxiv`](https://arxiv.org/abs/1703.07729) [`code`](https://github.com/visdesignlab/graffinity)
 - Graph Structure Learning from Unlabeled Data for Event Detection. [`arxiv`](https://arxiv.org/abs/1701.01470)
 - Hidden Community Detection in Social Networks. [`arxiv`](https://arxiv.org/abs/1702.07462)
+- Hierarchical loss for classification. [`arxiv`](https://arxiv.org/abs/1709.01062)
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [`arxiv`](https://arxiv.org/abs/1701.05616)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation. [`arxiv`](https://arxiv.org/abs/1704.03296)
 - Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization. [`arxiv`](https://arxiv.org/abs/1708.01001) [`caffe`](https://github.com/dongyp13/Stochastic-Quantization)
