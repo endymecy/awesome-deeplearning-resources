@@ -96,6 +96,7 @@
 - Learning Gradient Descent: Better Generalization and Longer Horizons.  [`arxiv`](https://arxiv.org/abs/1703.03633) [`code`](https://github.com/vfleaking/rnnprop)
 - Learning Hierarchical Information Flow with Recurrent Neural Modules. [`arxiv`](https://arxiv.org/abs/1706.05744)
 - Learning to Acquire Information. [`arxiv`](https://arxiv.org/abs/1704.06131)
+- Learning to Compose Domain-Specific Transformations for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1709.01643) [`code`](https://github.com/HazyResearch/tanda)
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1701.03891)
 - Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg) [`tensorflow`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events)] :star:
 - LipNet: Sentence-level Lipreading. [`pdf`](https://openreview.net/pdf?id=BkjLkSqxg) [`torch`](https://github.com/bshillingford/LipNet)
