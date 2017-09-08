@@ -27,6 +27,7 @@
 - Bolt: Accelerated Data Mining with Fast Vector Compression. [`arxiv`](https://arxiv.org/abs/1706.10283) [`code`](https://github.com/dblalock/bolt)
 - Complex Networks: from Classical to Quantum.  [`arxiv`](https://arxiv.org/abs/1702.08459)
 - Concrete Dropout. [`arxiv`](https://arxiv.org/abs/1705.07832)
+- Convolutional Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1709.01894) [`code`](https://github.com/markvdw/convgp)
 - Conversation Modeling on Reddit using a Graph-Structured LSTM. [`arxiv`](https://arxiv.org/abs/1704.02080) :star:
 - Convolutional Sequence to Sequence Learning. [`pdf`](https://s3.amazonaws.com/fairseq/papers/convolutional-sequence-to-sequence-learning.pdf) [`torch`](https://github.com/facebookresearch/fairseq) [`tensorflow`](https://github.com/tobyyouup/conv_seq2seq) :star:
 - Coordinating Filters for Faster Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.09746) [`caffle`](https://github.com/wenwei202/caffe/tree/sfm)
