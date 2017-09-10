@@ -351,6 +351,7 @@ You should find the papers and software with star flag are more important or pop
     - [Dynamic Memory Network implementation in TensorFlow](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow)
     - [EAST : An Efficient and Accurate Scene Text Detector](https://github.com/argman/EAST) :star:
     - [Embedding Watermarks into Deep Neural Networks](https://github.com/yu4u/dnn-watermark)
+    - [End to End self learning chat Bot implemented using TensorFlow](https://github.com/binojohnthomas/AIChatBot-TensorFlow)
     - [Face Rank - Rank Face by CNN Model based on TensorFlow](https://github.com/fendouai/FaceRank)
     - [Fast Multi(Interpolative) Style Transfer](https://github.com/Heumi/Fast_Multi_Style_Transfer-tf)
     - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn)
