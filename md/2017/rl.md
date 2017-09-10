@@ -2,7 +2,7 @@
 
 ### papers
 
-- A Deep Reinforcement Learning Chatbot. [`arxiv`](https://arxiv.org/abs/1709.02349)
+- [A Deep Reinforcement Learning Chatbot.](https://mp.weixin.qq.com/s/TpRXxP25-3uqpgC9CBi-3Q) [`arxiv`](https://arxiv.org/abs/1709.02349)
 - A Distributional Perspective on Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1707.06887)
 - A Laplacian Framework for Option Discovery in Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.00956) :star:
 - Bridging the Gap Between Value and Policy Based Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08892)
