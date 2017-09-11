@@ -315,6 +315,7 @@ You should find the papers and software with star flag are more important or pop
     - [Visual Question Answering in Pytorch](https://github.com/Cadene/vqa.pytorch)
     - [Weight normalization](https://github.com/ruotianluo/weightnorm-pytorch)
     - [YOLOv2 in PyTorch](https://github.com/longcw/yolo2-pytorch)
+    - [使用PyTorch实现Char RNN生成古诗和周杰伦的歌词](https://github.com/SherlockLiao/Char-RNN-PyTorch)
 - theano
     - [CNN-yelp-challenge-2016-sentiment-classification](https://github.com/haoopeng/CNN-yelp-challenge-2016-sentiment-classification)
     - [Deep learning tutorial for PyData](https://github.com/Britefury/deep-learning-tutorial-pydata)
