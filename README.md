@@ -450,6 +450,8 @@ You should find the papers and software with star flag are more important or pop
     - [Using Keras to implement recommender systems](https://github.com/sonyisme/keras-recommendation) :star:
     - [Wasserstein DCGAN in Tensorflow/Keras](https://github.com/kuleshov/tf-wgan)
     - [W-net: Self-Supervised Learning of Depthmap from Stereo Images.](https://github.com/LouisFoucard/w-net)
+- Mxnet
+    - [使用MXNet的动态图接口Gluon实现Char RNN生成古诗和周杰伦的歌词](https://github.com/SherlockLiao/Char-RNN-Gluon)
     
 # Awesome Projects
 
