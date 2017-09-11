@@ -521,6 +521,7 @@ You should find the papers and software with star flag are more important or pop
 - [Repository to research & share the machine learning articles](https://github.com/arXivTimes/arXivTimes)
 - [Resources and codes about transfer learning and domain adaptation](https://github.com/jindongwang/transferlearning)
 - [SCODE Word Embeddings using Substitute Words](https://github.com/ai-ku/wvec)
+- [Some good resources for NNMT](http://thegrandjanitor.com/2017/09/09/some-useful-links-on-neural-machine-translation/) :star:
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 - [TensorFlow and Deep Learning Tutorials](https://github.com/wagamamaz/tensorflow-tutorial)
