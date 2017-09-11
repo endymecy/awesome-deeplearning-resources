@@ -462,6 +462,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) 
 - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+- [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 - [Awesome ARKit](https://github.com/olucurious/awesome-arkit)
 - [Awesome Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 - [Awesome bayesian deep learning](https://github.com/robi56/awesome-bayesian-deep-learning)
