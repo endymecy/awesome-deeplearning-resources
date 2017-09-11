@@ -279,6 +279,7 @@ You should find the papers and software with star flag are more important or pop
     - [Comprehensive Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
     - [Convolutional recurrent network in pytorch](https://github.com/meijieru/crnn.pytorch)
+    - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/endymecy/vision) :star:
     - [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender)
     - [Deep Q-Learning Network in pytorch](https://github.com/transedward/pytorch-dqn)
     - [Draw like Bob Ross using the power of Neural Networks](https://github.com/kendricktan/drawlikebobross)
