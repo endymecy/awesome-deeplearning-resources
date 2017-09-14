@@ -577,6 +577,7 @@ You should find the papers and software with star flag are more important or pop
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 - [Pixiv Dataset Overview](https://github.com/jerryli27/pixiv_dataset)
 - [Some good papers I like](https://github.com/hoangcuong2011/Good-Papers)
+- [Ten thousand books, six million ratings](https://github.com/zygmuntz/goodbooks-10k)
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
