@@ -168,6 +168,7 @@
 - Towards Understanding Generalization of Deep Learning: Perspective of Loss Landscapes. [`arxiv`](https://arxiv.org/abs/1706.10239)
 - Training a Fully Convolutional Neural Network to Route Integrated Circuits. [`arxiv`](https://arxiv.org/abs/1706.08948) [`pytorch`](https://github.com/sjain-stanford/deep-route)
 - Training Quantized Nets: A Deeper Understanding. [`arxiv`](https://arxiv.org/abs/1706.02379)
+- [Training RNNs as Fast as CNNs.](https://www.zhihu.com/question/65244705) [`arxiv`](https://arxiv.org/abs/1709.02755) [`code`](https://github.com/taolei87/sru) :star:
 - Train longer, generalize better: closing the generalization gap in large batch training of neural networks. [`arxiv`](https://arxiv.org/abs/1705.08741) [`pytorch`](https://github.com/eladhoffer/bigBatch)
 - Trust Region Policy Optimization.  [`arxiv`](https://arxiv.org/abs/1502.05477) [`pytorch`](https://github.com/ikostrikov/pytorch-trpo)
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [`arxiv`](https://arxiv.org/abs/1701.00485)
