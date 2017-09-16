@@ -148,7 +148,7 @@
 - SmoothGrad: removing noise by adding noise. [`arxiv`](https://arxiv.org/abs/1706.03825) [`code`](https://github.com/PAIR-code/saliency)
 - Sparse canonical correlation analysis. [`arxiv`](https://arxiv.org/abs/1705.10865)
 - Sparse Neural Networks Topologies. [`arxiv`](https://arxiv.org/abs/1706.05683) :star:
-- Squeeze-and-Excitation Networks. [`arxiv`](https://arxiv.org/abs/1709.01507) [`code`](https://github.com/hujie-frank/SENet)
+- Squeeze-and-Excitation Networks. [`arxiv`](https://arxiv.org/abs/1709.01507) [`code`](https://github.com/hujie-frank/SENet) [`tensorflow`](https://github.com/taki0112/SENet-Tensorflow)
 - Statistical inference for network samples using subgraph counts. [`arxiv`](https://arxiv.org/abs/1701.00505)
 - Steerable CNNs. [`pdf`](https://openreview.net/pdf?id=rJQKYt5ll)
 - Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
