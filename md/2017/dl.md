@@ -153,6 +153,7 @@
 - Steerable CNNs. [`pdf`](https://openreview.net/pdf?id=rJQKYt5ll)
 - Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
 - Stochastic Subsampling for Factorizing Huge Matrices. [`arxiv`](https://arxiv.org/abs/1701.05363) [`code`](https://github.com/arthurmensch/modl)
+- struc2vec: Learning Node Representations from Structural Identity. [`arxiv`](https://arxiv.org/abs/1704.03165) [`code`](https://github.com/leoribeiro/struc2vec)
 - Submanifold Sparse Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1706.01307) [`pytorch`](https://github.com/facebookresearch/SparseConvNet)
 - Super-Convergence: Very Fast Training of Residual Networks Using Large Learning Rates. [`arxiv`](https://arxiv.org/abs/1708.07120) [`code`](https://github.com/lnsmith54/super-convergence)
 - SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis. [`arxiv`](https://arxiv.org/abs/1708.01749)
