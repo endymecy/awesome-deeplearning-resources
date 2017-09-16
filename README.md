@@ -471,6 +471,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 - [Awesome bayesian deep learning](https://github.com/robi56/awesome-bayesian-deep-learning)
 - [Awesome Chatbot Projects,Corpus,Papers,Tutorials.](https://github.com/fendouai/Awesome-Chatbot)
+- [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp)
 - [Awesome deep vision web demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 - [Awesome Caffe](https://github.com/MichaelXin/Awesome-Caffe)
 - [Awesome Chatbot Projects](https://github.com/fendouai/Awesome-Chatbot)
