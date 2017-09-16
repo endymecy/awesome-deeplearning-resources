@@ -143,6 +143,7 @@
 - ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1606.02147) [`tensorflow`](https://github.com/kwotsin/TensorFlow-ENet)
 - <b>[EnhanceNet]</b> EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1612.07919) :star: 
 - Factorized Bilinear Models for Image Recognition. [`arxiv`](https://arxiv.org/abs/1611.05709) [`code`](https://github.com/lyttonhao/Factorized-Bilinear-Network)
+- Feature Pyramid Networks for Object Detection. [`arxiv`](https://arxiv.org/abs/1612.03144) [`code`](https://github.com/xmyqsh/FPN)
 - Fully Convolutional Networks for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1605.06211) :star: 
 - Fully-Convolutional Siamese Networks for Object Tracking. [`arxiv`](https://arxiv.org/abs/1606.09549) [`tensorflow`](https://github.com/torrvision/siamfc-tf)
 - Full Resolution Image Compression with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1608.05148) [`tensorflow`](https://github.com/tensorflow/models/tree/master/compression) :star:
