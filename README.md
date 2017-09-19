@@ -283,6 +283,7 @@ You should find the papers and software with star flag are more important or pop
     - [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender)
     - [Deep Q-Learning Network in pytorch](https://github.com/transedward/pytorch-dqn)
     - [Draw like Bob Ross using the power of Neural Networks](https://github.com/kendricktan/drawlikebobross)
+    - [Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/facebookresearch/fairseq-py)
     - [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle)
     - [Faster RCNN with PyTorch](https://github.com/longcw/faster_rcnn_pytorch)
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
