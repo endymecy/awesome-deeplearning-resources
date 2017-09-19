@@ -101,6 +101,7 @@
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1701.03891)
 - Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg) [`tensorflow`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events)] :star:
 - LipNet: Sentence-level Lipreading. [`pdf`](https://openreview.net/pdf?id=BkjLkSqxg) [`torch`](https://github.com/bshillingford/LipNet)
+- LSTM Fully Convolutional Networks for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1709.05206) [`code`](https://github.com/houshd/LSTM-FCN)
 - Lucid Data Dreaming for Object Tracking. [`arxiv`](https://arxiv.org/abs/1703.09554)
 - Machine Learning on Sequential Data Using a Recurrent Weighted Average. [`arxiv`](https://arxiv.org/abs/1703.01253) [`tensorflow`](https://github.com/jostmey/rwa)
 - Markov Chain Monte Carlo Methods for Bayesian Data Analysis in Astronomy. [`arxiv`](https://arxiv.org/abs/1706.01629) [`code`](https://github.com/sanjibs/bmcmc/)
