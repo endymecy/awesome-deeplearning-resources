@@ -31,6 +31,7 @@
 - End-to-End Task-Completion Neural Dialogue Systems. [`arxiv`](https://arxiv.org/abs/1703.01008) [`code`](https://github.com/MiuLab/TC-Bot)] :star:
 - Explaining Recurrent Neural Network Predictions in Sentiment Analysis. [`arxiv`](https://arxiv.org/abs/1706.07206) [`code`](https://github.com/ArrasL/LRP_for_LSTM)
 - Fast and Accurate Entity Recognition with Iterated Dilated Convolutions. [`arxiv`](https://arxiv.org/abs/1702.02098) [`tensorflow`](https://github.com/iesl/dilated-cnn-ner)
+- Focusing Attention: Towards Accurate Text Recognition in Natural Images. [`arxiv`](https://arxiv.org/abs/1709.02054)
 - Learned in Translation: Contextualized Word Vectors. [`arxiv`](https://arxiv.org/abs/1708.00107) [`code`](https://github.com/salesforce/cove)
 - Global Relation Embedding for Relation Extraction. [`arxiv`](https://arxiv.org/abs/1704.05958) [`code`](https://github.com/ppuliu/GloRE)
 - Graph Embedding Techniques, Applications, and Performance: A Survey. [`arxiv`](https://arxiv.org/abs/1705.02801) [`code`](https://github.com/palash1992/GEM)
