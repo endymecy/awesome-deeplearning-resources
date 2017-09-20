@@ -399,6 +399,7 @@ You should find the papers and software with star flag are more important or pop
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
     - [Simple embedding based text classifier inspired by fastText, implemented in tensorflow](https://github.com/apcode/tensorflow_fasttext)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
+    - [Somiao Pinyin: Train your own Chinese Input Method with Seq2seq Model](https://github.com/crownpku/Somiao-Pinyin)
     - [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
     - [SSD: Single Shot MultiBox Detector in TensorFlow](https://github.com/balancap/SSD-Tensorflow) :star:
