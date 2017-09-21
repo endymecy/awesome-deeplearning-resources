@@ -273,6 +273,7 @@ You should find the papers and software with star flag are more important or pop
     - [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) :star:
     - [Anuvada: Interpretable Models for NLP using PyTorch](https://github.com/Sandeep42/anuvada)
     - [A PyTorch Implementation for Triplet Networks](https://github.com/andreasveit/triplet-network-pytorch)
+    - [A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
     - [A PyTorch Implementation of Single Shot MultiBox Detector.](https://github.com/amdegroot/ssd.pytorch)
     - [A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
     - [A short tutorial on performing fine tuning or transfer learning in PyTorch.](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial)
