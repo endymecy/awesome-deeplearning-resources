@@ -224,6 +224,7 @@
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
 - Fast Image Processing with Fully-Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1709.00643) [`code`](https://github.com/CQFIO/FastImageProcessing)
 - FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras. [`arxiv`](https://arxiv.org/abs/1707.09476)
+- Focal Loss for Dense Object Detection. [`arxiv`](https://arxiv.org/abs/1708.02002) [`mxnet`](https://github.com/unsky/RetinaNet)
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [`arxiv`](https://arxiv.org/abs/1701.08251)
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1701.02096) [`code`](https://github.com/DmitryUlyanov/texture_nets)
 - Joint auto-encoders: a flexible multi-task learning framework. [`arxiv`](https://arxiv.org/abs/1705.10494)
