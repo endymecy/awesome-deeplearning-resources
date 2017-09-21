@@ -57,6 +57,7 @@
 - Named Entity Recognition with stack residual LSTM and trainable bias decoding. [`arxiv`](https://arxiv.org/abs/1706.07598) :star:
 - Natural Language Processing with Small Feed-Forward Networks. [`arxiv`](https://arxiv.org/abs/1708.00214)
 - Neural Probabilistic Model for Non-projective MST Parsing. [`arxiv`](https://arxiv.org/abs/1701.00874)
+- Ngram2vec: Learning Improved Word Representations from Ngram Co-occurrence Statistics. [`pdf`](http://www.aclweb.org/anthology/D17-1023) [`code`](https://github.com/zhezhaoa/ngram2vec)
 - N-gram Language Modeling using Recurrent Neural Network Estimation. [`arxiv`](https://arxiv.org/abs/1703.10724) :star:
 - One Representation per Word - Does it make Sense for Composition?.  [`arxiv`](https://arxiv.org/abs/1702.06696)
 - Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks. [`arxiv`](https://arxiv.org/abs/1707.06799) [`tensorflow`](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf) :star:
