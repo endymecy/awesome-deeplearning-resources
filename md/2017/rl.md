@@ -10,6 +10,7 @@
 - DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning. [`arxiv`](https://arxiv.org/abs/1707.06690) [`code`](https://github.com/xwhan/DeepPath)
 - Deep Reinforcement Learning: An Overview. [`arxiv`](https://arxiv.org/abs/1701.07274)
 - Deep reinforcement learning from human preferences. [`arxiv`](https://arxiv.org/abs/1706.03741)
+- Deep Reinforcement Learning that Matters. [`arxiv`](https://arxiv.org/abs/1709.06560) [`code`](https://github.com/Breakend/DeepReinforcementLearningThatMatters)
 - Device Placement Optimization with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1706.04972)
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.03864)
 - Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.06769)
