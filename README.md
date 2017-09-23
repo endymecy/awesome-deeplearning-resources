@@ -557,6 +557,7 @@ You should find the papers and software with star flag are more important or pop
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
 - [中文语料小数据：Some useful Chinese corpus datasets](https://github.com/crownpku/Small-Chinese-Corpus)
 - [联合国平行语料库](https://conferences.unite.un.org/UNCorpus/zh)
+- [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh)
 - [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 - [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
 - [A dataset for book recommendations: ten thousand books, one million ratings](https://www.kaggle.com/zygmunt/goodbooks-10k)
