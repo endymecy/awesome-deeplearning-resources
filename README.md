@@ -205,6 +205,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`PyTorch`</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
     - <b>`Scikit-Learn`</b> [Machine learning in Python.](http://scikit-learn.org)  :star:
         - <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
+    - <b>SerpentAI</b> [Game Agent Framework. Helping you create AIs / Bots to play any game you own](https://github.com/SerpentAI/SerpentAI)
     - <b>`Skll`</b> [SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
     - <b>`Sonnet`</b> [TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
     - <b>`TensorFX`</b> [An end to end application framework to simplifies machine learning with TensorFlow](https://github.com/TensorLab/tensorfx)
