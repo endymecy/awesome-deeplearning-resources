@@ -504,6 +504,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
 - [Chainer Info](https://github.com/hidetomasuoka/chainer-info)
 - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
+- [Collection of papers and other resources for object tracking and detection using deep learning](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 - [Collection of reinforcement learners implemented in python.](https://github.com/Islandman93/reinforcepy)
 - [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models)
 - [Curated list of python software and packages related to scientific research in audio](https://github.com/faroit/awesome-python-scientific-audio)
