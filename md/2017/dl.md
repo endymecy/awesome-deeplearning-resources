@@ -219,6 +219,7 @@
 - Disguised Face Identification (DFI) with Facial KeyPoints using Spatial Fusion Convolutional Network. [`arxiv`](https://arxiv.org/abs/1708.09317)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
 - End-to-end Training for Whole Image Breast Cancer Diagnosis using An All Convolutional Design. [`arxiv`](https://arxiv.org/abs/1708.09427) [`code`](https://github.com/lishen/end2end-all-conv)
+- Estimated Depth Map Helps Image Classification. [`arxiv`](https://arxiv.org/abs/1709.07077) [`code`](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)
 - Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
