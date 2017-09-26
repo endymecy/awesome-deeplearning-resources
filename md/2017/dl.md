@@ -266,6 +266,7 @@
 - [StreetStyle: Exploring world-wide clothing styles from millions of photos.](http://streetstyle.cs.cornell.edu/) [`arxiv`](https://arxiv.org/abs/1706.01869)
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [`arxiv`](https://arxiv.org/abs/1701.08349)
 - SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis. [`arxiv`](https://arxiv.org/abs/1708.01749) [`code`](https://github.com/mjiUST/SurfaceNet)
+- SwGridNet: A Deep Convolutional Neural Network based on Grid Topology for Image Classification. [`arxiv`](https://arxiv.org/abs/1709.07646) [`code`](https://github.com/takedarts/swgridnet)
 - <b>[Tacotron]</b> Towards End-to-End Speech Synthesis. [`arxiv`](https://arxiv.org/abs/1703.10135) [`code`](https://github.com/google/tacotron) :star:
 - Towards a Principled Integration of Multi-Camera Re-Identification and Tracking through Optimal Bayes Filters.  [`arxiv`](https://arxiv.org/abs/1705.04608)
 - Toward Geometric Deep SLAM. [`arxiv`](https://arxiv.org/abs/1707.07410) :star:
