@@ -9,6 +9,7 @@
 - An online sequence-to-sequence model for noisy speech recognition. [`arxiv`](https://arxiv.org/abs/1706.06428) :star:
 - A Review on Deep Learning Techniques Applied to Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1704.06857)
 - A Tidy Data Model for Natural Language Processing using cleanNLP. [`arXiv`](https://arxiv.org/abs/1703.09570)
+- Attention-based Mixture Density Recurrent Networks for History-based Recommendation. [`arxiv`](https://arxiv.org/abs/1709.07545)
 - Attention-based Natural Language Person Retrieval. [`arxiv`](https://arxiv.org/abs/1705.08923)
 - Autoencoding Variational Inference For Topic Models. [`arxiv`](https://arxiv.org/abs/1703.01488) [`tensorflow`](https://github.com/akashgit/autoencoding_vi_for_topic_models) :star:
 - Automated Crowdturfing Attacks and Defenses in Online Review Systems. [`arxiv`](https://arxiv.org/abs/1708.08151)
