@@ -380,6 +380,7 @@
 - Softmax GAN. [`arxiv`](https://arxiv.org/abs/1704.06191)
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches. [`arxiv`](https://arxiv.org/abs/1706.02823) 
+- Towards Deep Learning Models Resistant to Adversarial Attacks. [`arxiv`](https://arxiv.org/abs/1706.06083) [`code`](https://github.com/tensorflow/cleverhans/blob/master/cleverhans/attacks.py)
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN. [`arxiv`](http://weibo.com/1402400261/EBP7EgRkQ?type=comment#_rnd1490711748139)
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862) :star:
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10593)  [`torch`](https://github.com/junyanz/CycleGAN) :star:
