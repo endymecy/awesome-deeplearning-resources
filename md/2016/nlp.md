@@ -18,6 +18,7 @@
 - Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution. [`arxiv`](https://arxiv.org/abs/1609.06686)
 - COCO-Text-Dataset and Benchmark for Text Detection and Recognition in Natural Images. [`pdf`](http://sunw.csail.mit.edu/papers/01_Veit_SUNw.pdf)
 - Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks. [`arxiv`](https://arxiv.org/abs/1611.00454)
+- Collaborative Recurrent Neural Networks for Dynamic Recommender Systems. [`pdf`](https://infoscience.epfl.ch/record/222477/files/ko101.pdf) [`tensorflow`](https://github.com/lca4/collaborative-rnn)
 - Context-aware Natural Language Generation with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.09900)
 - <b>[CLSTM]</b> Contextual LSTM models for Large scale NLP tasks. [`pdf`](http://www.csl.sri.com/users/shalini/clstm_dlkdd16.pdf) :star: 
 - Deep Biaffine Attention for Neural Dependency Parsing. [`pdf`](https://openreview.net/pdf?id=Hk95PK9le) [`code`](https://github.com/tdozat/Parser) :star:
