@@ -36,6 +36,7 @@
 - Focusing Attention: Towards Accurate Text Recognition in Natural Images. [`arxiv`](https://arxiv.org/abs/1709.02054)
 - Learned in Translation: Contextualized Word Vectors. [`arxiv`](https://arxiv.org/abs/1708.00107) [`code`](https://github.com/salesforce/cove)
 - Generating Sentences by Editing Prototypes. [`arxiv`](https://arxiv.org/abs/1709.08878)
+- Globally Normalized Reader. [`pdf`](https://www.aclweb.org/anthology/D17-1112) [`tensorflow`](https://github.com/baidu-research/GloballyNormalizedReader) :star:
 - Global Relation Embedding for Relation Extraction. [`arxiv`](https://arxiv.org/abs/1704.05958) [`code`](https://github.com/ppuliu/GloRE)
 - Graph Embedding Techniques, Applications, and Performance: A Survey. [`arxiv`](https://arxiv.org/abs/1705.02801) [`code`](https://github.com/palash1992/GEM)
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [`arxiv`](https://arxiv.org/abs/1701.00946)
