@@ -38,6 +38,7 @@
 - Generating Sentences by Editing Prototypes. [`arxiv`](https://arxiv.org/abs/1709.08878)
 - Globally Normalized Reader. [`pdf`](https://www.aclweb.org/anthology/D17-1112) [`tensorflow`](https://github.com/baidu-research/GloballyNormalizedReader) :star:
 - Global Relation Embedding for Relation Extraction. [`arxiv`](https://arxiv.org/abs/1704.05958) [`code`](https://github.com/ppuliu/GloRE)
+- Graph Convolutional Networks for Named Entity Recognition. [`arxiv`](https://arxiv.org/abs/1709.10053) [`code`](https://github.com/ContextScout/gcn_ner)
 - Graph Embedding Techniques, Applications, and Performance: A Survey. [`arxiv`](https://arxiv.org/abs/1705.02801) [`code`](https://github.com/palash1992/GEM)
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [`arxiv`](https://arxiv.org/abs/1701.00946)
 - Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs. [`arxiv`](https://arxiv.org/abs/1705.09189) :star:
