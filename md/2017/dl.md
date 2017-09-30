@@ -262,6 +262,7 @@
 - SLAM with Objects using a Nonparametric Pose Graph. [`arxiv`](https://arxiv.org/abs/1704.05959) [`code`](https://github.com/BeipengMu/objectSLAM)
 - STN-OCR: A single Neural Network for Text Detection and Text Recognition. [`arxiv`](https://arxiv.org/abs/1707.08831) [`code`](https://github.com/Bartzi/stn-ocr)
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection.  [`arxiv`](https://arxiv.org/abs/1702.05552)
+- SphereFace: Deep Hypersphere Embedding for Face Recognition. [`arxiv`](https://arxiv.org/abs/1704.08063) [`code`](https://github.com/wy1iu/sphereface)
 - SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person.[`arxiv`](https://arxiv.org/abs/1702.04069)
 - [StreetStyle: Exploring world-wide clothing styles from millions of photos.](http://streetstyle.cs.cornell.edu/) [`arxiv`](https://arxiv.org/abs/1706.01869)
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [`arxiv`](https://arxiv.org/abs/1701.08349)
