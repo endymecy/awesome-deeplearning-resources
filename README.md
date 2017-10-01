@@ -508,6 +508,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome speech recognition speech synthesis papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
 - [Chainer Info](https://github.com/hidetomasuoka/chainer-info)
+- [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
 - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
 - [Collection of papers and other resources for object tracking and detection using deep learning](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 - [Collection of reinforcement learners implemented in python.](https://github.com/Islandman93/reinforcepy)
