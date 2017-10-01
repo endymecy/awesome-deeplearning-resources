@@ -521,6 +521,7 @@ You should find the papers and software with star flag are more important or pop
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Deep Learning Processor List](https://zhuanlan.zhihu.com/p/28406226)
 - [Deep Learning Toolbox](https://github.com/dmarnerides/dlt)
+- [Enumerate diverse machine learning training tricks.](https://github.com/Conchylicultor/Deep-Learning-Tricks)
 - [First International Workshop on Deep Learning and Music](https://arxiv.org/html/1706.08675)
 - [Generative Models](https://github.com/wiseodd/generative-models)
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources)
