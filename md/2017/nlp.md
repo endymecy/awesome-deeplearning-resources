@@ -42,6 +42,7 @@
 - Graph Embedding Techniques, Applications, and Performance: A Survey. [`arxiv`](https://arxiv.org/abs/1705.02801) [`code`](https://github.com/palash1992/GEM)
 - Joint Semantic Synthesis and Morphological Analysis of the Derived Word. [`arxiv`](https://arxiv.org/abs/1701.00946)
 - Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs. [`arxiv`](https://arxiv.org/abs/1705.09189) :star:
+- HDLTex: Hierarchical Deep Learning for Text Classification. [`arxiv`](https://arxiv.org/abs/1709.08267) [`code`](https://github.com/kk7nc/HDLTex)
 - High-Throughput and Language-Agnostic Entity Disambiguation and Linking on User Generated Data. [`arxiv`](https://arxiv.org/abs/1703.04498)
 - Label Refinement Network for Coarse-to-Fine Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1703.00551)
 - LangPro: Natural Language Theorem Prover. [`arxiv`](https://arxiv.org/abs/1708.09417) [`code`](https://github.com/kovvalsky/LangPro)
