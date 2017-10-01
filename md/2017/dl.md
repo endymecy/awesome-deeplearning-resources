@@ -25,6 +25,7 @@
 - [Big Data vs. complex physical models: a scalable inference algorithm](https://arxiv.org/abs/1707.04476) [`code`](https://github.com/JohannesBuchner/massivedatans/)
 - [Billion-scale similarity search with GPUs.](http://weibo.com/1402400261/ECqPJziqk?type=comment#_rnd1491216627188) [`arxiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star: 
 - Bolt: Accelerated Data Mining with Fast Vector Compression. [`arxiv`](https://arxiv.org/abs/1706.10283) [`code`](https://github.com/dblalock/bolt)
+- Combining Machine Learning and Physics to Understand Glassy Systems. [`arxiv`](https://arxiv.org/abs/1709.08015)
 - Complex Networks: from Classical to Quantum.  [`arxiv`](https://arxiv.org/abs/1702.08459)
 - Concrete Dropout. [`arxiv`](https://arxiv.org/abs/1705.07832)
 - Convolutional Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1709.01894) [`code`](https://github.com/markvdw/convgp)
