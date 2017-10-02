@@ -116,6 +116,7 @@
 - Network Backboning with Noisy Data. [`arxiv`](https://arxiv.org/abs/1701.07336)
 - Neural Decision Trees. [`arxiv`](https://arxiv.org/abs/1702.07360)
 - Neural Message Passing for Quantum Chemistry. [`arxiv`](https://arxiv.org/abs/1704.01212) [`code`](https://github.com/priba/nmp_qc) :star:
+- Neural networks for topology optimization. [`arxiv`](https://arxiv.org/abs/1709.09578) [`code`](https://github.com/ISosnovik/top)
 - Neural Networks Regularization Through Invariant Features Learning. [`arxiv`](https://arxiv.org/abs/1709.01867)
 - Neural Ranking Models with Weak Supervision. [`arxiv`](https://arxiv.org/abs/1704.08803)
 - One Model To Learn Them All. [`arxiv`](https://arxiv.org/abs/1706.05137) [`tensorflow`](https://github.com/tensorflow/tensor2tensor) :star:
