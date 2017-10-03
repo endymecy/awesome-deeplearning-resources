@@ -9,6 +9,7 @@
 - A Generalization of Convolutional Neural Networks to Graph-Structured Data. [`arxiv`](https://arxiv.org/abs/1704.08165) [`keras`](https://github.com/hechtlinger/graph_cnn)
 - A GPU-Based Solution to Fast Calculation of Betweenness Centrality on Large Weighted Networks. [`arxiv`](https://arxiv.org/abs/1701.05975)
 - A Hitting Time Analysis of Stochastic Gradient Langevin Dynamics. [`arxiv`](https://arxiv.org/abs/1702.05575) :star:
+- AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms. [`arxiv`](https://arxiv.org/abs/1709.05703)
 - Alignment of dynamic networks. [`arxiv`](https://arxiv.org/abs/1701.08842)
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [`arxiv`](https://arxiv.org/abs/1701.01207)
 - AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.09786)
