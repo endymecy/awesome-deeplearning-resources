@@ -129,6 +129,7 @@
 - OptNet: Differentiable Optimization as a Layer in Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00443) [`code`](https://github.com/locuslab/optnet) :star:
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.](http://mp.weixin.qq.com/s/qkYHcDpIMM5W7D_NWoa5ww) [`arxiv`](https://arxiv.org/abs/1701.06538)
 - <b>[PathNet]</b> Evolution Channels Gradient Descent in Super Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.08734) [`tensorflow`](https://github.com/jaesik817/pathnet):star:
+- Performance Evaluation of Container-based Virtualization for High Performance Computing Environments. [`arxiv`](https://arxiv.org/abs/1709.10140)
 - pix2code: Generating Code from a Graphical User Interface Screenshot. [`arxiv`](https://arxiv.org/abs/1705.07962) [`code`](https://github.com/tonybeltramelli/pix2code)
 - PixelNet: Representation of the pixels, by the pixels, and for the pixels. [`arxiv`](https://arxiv.org/abs/1702.06506) [`code`](https://github.com/aayushbansal/PixelNet)
 - PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. [`arxiv`](https://arxiv.org/abs/1706.02413) [`code`](https://github.com/charlesq34/pointnet2)
