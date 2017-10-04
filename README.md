@@ -309,6 +309,7 @@ You should find the papers and software with star flag are more important or pop
     - [PyTorch Marvelous ChatBot](https://github.com/jinfagang/pytorch_chatbot) :star:
     - [PyTorch module to use OpenFace's nn4.small2.v1.t7 model](https://github.com/thnkim/OpenFacePytorch)
     - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
+    - [PyTorch Neural Turing Machine (NTM)](https://github.com/loudinthecloud/pytorch-ntm)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Quickly comparing your image classification models with the state-of-the-art models](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Semantic Image Segmentation in Pytorch](https://github.com/warmspringwinds/dense-ai)
