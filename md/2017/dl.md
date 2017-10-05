@@ -270,6 +270,7 @@
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection.  [`arxiv`](https://arxiv.org/abs/1702.05552)
 - Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image. [`arxiv`](https://arxiv.org/abs/1709.07492) [`code`](https://github.com/fangchangma/sparse-to-dense)
 - SphereFace: Deep Hypersphere Embedding for Face Recognition. [`arxiv`](https://arxiv.org/abs/1704.08063) [`code`](https://github.com/wy1iu/sphereface)
+- Spinal cord gray matter segmentation using deep dilated convolutions. [`arxiv`](https://arxiv.org/abs/1710.01269) [`code`](https://github.com/neuropoly/spinalcordtoolbox ​​​​)
 - SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person.[`arxiv`](https://arxiv.org/abs/1702.04069)
 - [StreetStyle: Exploring world-wide clothing styles from millions of photos.](http://streetstyle.cs.cornell.edu/) [`arxiv`](https://arxiv.org/abs/1706.01869)
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [`arxiv`](https://arxiv.org/abs/1701.08349)
