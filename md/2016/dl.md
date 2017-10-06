@@ -257,6 +257,7 @@
 - Stick-Breaking Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1605.06197) [`code`](https://github.com/enalisnick/stick-breaking_dgms)
 - Stochastic Video Prediction with Deep Conditional Generative Models. [`stanford`](http://cs231n.stanford.edu/reports2016/215_Report.pdf)
 - Task Specific Adversarial Cost Function. [`arxiv`](https://arxiv.org/abs/1609.08661)
+- Temporal Generative Adversarial Nets with Singular Value Clipping. [`arxiv`](https://arxiv.org/abs/1611.06624) [`code`](https://github.com/pfnet-research/tgan)
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862)]
 - [Understanding deep learning requires rethinking generalization.](https://theneuralperspective.com/2017/01/24/understanding-deep-learning-requires-rethinking-generalization/)[`arxiv`](https://arxiv.org/abs/1611.03530) :star:
 - Unsupervised domain adaptation in brain lesion segmentation with adversarial networks.[`arxiv`](https://arxiv.org/abs/1612.08894v1) [`code`](https://github.com/Kamnitsask/deepmedic)
