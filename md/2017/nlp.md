@@ -45,6 +45,7 @@
 - Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs. [`arxiv`](https://arxiv.org/abs/1705.09189) :star:
 - HDLTex: Hierarchical Deep Learning for Text Classification. [`arxiv`](https://arxiv.org/abs/1709.08267) [`code`](https://github.com/kk7nc/HDLTex)
 - High-Throughput and Language-Agnostic Entity Disambiguation and Linking on User Generated Data. [`arxiv`](https://arxiv.org/abs/1703.04498)
+- Improving speech recognition by revising gated recurrent units. [`arxiv`](https://arxiv.org/abs/1710.00641) :star:
 - Label Refinement Network for Coarse-to-Fine Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1703.00551)
 - LangPro: Natural Language Theorem Prover. [`arxiv`](https://arxiv.org/abs/1708.09417) [`code`](https://github.com/kovvalsky/LangPro)
 - Language Generation with Recurrent Generative Adversarial Networks without Pre-training. [`arxiv`](https://arxiv.org/abs/1706.01399) [`code`](https://github.com/amirbar/rnn.wgan)
