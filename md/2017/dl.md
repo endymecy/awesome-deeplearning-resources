@@ -103,6 +103,7 @@
 - Learning to Compose Domain-Specific Transformations for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1709.01643) [`code`](https://github.com/HazyResearch/tanda)
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1701.03891)
 - Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg) [`tensorflow`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events)] :star:
+- Learning to Segment Instances in Videos with Spatial Propagation Network. [`pdf`](http://davischallenge.org/challenge2017/papers/DAVIS-Challenge-6th-Team.pdf) [`code`](https://github.com/JingchunCheng/Seg-with-SPN)
 - LipNet: Sentence-level Lipreading. [`pdf`](https://openreview.net/pdf?id=BkjLkSqxg) [`torch`](https://github.com/bshillingford/LipNet)
 - LSTM Fully Convolutional Networks for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1709.05206) [`code`](https://github.com/houshd/LSTM-FCN)
 - Lucid Data Dreaming for Object Tracking. [`arxiv`](https://arxiv.org/abs/1703.09554)
