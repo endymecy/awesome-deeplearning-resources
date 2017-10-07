@@ -122,6 +122,7 @@
 - Neural networks for topology optimization. [`arxiv`](https://arxiv.org/abs/1709.09578) [`code`](https://github.com/ISosnovik/top)
 - Neural Networks Regularization Through Invariant Features Learning. [`arxiv`](https://arxiv.org/abs/1709.01867)
 - Neural Ranking Models with Weak Supervision. [`arxiv`](https://arxiv.org/abs/1704.08803)
+- Neural Task Programming: Learning to Generalize Across Hierarchical Tasks. [`arxiv`](https://arxiv.org/abs/1710.01813) [`code`](https://github.com/ntp-project/ntp)
 - One Model To Learn Them All. [`arxiv`](https://arxiv.org/abs/1706.05137) [`tensorflow`](https://github.com/tensorflow/tensor2tensor) :star:
 - Online Convolutional Dictionary Learning. [`arxiv`](https://arxiv.org/abs/1706.09563)
 - On weight initialization in deep neural networks. [`arxiv`](https://arxiv.org/abs/1704.08863) [`code`](https://github.com/sidkk86/weight_initialization)
