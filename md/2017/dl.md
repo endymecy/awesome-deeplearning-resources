@@ -284,6 +284,7 @@
 - Training object class detectors with click supervision. [`arxiv`](https://arxiv.org/abs/1704.06189)
 - TransFlow: Unsupervised Motion Flow by Joint Geometric and Pixel-level Estimation. [`arxiv`](https://arxiv.org/abs/1706.00322) [`code`](https://github.com/stefanoalletto/TransFlow)
 - Using Deep Learning and Google Street View to Estimate the Demographic Makeup of the US. [`arxiv`](https://arxiv.org/abs/1702.06683) :star:
+- Unsupervised Image-to-Image Translation Networks. [`arxiv`](https://arxiv.org/abs/1703.00848) [`tensorflow`](https://github.com/leehomyc/Img2Img-Translation-Networks)
 - Unsupervised Learning by Predicting Noise. [`arxiv`](https://arxiv.org/abs/1704.05310) :star:
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. [`arxiv`](https://arxiv.org/abs/1701.01821)
 - [Variational Approaches for Auto-Encoding Generative Adversarial Networks.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486161&idx=2&sn=e11c6bb9839a1fde85e96d26ac2d0b75) [`arxiv`](https://arxiv.org/abs/1706.04987) :star:
