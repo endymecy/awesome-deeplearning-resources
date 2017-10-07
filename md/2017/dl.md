@@ -135,6 +135,7 @@
 - pix2code: Generating Code from a Graphical User Interface Screenshot. [`arxiv`](https://arxiv.org/abs/1705.07962) [`code`](https://github.com/tonybeltramelli/pix2code)
 - PixelNet: Representation of the pixels, by the pixels, and for the pixels. [`arxiv`](https://arxiv.org/abs/1702.06506) [`code`](https://github.com/aayushbansal/PixelNet)
 - PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. [`arxiv`](https://arxiv.org/abs/1706.02413) [`code`](https://github.com/charlesq34/pointnet2)
+- Privacy-Preserving Deep Inference for Rich User Data on The Cloud. [`arxiv`](https://arxiv.org/abs/1710.01727) [`code`](https://github.com/aliosia/DeepPrivInf2017)
 - Privileged Multi-label Learning. [`arxiv`](https://arxiv.org/abs/1701.07194)
 - Prochlo: Strong Privacy for Analytics in the Crowd. [`arxiv`](https://arxiv.org/abs/1710.00901)
 - QCD-Aware Recursive Neural Networks for Jet Physics. [`arxiv`](https://arxiv.org/abs/1702.00748) [`code`](https://github.com/glouppe/recnn)
