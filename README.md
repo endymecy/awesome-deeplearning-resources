@@ -221,6 +221,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`DeepDetect` </b>[Open Source Deep Learning Server & API](https://deepdetect.com/) 
     - <b>`DIGITS`</b> [A new system for developing, training and visualizing deep neural networks.](https://developer.nvidia.com/digits) 
     - <b>`Dlib`</b> [A modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++.](http://dlib.net/)
+    - <b>`Dll`</b> [Deep Learning Library](https://github.com/wichtounet/dll)
     - <b>`DSSTNE`</b> [An Amazon developed library for building Deep Learning (DL) machine learning (ML) models.](https://github.com/amznlabs/amazon-dsstne) 
     - <b>`Jik`</b> [Lightweight Deep Learning Framework](https://github.com/oliviersoares/jik)
     - <b>`Kann`</b> [A lightweight C library for artificial neural networks](https://github.com/attractivechaos/kann)
