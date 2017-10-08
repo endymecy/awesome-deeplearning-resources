@@ -293,6 +293,7 @@ You should find the papers and software with star flag are more important or pop
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
     - [Image Classification Project Killer in PyTorch](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) :star:
+    - [Implementation of various methods for dimensionality reduction and spectral clustering implemented with Pytorch](https://github.com/dimkastan/PyTorch-Spectral-clustering)
     - [InferSent is a sentence embeddings method that provides semantic sentence representations.](https://github.com/facebookresearch/InferSent)
     - [LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.](https://github.com/sujithv28/Deep-Leafsnap)
     - [Lightweight implementation of neural style in Pytorch with SqueezeNet](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
