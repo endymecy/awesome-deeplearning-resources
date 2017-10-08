@@ -404,6 +404,7 @@ You should find the papers and software with star flag are more important or pop
     - [Separating singing voice from music based on deep neural net in Tensorflow](https://github.com/andabi/music-source-separation)
     - [Seq2Seq Chatbot](https://github.com/zsdonghao/seq2seq-chatbot)
     - [Sequence prediction using recurrent neural networks(LSTM) with TensorFlow](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
+    - [Sequence Semantic Embedding](https://github.com/eBay/Sequence-Semantic-Embedding)
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
     - [Simple embedding based text classifier inspired by fastText, implemented in tensorflow](https://github.com/apcode/tensorflow_fasttext)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
