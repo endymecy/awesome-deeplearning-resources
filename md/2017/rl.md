@@ -6,6 +6,7 @@
 - A Distributional Perspective on Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1707.06887)
 - A Laplacian Framework for Option Discovery in Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.00956) :star:
 - Bridging the Gap Between Value and Policy Based Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08892)
+- Cold-Start Reinforcement Learning with Softmax Policy Gradients. [`arxiv`](https://arxiv.org/abs/1709.09346)
 - Curiosity-driven Exploration by Self-supervised Prediction. [`arxiv`](https://arxiv.org/abs/1705.05363) [`tensorflow`](https://github.com/pathak22/noreward-rl)
 - DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning. [`arxiv`](https://arxiv.org/abs/1707.06690) [`code`](https://github.com/xwhan/DeepPath)
 - Deep Reinforcement Learning: An Overview. [`arxiv`](https://arxiv.org/abs/1701.07274)
