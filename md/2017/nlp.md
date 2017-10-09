@@ -63,6 +63,7 @@
 - Learning to Skim Text. [`arxiv`](https://arxiv.org/abs/1704.06877)
 - Learning with Confident Examples: Rank Pruning for Robust Classification with Noisy Labels. [`arxiv`](https://arxiv.org/abs/1705.01936) [`code`](https://github.com/cgnorthcutt/rankpruning)
 - Machine Comprehension by Text-to-Text Neural Question Generation. [`arxiv`](https://arxiv.org/abs/1705.02012)
+- Multi-Label Classification of Patient Notes a Case Study on ICD Code Assignment. [`arxiv`](https://arxiv.org/abs/1709.09587) [`code`](https://github.com/talbaumel/MIMIC)
 - Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities. [`arxiv`](https://arxiv.org/abs/1701.02025)
 - Named Entity Recognition with stack residual LSTM and trainable bias decoding. [`arxiv`](https://arxiv.org/abs/1706.07598) :star:
 - Natural Language Processing with Small Feed-Forward Networks. [`arxiv`](https://arxiv.org/abs/1708.00214)
