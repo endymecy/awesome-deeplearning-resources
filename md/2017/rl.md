@@ -24,6 +24,7 @@
 - Observational Learning by Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1706.06617)
 - Overcoming Exploration in Reinforcement Learning with Demonstrations. [`arxiv`](https://arxiv.org/abs/1709.10089)
 - Practical Network Blocks Design with Q-Learning. [`arxiv`](https://arxiv.org/abs/1708.05552)
+- Rainbow: Combining Improvements in Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1710.02298)
 - Reinforcement Learning for Architecture Search by Network Transformation. [`arxiv`](https://arxiv.org/abs/1707.04873) [`code`](https://github.com/han-cai/RL4AS_NetTrans)
 - Reinforcement Learning via Recurrent Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.02392) [`code`](https://github.com/tanmayshankar/RCNN_MDP)
 - Reinforcement Learning with a Corrupted Reward Channel. [`arxiv`](https://arxiv.org/abs/1705.08417) :star:
