@@ -89,7 +89,7 @@
 - Policy Networks with Two-Stage Training for Dialogue Systems.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiRke71pdjQAhWETrwKHQNjBy0QFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.03152&usg=AFQjCNGDb-RND3DLrZfTAaMB_y1jbK9reQ)]
 - <b>[PSPNet]</b> [Pyramid Scene Parsing Network.](http://www.dongzhuoyao.com/pyramid-scene-parsing-network/) [`arxiv`](https://arxiv.org/abs/1612.01105) [`code`](http://weibo.com/1402400261/EuVYls29J?type=comment):star:
 - Projected Semi-Stochastic Gradient Descent Method with Mini-Batch Scheme under Weak Strong Convexity Assumption. [`arxiv`](https://arxiv.org/abs/1612.05356)
-- <b>[QRNN]</b> Quasi-Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.01576) [`tensorflow`](https://github.com/santi-pdp/quasi-rnn) [`keras`](https://github.com/DingKe/qrnn) :star:
+- <b>[QRNN]</b> Quasi-Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.01576) [`tensorflow`](https://github.com/santi-pdp/quasi-rnn) [`keras`](https://github.com/DingKe/qrnn) [`pytorch`](https://github.com/salesforce/pytorch-qrnn) :star:
 - RAISR: Rapid and Accurate Image Super Resolution. [`arxiv`](https://arxiv.org/abs/1606.01299) :star:
 - Recurrent Batch Normalization. [`arxiv`](https://arxiv.org/pdf/1603.09025.pdf) :star: 
 - Recurrent Dropout without Memory Loss. [`arxiv`](https://arxiv.org/abs/1603.05118) :star: 
