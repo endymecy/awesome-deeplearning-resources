@@ -530,6 +530,7 @@ You should find the papers and software with star flag are more important or pop
 - [First International Workshop on Deep Learning and Music](https://arxiv.org/html/1706.08675)
 - [Generative Models](https://github.com/wiseodd/generative-models)
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources)
+- [List of articles related to deep learning applied to music](https://github.com/ybayle/awesome-deep-learning-music)
 - [Machine Learning / Deep Learning Conferences](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
