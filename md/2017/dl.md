@@ -72,6 +72,7 @@
 - Efficient Information Flow Maximization in Probabilistic Graphs. [`arxiv`](https://arxiv.org/abs/1701.05395)
 - Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback. [`pdf`](https://www.nature.com/articles/s41467-017-00181-8.pdf) [`code`](https://github.com/eminorhan/inevitable-probability) :star:
 - Encouraging LSTMs to Anticipate Actions Very Early. [`arxiv`](https://arxiv.org/abs/1703.07023)
+- End-to-end Network for Twitter Geolocation Prediction and Hashing. [`arxiv`](https://arxiv.org/abs/1710.04802) [`code`](https://github.com/jhlau/twitter-deepgeo)
 - End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures. [`pdf`](http://www.aclweb.org/anthology/P/P16/P16-1105.pdf) [`code`](https://github.com/tticoin/LSTM-ER)
 - Ensemble Sales Forecasting Study in Semiconductor Industry. [`arxiv`](https://arxiv.org/abs/1705.00003) [`code`](https://github.com/qx0731/ensemble_forecast_methods)
 - Evolving Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00548) :star:
