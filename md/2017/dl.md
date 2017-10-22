@@ -390,6 +390,7 @@
 - On the Effects of Batch and Weight Normalization in Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1704.03971) [`code`](https://github.com/stormraiser/GAN-weight-norm)
 - Parseval Networks: Improving Robustness to Adversarial Examples. [`arxiv`](https://arxiv.org/abs/1704.08847)
 - Reconstruction of three-dimensional porous media using generative adversarial neural networks. [`arxiv`](https://arxiv.org/abs/1704.03225) [`code`](https://github.com/LukasMosser/PorousMediaGan)
+- Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis. [`arxiv`](https://arxiv.org/abs/1710.06564) [`keras`](https://github.com/mmalekzadeh/replacement-autoencoder)
 - <b>[SalGAN]</b> Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081) [`code`](https://github.com/imatge-upc/saliency-salgan-2017) :star: 
 - Scene Graph Generation by Iterative Message Passing. [`arxiv`](https://arxiv.org/abs/1701.02426) [`tensorflow`](https://github.com/danfeiX/scene-graph-TF-release)
 - SEGAN: Speech Enhancement Generative Adversarial Network.  [`arxiv`](https://arxiv.org/abs/1703.09452) [`tensorflow`](https://github.com/santi-pdp/segan)
