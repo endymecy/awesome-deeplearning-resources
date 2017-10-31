@@ -81,6 +81,7 @@
 - Multiresolution Recurrent Neural Networks- An Application to Dialogue Response Generation. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj4uPqvoNjQAhUCTrwKHVczCQkQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.00776&usg=AFQjCNHpHAcvbIw16lPsnU1OaXNaqboi7g)]
 - Mutual information for fitting deep nonlinear models.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiXyoPFmoTRAhXJj1QKHQRuDAsQFggtMAE&url=https%3A%2F%2F128.84.21.199%2Fpdf%2F1612.05708&usg=AFQjCNGzOKfpy23UpAIZ-fIqgFUV18lB6g)]
 - Natural-Parameter Networks: A Class of Probabilistic Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.00448)
+- Neural Paraphrase Generation with Stacked Residual LSTM Networks. [`arxiv`](https://arxiv.org/abs/1610.03098) [`code`](https://github.com//iamaaditya/neural-paraphrase-generation)
 - Outrageously Large Neural Networks- The Sparsely-Gated Mixture-of-Experts Layer. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwie9YqPpdjQAhXGyrwKHVdtA5cQFggeMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DB1ckMDqlg&usg=AFQjCNFZKGF9WDTuxVy1iFTon3PBU5pwKQ)]
 - Overcoming catastrophic forgetting in neural networks. [`arxiv`](https://arxiv.org/abs/1612.00796)
 - Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences. [`arxiv`](https://arxiv.org/abs/1610.09513) [`tensorflow`](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/PhasedLSTMCell) :star:
