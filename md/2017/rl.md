@@ -13,6 +13,7 @@
 - Deep reinforcement learning from human preferences. [`arxiv`](https://arxiv.org/abs/1706.03741)
 - Deep Reinforcement Learning that Matters. [`arxiv`](https://arxiv.org/abs/1709.06560) [`code`](https://github.com/Breakend/DeepReinforcementLearningThatMatters)
 - Device Placement Optimization with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1706.04972)
+- Distributional Reinforcement Learning with Quantile Regression. [`arxiv`](https://arxiv.org/abs/1710.10044)
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.03864)
 - Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.06769)
 - Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations. [`arxiv`](https://arxiv.org/abs/1709.10087)
