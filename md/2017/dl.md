@@ -46,6 +46,7 @@
 - Deep Hashing Network for Unsupervised Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1706.07522) [`code`](https://github.com/hemanthdv/da-hash)
 - Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [`arxiv`](https://arxiv.org/abs/1701.00458) [`code`](https://github.com/guille-c/Deep-HiTS) :star: 
 - Deep Learning: A Bayesian Perspective. [`arxiv`](https://arxiv.org/abs/1706.00473) 
+- [Deep Learning as a Mixed Convex-Combinatorial Optimization Problem.](https://mp.weixin.qq.com/s/8U3vFaf3SDCYnWy4lQv6uw) [`arxiv`](https://arxiv.org/abs/1710.11573) :star:
 - Deep Learning for Time-Series Analysis. [`arxiv`](https://arxiv.org/abs/1701.01887)
 - Deep Learning With Dynamic Computation Graphs. [`pdf`](https://openreview.net/pdf?id=ryrGawqex)
 - DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy. [`arxiv`](https://arxiv.org/abs/1702.08192) [`caffe`](https://github.com/TJKlein/DeepNAT)
