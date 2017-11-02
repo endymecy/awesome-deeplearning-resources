@@ -191,6 +191,7 @@
 - Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [`arxiv`](https://arxiv.org/abs/1701.00485)
 - Understanding Black-box Predictions via Influence Functions. [`arxiv`](https://arxiv.org/abs/1703.04730) :star:
 - [Understanding deep learning requires rethinking generalization.](http://weibo.com/ttarticle/p/show?id=2309351000224100795007132875&u=1402400261&m=4100900743750148&cu=3655689037) [`arxiv`](https://arxiv.org/abs/1611.03530) :star:
+- Understanding Hidden Memories of Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1710.10777)
 - Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04128)
 - Understanding trained CNNs by indexing neuron selectivity. [`arxiv`](https://arxiv.org/abs/1702.00382)
 - Unsupervised feature learning with discriminative encoder. [`arxiv`](https://arxiv.org/abs/1709.00672)
