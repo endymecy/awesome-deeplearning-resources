@@ -172,6 +172,7 @@
 - Submanifold Sparse Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1706.01307) [`pytorch`](https://github.com/facebookresearch/SparseConvNet)
 - Super-Convergence: Very Fast Training of Residual Networks Using Large Learning Rates. [`arxiv`](https://arxiv.org/abs/1708.07120) [`code`](https://github.com/lnsmith54/super-convergence)
 - SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis. [`arxiv`](https://arxiv.org/abs/1708.01749)
+- TF Boosted Trees: A scalable TensorFlow based framework for gradient boosting. [`arxiv`](https://arxiv.org/abs/1710.11555) :star:
 - [The Cramer Distance as a Solution to Biased Wasserstein Gradients.](https://medium.com/towards-data-science/notes-on-the-cramer-gan-752abd505c00) [`arxiv`](https://arxiv.org/abs/1705.10743) [`pytorch`](https://github.com/ypxie/pytorch-cramer-Gan) :star:
 - The Future of Ad Blocking: An Analytical Framework and New Techniques. [`arxiv`](https://arxiv.org/abs/1705.08568) [`code`](https://github.com/citp/ad-blocking)
 - The Power of Sparsity in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.06257)
