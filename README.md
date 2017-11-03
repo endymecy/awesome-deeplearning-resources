@@ -597,7 +597,7 @@ You should find the papers and software with star flag are more important or pop
 - [Datasets for Data Science and Machine Learning](https://elitedatascience.com/datasets)
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
-- [Hard Drive Data and StaOpen Speech and Language Resourcests](https://www.backblaze.com/b2/hard-drive-test-data.html)
+- [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
 - [Japanese Word Similarity Dataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [LLD - Large Logo Dataset](https://data.vision.ee.ethz.ch/cvl/lld/)
