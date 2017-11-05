@@ -394,6 +394,7 @@ You should find the papers and software with star flag are more important or pop
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
     - [Object Tracking in Tensorflow ( Localization Detection Classification ) developed to partecipate to ImageNET VID competition](https://github.com/DrewNF/Tensorflow_Object_Tracking_Video) :star:
     - [OCR text recognition using tensorflow with attention](https://github.com/pannous/tensorflow-ocr) :star:
+    - [Open Source Neural Machine Translation in TensorFlow](https://github.com//OpenNMT/OpenNMT-tf) :star:
     - [Photographic Image Synthesis with Cascaded Refinement Networks](https://github.com/CQFIO/PhotographicImageSynthesis)
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
     - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/charlesq34/pointnet) :star:
