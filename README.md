@@ -134,6 +134,7 @@ You should find the papers and software with star flag are more important or pop
 * [Stanford] [CS20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [Stanford] [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
 * [Stanford] [CS 228: Probabilistic Graphical Models](http://cs.stanford.edu/~ermon/cs228/index.html)
+* [Stanford] [STATS 385: Theories of Deep Learning](https://stats385.github.io/)
 * [Toronto] [CSC 2541 Fall 2016:Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * [Utah] [Applied Computational Genomics Course at UU](https://github.com/quinlan-lab/applied-computational-genomics)
 * [YouTube][OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
