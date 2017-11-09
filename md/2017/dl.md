@@ -63,6 +63,7 @@
 - Diagonal RNNs in Symbolic Music Modeling. [`arxiv`](https://arxiv.org/abs/1704.05420) [`tensorflow`](https://github.com/ycemsubakan/diagonal_rnns)
 - Dilated Residual Networks. [`arxiv`](https://arxiv.org/abs/1705.09914) :star:
 - Distributed Online Learning of Event Definitions. [`arxiv`](https://arxiv.org/abs/1705.02175)
+- dna2vec: Consistent vector representations of variable-length k-mers. [`arxiv`](https://arxiv.org/abs/1701.06279) [`code`](https://github.com//pnpnpn/dna2vec)
 - Dockerface: an easy to install and use Faster R-CNN face detector in a Docker container. [`arxiv`](https://arxiv.org/abs/1708.04370) [`code`](https://github.com/natanielruiz/dockerface)
 - Domain-adaptive deep network compression. [`arxiv`](https://arxiv.org/abs/1709.01041) [`code`](https://github.com/mmasana/DALR)
 - Doubly Stochastic Variational Inference for Deep Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1705.08933) [`code`](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
