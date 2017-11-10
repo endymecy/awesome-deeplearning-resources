@@ -290,6 +290,7 @@
 - SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis. [`arxiv`](https://arxiv.org/abs/1708.01749) [`code`](https://github.com/mjiUST/SurfaceNet)
 - SwGridNet: A Deep Convolutional Neural Network based on Grid Topology for Image Classification. [`arxiv`](https://arxiv.org/abs/1709.07646) [`code`](https://github.com/takedarts/swgridnet)
 - <b>[Tacotron]</b> Towards End-to-End Speech Synthesis. [`arxiv`](https://arxiv.org/abs/1703.10135) [`code`](https://github.com/google/tacotron) :star:
+- Tangent: Automatic Differentiation Using Source Code Transformation in Python. [`arxiv`](https://arxiv.org/abs/1711.02712) [`code`](https://github.com//google/tangent)
 - Towards a Principled Integration of Multi-Camera Re-Identification and Tracking through Optimal Bayes Filters.  [`arxiv`](https://arxiv.org/abs/1705.04608)
 - Toward Geometric Deep SLAM. [`arxiv`](https://arxiv.org/abs/1707.07410) :star:
 - Towards perspective-free object counting with deep learning. [`pdf`](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf) [`code`](https://github.com/gramuah/ccnn)
