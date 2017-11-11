@@ -347,7 +347,7 @@
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer. [`arxiv`](https://arxiv.org/abs/1702.08014)
 - Aspect-augmented Adversarial Networks for Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1701.00188)
 - Automatic Generation of Typographic Font from a Small Font Subset. [`arxiv`](https://arxiv.org/abs/1701.05703) :star:
-- Bayesian GAN. [`arxiv`](https://arxiv.org/abs/1705.09558) :star:
+- Bayesian GAN. [`arxiv`](https://arxiv.org/abs/1705.09558) [`tensorflow`](https://github.com//andrewgordonwilson/bayesgan/) :star:
 - <b>[BEGAN]</b> Boundary Equilibrium Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10717) [`pytorch`](https://github.com/carpedm20/BEGAN-pytorch) [`tensorflow`](https://github.com/carpedm20/BEGAN-tensorflow) :star:
 - Boosted Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08484)
 - CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training. [`arxiv`](https://arxiv.org/abs/1709.02023) [`code`](https://github.com/mkocaoglu/CausalGAN)
