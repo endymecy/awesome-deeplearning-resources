@@ -57,6 +57,7 @@
 - Learning Convolutional Text Representations for Visual Question Answering. [`arxiv`](https://arxiv.org/abs/1705.06824) [`code`](https://github.com/divelab/vqa-text) :star:
 - Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1703.10960) [`tensorflow`](https://github.com/snakeztc/NeuralDialog-CVAE)
 - Learning Important Features Through Propagating Activation Differences. [`arxiv`](https://arxiv.org/abs/1704.02685) [`code`](https://github.com/kundajelab/deeplift) :star:
+- Learning Structured Text Representations. [`arxiv`](https://arxiv.org/abs/1705.09207) [`code`](https://github.com//nlpyang/structured)
 - Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1706.02337)
 - Learning to Generate Reviews and Discovering Sentiment. [`arxiv`](https://arxiv.org/abs/1704.01444) [`code`](https://github.com/openai/generating-reviews-discovering-sentiment)
 - Learning to Reason: End-to-End Module Networks for Visual Question Answering. [`arxiv`](https://arxiv.org/abs/1704.05526) [`tensorflow`](https://github.com/ronghanghu/n2nmn)
