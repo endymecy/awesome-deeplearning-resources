@@ -88,6 +88,7 @@
 - Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs. [`arxiv`](https://arxiv.org/abs/1701.08816)
 - Gated Orthogonal Recurrent Units: On Learning to Forget. [`arxiv`](https://arxiv.org/abs/1706.02761)
 - Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.05923)
+- Generalized Orderless Pooling Performs Implicit Salient Matching. [`arxiv`](http://openaccess.thecvf.com/content_iccv_2017/html/Simon_Generalized_Orderless_Pooling_ICCV_2017_paper.html) [`code`](https://github.com//cvjena/alpha_pooling)
 - gkm-DNN: efficient prediction using gapped k-mer features and deep neural networks. [`pdf`](http://www.biorxiv.org/content/biorxiv/early/2017/07/31/170761.full.pdf)
 - Good Semi-supervised Learning that Requires a Bad GAN. [`arxiv`](https://arxiv.org/abs/1705.09783)
 - Gradual Learning of Deep Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1708.08863) 
