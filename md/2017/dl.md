@@ -23,6 +23,7 @@
 - Autoencoder Regularized NetworkAn Effective Training Method For Deep Convolutional Neural Network. For Driving Style Representation Learning. [`arxiv`](https://arxiv.org/abs/1701.01272)
 - Backprop without Learning Rates Through Coin Betting. [`arxiv`](https://arxiv.org/abs/1705.07795) [`code`](https://github.com/bremen79/cocob)
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [`arxiv`](https://arxiv.org/abs/1702.03275) :star:
+- Bayesian Compression for Deep Learning. [`arxiv`](https://arxiv.org/abs/1705.08665) [`code`](https://github.com//KarenUllrich/Tutorial_BayesianCompressionForDL)
 - Bayesian Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.02798) [`tensorflow`](https://github.com/DeNeutoy/bayesian-rnn)
 - [Big Data vs. complex physical models: a scalable inference algorithm](https://arxiv.org/abs/1707.04476) [`code`](https://github.com/JohannesBuchner/massivedatans/)
 - [Billion-scale similarity search with GPUs.](http://weibo.com/1402400261/ECqPJziqk?type=comment#_rnd1491216627188) [`arxiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star: 
