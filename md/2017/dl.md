@@ -84,6 +84,7 @@
 - Fast Landmark Localization with 3D Component Reconstruction and CNN for Cross-Pose Recognition. [`arxiv`](https://arxiv.org/abs/1708.09580)
 - Fast-Slow Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.08639) [`tensorflow`](https://github.com/amujika/Fast-Slow-LSTM)
 - Forward Thinking: Building Deep Random Forests. [`arxiv`](https://arxiv.org/abs/1705.07366) [`tensorflow`](https://github.com/tkchris93/ForwardThinking)
+- Fraternal Dropout. [`arxiv`](https://arxiv.org/abs/1711.00066) [`pytorch`](https://github.com//kondiz/fraternal-dropout)
 - Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs. [`arxiv`](https://arxiv.org/abs/1701.08816)
 - Gated Orthogonal Recurrent Units: On Learning to Forget. [`arxiv`](https://arxiv.org/abs/1706.02761)
 - Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.05923)
