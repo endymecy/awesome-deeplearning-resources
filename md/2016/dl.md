@@ -96,6 +96,7 @@
 - Recurrent Dropout without Memory Loss. [`arxiv`](https://arxiv.org/abs/1603.05118) :star: 
 - Recurrent Highway Networks. [`arxiv`](https://arxiv.org/abs/1607.03474)
 - Residual Networks of Residual Networks- Multilevel Residual Networks. [`arxiv`](https://arxiv.org/abs/1608.02908)
+- Revisiting Semi-Supervised Learning with Graph Embeddings. [`arxiv`](https://arxiv.org/abs/1603.08861) [`code`](https://github.com//kimiyoung/planetoid)
 - Risk versus Uncertainty in Deep Learning: Bayes, Bootstrap and the Dangers of Dropout. [`pdf`](http://bayesiandeeplearning.org/papers/BDL_4.pdf)
 - RNN-based Encoder-decoder Approach with Word Frequency Estimation. [`arxiv`](https://arxiv.org/abs/1701.00138)
 - SampleRNN: An Unconditional End-To-End Neural Audio Generation Model. [`pdf`](https://openreview.net/pdf?id=HyJsPvcgg) [`code`](https://github.com/soroushmehr/sampleRNN_ICLR2017)
