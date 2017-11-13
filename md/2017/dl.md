@@ -276,6 +276,7 @@
 - Optimizing Deep CNN-Based Queries over Video Streams at Scale. [`arxiv`](https://arxiv.org/abs/1703.02529) [`tensorflow`](https://github.com/stanford-futuredata/tensorflow-noscope)
 - Pedestrian Alignment Network for Large-scale Person Re-identification. [`arxiv`](https://arxiv.org/abs/1707.00408) [`code`](https://github.com/layumi/Pedestrian_Alignment)
 - Perceptually Optimized Image Rendering. [`arxiv`](https://arxiv.org/abs/1701.06641)
+- PersonRank: Detecting Important People in Images. [`arxiv`](https://arxiv.org/abs/1711.01984)
 - Photographic Image Synthesis with Cascaded Refinement Networks. [`arxiv`](https://arxiv.org/abs/1707.09405) [`tensorflow`](https://github.com/CQFIO/PhotographicImageSynthesis) :star:
 - [Pixel Recursive Super Resolution.](https://mp.weixin.qq.com/s?__biz=MzI0NDU4MDg5MA==&mid=2247484778&idx=1&sn=e9fe3cc1a8b084a79e65144720c1b11d) [`arxiv`](https://arxiv.org/abs/1702.00783) :star:
 - Putting a Face to the Voice: Fusing Audio and Visual Signals Across a Video to Determine Speakers. [`arxiv`](https://arxiv.org/abs/1706.00079)
