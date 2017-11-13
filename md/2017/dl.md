@@ -21,6 +21,7 @@
 - AutoBagging: Learning to Rank Bagging Workflows with Metalearning. [`arxiv`](https://arxiv.org/abs/1706.09367) [`code`](https://github.com/fhpinto/autoBagging)
 - Automated Curriculum Learning for Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.03003) :star:
 - Autoencoder Regularized NetworkAn Effective Training Method For Deep Convolutional Neural Network. For Driving Style Representation Learning. [`arxiv`](https://arxiv.org/abs/1701.01272)
+- Backpropagation through the Void: Optimizing control variates for black-box gradient estimation. [`arxiv`](https://arxiv.org/abs/1711.00123) [`code`](https://github.com//duvenaud/relax) :star:
 - Backprop without Learning Rates Through Coin Betting. [`arxiv`](https://arxiv.org/abs/1705.07795) [`code`](https://github.com/bremen79/cocob)
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [`arxiv`](https://arxiv.org/abs/1702.03275) :star:
 - Bayesian Compression for Deep Learning. [`arxiv`](https://arxiv.org/abs/1705.08665) [`code`](https://github.com//KarenUllrich/Tutorial_BayesianCompressionForDL)
