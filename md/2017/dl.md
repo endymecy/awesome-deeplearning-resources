@@ -394,10 +394,11 @@
 - Improved Training of Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1704.00028) [`tensorflow`](https://github.com/igul222/improved_wgan_training) [`pytorch`](https://github.com/caogang/wgan-gp) :star:
 - Improved Semi-supervised Learning with GANs using Manifold Invariances. [`arxiv`](https://arxiv.org/abs/1705.08850)
 - InfoVAE: Information Maximizing Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1706.02262)
+- Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models. [`arxiv`](https://arxiv.org/abs/1711.05772) [`code`](http://t.cn/RjYZgvA?u=1402400261&m=4175302026003996&cu=undefined)
 - LatentPoison - Adversarial Attacks On The Latent Space. [`arxiv`](https://arxiv.org/abs/1711.02879) [`code`](https://github.com//ToniCreswell/Adversarial-Attack-On-Latent-Space)
 - Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [`tensorflow`](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)
 - Learning Texture Manifolds with the Periodic Spatial GAN. [`arxiv`](https://arxiv.org/abs/1705.06566) [`code`](https://github.com/ubergmann/psgan)
-- Lifelong Generative Modeling. [`arxiv`](https://arxiv.org/abs/1705.09847) [`code`](https://github.com/jramapuram/LifelongVAE)
+- Lifelong Generative M odeling. [`arxiv`](https://arxiv.org/abs/1705.09847) [`code`](https://github.com/jramapuram/LifelongVAE)
 - Learning Disentangled Representations with Semi-Supervised Deep Generative Models. [`arxiv`](https://arxiv.org/abs/1706.00400)
 - LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation. [`arxiv`](https://arxiv.org/abs/1703.01560) [`pytorch`](https://github.com/jwyang/lr-gan.pytorch)
 - <b>[DiscoGAN]</b> Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [`code`](https://github.com/dhgrs/chainer-DiscoGAN) :star:
