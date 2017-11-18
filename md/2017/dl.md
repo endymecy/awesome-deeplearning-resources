@@ -26,6 +26,7 @@
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [`arxiv`](https://arxiv.org/abs/1702.03275) :star:
 - Bayesian Compression for Deep Learning. [`arxiv`](https://arxiv.org/abs/1705.08665) [`code`](https://github.com//KarenUllrich/Tutorial_BayesianCompressionForDL)
 - Bayesian Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.02798) [`tensorflow`](https://github.com/DeNeutoy/bayesian-rnn)
+- Beyond Sparsity: Tree Regularization of Deep Models for Interpretability. [`arxiv`](https://arxiv.org/abs/1711.06178) [`code`](https://github.com//dtak/tree-regularization-public)
 - [Big Data vs. complex physical models: a scalable inference algorithm](https://arxiv.org/abs/1707.04476) [`code`](https://github.com/JohannesBuchner/massivedatans/)
 - [Billion-scale similarity search with GPUs.](http://weibo.com/1402400261/ECqPJziqk?type=comment#_rnd1491216627188) [`arxiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star: 
 - Bolt: Accelerated Data Mining with Fast Vector Compression. [`arxiv`](https://arxiv.org/abs/1706.10283) [`code`](https://github.com/dblalock/bolt)
