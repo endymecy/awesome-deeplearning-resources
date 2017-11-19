@@ -36,5 +36,6 @@
 - Stochastic Neural Networks for Hierarchical Reinforcement Learning. [`pdf`](https://openreview.net/pdf?id=B1oK8aoxe) [`code`](https://github.com/florensacc/snn4hrl) 
 - Tackling Error Propagation through Reinforcement Learning: A Case of Greedy Dependency Parsing. [`arxiv`](https://arxiv.org/abs/1702.06794) [`code`](https://bitbucket.org/cltl/redep-java)
 - Task-Oriented Query Reformulation with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1704.04572) [`code`](https://github.com/nyu-dl/QueryReformulator)
+- Value Prediction Network. [`arxiv`](https://arxiv.org/abs/1707.03497)
 - Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation.[`arxiv`](https://arxiv.org/abs/1703.00420)
 - Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1706.05064) 
