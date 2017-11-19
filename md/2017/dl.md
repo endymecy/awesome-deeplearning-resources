@@ -410,6 +410,7 @@
 - Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders. [`arxiv`](https://arxiv.org/abs/1704.01279) [`tensorflow`](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) :star:
 - On the Effects of Batch and Weight Normalization in Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1704.03971) [`code`](https://github.com/stormraiser/GAN-weight-norm)
 - Parseval Networks: Improving Robustness to Adversarial Examples. [`arxiv`](https://arxiv.org/abs/1704.08847)
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation. [`arxiv`](https://arxiv.org/abs/1710.10196) [`pytorch`](https://github.com//nashory/pggan-pytorch)
 - Reconstruction of three-dimensional porous media using generative adversarial neural networks. [`arxiv`](https://arxiv.org/abs/1704.03225) [`code`](https://github.com/LukasMosser/PorousMediaGan)
 - Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis. [`arxiv`](https://arxiv.org/abs/1710.06564) [`keras`](https://github.com/mmalekzadeh/replacement-autoencoder)
 - <b>[SalGAN]</b> Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081) [`code`](https://github.com/imatge-upc/saliency-salgan-2017) :star: 
