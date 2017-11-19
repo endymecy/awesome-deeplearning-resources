@@ -15,6 +15,7 @@
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [`arxiv`](https://arxiv.org/abs/1701.01207)
 - AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.09786)
 - An Effective Training Method For Deep Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1708.01666) :star:
+- A neural algorithm for a fundamental computing problem. [`url`](http://science.sciencemag.org/content/358/6364/793) :star:
 - A Probabilistic Framework for Location Inference from Social Media. [`arxiv`](https://arxiv.org/abs/1702.07281)
 - A Saddle Point Approach to Structured Low-rank Matrix Learning in Large-scale Applications.  [`arxiv`](https://arxiv.org/abs/1704.07352)
 - [A simple neural network module for relational reasoning.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650727591&idx=1&sn=176d4a7ab8e06451b0deb2d74c3a5794) [`arxiv`](https://arxiv.org/abs/1706.01427) :star:
