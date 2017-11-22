@@ -332,7 +332,7 @@
 - Dynamic Computational Time for Visual Attention(DT-RAM). [`arxiv`](https://arxiv.org/abs/1703.10332) [`torch`](https://github.com/baidu-research/DT-RAM) :star:
 - Efficient Attention using a Fixed-Size Memory Representation. [`arxiv`](https://arxiv.org/abs/1707.00110)
 - End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
-- Graph Attention Networks. [`arxiv`](https://arxiv.org/abs/1710.10903)
+- Graph Attention Networks. [`arxiv`](https://arxiv.org/abs/1710.10903) :star:
 - <b>[HRAN]</b> Hierarchical Recurrent Attention Network for Response Generation. [`arxiv`](https://arxiv.org/abs/1701.07149) [`code`](https://github.com/LynetteXing1991/HRAN) :star:
 - Online and Linear-Time Attention by Enforcing Monotonic Alignments. [`arxiv`](https://arxiv.org/abs/1704.00784) [`code`](https://github.com/craffel/mad)
 - Residual Attention Network for Image Classification. [`arxiv`](https://arxiv.org/abs/1704.06904) [`caffle`](https://github.com/buptwangfei/residual-attention-network)
@@ -420,6 +420,7 @@
 - Scene Graph Generation by Iterative Message Passing. [`arxiv`](https://arxiv.org/abs/1701.02426) [`tensorflow`](https://github.com/danfeiX/scene-graph-TF-release)
 - SEGAN: Speech Enhancement Generative Adversarial Network.  [`arxiv`](https://arxiv.org/abs/1703.09452) [`tensorflow`](https://github.com/santi-pdp/segan)
 - Softmax GAN. [`arxiv`](https://arxiv.org/abs/1704.06191)
+- Spectral Normalization for Generative Adversarial Networks. [`pdf`](https://openreview.net/pdf?id=B1QRgziT-) :star:
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches. [`arxiv`](https://arxiv.org/abs/1706.02823) 
 - Towards Deep Learning Models Resistant to Adversarial Attacks. [`arxiv`](https://arxiv.org/abs/1706.06083) [`code`](https://github.com/tensorflow/cleverhans/blob/master/cleverhans/attacks.py)
