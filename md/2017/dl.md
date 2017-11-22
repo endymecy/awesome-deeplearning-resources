@@ -138,6 +138,7 @@
 - Neural Task Programming: Learning to Generalize Across Hierarchical Tasks. [`arxiv`](https://arxiv.org/abs/1710.01813) [`code`](https://github.com/ntp-project/ntp)
 - [Neural Variational Inference and Learning in Undirected Graphical Models.](https://mp.weixin.qq.com/s/xI9JjRKT1K-CmRgRBNwAFA) [`arxiv`](https://arxiv.org/abs/1711.02679)
 - One Model To Learn Them All. [`arxiv`](https://arxiv.org/abs/1706.05137) [`tensorflow`](https://github.com/tensorflow/tensor2tensor) :star:
+- One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models. [`arxiv`](https://arxiv.org/abs/1703.09912) [`tensorflow`](https://github.com//rick-chang/OneNet)
 - Online Convolutional Dictionary Learning. [`arxiv`](https://arxiv.org/abs/1706.09563)
 - On weight initialization in deep neural networks. [`arxiv`](https://arxiv.org/abs/1704.08863) [`code`](https://github.com/sidkk86/weight_initialization)
 - Opening the Black Box of Deep Neural Networks via Information. [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
