@@ -320,6 +320,7 @@
 - Visualizing LSTM decisions. [`arxiv`](https://arxiv.org/abs/1705.08153)
 - Visual Discovery at Pinterest. [`arxiv`](https://arxiv.org/abs/1702.04680)
 - [Visualizing Residual Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650722569&idx=4&sn=28edc09238076e924c94ac1094ddfa53) [`arxiv`](https://arxiv.org/abs/1701.02362) :star:
+- VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection. [`arxiv`](https://arxiv.org/abs/1711.06396)
 - [Wide-Residual-Inception Networks for Real-time Object Detection.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723042&idx=5&sn=575a4de5c895487616f20228e9d15f43) [`arxiv`](https://arxiv.org/abs/1702.01243) :star:
 - YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video.  [`arxiv`](https://arxiv.org/abs/1702.00824) [`code`](https://github.com/mbuckler/youtube-bb)
 - Zoom Out-and-In Network with Recursive Training for Object Proposal. [`arxiv`](https://arxiv.org/abs/1702.05711)
