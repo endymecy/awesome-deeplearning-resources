@@ -290,6 +290,7 @@
 - Rethinking Atrous Convolution for Semantic Image Segmentation. [`arxiv`](https://arxiv.org/abs/1706.05587)
 - SfM-Net: Learning of Structure and Motion from Video. [`arxiv`](https://arxiv.org/abs/1704.07804) :star:
 - Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner. [`arxiv`](https://arxiv.org/abs/1705.00930) [`code`](https://github.com/tsenghungchen/show-adapt-and-tell)
+- Single-Shot Refinement Neural Network for Object Detection. [`arxiv`](https://arxiv.org/abs/1711.06897) [`caffe`](https://github.com//sfzhang15/RefineDet)
 - SLAM with Objects using a Nonparametric Pose Graph. [`arxiv`](https://arxiv.org/abs/1704.05959) [`code`](https://github.com/BeipengMu/objectSLAM)
 - STN-OCR: A single Neural Network for Text Detection and Text Recognition. [`arxiv`](https://arxiv.org/abs/1707.08831) [`code`](https://github.com/Bartzi/stn-ocr)
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection.  [`arxiv`](https://arxiv.org/abs/1702.05552)
