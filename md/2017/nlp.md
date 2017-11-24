@@ -8,6 +8,7 @@
 - A Neural Framework for Generalized Topic Models. [`arxiv`](https://arxiv.org/abs/1705.09296) [`code`](https://github.com/dallascard/neural_topic_models)
 - An online sequence-to-sequence model for noisy speech recognition. [`arxiv`](https://arxiv.org/abs/1706.06428) :star:
 - A Read-Write Memory Network for Movie Story Understanding. [`arxiv`](https://arxiv.org/abs/1709.09345) [`code`](https://github.com/seilna/RWMN)
+- Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning. [`arxiv`](https://arxiv.org/abs/1711.07613)
 - A Review on Deep Learning Techniques Applied to Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1704.06857)
 - A Tidy Data Model for Natural Language Processing using cleanNLP. [`arXiv`](https://arxiv.org/abs/1703.09570)
 - Attention-based Mixture Density Recurrent Networks for History-based Recommendation. [`arxiv`](https://arxiv.org/abs/1709.07545)
