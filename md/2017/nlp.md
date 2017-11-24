@@ -82,6 +82,7 @@
 - Recurrent and Contextual Models for Visual Question Answering. [`arxiv`](https://arxiv.org/abs/1703.08120)
 - Recurrent neural networks with specialized word embeddings for health-domain named-entity recognition. [`arxiv`](https://arxiv.org/abs/1706.09569) [`code`](https://github.com/ijauregiCMCRC/healthNER)
 - Recurrent Recommender Networks. [`pdf`](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)
+- Recurrent Relational Networks for Complex Relational Reasoning. [`arxiv`](https://arxiv.org/abs/1711.08028)
 - SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine. [`arxiv`](https://arxiv.org/abs/1704.05179)  [`pytorch`](https://github.com/nyu-dl/SearchQA) :star:
 - Sentiment Analysis by Joint Learning of Word Embeddings and Classifier. [`arxiv`](https://arxiv.org/abs/1708.03995)
 - [Semantic Instance Segmentation via Deep Metric Learning.](http://weibo.com/ttarticle/p/show?id=2309351000224096147458277147&u=1402400261&m=4096554547383656&cu=3291965747&ru=1402400261&rm=4091597186263507) [`arxiv`](https://arxiv.org/abs/1703.10277) :star: 
