@@ -125,6 +125,7 @@
 - [Mask R-CNN.](https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488392&idx=2&sn=7c8e41aef37c370d6155607283d776ef) [`arxiv`](https://arxiv.org/abs/1703.06870) :star:
 - Mastering the game of Go without human knowledge. [`pdf`](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
 - Memory-Efficient Implementation of DenseNets. [`arxiv`](https://arxiv.org/abs/1707.06990) [`pytorch`](https://github.com/gpleiss/efficient_densenet_pytorch) :star:
+- MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1711.06788)
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. [`arxiv`](https://arxiv.org/abs/1703.03400) [`code`](https://github.com/cbfinn/maml) [`pytorch`](https://github.com/katerakelly/pytorch-maml) :star:
 - [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650725078&idx=4&sn=f23476a1abf7017686f2b18ca5dd83d8)  [`arxiv`](https://arxiv.org/abs/1703.10069)
 - Multi-Scale Dense Convolutional Networks for Efficient Prediction. [`arxiv`](https://arxiv.org/abs/1703.09844) [`code`](https://github.com/gaohuang/MSDNet)
