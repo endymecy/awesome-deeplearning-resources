@@ -138,6 +138,7 @@
 - Neural Ranking Models with Weak Supervision. [`arxiv`](https://arxiv.org/abs/1704.08803)
 - Neural Task Programming: Learning to Generalize Across Hierarchical Tasks. [`arxiv`](https://arxiv.org/abs/1710.01813) [`code`](https://github.com/ntp-project/ntp)
 - [Neural Variational Inference and Learning in Undirected Graphical Models.](https://mp.weixin.qq.com/s/xI9JjRKT1K-CmRgRBNwAFA) [`arxiv`](https://arxiv.org/abs/1711.02679)
+- [Non-local Neural Networks.](https://mp.weixin.qq.com/s/9rmj9_9TNBMS--yrpTIzcA) [`arxiv`](https://arxiv.org/abs/1711.07971) :star:
 - One Model To Learn Them All. [`arxiv`](https://arxiv.org/abs/1706.05137) [`tensorflow`](https://github.com/tensorflow/tensor2tensor) :star:
 - One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models. [`arxiv`](https://arxiv.org/abs/1703.09912) [`tensorflow`](https://github.com//rick-chang/OneNet)
 - Online Convolutional Dictionary Learning. [`arxiv`](https://arxiv.org/abs/1706.09563)
