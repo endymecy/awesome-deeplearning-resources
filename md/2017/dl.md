@@ -260,6 +260,7 @@
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [`arxiv`](https://arxiv.org/abs/1701.08251)
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1701.02096) [`code`](https://github.com/DmitryUlyanov/texture_nets)
 - Joint auto-encoders: a flexible multi-task learning framework. [`arxiv`](https://arxiv.org/abs/1705.10494)
+- Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN. [`arxiv`](https://arxiv.org/abs/1711.07607)
 - Large-Scale Evolution of Image Classifiers. [`arxiv`](https://arxiv.org/abs/1703.01041) [`pytorch`](https://github.com/neuralix/google_evolution)
 - Learning a Mixture of Deep Networks for Single Image Super-Resolution. [`arxiv`](https://arxiv.org/abs/1701.00823) [`code`](http://t.cn/RM4pjZ4)]
 - Learning a time-dependent master saliency map from eye-tracking data in videos. [`arxiv`](https://arxiv.org/abs/1702.00714) [`code`](http://antoinecoutrot.magix.net/public/saliency-with-lasso.html)
