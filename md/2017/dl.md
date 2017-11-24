@@ -290,6 +290,7 @@
 - Putting a Face to the Voice: Fusing Audio and Visual Signals Across a Video to Determine Speakers. [`arxiv`](https://arxiv.org/abs/1706.00079)
 - Recurrent Scale Approximation for Object Detection in CNN. [`arxiv`](https://arxiv.org/abs/1707.09531) [`code`](https://github.com/sciencefans/RSA-for-object-detection)
 - Rethinking Atrous Convolution for Semantic Image Segmentation. [`arxiv`](https://arxiv.org/abs/1706.05587)
+- S^3FD: Single Shot Scale-invariant Face Detector. [`arxiv`](https://arxiv.org/abs/1708.05237) [`pytorch`](https://github.com/clcarwin/SFD_pytorch)
 - SfM-Net: Learning of Structure and Motion from Video. [`arxiv`](https://arxiv.org/abs/1704.07804) :star:
 - Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner. [`arxiv`](https://arxiv.org/abs/1705.00930) [`code`](https://github.com/tsenghungchen/show-adapt-and-tell)
 - Single-Shot Refinement Neural Network for Object Detection. [`arxiv`](https://arxiv.org/abs/1711.06897) [`caffe`](https://github.com//sfzhang15/RefineDet)
