@@ -374,6 +374,7 @@
 - Class-Splitting Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1709.07359) [`tensorflow`](https://github.com/CIFASIS/splitting_gan)
 - Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields. [`arxiv`](https://arxiv.org/abs/1708.08819) [`code`](https://github.com/bioinf-jku/coulomb_gan)
 - Counterfactual Control for Free from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.06676) [`code`](https://github.com/arayabrain/GenerativeControl)
+- DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1711.07064) [`pytorch`](https://github.com//KupynOrest/DeblurGAN)
 - Deep adversarial neural decoding. [`arxiv`](https://arxiv.org/abs/1705.07109) :star:
 - Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. [`arxiv`](https://arxiv.org/abs/1702.07464)
 - DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data. [`arxiv`](https://arxiv.org/abs/1706.02071) [`code`](https://github.com/val-iisc/deligan)
