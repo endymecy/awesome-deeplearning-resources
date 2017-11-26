@@ -179,6 +179,7 @@
 - Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.03441) [`code`](https://github.com/jingweimo/Modified-LSTM) :star: 
 - SmoothGrad: removing noise by adding noise. [`arxiv`](https://arxiv.org/abs/1706.03825) [`code`](https://github.com/PAIR-code/saliency)
 - Sparse canonical correlation analysis. [`arxiv`](https://arxiv.org/abs/1705.10865)
+- Sparse-Input Neural Networks for High-dimensional Nonparametric Regression and Classification. [`arxiv`](https://arxiv.org/abs/1711.07592) [`tensorflow`](https://github.com//jjfeng/spinn)
 - Sparse Neural Networks Topologies. [`arxiv`](https://arxiv.org/abs/1706.05683) :star:
 - Squeeze-and-Excitation Networks. [`arxiv`](https://arxiv.org/abs/1709.01507) [`code`](https://github.com/hujie-frank/SENet) [`tensorflow`](https://github.com/taki0112/SENet-Tensorflow)
 - Statistical inference for network samples using subgraph counts. [`arxiv`](https://arxiv.org/abs/1701.00505)
