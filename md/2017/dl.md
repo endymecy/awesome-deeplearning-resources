@@ -436,6 +436,7 @@
 - SEGAN: Speech Enhancement Generative Adversarial Network.  [`arxiv`](https://arxiv.org/abs/1703.09452) [`tensorflow`](https://github.com/santi-pdp/segan)
 - Softmax GAN. [`arxiv`](https://arxiv.org/abs/1704.06191)
 - Spectral Normalization for Generative Adversarial Networks. [`pdf`](https://openreview.net/pdf?id=B1QRgziT-) :star:
+- [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation.](https://mp.weixin.qq.com/s/bIziwKBB2sXHxIDRpkYlHw) [`arxiv`](https://arxiv.org/abs/1711.09020) [`code`](https://github.com//yunjey/StarGAN) :star:
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches. [`arxiv`](https://arxiv.org/abs/1706.02823) 
 - Towards Deep Learning Models Resistant to Adversarial Attacks. [`arxiv`](https://arxiv.org/abs/1706.06083) [`code`](https://github.com/tensorflow/cleverhans/blob/master/cleverhans/attacks.py)
