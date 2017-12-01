@@ -15,6 +15,7 @@
 - Deep Reinforcement Learning that Matters. [`arxiv`](https://arxiv.org/abs/1709.06560) [`code`](https://github.com/Breakend/DeepReinforcementLearningThatMatters)
 - Device Placement Optimization with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1706.04972)
 - Distributional Reinforcement Learning with Quantile Regression. [`arxiv`](https://arxiv.org/abs/1710.10044)
+- End-to-End Optimization of Task-Oriented Dialogue Model with Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1711.10712)
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.03864)
 - Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.06769)
 - Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations. [`arxiv`](https://arxiv.org/abs/1709.10087)
