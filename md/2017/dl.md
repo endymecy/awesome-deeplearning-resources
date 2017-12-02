@@ -380,6 +380,7 @@
 - Boosted Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08484)
 - CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training. [`arxiv`](https://arxiv.org/abs/1709.02023) [`code`](https://github.com/mkocaoglu/CausalGAN)
 - Class-Splitting Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1709.07359) [`tensorflow`](https://github.com/CIFASIS/splitting_gan)
+- ConvNets and ImageNet Beyond Accuracy: Explanations, Bias Detection, Adversarial Examples and Model Criticism. [`arxiv`](https://arxiv.org/abs/1711.11443)
 - Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields. [`arxiv`](https://arxiv.org/abs/1708.08819) [`code`](https://github.com/bioinf-jku/coulomb_gan)
 - Counterfactual Control for Free from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.06676) [`code`](https://github.com/arayabrain/GenerativeControl)
 - DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1711.07064) [`pytorch`](https://github.com//KupynOrest/DeblurGAN)
