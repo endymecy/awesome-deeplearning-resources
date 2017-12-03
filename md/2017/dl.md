@@ -456,6 +456,7 @@
 - [Variational Approaches for Auto-Encoding Generative Adversarial Networks.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486161&idx=2&sn=e11c6bb9839a1fde85e96d26ac2d0b75) [`arxiv`](https://arxiv.org/abs/1706.04987)
 - VAE with a VampPrior. [`arxiv`](https://arxiv.org/abs/1705.07120) [`code`](https://github.com/jmtomczak/vae_vampprior)
 - VIGAN: Missing View Imputation with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1708.06724) [`pytorch`](https://github.com/chaoshangcs/VIGAN)
+- Visual Feature Attribution using Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1711.08998)
 - <b>[WGAN]</b> [Wasserstein GAN.](https://zhuanlan.zhihu.com/p/25071913) [`arxiv`](https://arxiv.org/abs/1701.07875) [`pytorch`](https://github.com/martinarjovsky/WassersteinGAN) [`tensorflow`](https://github.com/Zardinality/WGAN-tensorflow) :star:
 - Wasserstein Learning of Deep Generative Point Process Models. [`arxiv`](https://arxiv.org/abs/1705.08051)
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images. [`arxiv`](https://arxiv.org/abs/1702.07392) [`code`](https://github.com/kskin/WaterGAN)
