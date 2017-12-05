@@ -261,6 +261,7 @@
 - Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
+- Fader Networks: Manipulating Images by Sliding Attributes. [`arxiv`](https://arxiv.org/abs/1706.00409) [`pytorch`](https://github.com//facebookresearch/FaderNetworks) :star:
 - Fast Image Processing with Fully-Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1709.00643) [`code`](https://github.com/CQFIO/FastImageProcessing)
 - FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras. [`arxiv`](https://arxiv.org/abs/1707.09476)
 - Focal Loss for Dense Object Detection. [`arxiv`](https://arxiv.org/abs/1708.02002) [`mxnet`](https://github.com/unsky/RetinaNet)
