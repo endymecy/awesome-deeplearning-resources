@@ -622,5 +622,6 @@ You should find the papers and software with star flag are more important or pop
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
+- [VGGFace2 Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
 - [Wolfram Data Repository](https://datarepository.wolframcloud.com/)
 - [Yelp Open Dataset](https://www.yelp.com/dataset)
