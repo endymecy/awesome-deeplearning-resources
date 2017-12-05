@@ -584,6 +584,7 @@ You should find the papers and software with star flag are more important or pop
 - [联合国平行语料库](https://conferences.unite.un.org/UNCorpus/zh)
 - [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh)
 - [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus)
+- [PTT 八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
 - [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 - [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
 - [A dataset for book recommendations: ten thousand books, one million ratings](https://www.kaggle.com/zygmunt/goodbooks-10k)
