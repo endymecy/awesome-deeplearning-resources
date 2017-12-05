@@ -266,6 +266,7 @@
 - FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras. [`arxiv`](https://arxiv.org/abs/1707.09476)
 - Focal Loss for Dense Object Detection. [`arxiv`](https://arxiv.org/abs/1708.02002) [`mxnet`](https://github.com/unsky/RetinaNet)
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [`arxiv`](https://arxiv.org/abs/1701.08251)
+- Improving Smiling Detection with Race and Gender Diversity. [`arxiv`](https://arxiv.org/abs/1712.00193)
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1701.02096) [`code`](https://github.com/DmitryUlyanov/texture_nets)
 - Joint auto-encoders: a flexible multi-task learning framework. [`arxiv`](https://arxiv.org/abs/1705.10494)
 - Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN. [`arxiv`](https://arxiv.org/abs/1711.07607)
