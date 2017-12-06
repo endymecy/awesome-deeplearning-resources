@@ -116,6 +116,7 @@
 - Learning to Acquire Information. [`arxiv`](https://arxiv.org/abs/1704.06131)
 - Learning to Compose Domain-Specific Transformations for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1709.01643) [`code`](https://github.com/HazyResearch/tanda)
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1701.03891)
+- Learning to Learn from Weak Supervision by Full Supervision. [`arxiv`](http://mostafadehghani.com/2017/12/01/learning-to-learn-from-weak-supervision-by-full-supervision/)
 - Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg) [`tensorflow`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events)] :star:
 - Learning to Segment Instances in Videos with Spatial Propagation Network. [`pdf`](http://davischallenge.org/challenge2017/papers/DAVIS-Challenge-6th-Team.pdf) [`code`](https://github.com/JingchunCheng/Seg-with-SPN)
 - LDMNet: Low Dimensional Manifold Regularized Neural Networks. [`arxiv`](https://arxiv.org/abs/1711.06246)
