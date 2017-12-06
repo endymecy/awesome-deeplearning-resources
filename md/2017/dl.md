@@ -129,6 +129,7 @@
 - [Mask R-CNN.](https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488392&idx=2&sn=7c8e41aef37c370d6155607283d776ef) [`arxiv`](https://arxiv.org/abs/1703.06870) :star:
 - Mastering the game of Go without human knowledge. [`pdf`](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
 - Memory-Efficient Implementation of DenseNets. [`arxiv`](https://arxiv.org/abs/1707.06990) [`pytorch`](https://github.com/gpleiss/efficient_densenet_pytorch) :star:
+- Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results. [`arxiv`](https://arxiv.org/abs/1703.01780) [`code`](https://github.com//CuriousAI/mean-teacher) :star:
 - MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1711.06788)
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. [`arxiv`](https://arxiv.org/abs/1703.03400) [`code`](https://github.com/cbfinn/maml) [`pytorch`](https://github.com/katerakelly/pytorch-maml) :star:
 - [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650725078&idx=4&sn=f23476a1abf7017686f2b18ca5dd83d8)  [`arxiv`](https://arxiv.org/abs/1703.10069)
@@ -161,6 +162,7 @@
 - Privacy-Preserving Deep Inference for Rich User Data on The Cloud. [`arxiv`](https://arxiv.org/abs/1710.01727) [`code`](https://github.com/aliosia/DeepPrivInf2017)
 - Privileged Multi-label Learning. [`arxiv`](https://arxiv.org/abs/1701.07194)
 - Prochlo: Strong Privacy for Analytics in the Crowd. [`arxiv`](https://arxiv.org/abs/1710.00901)
+- Progressive Neural Architecture Search. [`arxiv`](https://arxiv.org/abs/1712.00559)
 - QCD-Aware Recursive Neural Networks for Jet Physics. [`arxiv`](https://arxiv.org/abs/1702.00748) [`code`](https://github.com/glouppe/recnn)
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
 - Recurrent Additive Networks. [`arxiv`](https://arxiv.org/abs/1705.07393) [`pytorch`](https://github.com/bheinzerling/ran) :star:
