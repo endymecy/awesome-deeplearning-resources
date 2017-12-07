@@ -43,5 +43,6 @@
 - Task-Oriented Query Reformulation with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1704.04572) [`code`](https://github.com/nyu-dl/QueryReformulator)
 - Teaching a Machine to Read Maps with Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1711.07479) [`code`](https://github.com//OliverRichter/map-reader)
 - Value Prediction Network. [`arxiv`](https://arxiv.org/abs/1707.03497)
+- Variational Deep Q Network. [`arxiv`](https://arxiv.org/abs/1711.11225)
 - Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation.[`arxiv`](https://arxiv.org/abs/1703.00420)
 - Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1706.05064) 
