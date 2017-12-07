@@ -22,6 +22,7 @@
 - Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations. [`arxiv`](https://arxiv.org/abs/1709.10087)
 - Learning how to Active Learn: A Deep Reinforcement Learning Approach. [`arxiv`](https://arxiv.org/abs/1708.02383) [`tensorflow`](https://github.com/mengf1/PAL)
 - Learning Multimodal Transition Dynamics for Model-Based Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.00470) [`tensorflow`](https://github.com/tmoer/multimodal_varinf)
+- Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm. [`arxiv`](https://arxiv.org/abs/1712.01815)
 - Micro-Objective Learning : Accelerating Deep Reinforcement Learning through the Discovery of Continuous Subgoals. [`arxiv`](https://arxiv.org/abs/1703.03933)
 - Neural Architecture Search with Reinforcement Learning. [`arxiv`](Neural Architecture Search with Reinforcement Learning) [`tensorflow`](https://github.com/tensorflow/models)
 - Neural Map: Structured Memory for Deep Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08360)
