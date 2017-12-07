@@ -451,6 +451,7 @@
 - [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation.](https://mp.weixin.qq.com/s/bIziwKBB2sXHxIDRpkYlHw) [`arxiv`](https://arxiv.org/abs/1711.09020) [`code`](https://github.com//yunjey/StarGAN) :star:
 - Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches. [`arxiv`](https://arxiv.org/abs/1706.02823) 
+- Towards an Understanding of Our World by GANing Videos in the Wild. [`arxiv`](https://arxiv.org/abs/1711.11453) [`tensorflow`](https://github.com//bernhard2202/improved-video-gan)
 - Towards Deep Learning Models Resistant to Adversarial Attacks. [`arxiv`](https://arxiv.org/abs/1706.06083) [`code`](https://github.com/tensorflow/cleverhans/blob/master/cleverhans/attacks.py)
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN. [`arxiv`](http://weibo.com/1402400261/EBP7EgRkQ?type=comment#_rnd1490711748139)
 - Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862) :star:
