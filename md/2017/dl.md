@@ -13,6 +13,7 @@
 - A Hitting Time Analysis of Stochastic Gradient Langevin Dynamics. [`arxiv`](https://arxiv.org/abs/1702.05575) :star:
 - AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms. [`arxiv`](https://arxiv.org/abs/1709.05703)
 - Alignment of dynamic networks. [`arxiv`](https://arxiv.org/abs/1701.08842)
+- A Linear-Time Kernel Goodness-of-Fit Test. [`arxiv`](https://arxiv.org/abs/1705.07673) [`code`](https://github.com//wittawatj/kernel-gof)
 - A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [`arxiv`](https://arxiv.org/abs/1701.01207)
 - AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.09786)
 - An Effective Training Method For Deep Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1708.01666) :star:
