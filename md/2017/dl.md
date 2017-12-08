@@ -264,6 +264,7 @@
 - Disentangling Motion, Foreground and Background Features in Videos. [`arxiv`](https://arxiv.org/abs/1707.04092) [`code`](https://github.com/imatge-upc/unsupervised-2017-cvprw)
 - Disguised Face Identification (DFI) with Facial KeyPoints using Spatial Fusion Convolutional Network. [`arxiv`](https://arxiv.org/abs/1708.09317)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
+- Dual-Path Convolutional Image-Text Embedding. [`arxiv`](https://arxiv.org/abs/1711.05535) [`code`](https://github.com//layumi/Image-Text-Embedding)
 - End-to-end Training for Whole Image Breast Cancer Diagnosis using An All Convolutional Design. [`arxiv`](https://arxiv.org/abs/1708.09427) [`code`](https://github.com/lishen/end2end-all-conv)
 - Estimated Depth Map Helps Image Classification. [`arxiv`](https://arxiv.org/abs/1709.07077) [`code`](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)
 - Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
