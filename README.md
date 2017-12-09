@@ -166,6 +166,7 @@ You should find the papers and software with star flag are more important or pop
 * [Scikit-learn 秘籍](https://www.gitbook.com/book/wizardforcel/sklearn-cookbook/details)
 * [Python Data Science Handbook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 * [Mathematical Foundations](https://mathematical-tours.github.io/book/)
+* [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action)
 
 ### Tutorials
 
