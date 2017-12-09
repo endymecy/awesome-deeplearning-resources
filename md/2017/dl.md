@@ -150,6 +150,7 @@
 - One Model To Learn Them All. [`arxiv`](https://arxiv.org/abs/1706.05137) [`tensorflow`](https://github.com/tensorflow/tensor2tensor) :star:
 - One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models. [`arxiv`](https://arxiv.org/abs/1703.09912) [`tensorflow`](https://github.com//rick-chang/OneNet)
 - Online Convolutional Dictionary Learning. [`arxiv`](https://arxiv.org/abs/1706.09563)
+- Online Learning with Gated Linear Networks. [`arxiv`](https://arxiv.org/abs/1712.01897)
 - On the Information Bottleneck Theory of Deep Learning. [`pdf`](https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A-) :star:
 - On weight initialization in deep neural networks. [`arxiv`](https://arxiv.org/abs/1704.08863) [`code`](https://github.com/sidkk86/weight_initialization)
 - Opening the Black Box of Deep Neural Networks via Information. [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
