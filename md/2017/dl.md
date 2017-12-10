@@ -427,6 +427,7 @@
 - Guiding InfoGAN with Semi-Supervision. [`arxiv`](https://arxiv.org/abs/1707.04487) [`code`](https://github.com/spurra/ss-infogan)
 - High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. [`arxiv`](https://arxiv.org/pdf/1711.11585.pdf) [`code`](https://github.com/NVIDIA/pix2pixHD)
 - How to Train Your DRAGAN. [`arxiv`](https://arxiv.org/abs/1705.07215) [`code`](https://github.com/kodalinaveen3/DRAGAN)
+- Hybrid VAE: Improving Deep Generative Models using Partial Observations. [`arxiv`](https://arxiv.org/abs/1711.11566)
 - Image De-raining Using a Conditional Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1701.05957) [`caffe`](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)
 - Image Generation and Editing with Variational Info Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04568)
 - Improved Training of Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1704.00028) [`tensorflow`](https://github.com/igul222/improved_wgan_training) [`pytorch`](https://github.com/caogang/wgan-gp) :star:
