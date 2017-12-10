@@ -108,6 +108,7 @@
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [`arxiv`](https://arxiv.org/abs/1701.05616)
 - [Hyperparameter Optimization: A Spectral Approach.](https://zhuanlan.zhihu.com/p/27555858) [`arxiv`](https://arxiv.org/abs/1706.00764)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation. [`arxiv`](https://arxiv.org/abs/1704.03296)
+- Label Efficient Learning of Transferable Representations across Domains and Tasks. [`arxiv`](https://arxiv.org/abs/1712.00123)
 - Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization. [`arxiv`](https://arxiv.org/abs/1708.01001) [`caffe`](https://github.com/dongyp13/Stochastic-Quantization)
 - Learning Bag-of-Features Pooling for Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1707.08105) [`code`](https://github.com/passalis/cbof)
 - Learning by Association - A versatile semi-supervised training method for neural networks. [`arxiv`](https://arxiv.org/abs/1706.00909) [`code`](https://github.com/haeusser/learning_by_association)
