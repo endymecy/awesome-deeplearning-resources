@@ -178,6 +178,7 @@
 - [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts.](https://deepmind.com/blog/imagine-creating-new-visual-concepts-recombining-familiar-ones/) [`arxiv`](https://arxiv.org/abs/1707.03389)
 - [See, Hear, and Read: Deep Aligned Representations.](http://people.csail.mit.edu/yusuf/see-hear-read/) [`arxiv`](https://arxiv.org/abs/1706.00932)
 - [Self-Normalizing Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650727793&idx=1&sn=3a86e5b9ce5bfc1d37c51dc0f09a84bc) [`arxiv`](https://arxiv.org/abs/1706.02515) [`code`](https://github.com/kevinzakka/research-paper-notes/blob/master/snn.md) :star:
+- Self-supervised Learning of Motion Capture. [`arxiv`](https://arxiv.org/abs/1712.01337)
 - Semi-Supervised Deep Learning for Monocular Depth Map Prediction. [`arxiv`](https://arxiv.org/abs/1702.02706)
 - Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures Via Semantic Representation. [`arxiv`](https://arxiv.org/abs/1701.00804)
 - Separable Fully Connected Layers Improve Deep Learning Models For Genomics. [`pdf`](http://www.biorxiv.org/content/early/2017/07/07/146431) [`code`](https://github.com/kundajelab/keras/tree/keras_1)
