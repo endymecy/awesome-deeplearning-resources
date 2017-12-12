@@ -171,6 +171,7 @@
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
 - Recurrent Additive Networks. [`arxiv`](https://arxiv.org/abs/1705.07393) [`pytorch`](https://github.com/bheinzerling/ran) :star:
 - Reducing Reparameterization Gradient Variance. [`arxiv`](https://arxiv.org/abs/1705.07880) [`code`](https://github.com/andymiller/ReducedVarianceReparamGradients)
+- RelNN: A Deep Neural Model for Relational Learning. [`arxiv`](https://arxiv.org/abs/1712.02831)
 - Resting state fMRI functional connectivity-based classification using a convolutional neural network architecture. [`arxiv`](https://arxiv.org/abs/1707.06682) [`code`](https://github.com/MRegina/connectome_conv_net)
 - [best paper] Safe and Nested Endgame Solving for Imperfect-Information Games. [`pdf`](http://www.cs.cmu.edu/~noamb/papers/17-AAAI-Refinement.pdf) :star:
 - Scalable Gaussian Processes with Billions of Inducing Inputs via Tensor Train Decomposition. [`arxiv`](https://arxiv.org/abs/1710.07324) [`https://github.com//izmailovpavel/TTGP`]
@@ -204,7 +205,7 @@
 - Super-Convergence: Very Fast Training of Residual Networks Using Large Learning Rates. [`arxiv`](https://arxiv.org/abs/1708.07120) [`code`](https://github.com/lnsmith54/super-convergence)
 - SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis. [`arxiv`](https://arxiv.org/abs/1708.01749)
 - TF Boosted Trees: A scalable TensorFlow based framework for gradient boosting. [`arxiv`](https://arxiv.org/abs/1710.11555) :star:
-- The Case for Learned Index Structures. [`arxiv`](https://arxiv.org/abs/1712.01208)
+- The Case for Learned Index Structures. [`arxiv`](https://arxiv.org/abs/1712.01208) :star:
 - [The Cramer Distance as a Solution to Biased Wasserstein Gradients.](https://medium.com/towards-data-science/notes-on-the-cramer-gan-752abd505c00) [`arxiv`](https://arxiv.org/abs/1705.10743) [`pytorch`](https://github.com/ypxie/pytorch-cramer-Gan) :star:
 - The Future of Ad Blocking: An Analytical Framework and New Techniques. [`arxiv`](https://arxiv.org/abs/1705.08568) [`code`](https://github.com/citp/ad-blocking)
 - The Power of Sparsity in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.06257)
