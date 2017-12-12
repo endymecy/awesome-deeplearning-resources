@@ -118,6 +118,7 @@
 
 - Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models. [`arxiv`](https://arxiv.org/abs/1604.00788) :star: 
 - A Character-level Decoder without Explicit Segmentation for Neural Machine Translation. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-1160.pdf) :star: 
+- A Convolutional Encoder Model for Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1611.02344) [`pytorch`](https://github.com//pravarmahajan/cnn-encoder-nmt)
 - Character-based Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1511.04586) :star: 
 - Context-Dependent Word Representation for Neural Machine Translation. [`arxiv`](https://arxiv.org/pdf/1607.00578.pdf)
 - Convolutional Encoders for Neural Machine Translation. [`pdf`](https://cs224d.stanford.edu/reports/LambAndrew.pdf)

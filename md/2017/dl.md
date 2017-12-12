@@ -171,7 +171,7 @@
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
 - Recurrent Additive Networks. [`arxiv`](https://arxiv.org/abs/1705.07393) [`pytorch`](https://github.com/bheinzerling/ran) :star:
 - Reducing Reparameterization Gradient Variance. [`arxiv`](https://arxiv.org/abs/1705.07880) [`code`](https://github.com/andymiller/ReducedVarianceReparamGradients)
-- RelNN: A Deep Neural Model for Relational Learning. [`arxiv`](https://arxiv.org/abs/1712.02831)
+- RelNN: A Deep Neural Model for Relational Learning. [`arxiv`](https://arxiv.org/abs/1712.02831) [`code`](https://github.com//Mehran-k/RelNN)
 - Resting state fMRI functional connectivity-based classification using a convolutional neural network architecture. [`arxiv`](https://arxiv.org/abs/1707.06682) [`code`](https://github.com/MRegina/connectome_conv_net)
 - [best paper] Safe and Nested Endgame Solving for Imperfect-Information Games. [`pdf`](http://www.cs.cmu.edu/~noamb/papers/17-AAAI-Refinement.pdf) :star:
 - Scalable Gaussian Processes with Billions of Inducing Inputs via Tensor Train Decomposition. [`arxiv`](https://arxiv.org/abs/1710.07324) [`https://github.com//izmailovpavel/TTGP`]
