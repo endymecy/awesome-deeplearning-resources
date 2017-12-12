@@ -122,6 +122,7 @@
 - Improved Variational Autoencoders for Text Modeling using Dilated Convolutions. [`arxiv`](https://arxiv.org/abs/1702.08139)
 - IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models. [`arxiv`](https://arxiv.org/abs/1705.10513) [`code`](https://github.com/geek-ai/irgan)
 - KATE: K-Competitive Autoencoder for Text. [`arxiv`](https://arxiv.org/abs/1705.02033) [`code`](https://github.com/hugochan/K-Competitive-Autoencoder-for-Text)
+- Long Text Generation via Adversarial Training with Leaked Information. [`arxiv`](https://arxiv.org/abs/1709.08624) [`tensorflow`](https://github.com/CR-Gjx/LeakGAN)
 - Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models. [`arxiv`](https://arxiv.org/abs/1705.10843) [`tensorflow`](https://github.com/gablg1/ORGAN)
 - Training Deep AutoEncoders for Collaborative Filtering. [`arxiv`](https://arxiv.org/abs/1708.01715) [`code`](https://github.com/okuchaiev/DeepRecoEncoders)
     
