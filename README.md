@@ -143,6 +143,7 @@ You should find the papers and software with star flag are more important or pop
 * [吴立德] [《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
 * [李宏毅] [Machine Learning and having it Deep and Structured](https://www.youtube.com/playlist?list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)
 * [林轩田] [机器学习基石](https://www.bilibili.com/video/av12463015/)
+* [Introductory Machine Learning Algorithms in Python with scikit-learn](https://egghead.io/courses/introductory-machine-learning-algorithms-in-python-with-scikit-learn)
 
 # Books
 
