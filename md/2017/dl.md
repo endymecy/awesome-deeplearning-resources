@@ -228,6 +228,7 @@
 - Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04128)
 - Understanding trained CNNs by indexing neuron selectivity. [`arxiv`](https://arxiv.org/abs/1702.00382)
 - Unsupervised feature learning with discriminative encoder. [`arxiv`](https://arxiv.org/abs/1709.00672)
+- Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data. [`arxiv`](https://arxiv.org/abs/1709.07902) [`tensorflow`](https://github.com//wnhsu/FactorizedHierarchicalVAE)
 - Unsupervised Representation Learning by Sorting Sequences. [`arxiv`](https://arxiv.org/abs/1708.01246) [`code`](https://github.com/HsinYingLee/OPN)
 - [best paper] Variance-based regularization with convex objectives. [`arxiv`](https://arxiv.org/abs/1610.02581) :star:
 - Variational Inference using Implicit Distributions. [`arxiv`](https://arxiv.org/abs/1702.08235)
