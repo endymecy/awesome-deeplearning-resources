@@ -140,6 +140,7 @@
 - Multiscale Hierarchical Convolutional Networks.  [`arxiv`](https://arxiv.org/abs/1703.04140) [`tensorflow`](https://github.com/jhjacobsen/HierarchicalCNN)
 - Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [`arxiv`](https://arxiv.org/abs/1702.00763)
 - Network Backboning with Noisy Data. [`arxiv`](https://arxiv.org/abs/1701.07336)
+- Neumann Optimizer: A Practical Optimization Algorithm for Deep Neural Networks .[`arxiv`](https://arxiv.org/abs/1712.03298) :star:
 - Neural Decision Trees. [`arxiv`](https://arxiv.org/abs/1702.07360)
 - Neural Message Passing for Quantum Chemistry. [`arxiv`](https://arxiv.org/abs/1704.01212) [`code`](https://github.com/priba/nmp_qc) :star:
 - Neural networks for topology optimization. [`arxiv`](https://arxiv.org/abs/1709.09578) [`code`](https://github.com/ISosnovik/top)
