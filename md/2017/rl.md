@@ -36,6 +36,7 @@
 - Reinforcement Learning with a Corrupted Reward Channel. [`arxiv`](https://arxiv.org/abs/1705.08417) :star:
 - Reinforcement Learning with Deep Energy-Based Policies. [`arxiv`](https://arxiv.org/abs/1702.08165) [`code`](https://github.com/haarnoja/softqlearning)
 - Reinforcement Learning with External Knowledge and Two-Stage Q-functions for Predicting Popular Reddit Threads. [`arxiv`](https://arxiv.org/abs/1704.06217)
+- Robust Deep Reinforcement Learning with Adversarial Attacks. [`arxiv`](https://arxiv.org/abs/1712.03632)
 - Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1709.00103)
 - Shallow Updates for Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1705.07461) [`code`](https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL)
 - Stochastic Neural Networks for Hierarchical Reinforcement Learning. [`pdf`](https://openreview.net/pdf?id=B1oK8aoxe) [`code`](https://github.com/florensacc/snn4hrl) 
