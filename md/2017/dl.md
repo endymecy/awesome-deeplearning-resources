@@ -107,6 +107,7 @@
 - Hierarchical loss for classification. [`arxiv`](https://arxiv.org/abs/1709.01062)
 - Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [`arxiv`](https://arxiv.org/abs/1701.05616)
 - [Hyperparameter Optimization: A Spectral Approach.](https://zhuanlan.zhihu.com/p/27555858) [`arxiv`](https://arxiv.org/abs/1706.00764)
+- Information Perspective to Probabilistic Modeling: Boltzmann Machines versus Born Machines. [`arxiv`](https://arxiv.org/abs/1712.04144)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation. [`arxiv`](https://arxiv.org/abs/1704.03296)
 - Label Efficient Learning of Transferable Representations across Domains and Tasks. [`arxiv`](https://arxiv.org/abs/1712.00123)
 - Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization. [`arxiv`](https://arxiv.org/abs/1708.01001) [`caffe`](https://github.com/dongyp13/Stochastic-Quantization)
