@@ -44,7 +44,7 @@
 - DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04280)
 - DAGGER: A sequential algorithm for FDR control on DAGs. [`arxiv`](https://arxiv.org/abs/1709.10250)
 - Dance Dance Convolution. [`arxiv`](https://arxiv.org/abs/1703.06891) [`code`](https://github.com/chrisdonahue/ddc)
-- Deep Alignment Network: A convolutional neural network for robust face alignment. [`arxiv`](https://arxiv.org/abs/1706.01789) [`code`](https://github.com/MarekKowalski/DeepAlignmentNetwork)
+- Data Distillation: Towards Omni-Supervised Learning. [`arxiv`](https://arxiv.org/abs/1712.04440) :star:
 - [Deep and Hierarchical Implicit Models.](http://dustintran.com/blog/deep-and-hierarchical-implicit-models) [`arxiv`](https://arxiv.org/abs/1702.08896)
 - DeepArchitect: Automatically Designing and Training Deep Architectures. [`arxiv`](https://arxiv.org/abs/1704.08792) [`code`](https://github.com/negrinho/deep_architect)
 - Deep Complex Networks. [`arxiv`](https://arxiv.org/abs/1705.09792) [`code`](https://github.com/ChihebTrabelsi/deep_complex_networks) :star:
@@ -259,6 +259,7 @@
 - Cost-Effective Active Learning for Deep Image Classification. [`arxiv`](https://arxiv.org/abs/1701.03551)
 - Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks. [`arxiv`](https://arxiv.org/abs/1701.04658) [`caffe`](https://github.com/kmaninis/COB)
 - DCT-like Transform for Image Compression Requires 14 Additions Only. [`arxiv`](https://arxiv.org/abs/1702.00817)
+- Deep Alignment Network: A convolutional neural network for robust face alignment. [`arxiv`](https://arxiv.org/abs/1706.01789) [`code`](https://github.com/MarekKowalski/DeepAlignmentNetwork)
 - Deep Bayesian Active Learning with Image Data. [`arxiv`](https://arxiv.org/abs/1703.02910) [`keras`](https://github.com/Riashat/Deep-Bayesian-Active-Learning)
 - Deep Convolutional Neural Networks for Pairwise Causality. [`arxiv`](https://arxiv.org/abs/1701.00597)
 - DeepFix: Fixing Common C Language Errors by Deep Learning. [`pdf`](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14603/13921) [`code`](https://bitbucket.org/iiscseal/deepfix)
