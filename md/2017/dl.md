@@ -48,6 +48,7 @@
 - [Deep and Hierarchical Implicit Models.](http://dustintran.com/blog/deep-and-hierarchical-implicit-models) [`arxiv`](https://arxiv.org/abs/1702.08896)
 - DeepArchitect: Automatically Designing and Training Deep Architectures. [`arxiv`](https://arxiv.org/abs/1704.08792) [`code`](https://github.com/negrinho/deep_architect)
 - Deep Complex Networks. [`arxiv`](https://arxiv.org/abs/1705.09792) [`code`](https://github.com/ChihebTrabelsi/deep_complex_networks) :star:
+- Deep Echo State Network (DeepESN): A Brief Survey. [`arxiv`](https://arxiv.org/abs/1712.04323)
 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [`arxiv`](https://arxiv.org/abs/1703.04247)
 - Deep & Cross Network for Ad Click Predictions. [`arxiv`](https://arxiv.org/abs/1708.05123) :star:
 - <b>[GcForest] </b>[Towards An Alternative to Deep Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651994082&idx=1&sn=3a1f21ab37ea8322c6700f660b71648a) [`arxiv`](https://arxiv.org/abs/1702.08835) [`code`](https://github.com/kingfengji/gcForest) :star:
