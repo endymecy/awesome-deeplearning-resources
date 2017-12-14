@@ -413,6 +413,7 @@
 - DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data. [`arxiv`](https://arxiv.org/abs/1706.02071) [`code`](https://github.com/val-iisc/deligan)
 - Dense Associative Memory is Robust to Adversarial Inputs. [`arxiv`](https://arxiv.org/abs/1701.00939)
 - Denoising Adversarial Autoencoders. [`arxiv`](https://arxiv.org/abs/1703.01220) [`code`](https://github.com/ToniCreswell/DAAE_) :star:
+- Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models. [`arxiv`](https://arxiv.org/abs/1712.04248) [`code`](https://github.com//bethgelab/foolbox)
 - Distributional Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1706.09549) [`tensorflow`](https://github.com/ChengtaoLi/dan)
 - End-to-End Differentiable Adversarial Imitation Learning. [`url`](http://proceedings.mlr.press/v70/baram17a.html) [`tensorflow`](https://github.com/itaicaspi/mgail)
 - Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters. [`arxiv`](https://arxiv.org/abs/1703.06283) [`tensorflow`](https://github.com/huangshiyu13/RPNplus)
