@@ -134,6 +134,7 @@
 - Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks.[`arxiv`](https://arxiv.org/abs/1611.02447)
 - Adult Content Recognition from Images Using a Mixture of Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1612.09506?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)
 - Asynchronous Temporal Fields for Action Recognition. [`arxiv`](https://arxiv.org/abs/1612.06371) [`code`](https://github.com/gsig/temporal-fields/)
+- Automatic Portrait Segmentation for Image Stylization. [`pdf`](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf) [`code`](https://github.com/PetroWu/AutoPortraitMatting)
 - CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection. [`arxiv`](https://arxiv.org/abs/1606.05413)
 - Colorful Image Colorization. [`arxiv`](https://arxiv.org/abs/1603.08511v1) [`tensorflow`](https://github.com/nilboy/colorization-tf) :star:
 - <b>[PCNN]</b> Conditional Image Generation with PixelCNN Decoders. [`arxiv`](https://arxiv.org/abs/1606.05328) [`code`](https://github.com/kundan2510/pixelCNN) :star: 
