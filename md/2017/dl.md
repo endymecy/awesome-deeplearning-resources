@@ -455,7 +455,7 @@
 - <b>[DiscoGAN]</b> Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [`code`](https://github.com/dhgrs/chainer-DiscoGAN) :star:
 - Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.07319)
 - [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [`code`](https://github.com/guojunq/lsgan)
-- Mastering Sketching: Adversarial Augmentation for Structured Prediction.  [`arxiv`](https://arxiv.org/abs/1703.08966) :star:
+- Mastering Sketching: Adversarial Augmentation for Structured Prediction.  [`arxiv`](https://arxiv.org/abs/1703.08966) [`code`](https://github.com/bobbens/sketch_simplification) :star:
 - <b>[MADGAN]</b> Multi-Agent Diverse Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1704.02906) [`code`](https://github.com/arnabgho/MADGAN)
 - Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction. [`arxiv`](https://arxiv.org/abs/1704.01691)  [`code`](https://github.com/violet-zct/MSVED-morph-reinflection)
 - Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders. [`arxiv`](https://arxiv.org/abs/1704.01279) [`tensorflow`](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) :star:
