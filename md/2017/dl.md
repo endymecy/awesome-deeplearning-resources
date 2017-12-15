@@ -287,6 +287,7 @@
 - Fast Image Processing with Fully-Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1709.00643) [`code`](https://github.com/CQFIO/FastImageProcessing)
 - FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras. [`arxiv`](https://arxiv.org/abs/1707.09476)
 - Focal Loss for Dense Object Detection. [`arxiv`](https://arxiv.org/abs/1708.02002) [`mxnet`](https://github.com/unsky/RetinaNet)
+- Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View. [`arxiv`](https://arxiv.org/abs/1712.04569)
 - Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation. [`arxiv`](https://arxiv.org/abs/1701.08251)
 - Improving Smiling Detection with Race and Gender Diversity. [`arxiv`](https://arxiv.org/abs/1712.00193)
 - Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1701.02096) [`code`](https://github.com/DmitryUlyanov/texture_nets)
