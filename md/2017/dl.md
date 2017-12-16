@@ -387,7 +387,7 @@
 
 ### Generative learning
 
-- <b>[AdaGAN]</b> Boosting Generative Models. [`arxiv`](https://arxiv.org/abs/1701.02386) :star: 
+- <b>[AdaGAN]</b> Boosting Generative Models. [`arxiv`](https://arxiv.org/abs/1701.02386) [`code`](https://github.com/tolstikhin/adagan) :star: 
 - Adversarial Discriminative Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1702.05464) [`pytorch`](https://github.com//corenel/pytorch-adda)
 - Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods. [`arxiv`](https://arxiv.org/abs/1705.07263) [`code`](http://nicholas.carlini.com/code/)
 - [Adversarial Example Defenses: Ensembles of Weak Defenses are not Strong.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486092&idx=2&sn=c1dd3dbe70a765600f72ea4f45d642ed) [`arxiv`](https://arxiv.org/abs/1706.04701)
