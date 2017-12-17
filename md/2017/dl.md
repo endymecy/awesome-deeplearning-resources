@@ -274,6 +274,7 @@
 - DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild. [`arxiv`](https://arxiv.org/abs/1612.01202) [`code`](https://github.com/ralpguler/DenseReg)
 - Detecting Curve Text in the Wild: New Dataset and New Solution. [`arxiv`](https://arxiv.org/abs/1712.02170) [`code`](https://github.com/Yuliang-Liu/Curve-Text-Detector)
 - Detecting Oriented Text in Natural Images by Linking Segments. [`arxiv`](https://arxiv.org/abs/1703.06520) [`tensorflow`](https://github.com/dengdan/seglink) :star:
+- Disentangled Person Image Generation. [`arxiv`](https://arxiv.org/abs/1712.02621)
 - Disentangling Motion, Foreground and Background Features in Videos. [`arxiv`](https://arxiv.org/abs/1707.04092) [`code`](https://github.com/imatge-upc/unsupervised-2017-cvprw)
 - Disguised Face Identification (DFI) with Facial KeyPoints using Spatial Fusion Convolutional Network. [`arxiv`](https://arxiv.org/abs/1708.09317)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
