@@ -29,6 +29,7 @@
 - Detecting Oriented Text in Natural Images by Linking Segments. [`arxiv`](https://arxiv.org/abs/1703.06520) [`tensorflow`](https://github.com/dengdan/seglink) :star:
 - Dialog Context Language Modeling with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04056)
 - dna2vec: Consistent vector representations of variable-length k-mers. [`arxiv`](https://arxiv.org/abs/1701.06279) [`code`](https://pnpnpn.github.io/dna2vec/)
+- DropoutNet: Addressing Cold Start in Recommender Systems. [`pdf`](http://www.cs.toronto.edu/~mvolkovs/nips2017_deepcf.pdf) [`tensorflow`](https://github.com//layer6ai-labs/DropoutNet)
 - Efficient Natural Language Response Suggestion for Smart Reply. [`arxiv`](https://arxiv.org/abs/1705.00652)
 - Efficient Vector Representation For Documents Through Corruption. [`pdf`](https://openreview.net/pdf?id=B1Igu2ogg)] [`code`](https://github.com/mchen24/iclr2017) :star:
 - End-to-End MAP Training of a Hybrid HMM-DNN Model. [`arXiv`](https://arxiv.org/abs/1703.10356)
