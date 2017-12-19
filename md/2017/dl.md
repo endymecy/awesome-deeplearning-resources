@@ -186,6 +186,7 @@
 - Self-supervised Learning of Motion Capture. [`arxiv`](https://arxiv.org/abs/1712.01337)
 - Semi-Supervised Deep Learning for Monocular Depth Map Prediction. [`arxiv`](https://arxiv.org/abs/1702.02706)
 - Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures Via Semantic Representation. [`arxiv`](https://arxiv.org/abs/1701.00804)
+- Sentiment Predictability for Stocks. [`arxiv`](https://arxiv.org/abs/1712.05785) [`code`](https://github.com//jorpro/DeepTimeSeries)
 - Separable Fully Connected Layers Improve Deep Learning Models For Genomics. [`pdf`](http://www.biorxiv.org/content/early/2017/07/07/146431) [`code`](https://github.com/kundajelab/keras/tree/keras_1)
 - Shake-Shake regularization. [`arxiv`](https://arxiv.org/abs/1705.07485) [`code`](https://github.com/xgastaldi/shake-shake)
 - ShaResNet: reducing residual network parameter number by sharing weights. [`arxiv`](https://arxiv.org/abs/1702.08782) [`code`](https://github.com/aboulch/sharesnet)
