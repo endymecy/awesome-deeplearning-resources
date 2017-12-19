@@ -21,6 +21,7 @@
 - Billion-scale similarity search with GPUs. [`arXiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star:
 - Collaborative Recurrent Neural Networks for Dynamic Recommender Systems. [`pdf`](https://infoscience.epfl.ch/record/222477/files/ko101.pdf) [`tensorflow`](https://github.com/lca4/collaborative-rnn)
 - Context Aware Document Embedding. [`arXiv`](https://arxiv.org/abs/1707.01521)
+- DANCin SEQ2SEQ: Fooling Text Classifiers with Adversarial Text Example Generation. [`arXiv`](https://arxiv.org/abs/1712.05419) [`code`](https://github.com//CatherineWong/dancin_seq2seq) :star:
 - Deep Multitask Learning for Semantic Dependency Parsing. [`arXiv`](https://arxiv.org/abs/1704.06855)
 - Deep Recurrent Neural Network for Protein Function Prediction from Sequence. [`arxiv`](https://arxiv.org/abs/1701.08318)
 - Deep Voice: Real-time Neural Text-to-Speech. [`arxiv`](https://arxiv.org/abs/1702.07825) :star:
