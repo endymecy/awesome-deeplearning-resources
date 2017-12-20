@@ -125,6 +125,7 @@
 - Learning to Learn from Weak Supervision by Full Supervision. [`arxiv`](http://mostafadehghani.com/2017/12/01/learning-to-learn-from-weak-supervision-by-full-supervision/)
 - Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg) [`tensorflow`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events)] :star:
 - Learning to Segment Instances in Videos with Spatial Propagation Network. [`pdf`](http://davischallenge.org/challenge2017/papers/DAVIS-Challenge-6th-Team.pdf) [`code`](https://github.com/JingchunCheng/Seg-with-SPN)
+- Learning Wasserstein Embeddings. [`arxiv`](https://arxiv.org/abs/1710.07457) :star:
 - LDMNet: Low Dimensional Manifold Regularized Neural Networks. [`arxiv`](https://arxiv.org/abs/1711.06246)
 - LipNet: Sentence-level Lipreading. [`pdf`](https://openreview.net/pdf?id=BkjLkSqxg) [`torch`](https://github.com/bshillingford/LipNet)
 - LSTM Fully Convolutional Networks for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1709.05206) [`code`](https://github.com/houshd/LSTM-FCN)
