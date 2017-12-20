@@ -3,6 +3,7 @@
 ### Deep learning
 
 - A Bayesian Perspective on Generalization and Stochastic Gradient Descent. [`arxiv`](https://arxiv.org/abs/1710.06451)
+- A Bridge Between Hyperparameter Optimization and Larning-to-learn. [`arxiv`](https://arxiv.org/abs/1712.06283) [`code`](https://github.com//lucfra/FAR-HO)
 - Accelerating Stochastic Gradient Descent. [`arxiv`](https://arxiv.org/abs/1704.08227) :star:
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour. [`url`](https://research.fb.com/publications/ImageNet1kIn1h/)
 - Activation Ensembles for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.07790)
