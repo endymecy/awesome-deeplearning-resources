@@ -5,6 +5,7 @@
 - A Comparative Study of Word Embeddings for Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1703.00993)
 - An Automated Text Categorization Framework based on Hyperparameter Optimization. [`arxiv`](https://arxiv.org/abs/1704.01975) [`code`](https://github.com/INGEOTEC/microTC)
 - An Embedded Deep Learning based Word Prediction. [`arxiv`](https://arxiv.org/abs/1707.01662) [`code`](https://github.com/meinwerk/WordPrediction)
+- An End-to-End Architecture for Keyword Spotting and Voice Activity Detection. [`arxiv`](https://arxiv.org/abs/1611.09405) [`code`](https://github.com/mindorii/kws)
 - A Neural Framework for Generalized Topic Models. [`arxiv`](https://arxiv.org/abs/1705.09296) [`code`](https://github.com/dallascard/neural_topic_models)
 - An online sequence-to-sequence model for noisy speech recognition. [`arxiv`](https://arxiv.org/abs/1706.06428) :star:
 - A Read-Write Memory Network for Movie Story Understanding. [`arxiv`](https://arxiv.org/abs/1709.09345) [`code`](https://github.com/seilna/RWMN)
