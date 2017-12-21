@@ -135,6 +135,7 @@
 - Markov Chain Monte Carlo Methods for Bayesian Data Analysis in Astronomy. [`arxiv`](https://arxiv.org/abs/1706.01629) [`code`](https://github.com/sanjibs/bmcmc/)
 - [Mask R-CNN.](https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488392&idx=2&sn=7c8e41aef37c370d6155607283d776ef) [`arxiv`](https://arxiv.org/abs/1703.06870) :star:
 - Mastering the game of Go without human knowledge. [`pdf`](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
+- MEBoost: Mixing Estimators with Boosting for Imbalanced Data Classification. [`arxiv`](https://arxiv.org/abs/1712.06658) :star:
 - Memory-Efficient Implementation of DenseNets. [`arxiv`](https://arxiv.org/abs/1707.06990) [`pytorch`](https://github.com/gpleiss/efficient_densenet_pytorch) :star:
 - Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results. [`arxiv`](https://arxiv.org/abs/1703.01780) [`code`](https://github.com//CuriousAI/mean-teacher) :star:
 - MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1711.06788)
