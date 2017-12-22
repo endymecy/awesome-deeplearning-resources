@@ -344,6 +344,7 @@
 - Spinal cord gray matter segmentation using deep dilated convolutions. [`arxiv`](https://arxiv.org/abs/1710.01269) [`code`](https://github.com/neuropoly/spinalcordtoolbox ​​​​)
 - SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person.[`arxiv`](https://arxiv.org/abs/1702.04069)
 - [StreetStyle: Exploring world-wide clothing styles from millions of photos.](http://streetstyle.cs.cornell.edu/) [`arxiv`](https://arxiv.org/abs/1706.01869)
+- SuperPoint: Self-Supervised Interest Point Detection and Description. [`arxiv`](https://arxiv.org/abs/1712.07629) :star:
 - Supervised Multilayer Sparse Coding Networks for Image Classification. [`arxiv`](https://arxiv.org/abs/1701.08349)
 - SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis. [`arxiv`](https://arxiv.org/abs/1708.01749) [`code`](https://github.com/mjiUST/SurfaceNet)
 - SwGridNet: A Deep Convolutional Neural Network based on Grid Topology for Image Classification. [`arxiv`](https://arxiv.org/abs/1709.07646) [`code`](https://github.com/takedarts/swgridnet)
