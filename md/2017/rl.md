@@ -11,6 +11,7 @@
 - Car Racing using Reinforcement Learning. [`pdf`](https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf)
 - Cold-Start Reinforcement Learning with Softmax Policy Gradients. [`arxiv`](https://arxiv.org/abs/1709.09346)
 - Curiosity-driven Exploration by Self-supervised Prediction. [`arxiv`](https://arxiv.org/abs/1705.05363) [`tensorflow`](https://github.com/pathak22/noreward-rl)
+- Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1712.06567)
 - DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning. [`arxiv`](https://arxiv.org/abs/1707.06690) [`code`](https://github.com/xwhan/DeepPath)
 - Deep Reinforcement Learning: An Overview. [`arxiv`](https://arxiv.org/abs/1701.07274)
 - Deep reinforcement learning from human preferences. [`arxiv`](https://arxiv.org/abs/1706.03741)
