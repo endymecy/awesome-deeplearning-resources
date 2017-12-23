@@ -448,6 +448,7 @@
 - Generative Face Completion. [`arxiv`](https://arxiv.org/abs/1704.05838)
 - Generative Temporal Models with Memory. [`arxiv`](https://arxiv.org/abs/1702.04649)
 - Generalization and Equilibrium in Generative Adversarial Nets (GANs). [`arxiv`](https://arxiv.org/abs/1703.00573)
+- GibbsNet: Iterative Adversarial Inference for Deep Graphical Models. [`arxiv`](https://arxiv.org/abs/1712.04120) [`pytorch`](https://github.com/wlwkgus/GibbsNet)
 - GP-GAN: Towards Realistic High-Resolution Image Blending.  [`arxiv`](https://arxiv.org/abs/1703.07195) [`code`](https://github.com/wuhuikai/GP-GAN) 
 - Guiding InfoGAN with Semi-Supervision. [`arxiv`](https://arxiv.org/abs/1707.04487) [`code`](https://github.com/spurra/ss-infogan)
 - High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. [`arxiv`](https://arxiv.org/pdf/1711.11585.pdf) [`code`](https://github.com/NVIDIA/pix2pixHD)
