@@ -483,6 +483,7 @@ You should find the papers and software with star flag are more important or pop
 # Awesome Projects
 
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
+- [188 examples of artificial intelligence in action](https://poo.ai/)
 - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 - [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)
 - [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
