@@ -28,19 +28,18 @@
 - Conversational Contextual Cues-The Case of Personalization and History for Response Ranking. [`arxiv`](https://arxiv.org/abs/1606.00372)
 - Controlling Output Length in Neural Encoder-Decoders. [`arxiv`](https://arxiv.org/abs/1609.09552) [`code`](https://github.com/kiyukuta/lencon)
 - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. [`arxiv`](https://arxiv.org/abs/1606.09375) [`code`](https://github.com/mdeff/cnn_graph)
-- Data Programming- Creating Large Training Sets, Quickly. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwie8t-ahNjQAhWIxbwKHTlXByEQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07723&usg=AFQjCNFsWCwwjlEdk_WYzWWAEbHPanhHaQ)]
-- DCM Bandits: Learning to Rank with Multiple Clicks.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjp6uPdiufQAhWLv1QKHXR_ACcQFggmMAE&url=https%3A%2F%2Fpdfs.semanticscholar.org%2Fb4c3%2Fa056426aeca24d43785fac6c4d61af7eb5fe.pdf&usg=AFQjCNFV_8fBpbltYlKDhuiVIWsypZ_2Ig)]
-- Decoupled Neural Interfaces using Synthetic Gradients. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi35fnHhNjQAhUEwrwKHb-CCBEQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1608.05343&usg=AFQjCNEM1lpTJvZ8Q57ENC_8hoEYOn8tKg)]
+- Data Programming- Creating Large Training Sets, Quickly. [`arxiv`](https://arxiv.org/abs/1605.07723)
+- DCM Bandits: Learning to Rank with Multiple Clicks. [`pdf`](https://pdfs.semanticscholar.org/b4c3/a056426aeca24d43785fac6c4d61af7eb5fe.pdf)
+- Decoupled Neural Interfaces using Synthetic Gradients. [`pdf`](https://pdfs.semanticscholar.org/b4c3/a056426aeca24d43785fac6c4d61af7eb5fe.pdfhttps://arxiv.org/abs/1608.05343)
 - DeepChess: End-to-End Deep Neural Network for Automatic Learning in Chess. [`pdf`](http://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf) [`tensorflow`](https://github.com/mr-press/DeepChess)
 - <b>DeepMind Lab.</b> [`url`](https://arxiv.org/abs/1612.03801) :star: 
-- Deep API Learning.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjul43zhNjQAhWMwLwKHQEjA6UQFggnMAE&url=http%3A%2F%2Fhome.cse.ust.hk%2F~xguaa%2Fpapers%2Fdeepapi.pdf&usg=AFQjCNHljxBLzjHzj38PRMQXK9Ew5oVIjw)]
+- Deep API Learning.  [`pdf`](http://home.cse.ust.hk/~xguaa/papers/deepapi.pdf)
 - <b>[DeepCoder]</b> [DeepCoder: Learning to Write Programs](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723632&idx=5&sn=2654d4e512ff3c23e1bd17b2e9e562d5) :star:
 - <b>[DeepFashion]</b> Powering Robust Clothes Recognition and Retrieval with Rich Annotations. [`pdf`](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf) [`code`](https://github.com/liuziwei7/fashion-detection)
-- Deep Learning without Poor Local Minima.[[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiv97uNhdjQAhXFfbwKHX4mBUYQFggbMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07110&usg=AFQjCNHt8kPnzQkWZCGJEusOBkwtrCikBQ)] :star: 
+- Deep Learning without Poor Local Minima. [`arxiv`](https://arxiv.org/abs/1605.07110) :star: 
 - Deep Learning with Differential Privacy. [`arxiv`](https://arxiv.org/abs/1607.00133) [`tensorflow`](https://github.com/tensorflow/models/tree/master/differential_privacy/privacy_accountant) :star:
-- Deep Neural Networks for YouTube Recommendations. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU-vfIhdjQAhXMe7wKHclLCoIQFggbMAA&url=http%3A%2F%2Fresearch.google.com%2Fpubs%2Farchive%2F45530.pdf&usg=AFQjCNGW4ovtzUBkxT4qx4mnogD74QHfzA)]
 - Deep Portfolio Theory. [`arxiv`](https://arxiv.org/pdf/1605.07230.pdf)
-- Deeply-Fused Nets. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjm87i4htjQAhXHxLwKHRW4CfkQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1605.07716&usg=AFQjCNFr85h2BVJrvAqLlIqT_JhQP7wnzA)] :star: 
+- Deeply-Fused Nets. [`arxiv`](https://arxiv.org/abs/1605.07716) :star: 
 - DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing. [`arxiv`](https://arxiv.org/abs/1611.01942) [`code`](https://github.com/yscacaca/DeepSense)
 - Densely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1608.06993) [`pytorch`](http://www.weibo.com/1402400261/FfDPdBLum?type=comment)
 - Detect, Replace, Refine: Deep Structured Prediction For Pixel Wise Labeling. [`arxiv`](https://arxiv.org/abs/1612.04770) [`code`](https://github.com/gidariss/DRR_struct_pred)
@@ -57,39 +56,39 @@
 - Feedback arcs and node hierarchy in directed networks. [`arxiv`](https://arxiv.org/abs/1612.05347)
 - FINN: A framework for fast, scalable binarized neural network inference. [`arxiv`](https://arxiv.org/abs/1612.07119) [`code`](https://github.com/Xilinx/BNN-PYNQ)
 - FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. [`arxiv`](https://arxiv.org/abs/1612.01925) [`code`](https://github.com/lmb-freiburg/flownet2)
-- FractalNet-Ultra-Deep Neural Networks without Residuals. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjWmMPHi9jQAhULVbwKHfoXDTwQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07648&usg=AFQjCNHDJqUxtKeCbEd0GkbFRAppVxmxgQ)]
+- FractalNet-Ultra-Deep Neural Networks without Residuals. [`arxiv`](https://arxiv.org/pdf/1605.07648.pdf)
 - <b>[URNN]</b> Full-Capacity Unitary Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.00035) [`code`](https://github.com/stwisdom/urnn) :star: 
 - Fused-Layer CNN Accelerators. [`pdf`](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf)
-- Generating long and diverse responses with neural conversation models. [[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjV_7WC0o_RAhVN7mMKHSEUBNEQFggfMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DHJDdiT9gl&usg=AFQjCNHpFWBXQMq1j2yZ4B1DlUUrdXYgSA)]
+- Generating long and diverse responses with neural conversation models.[`arxiv`](https://arxiv.org/pdf/1701.03185.pdf)
 - GRAPH CONVOLUTIONAL NETWORKS. [`url`](http://tkipf.github.io/graph-convolutional-networks/) [`code`](https://github.com//shagunsodhani/pregel) :star:
-- Hierarchical Multiscale Recurrent Neural Networks.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiH_8OxkNjQAhXFi7wKHY3JAjcQFggrMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1609.01704&usg=AFQjCNEg-aQPUIlaY5JgDKabgBnUbNNowQ)] :star: 
-- Higher Order Recurrent Neural Networks. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjUqs3ckNjQAhULS7wKHeVNBpMQFggpMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.00064&usg=AFQjCNFv5_q8NgEgJJma3K9COd0xzkL2UQ)]
-- Highway and Residual Networks learn Unrolled Iterative Estimation. [[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiH6NS6to_RAhVX3mMKHW5fDS0QFggdMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DSkn9Shcxe&usg=AFQjCNEBxBQWN595-Hyf8H8yAf_-BfQW7w)]
-- How to Train Your Deep Neural Network with Dictionary Learning. [[url](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiA7_H_tY_RAhUqrFQKHWoOANMQFggqMAI&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1612.07454&usg=AFQjCNFgY1WNUw9WNQD_zb2gvMC0CFM3Bg)]
-- Improving the Robustness of Deep Neural Networks via Stability Training. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjopce2kdjQAhWBfLwKHdL_BTkQFgggMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1604.04326&usg=AFQjCNGfo6VLuK8KFTphE2MwCBPNYGNVpQ)]
+- Hierarchical Multiscale Recurrent Neural Networks. [`arxiv`](https://arxiv.org/pdf/1609.01704.pdf) :star: 
+- Higher Order Recurrent Neural Networks. [`arxiv`](https://arxiv.org/pdf/1605.00064.pdf)
+- Highway and Residual Networks learn Unrolled Iterative Estimation. [`pdf`](https://openreview.net/pdf?id=Skn9Shcxe)
+- How to Train Your Deep Neural Network with Dictionary Learning. [`arxiv`](https://arxiv.org/pdf/1612.07454.pdf)
+- Improving the Robustness of Deep Neural Networks via Stability Training. [`arxiv`](https://arxiv.org/abs/1604.04326)
 - Large-Margin Softmax Loss for Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1612.02295)
-- Latent Predictor Networks for Code Generation. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj90oeGltjQAhVEgbwKHWf3A-0QFggnMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.06744&usg=AFQjCNGnu7aj6kioV7ZFlhk4FKV4CLvFug)]
+- Latent Predictor Networks for Code Generation. [`arxiv`](https://arxiv.org/pdf/1603.06744.pdf)
 - <b>[Normalization]</b> Layer Normalization. [`arxiv`](https://arxiv.org/pdf/1607.06450.pdf) [`code`](https://github.com/ryankiros/layer-norm) :star: 
-- Learning Discriminative Features via Label Consistent Neural Network. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU8uf0ltjQAhVKUbwKHRcdAHEQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1602.01168&usg=AFQjCNFQNWWXqHll2_QsxcrDCltcnhrbfw)]
-- Learning End-to-End Goal-Oriented Dialog. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwja9r6kl9jQAhVThrwKHcjUDk0QFggnMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.07683&usg=AFQjCNFhlXFL9BwUtOJ5u500zyQV0l3zCg)]
+- Learning Discriminative Features via Label Consistent Neural Network. [`arxiv`](https://arxiv.org/abs/1602.01168)
+- Learning End-to-End Goal-Oriented Dialog. [`arxiv`](https://arxiv.org/pdf/1605.07683.pdf)
 - Learning Features by Watching Objects Move. [`arxiv`](https://arxiv.org/abs/1612.06370) [`code`](https://github.com/pathak22/unsupervised-video)
 - Learning Python Code Suggestion with a Sparse Pointer Network. [`arxiv`](https://arxiv.org/abs/1611.08307) [`code`](https://github.com/uclmr/pycodesuggest) :star: 
-- Learning to learn by gradient descent by gradient descent. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiv5rCamNjQAhVHjLwKHQohBBYQFggmMAE&url=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf&usg=AFQjCNEuqKtb8HnkoDvzmntpc76A0l80ZQ)] :star: 
-- Machine Comprehension Using Match-LSTM and Answer Pointer. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjI_IDRntjQAhWLwLwKHUm1DQ4QFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1608.07905&usg=AFQjCNGe2mKu6xkv0uN1OeUv5_1-Tm0suQ)]
+- Learning to learn by gradient descent by gradient descent. [`pdf`](http://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf) :star: 
+- Machine Comprehension Using Match-LSTM and Answer Pointer. [`arxiv`](https://arxiv.org/pdf/1608.07905.pdf)
 - <b>[AlphaGo]</b> Mastering the game of Go with deep neural networks and tree search. [`pdf`](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)] :star: 
 - Meta-Unsupervised-Learning: A supervised approach to unsupervised learning. [`arxiv`](https://arxiv.org/abs/1612.09030)
 - Models, networks and algorithmic complexity. [`arxiv`](https://arxiv.org/abs/1612.05627)
 - Multivariate Industrial Time Series with Cyber-Attack Simulation: Fault Detection Using an LSTM-based Predictive Data Model.[`url`](https://128.84.21.199/abs/1612.06676)
-- Multiresolution Recurrent Neural Networks- An Application to Dialogue Response Generation. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj4uPqvoNjQAhUCTrwKHVczCQkQFggsMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.00776&usg=AFQjCNHpHAcvbIw16lPsnU1OaXNaqboi7g)]
-- Mutual information for fitting deep nonlinear models.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiXyoPFmoTRAhXJj1QKHQRuDAsQFggtMAE&url=https%3A%2F%2F128.84.21.199%2Fpdf%2F1612.05708&usg=AFQjCNGzOKfpy23UpAIZ-fIqgFUV18lB6g)]
+- Multiresolution Recurrent Neural Networks- An Application to Dialogue Response Generation. [`arxiv`](https://arxiv.org/pdf/1606.00776.pdf)
+- Mutual information for fitting deep nonlinear models. [`pdf`](https://128.84.21.199/pdf/1612.05708)
 - Natural-Parameter Networks: A Class of Probabilistic Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.00448)
 - Neural Paraphrase Generation with Stacked Residual LSTM Networks. [`arxiv`](https://arxiv.org/abs/1610.03098) [`code`](https://github.com//iamaaditya/neural-paraphrase-generation)
-- Outrageously Large Neural Networks- The Sparsely-Gated Mixture-of-Experts Layer. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwie9YqPpdjQAhXGyrwKHVdtA5cQFggeMAA&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DB1ckMDqlg&usg=AFQjCNFZKGF9WDTuxVy1iFTon3PBU5pwKQ)]
+- Outrageously Large Neural Networks- The Sparsely-Gated Mixture-of-Experts Layer. [`pdf`](https://openreview.net/pdf?id=B1ckMDqlg)
 - Overcoming catastrophic forgetting in neural networks. [`arxiv`](https://arxiv.org/abs/1612.00796)
 - Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences. [`arxiv`](https://arxiv.org/abs/1610.09513) [`tensorflow`](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/PhasedLSTMCell) :star:
 - Pixel Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1601.06759)
-- Polynomial networks and factorization machines new insights and efficient training algorithms.[[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwixvZq0i-fQAhVkyFQKHdBFDhYQFggrMAE&url=http%3A%2F%2Fwww.mblondel.org%2Ftalks%2Fmblondel-erato-2016-08.pdf&usg=AFQjCNERwCkcwWs1Zq3zs13g0FQ4XfZEWg)]
-- Policy Networks with Two-Stage Training for Dialogue Systems.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiRke71pdjQAhWETrwKHQNjBy0QFggmMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1606.03152&usg=AFQjCNGDb-RND3DLrZfTAaMB_y1jbK9reQ)]
+- Polynomial networks and factorization machines new insights and efficient training algorithms. [`pdf`](http://mblondel.org/talks/mblondel-erato-2016-08.pdf)
+- Policy Networks with Two-Stage Training for Dialogue Systems. [`arxiv`](https://arxiv.org/pdf/1606.03152.pdf)
 - <b>[PSPNet]</b> [Pyramid Scene Parsing Network.](http://www.dongzhuoyao.com/pyramid-scene-parsing-network/) [`arxiv`](https://arxiv.org/abs/1612.01105) [`code`](http://weibo.com/1402400261/EuVYls29J?type=comment):star:
 - Projected Semi-Stochastic Gradient Descent Method with Mini-Batch Scheme under Weak Strong Convexity Assumption. [`arxiv`](https://arxiv.org/abs/1612.05356)
 - <b>[QRNN]</b> Quasi-Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.01576) [`tensorflow`](https://github.com/santi-pdp/quasi-rnn) [`keras`](https://github.com/DingKe/qrnn) [`pytorch`](https://github.com/salesforce/pytorch-qrnn) :star:
@@ -219,12 +218,12 @@
 - Adversarial Perturbations Against Deep Neural Networks for Malware Classification. [`arxiv`](https://arxiv.org/abs/1606.04435)
 - Adversarial Training For Sketch Retrieval.[`arxiv`](https://arxiv.org/abs/1607.02748)
 - A Point Set Generation Network for 3D Object Reconstruction from a Single Image. [`arxiv`](https://arxiv.org/abs/1612.00603) [`code`](https://github.com/fanhqme/PointSetGeneration)
-- Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJxbeU39XQAhVRObwKHWiMBf0QFggsMAE&url=https%3A%2F%2Fwww.jair.org%2Fmedia%2F4900%2Flive-4900-9139-jair.pdf&usg=AFQjCNEGLLDKzFhjIGCyL20rLlXurEDJyg)] 
+- Automatic Description Generation from Images- A Survey of Models, Datasets, and Evaluation Measures. [`pdf`](https://www.jair.org/media/4900/live-4900-9139-jair.pdf)
 - Automatic Colorization with Deep Convolutional Generative Adversarial Networks. [`stanford`](http://cs231n.stanford.edu/reports2016/224_Report.pdf)
 - Auxiliary Deep Generative Models. [`arxiv`](https://arxiv.org/abs/1602.05473) [`code`](https://github.com/larsmaaloee/auxiliary-deep-generative-models) :star: 
 - <b>[b-GAN]</b> Unified Framework of Generative Adversarial Networks. [`pdf`](https://openreview.net/pdf?id=S1JG13oee)] :star: 
 - Conditional Image Synthesis With Auxiliary Classifier GANs. [`arxiv`](https://arxiv.org/abs/1610.09585) [`code`](https://github.com/lukedeo/keras-acgan)
-- Connecting Generative Adversarial Networks and Actor-Critic Methods.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwienPG-gdjQAhUCwLwKHYlODhAQFggeMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1610.01945&usg=AFQjCNEncFhnZs_H2J9JdQBpSygXtR4kMw)]
+- Connecting Generative Adversarial Networks and Actor-Critic Methods. [`arxiv`](https://arxiv.org/abs/1610.01945)
 - Coupled Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1606.07536) [`code`](https://github.com/mingyuliutw/CoGAN)
 - DARN: a Deep Adversial Residual Network for Intrinsic Image Decomposition. [`url`](https://128.84.21.199/abs/1612.07899?context=cs)
 - DeMIAN: Deep Modality Invariant Adversarial Network. [[url](http://www.mathpubs.com/detail/1612.07976v1/DeMIAN-Deep-Modality-Invariant-Adversarial-Network)]
@@ -235,11 +234,11 @@
 - <b>[f-GAN]</b> f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.[`arxiv`](https://arxiv.org/abs/1606.00709) :star: 
 - Generative Image Modeling using Style and Structure Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1603.05631)
 - Generating Images Part by Part with Composite Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1607.05387)
-- <b>[GRAN]</b> Generating images with recurrent adversarial networks.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi9re7VjNjQAhUIf7wKHSnjB8kQFggzMAI&url=https%3A%2F%2Fpdfs.semanticscholar.org%2Fc98e%2F9b2922a76b3cb3c3e8cfcda93c09c31ec5e6.pdf&usg=AFQjCNGDG_e3mQWhzqJoqAxoyXXoBJ_F4Q)] :star: 
+- <b>[GRAN]</b> Generating images with recurrent adversarial networks. [`pdf`](https://pdfs.semanticscholar.org/c98e/9b2922a76b3cb3c3e8cfcda93c09c31ec5e6.pdf) :star: 
 - Generating Images with Perceptual Similarity Metrics based on Deep Networks. [`arxiv`](https://arxiv.org/abs/1602.02644) :star:
 - Generative Adversarial Imitation Learning.  [`arxiv`](https://arxiv.org/abs/1606.03476) [`code`](https://github.com/openai/imitation)
 - <b>[VGNA]</b> Generative Adversarial Networks as Variational Training of Energy Based Models. [`arxiv`](https://arxiv.org/abs/1611.01799) [`code`](https://github.com/Shuangfei/vgan)
-- Generative Adversarial Nets from a Density Ratio Estimation Perspective.  [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiA2-r5jNjQAhVGS7wKHdhED-sQFggjMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1610.02920&usg=AFQjCNFriDebvLOksqqPuOIuipqLgoMsMw)]
+- Generative Adversarial Nets from a Density Ratio Estimation Perspective. [`arxiv`](https://arxiv.org/abs/1610.02920)
 - <b>[iGNA]</b> Generative Visual Manipulation on the Natural Image Manifold. [`berkeley`](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/) [`code`](https://github.com/junyanz/iGAN) :star: 
 - Generating Videos with Scene Dynamics. [`pdf`](http://web.mit.edu/vondrick/tinyvideo/paper.pdf) [`code`](https://github.com/cvondrick/videogan) [`tensorflow`](https://github.com/Yuliang-Zou/tf_videogan):star:
 - How to Train a GAN. [`code`](https://github.com/soumith/ganhacks) :star:
@@ -259,7 +258,7 @@
 - <b>[SRGAN]</b> Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1609.04802) :star: 
 - <b>[DCGAN use]</b> Semantic Image Inpainting with Perceptual and Contextual Losses.[`arxiv`](https://arxiv.org/abs/1607.07539) :star: 
 - Semi-Supervised Learning with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1606.01583)
-- <b>[SeqGAN]</b> Sequence Generative Adversarial Nets with Policy Gradient. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjY0NWEq9jQAhXEEbwKHReIDrQQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1609.05473&usg=AFQjCNHxaAv6rC-G4DbBpCkEvcgEdKGWeQ)] [[code](https://github.com/LantaoYu/SeqGAN)] :star: 
+- <b>[SeqGAN]</b> Sequence Generative Adversarial Nets with Policy Gradient. [`arxiv`](https://arxiv.org/abs/1609.05473) [`code`](https://github.com/LantaoYu/SeqGAN) :star: 
 - Simple black-box adversarial perturbations for deep networks. [`url`](https://openreview.net/pdf?id=SJCscQcge)
 - Stick-Breaking Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1605.06197) [`code`](https://github.com/enalisnick/stick-breaking_dgms)
 - Stochastic Video Prediction with Deep Conditional Generative Models. [`stanford`](http://cs231n.stanford.edu/reports2016/215_Report.pdf)
@@ -274,7 +273,7 @@
   
 ### Transfer learning
 
-- A survey of transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjd8Njeto7RAhWExFQKHe2ACgoQFgg6MAM&url=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2Fs40537-016-0043-6&usg=AFQjCNHxP-tJsZSZ5Ab_A4j3J1jLAtRQEQ)] :star: 
+- A survey of transfer learning. [`url`](https://link.springer.com/article/10.1186/s40537-016-0043-6) :star: 
 - Building Machines That Learn and Think Like People. [`arxiv`](https://arxiv.org/abs/1604.00289)
 - Fast color transfer from multiple images. [`arxiv`](https://arxiv.org/abs/1612.08927)
 - Perceptual Losses for Real-Time Style Transfer and Super-Resolution.[`arxiv`](https://arxiv.org/abs/1603.08155) [`code`](https://github.com/jcjohnson/fast-neural-style) :star: 
@@ -287,7 +286,7 @@
 - Learning feed-forward one-shot learners. [`arxiv`](https://arxiv.org/abs/1606.05233)
 - Low-shot Visual Recognition by Shrinking and Hallucinating Features. [`arxiv`](https://arxiv.org/abs/1606.02819) :star: 
 - Matching Networks for One Shot Learning. [`arxiv`](https://arxiv.org/abs/1606.04080)
-- One-Shot Generalization in Deep Generative Models. [[url](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiF7YmmpNjQAhXKw7wKHU_qDeUQFggqMAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1603.05106&usg=AFQjCNH2H_wgC0cAuwZfEHn8wghdoD0uRQ)] :star: 
+- One-Shot Generalization in Deep Generative Models. [`pdf`](https://arxiv.org/pdf/1603.05106.pdf) :star: 
 - One-shot Learning with Memory-Augmented Neural Networks. [`arxiv`](https://arxiv.org/abs/1605.06065) [`tensorflow`](https://github.com/hmishra2250/NTM-One-Shot-TF):star: 
 - One-Shot Video Object Segmentation. [`arxiv`](https://arxiv.org/abs/1611.05198) [`tensorflow`](https://github.com/scaelles/OSVOS-TensorFlow)
 - Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery. [`arxiv`](https://arxiv.org/abs/1612.04901)

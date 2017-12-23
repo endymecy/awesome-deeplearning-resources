@@ -23,6 +23,7 @@
 - <b>[CLSTM]</b> Contextual LSTM models for Large scale NLP tasks. [`pdf`](http://www.csl.sri.com/users/shalini/clstm_dlkdd16.pdf) :star: 
 - Deep Biaffine Attention for Neural Dependency Parsing. [`pdf`](https://openreview.net/pdf?id=Hk95PK9le) [`code`](https://github.com/tdozat/Parser) :star:
 - Deep Semi-Supervised Learning with Linguistically Motivated Sequence Labeling Task Hierarchies. [`arxiv`](https://arxiv.org/abs/1612.09113)
+- Deep Neural Networks for YouTube Recommendations. [`pdf`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
 - Detecting Text in Natural Image with Connectionist Text Proposal Network. [`arxiv`](https://arxiv.org/abs/1609.03605) [`code`](https://github.com/qingswu/CTPN)
 - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models. [`arxiv`](https://arxiv.org/abs/1610.02424)
 - Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers. [`arxiv`](https://arxiv.org/abs/1602.00367)
