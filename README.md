@@ -1,5 +1,7 @@
 # Awesome Deep learning papers and other resources
 
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
 A list of recent papers regarding deep learning and deep reinforcement learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
 
