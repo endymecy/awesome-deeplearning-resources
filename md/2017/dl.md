@@ -275,6 +275,7 @@
 - Deep Image Prior. [`pdf`](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf) [`code`](https://github.com//DmitryUlyanov/deep-image-prior) :star:
 - Deep Learning Based Large-Scale Automatic Satellite Crosswalk Classification. [`arxiv`](https://arxiv.org/abs/1706.09302) [`code`](https://github.com/rodrigoberriel/satellite-crosswalk-classification)
 - Deep Learning Features at Scale for Visual Place Recognition. [`arxiv`](https://arxiv.org/abs/1701.05105)
+- Deep learning for predicting refractive error from retinal fundus images. [`arxiv`](https://arxiv.org/abs/1712.07798)
 - Deep Learning for Tumor Classification in Imaging Mass Spectrometry. [`arxiv`](https://arxiv.org/abs/1705.01015)
 - Deep Hybrid Similarity Learning for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1702.04858)
 - DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild. [`arxiv`](https://arxiv.org/abs/1612.01202) [`code`](https://github.com/ralpguler/DenseReg)
