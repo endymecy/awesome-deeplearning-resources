@@ -71,6 +71,7 @@
 - <b>[Edward]</b> Deep Probabilistic Programming. [`arxiv`](https://arxiv.org/abs/1701.03757) [`Web`](http://edwardlib.org/) :star: 
 - [Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval.](https://arxiv.org/abs/1703.05605) [`code`](https://github.com/ymcidence/DeepSketchHashing)
 - Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction. [`pdf`](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ST-ResNet-AAAI17-Zhang.pdf) [`code`](https://github.com/lucktroy/DeepST/tree/master/scripts/papers/AAAI17)] :star:
+- Deep Unsupervised Clustering Using Mixture of Autoencoders. [`arxiv`](https://arxiv.org/abs/1712.07788)
 - <b>[DeepStack]</b> [Expert-Level Artificial Intelligence in No-Limit Poker.](http://www.jiqizhixin.com/article/2395) [`arxiv`](https://arxiv.org/abs/1701.01724) :star:
 - Dense Transformer Networks. [`arxiv`](https://arxiv.org/abs/1705.08881) [`code`](https://github.com/divelab/dtn)
 - Diabetic Retinopathy Detection via Deep Convolutional Networks for Discriminative Localization and Visual Explanation. [`arxiv`](https://arxiv.org/abs/1703.10757) [`code`](https://github.com/cauchyturing/kaggle_diabetic_RAM)
