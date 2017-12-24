@@ -9,6 +9,7 @@
 - Activation Ensembles for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.07790)
 - AdaBatch: Adaptive Batch Sizes for Training Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1712.02029)
 - A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe. [`arxiv`](https://arxiv.org/abs/1701.04949)
+- [A Flexible Approach to Automated RNN Architecture Generation.](https://einstein.ai/research/domain-specific-language-for-automated-rnn-architecture-search) [`arxiv`](https://arxiv.org/abs/1712.07316)
 - A Generalization of Convolutional Neural Networks to Graph-Structured Data. [`arxiv`](https://arxiv.org/abs/1704.08165) [`keras`](https://github.com/hechtlinger/graph_cnn)
 - A GPU-Based Solution to Fast Calculation of Betweenness Centrality on Large Weighted Networks. [`arxiv`](https://arxiv.org/abs/1701.05975)
 - A Hitting Time Analysis of Stochastic Gradient Langevin Dynamics. [`arxiv`](https://arxiv.org/abs/1702.05575) :star:
