@@ -296,6 +296,7 @@
 - End-to-end weakly-supervised semantic alignment. [`arxiv`](https://arxiv.org/abs/1712.06861) [`pytorch`](https://github.com/ignacio-rocco/weakalign)
 - Estimated Depth Map Helps Image Classification. [`arxiv`](https://arxiv.org/abs/1709.07077) [`code`](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)
 - Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
+- Extreme 3D Face Reconstruction: Looking Past Occlusions. [`arxiv`](https://arxiv.org/abs/1712.05083) [`code`](https://github.com//anhttran/extreme_3d_faces)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
 - Fader Networks: Manipulating Images by Sliding Attributes. [`arxiv`](https://arxiv.org/abs/1706.00409) [`pytorch`](https://github.com//facebookresearch/FaderNetworks) :star:
