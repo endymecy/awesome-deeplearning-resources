@@ -50,6 +50,7 @@
 - Jointly Trained Sequential Labeling and Classification by Sparse Attention Neural Networks. [`arxiv`](https://arxiv.org/abs/1709.10191)
 - HDLTex: Hierarchical Deep Learning for Text Classification. [`arxiv`](https://arxiv.org/abs/1709.08267) [`code`](https://github.com/kk7nc/HDLTex)
 - High-Throughput and Language-Agnostic Entity Disambiguation and Linking on User Generated Data. [`arxiv`](https://arxiv.org/abs/1703.04498)
+- Improving End-to-End Speech Recognition with Policy Learning. [`arxiv`](https://arxiv.org/abs/1712.07101)
 - Improving speech recognition by revising gated recurrent units. [`arxiv`](https://arxiv.org/abs/1710.00641) :star:
 - Label Refinement Network for Coarse-to-Fine Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1703.00551)
 - LangPro: Natural Language Theorem Prover. [`arxiv`](https://arxiv.org/abs/1708.09417) [`code`](https://github.com/kovvalsky/LangPro)
