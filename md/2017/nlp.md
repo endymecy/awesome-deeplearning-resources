@@ -109,6 +109,7 @@
 
 ### Attention and memory 
 
+- Attentive Memory Networks: Efficient Machine Reading for Conversational Search. [`arxiv`](https://arxiv.org/abs/1712.07229)
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering. [`pdf`](http://www.panderson.me/images/1707.07998-up-down.pdf) [`code`](https://github.com//peteanderson80/bottom-up-attention)
 - End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
 - Frustratingly Short Attention Spans in Neural Language Modeling. [`arxiv`](https://arxiv.org/abs/1702.04521)
