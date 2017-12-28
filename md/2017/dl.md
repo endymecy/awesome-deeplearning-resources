@@ -85,6 +85,7 @@
 - Dockerface: an easy to install and use Faster R-CNN face detector in a Docker container. [`arxiv`](https://arxiv.org/abs/1708.04370) [`code`](https://github.com/natanielruiz/dockerface)
 - Domain-adaptive deep network compression. [`arxiv`](https://arxiv.org/abs/1709.01041) [`code`](https://github.com/mmasana/DALR)
 - Doubly Stochastic Variational Inference for Deep Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1705.08933) [`code`](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
+- Dropout Feature Ranking for Deep Learning Models. [`arxiv`](https://arxiv.org/abs/1712.08645)
 - DSOD: Learning Deeply Supervised Object Detectors from Scratch. [`arxiv`](https://arxiv.org/abs/1708.01241) [`caffe`](https://github.com/szq0214/DSOD)
 - Dual Path Networks. [`arxiv`](https://arxiv.org/abs/1707.01629) [`pytorch`](https://github.com/oyam/pytorch-DPNs) :star:
 - Dynamic Routing Between Capsules. [`code`](https://arxiv.org/abs/1710.09829) :star:
