@@ -351,6 +351,7 @@
 - Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner. [`arxiv`](https://arxiv.org/abs/1705.00930) [`code`](https://github.com/tsenghungchen/show-adapt-and-tell)
 - Single-Shot Refinement Neural Network for Object Detection. [`arxiv`](https://arxiv.org/abs/1711.06897) [`caffe`](https://github.com//sfzhang15/RefineDet)
 - SLAM with Objects using a Nonparametric Pose Graph. [`arxiv`](https://arxiv.org/abs/1704.05959) [`code`](https://github.com/BeipengMu/objectSLAM)
+- Smart, Sparse Contours to Represent and Edit Images. [`arxiv`](https://arxiv.org/abs/1712.08232)
 - STN-OCR: A single Neural Network for Text Detection and Text Recognition. [`arxiv`](https://arxiv.org/abs/1707.08831) [`code`](https://github.com/Bartzi/stn-ocr)
 - Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection.  [`arxiv`](https://arxiv.org/abs/1702.05552)
 - Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image. [`arxiv`](https://arxiv.org/abs/1709.07492) [`code`](https://github.com/fangchangma/sparse-to-dense)
