@@ -22,6 +22,10 @@ You should find the papers and software with star flag are more important or pop
 
 # Papers
 
+- [2018 year](md/2018/dl.md)
+    - [deep learning](md/2018/dl.md)
+    - [deep reinforcement learning](md/2018/rl.md) 
+    - [natural language process](md/2018/nlp.md)
 - [2017 year](md/2017/dl.md)
     - [deep learning](md/2017/dl.md)
     - [deep reinforcement learning](md/2017/rl.md) 
