@@ -255,6 +255,7 @@
 - [best paper] Variance-based regularization with convex objectives. [`arxiv`](https://arxiv.org/abs/1610.02581) :star:
 - Variational Inference using Implicit Distributions. [`arxiv`](https://arxiv.org/abs/1702.08235)
 - Visual Explanations for Convolutional Neural Networks via Input Resampling. [`arxiv`](https://arxiv.org/abs/1707.09641) [`code`](https://github.com/blengerich/explainable-cnn)
+- Visualizing the Loss Landscape of Neural Nets. [`arxiv`](https://arxiv.org/abs/1712.09913)
 - Who Said What: Modeling Individual Labelers Improves Classification. [`arxiv`](https://arxiv.org/abs/1703.08774) :star:
 - [YellowFin and the Art of Momentum Tuning.](https://mp.weixin.qq.com/s/T-v9OTcJa5OQ71QmYrFtbg) [`arxiv`](https://arxiv.org/abs/1706.03471) [`tensorflow`](https://github.com/JianGoForIt/YellowFin) :star:
   
