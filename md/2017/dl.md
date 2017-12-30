@@ -36,6 +36,7 @@
 - [Billion-scale similarity search with GPUs.](http://weibo.com/1402400261/ECqPJziqk?type=comment#_rnd1491216627188) [`arxiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star: 
 - Bolt: Accelerated Data Mining with Fast Vector Compression. [`arxiv`](https://arxiv.org/abs/1706.10283) [`code`](https://github.com/dblalock/bolt)
 - CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance. [`url`](https://www.researchgate.net/publication/319461093_CASED_Curriculum_Adaptive_Sampling_for_Extreme_Data_Imbalance) [`tensorflow`](https://github.com/taki0112/CASED-Tensorflow)
+- CNN Is All You Need. [`arxiv`](https://arxiv.org/abs/1712.09662)
 - Combining Machine Learning and Physics to Understand Glassy Systems. [`arxiv`](https://arxiv.org/abs/1709.08015)
 - Complex Networks: from Classical to Quantum.  [`arxiv`](https://arxiv.org/abs/1702.08459)
 - Concrete Dropout. [`arxiv`](https://arxiv.org/abs/1705.07832)
