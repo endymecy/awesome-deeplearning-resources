@@ -193,6 +193,7 @@
 - Reducing Reparameterization Gradient Variance. [`arxiv`](https://arxiv.org/abs/1705.07880) [`code`](https://github.com/andymiller/ReducedVarianceReparamGradients)
 - RelNN: A Deep Neural Model for Relational Learning. [`arxiv`](https://arxiv.org/abs/1712.02831) [`code`](https://github.com//Mehran-k/RelNN)
 - Resting state fMRI functional connectivity-based classification using a convolutional neural network architecture. [`arxiv`](https://arxiv.org/abs/1707.06682) [`code`](https://github.com/MRegina/connectome_conv_net)
+- Robust Loss Functions under Label Noise for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1712.09482)
 - [best paper] Safe and Nested Endgame Solving for Imperfect-Information Games. [`pdf`](http://www.cs.cmu.edu/~noamb/papers/17-AAAI-Refinement.pdf) :star:
 - Scalable Gaussian Processes with Billions of Inducing Inputs via Tensor Train Decomposition. [`arxiv`](https://arxiv.org/abs/1710.07324) [`https://github.com//izmailovpavel/TTGP`]
 - Scaling the Scattering Transform: Deep Hybrid Networks. [`arxiv`](https://arxiv.org/abs/1703.08961) [`torch`](https://github.com/edouardoyallon/pyscatwave)
