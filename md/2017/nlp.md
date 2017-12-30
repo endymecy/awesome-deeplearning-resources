@@ -3,6 +3,7 @@
 ### deep learning
 
 - A Comparative Study of Word Embeddings for Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1703.00993)
+- Advances in Pre-Training Distributed Word Representations. [`arxiv`](https://arxiv.org/abs/1712.09405)
 - An Automated Text Categorization Framework based on Hyperparameter Optimization. [`arxiv`](https://arxiv.org/abs/1704.01975) [`code`](https://github.com/INGEOTEC/microTC)
 - An Embedded Deep Learning based Word Prediction. [`arxiv`](https://arxiv.org/abs/1707.01662) [`code`](https://github.com/meinwerk/WordPrediction)
 - An End-to-End Architecture for Keyword Spotting and Voice Activity Detection. [`arxiv`](https://arxiv.org/abs/1611.09405) [`code`](https://github.com/mindorii/kws)
