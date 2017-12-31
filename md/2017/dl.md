@@ -64,6 +64,7 @@
 - Deep Learning: A Bayesian Perspective. [`arxiv`](https://arxiv.org/abs/1706.00473) 
 - [Deep Learning as a Mixed Convex-Combinatorial Optimization Problem.](https://mp.weixin.qq.com/s/8U3vFaf3SDCYnWy4lQv6uw) [`arxiv`](https://arxiv.org/abs/1710.11573) :star:
 - Deep Learning for Time-Series Analysis. [`arxiv`](https://arxiv.org/abs/1701.01887)
+- Deep learning for universal linear embeddings of nonlinear dynamics. [`arxiv`](https://arxiv.org/abs/1712.09707)
 - Deep Learning With Dynamic Computation Graphs. [`pdf`](https://openreview.net/pdf?id=ryrGawqex)
 - DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy. [`arxiv`](https://arxiv.org/abs/1702.08192) [`caffe`](https://github.com/TJKlein/DeepNAT)
 - Deep Network Guided Proof Search. [`arxiv`](https://arxiv.org/abs/1701.06972)
