@@ -606,6 +606,7 @@ You should find the papers and software with star flag are more important or pop
 - [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 - [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
 - [A dataset for book recommendations: ten thousand books, one million ratings](https://www.kaggle.com/zygmunt/goodbooks-10k)
+- [A dataset for personalized highlight detection](https://github.com/gifs/personalized-highlights-dataset)
 - [A dataset of 200k English plaintext jokes.](https://github.com/taivop/joke-dataset)
 - [A large-scale and high-qualityFMA: A Dataset For Music Analysis dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
 - [A large-scale dataset of manually annotated audio events](https://research.google.com/audioset/) :star:
