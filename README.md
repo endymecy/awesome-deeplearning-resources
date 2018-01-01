@@ -287,6 +287,7 @@ You should find the papers and software with star flag are more important or pop
     - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
     - [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop)
     - [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) :star:
+    - [An implementation of Skip-Thought Vectors in PyTorch](https://github.com/sanyam5/skip-thoughts)
     - [Anuvada: Interpretable Models for NLP using PyTorch](https://github.com/Sandeep42/anuvada)
     - [A PyTorch Implementation for Triplet Networks](https://github.com/andreasveit/triplet-network-pytorch)
     - [A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
