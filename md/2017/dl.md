@@ -134,6 +134,7 @@
 - Learning Hierarchical Information Flow with Recurrent Neural Modules. [`arxiv`](https://arxiv.org/abs/1706.05744)
 - Learning to Acquire Information. [`arxiv`](https://arxiv.org/abs/1704.06131)
 - Learning to Compose Domain-Specific Transformations for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1709.01643) [`code`](https://github.com/HazyResearch/tanda)
+- Learning to Compose Skills. [`arxiv`](https://arxiv.org/abs/1711.11289) [`code`](https://github.com//himanshusahni/ComposeNet)
 - Learning to Invert: Signal Recovery via Deep Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1701.03891)
 - Learning to Learn from Weak Supervision by Full Supervision. [`arxiv`](http://mostafadehghani.com/2017/12/01/learning-to-learn-from-weak-supervision-by-full-supervision/)
 - Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg) [`tensorflow`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events)] :star:
