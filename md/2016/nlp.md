@@ -79,6 +79,7 @@
 - UTCNN: a Deep Learning Model of Stance Classificationon on Social Media Text. [`arxiv`](https://arxiv.org/abs/1611.03599)
 - Very Deep Convolutional Networks for Natural Language Processing. [`arxiv`](https://arxiv.org/pdf/1606.01781.pdf) :star: 
 - Visual Dialog. [`arxiv`](https://arxiv.org/abs/1611.08669) [`code`](https://github.com/Cloud-CV/visual-chatbot) :star:
+- Wav2Letter: an End-to-End ConvNet-based Speech Recognition System. [`arxiv`](https://arxiv.org/abs/1609.03193)
 - [Wide & Deep Learning for Recommender Systems.](http://blog.csdn.net/dinosoft/article/details/52581368) [`arxiv`](https://arxiv.org/abs/1606.07792) [`tensorflow`](https://www.tensorflow.org/tutorials/wide_and_deep/) :star:
 
 ### Generative learning
