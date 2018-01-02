@@ -7,6 +7,7 @@
 - A Deep Reinforced Model for Abstractive Summarization. [`arxiv`](https://arxiv.org/abs/1705.04304)
 - A Distributional Perspective on Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1707.06887)
 - A Laplacian Framework for Option Discovery in Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1703.00956) :star:
+- Boosting the Actor with Dual Critic. [`arxiv`](https://arxiv.org/abs/1712.10282)
 - Bridging the Gap Between Value and Policy Based Reinforcement Learning.  [`arxiv`](https://arxiv.org/abs/1702.08892)
 - Car Racing using Reinforcement Learning. [`pdf`](https://web.stanford.edu/class/cs221/2017/restricted/p-final/elibol/final.pdf)
 - Cold-Start Reinforcement Learning with Softmax Policy Gradients. [`arxiv`](https://arxiv.org/abs/1709.09346)
