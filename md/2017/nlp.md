@@ -102,6 +102,7 @@
 - Text Summarization using Abstract Meaning Representation. [`arxiv`](https://arxiv.org/abs/1706.01678)
 - TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering. [`arxiv`](https://arxiv.org/abs/1704.04497) :star:
 - The NarrativeQA Reading Comprehension Challenge. [`arxiv`](https://arxiv.org/abs/1712.07040) :star:
+- Topic Compositional Neural Language Model. [`arxiv`](https://arxiv.org/abs/1712.09783)
 - Topics and Label Propagation: Best of Both Worlds for Weakly Supervised Text Classification. [`arxiv`](https://arxiv.org/abs/1712.02767)
 - Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval. [`arxiv`](https://arxiv.org/abs/1703.06618) [`code`](https://github.com/huyt16/Twitter100k/)
 - Understanding Convolution for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1702.08502) [`code`](https://github.com/TuSimple/TuSimple-DUC/) :star:
