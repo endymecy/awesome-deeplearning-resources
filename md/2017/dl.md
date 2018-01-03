@@ -539,6 +539,7 @@
 - Deep Photo Style Transfer. [`arxiv`](https://arxiv.org/abs/1703.07511) [`torch`](https://github.com/luanfujun/deep-photo-styletransfer)
 - Demystifying Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1701.01036) [`mxnet`](https://github.com/lyttonhao/Neural-Style-MMD)
 - Fashioning with Networks: Neural Style Transfer to Design Clothes. [`arxiv`](https://arxiv.org/abs/1707.09899)
+- Learning More Universal Representations for Transfer-Learning. [`arxiv`](https://arxiv.org/abs/1712.09708)
 - Learning Transferable Architectures for Scalable Image Recognition. [`arxiv`](https://arxiv.org/abs/1707.07012) [`keras`](https://github.com//titu1994/Keras-NASNet)
 - Massive Exploration of Neural Machine Translation Architectures. [`arxiv`](https://arxiv.org/abs/1703.03906) [`code`](https://github.com/google/seq2seq/)
 - [Multi-style Generative Network for Real-time Transfer.](https://zhuanlan.zhihu.com/p/25892708) [`arxiv`](https://arxiv.org/abs/1703.06953) [`torch`](https://github.com/zhanghang1989/MSG-Net) :star:
