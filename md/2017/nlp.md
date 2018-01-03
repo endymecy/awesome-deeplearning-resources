@@ -42,7 +42,7 @@
 - Fast and Accurate Entity Recognition with Iterated Dilated Convolutions. [`arxiv`](https://arxiv.org/abs/1702.02098) [`tensorflow`](https://github.com/iesl/dilated-cnn-ner)
 - Focusing Attention: Towards Accurate Text Recognition in Natural Images. [`arxiv`](https://arxiv.org/abs/1709.02054)
 - Learned in Translation: Contextualized Word Vectors. [`arxiv`](https://arxiv.org/abs/1708.00107) [`code`](https://github.com/salesforce/cove)
-- Letter-Based Speech Recognition with Gated ConvNets. [`arxiv`](https://arxiv.org/abs/1712.09444)
+- Letter-Based Speech Recognition with Gated ConvNets. [`arxiv`](https://arxiv.org/abs/1712.09444) [`code`](https://github.com//facebookresearch/wav2letter) :star:
 - Generating Sentences by Editing Prototypes. [`arxiv`](https://arxiv.org/abs/1709.08878)
 - [Globally Normalized Reader.](http://research.baidu.com/gnr/) [`pdf`](https://www.aclweb.org/anthology/D17-1112) [`tensorflow`](https://github.com/baidu-research/GloballyNormalizedReader) :star:
 - Global Relation Embedding for Relation Extraction. [`arxiv`](https://arxiv.org/abs/1704.05958) [`code`](https://github.com/ppuliu/GloRE)
