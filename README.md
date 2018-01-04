@@ -287,6 +287,7 @@ You should find the papers and software with star flag are more important or pop
     - [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet)
     - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
     - [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop)
+    - [A model for style-specific music generation](https://github.com/calclavia/DeepJ) :star:
     - [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) :star:
     - [An implementation of Skip-Thought Vectors in PyTorch](https://github.com/sanyam5/skip-thoughts)
     - [Anuvada: Interpretable Models for NLP using PyTorch](https://github.com/Sandeep42/anuvada)
