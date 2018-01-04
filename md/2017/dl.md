@@ -444,6 +444,7 @@
 - DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1711.07064) [`pytorch`](https://github.com//KupynOrest/DeblurGAN)
 - Deep adversarial neural decoding. [`arxiv`](https://arxiv.org/abs/1705.07109) :star:
 - Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. [`arxiv`](https://arxiv.org/abs/1702.07464)
+- Deformable GANs for Pose-based Human Image Generation. [`arxiv`](https://arxiv.org/abs/1801.00055) [`code`](https://github.com//AliaksandrSiarohin/pose-gan)
 - DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data. [`arxiv`](https://arxiv.org/abs/1706.02071) [`code`](https://github.com/val-iisc/deligan)
 - Dense Associative Memory is Robust to Adversarial Inputs. [`arxiv`](https://arxiv.org/abs/1701.00939)
 - Denoising Adversarial Autoencoders. [`arxiv`](https://arxiv.org/abs/1703.01220) [`code`](https://github.com/ToniCreswell/DAAE_) :star:
