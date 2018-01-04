@@ -15,6 +15,7 @@
 - Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1712.06567)
 - DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning. [`arxiv`](https://arxiv.org/abs/1707.06690) [`code`](https://github.com/xwhan/DeepPath)
 - Deep Reinforcement Learning: An Overview. [`arxiv`](https://arxiv.org/abs/1701.07274)
+- Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward. [`arxiv`](https://arxiv.org/abs/1801.00054) [`code`](https://github.com//KaiyangZhou/vsumm-reinforce)
 - Deep reinforcement learning from human preferences. [`arxiv`](https://arxiv.org/abs/1706.03741)
 - Deep Reinforcement Learning that Matters. [`arxiv`](https://arxiv.org/abs/1709.06560) [`code`](https://github.com/Breakend/DeepReinforcementLearningThatMatters)
 - Device Placement Optimization with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1706.04972)
