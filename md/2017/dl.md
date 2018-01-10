@@ -336,7 +336,7 @@
 - Mask R-CNN. [`arxiv`](https://arxiv.org/abs/1703.06870) [`caffe`](https://github.com/jasjeetIM/Mask-RCNN) [`mxnet`](https://github.com/TuSimple/mx-maskrcnn) :star:
 - MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels. [`arxiv`](https://arxiv.org/abs/1712.05055) :star:
 - Mix-and-Match Tuning for Self-Supervised Semantic Segmentation. [`arxiv`](http://mmlab.ie.cuhk.edu.hk/projects/M&M/) [`code`](https://github.com//liuziwei7/mix-and-match)
-- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`pytorch`](https://github.com/marvis/pytorch-mobilenet) [`keras`](https://github.com/titu1994/MobileNetworks)
+- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`pytorch`](https://github.com/marvis/pytorch-mobilenet) [`keras`](https://github.com/titu1994/MobileNetworks) [`tensorflow`](https://github.com/MG2033/MobileNet/)
 - Modeling Relational Data with Graph Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1703.06103) :star:
 - <b>[MobileNets]</b> Efficient Convolutional Neural Networks for Mobile Vision Applications. [`arxiv`](https://arxiv.org/abs/1704.04861) [`keras`](https://github.com/rcmalli/keras-mobilenet) :star:
 - MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. [`arxiv`](https://arxiv.org/abs/1701.02354)
