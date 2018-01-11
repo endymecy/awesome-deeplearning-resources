@@ -115,6 +115,7 @@
 
 - Attentive Memory Networks: Efficient Machine Reading for Conversational Search. [`arxiv`](https://arxiv.org/abs/1712.07229)
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering. [`pdf`](http://www.panderson.me/images/1707.07998-up-down.pdf) [`code`](https://github.com//peteanderson80/bottom-up-attention)
+- Gated-Attention Architectures for Task-Oriented Language Grounding. [`arxiv`](https://arxiv.org/abs/1706.07230) [`pytorch`](https://github.com/devendrachaplot/DeepRL-Grounding)
 - End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
 - Frustratingly Short Attention Spans in Neural Language Modeling. [`arxiv`](https://arxiv.org/abs/1702.04521)
 - Recurrent Neural Network-Based Sentence Encoder with Gated Attention for Natural Language Inference. [`arxiv`](https://arxiv.org/abs/1708.01353) [`code`](https://github.com/lukecq1231/enc_nli)
