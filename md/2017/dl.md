@@ -193,6 +193,7 @@
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
 - Recurrent Additive Networks. [`arxiv`](https://arxiv.org/abs/1705.07393) [`pytorch`](https://github.com/bheinzerling/ran) :star:
 - Recurrent Pixel Embedding for Instance Grouping. [`arxiv`](https://arxiv.org/abs/1712.08273) [`code`](https://github.com//aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping)
+- Reducing Deep Network Complexity with Fourier Transform Methods. [`arxiv`](https://arxiv.org/abs/1801.01451) [`code`](https://github.com/andrew-jeremy/Reducing-Deep-Network-Complexity-with-Fourier-Transform-Methods)
 - Reducing Reparameterization Gradient Variance. [`arxiv`](https://arxiv.org/abs/1705.07880) [`code`](https://github.com/andymiller/ReducedVarianceReparamGradients)
 - RelNN: A Deep Neural Model for Relational Learning. [`arxiv`](https://arxiv.org/abs/1712.02831) [`code`](https://github.com//Mehran-k/RelNN)
 - Resting state fMRI functional connectivity-based classification using a convolutional neural network architecture. [`arxiv`](https://arxiv.org/abs/1707.06682) [`code`](https://github.com/MRegina/connectome_conv_net)
