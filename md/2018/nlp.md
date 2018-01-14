@@ -7,3 +7,7 @@
 ### QA
 
 - EARL: Joint Entity and Relation Linking for Question Answering over Knowledge Graphs. [`arxiv`](https://arxiv.org/abs/1801.03825) [`code`](https://github.com//AskNowQA/EARL)
+
+### Recommender Systems
+
+- Learning Tree-based Deep Model for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.02294)
