@@ -10,3 +10,4 @@
 
 - Adversarial Spheres. [`arxiv`](https://arxiv.org/abs/1801.02774)
 - eCommerceGAN : A Generative Adversarial Network for E-commerce. [`arxiv`](https://arxiv.org/abs/1801.03244)
+- Unsupervised Cipher Cracking Using Discrete GANs. [`arxiv`](https://arxiv.org/abs/1801.04883) [`tensorflow`](https://github.com//for-ai/CipherGAN)
