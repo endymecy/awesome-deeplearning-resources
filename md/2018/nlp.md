@@ -11,3 +11,7 @@
 ### Recommender Systems
 
 - Learning Tree-based Deep Model for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.02294)
+
+### Text Classification
+
+- Fine-tuned Language Models for Text Classification. [`arxiv`](https://arxiv.org/abs/1801.06146)
