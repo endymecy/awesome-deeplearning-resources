@@ -1,6 +1,7 @@
 # Deep learning
 
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [`arxiv`](https://arxiv.org/abs/1801.05453)
+- Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
 - Sparsely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.05895)
 - SpectralNet: Spectral Clustering using Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.01587) [`code`](https://github.com//kstant0725/SpectralNet)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
