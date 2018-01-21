@@ -163,6 +163,7 @@
 - Maxmin convolutional neural networks for image classification. [`arxiv`](https://arxiv.org/abs/1610.07882)
 - Movie Description.  [`arxiv`](https://arxiv.org/abs/1605.03705)
 - OctNet: Learning Deep 3D Representations at High Resolutions. [`arxiv`](https://arxiv.org/abs/1611.05009) [`code`](https://github.com/griegler/octnet) 
+- Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1611.05198) [`code`](https://github.com/kmaninis/OSVOS-PyTorch)
 - <b>[PRNN]</b> Pixel Recurrent Neural Networks. [`arxiv`](https://arxiv.org/pdf/1601.06759.pdf) :star: 
 - Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. [`arxiv`](https://arxiv.org/abs/1612.00005)
 - Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1612.07429)
