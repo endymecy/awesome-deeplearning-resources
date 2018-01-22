@@ -564,6 +564,7 @@ You should find the papers and software with star flag are more important or pop
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLpapers)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+- [Notes/links on math and science, including statistics, bayes, cmpsc, quant trading, machine learning, etc](https://github.com/melling/MathAndScienceNotes)
 - [Open-source simulator for autonomous driving research](https://github.com/carla-simulator/carla) :star:
 - [Over 7 million published research papers in Computer Science and Neuroscience.](http://labs.semanticscholar.org/corpus/)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
