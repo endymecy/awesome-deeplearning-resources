@@ -15,3 +15,8 @@
 ### Text Classification
 
 - Fine-tuned Language Models for Text Classification. [`arxiv`](https://arxiv.org/abs/1801.06146)
+
+### Keyphrase Extraction
+
+- EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1801.04470)
+
