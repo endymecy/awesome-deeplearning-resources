@@ -1,5 +1,6 @@
 # Deep Reinforcement Learning
 
+- A Deep Reinforcement Learning Chatbot (Short Version). [`arxiv`](https://arxiv.org/abs/1801.06700)
 - Cooperative Multi-Agent Reinforcement Learning for Low-Level Wireless Communication. [`arxiv`](https://arxiv.org/abs/1801.04541)
 - Deep Reinforcement Fuzzing. [`arxiv`](https://arxiv.org/abs/1801.04589)
 - Deep Reinforcement Learning of Cell Movement in the Early Stage of C. elegans Embryogenesis. [`arxiv`](https://arxiv.org/abs/1801.04600)

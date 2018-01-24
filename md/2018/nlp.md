@@ -21,3 +21,6 @@
 
 - EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1801.04470)
 
+### Chatbot
+
+- A Deep Reinforcement Learning Chatbot (Short Version). [`arxiv`](https://arxiv.org/abs/1801.06700)
