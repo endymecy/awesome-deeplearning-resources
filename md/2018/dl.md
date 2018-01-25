@@ -2,6 +2,7 @@
 
 - A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data. [`arxiv`](https://arxiv.org/abs/1801.06202) [`code`](https://github.com/yunchuankong/NetworkNeuralNetwork)
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [`arxiv`](https://arxiv.org/abs/1801.05453)
+- Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
 - E-swish: Adjusting Activations to Different Network Depths. [`arxiv`](https://arxiv.org/abs/1801.07145)
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
