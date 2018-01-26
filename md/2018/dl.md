@@ -1,6 +1,7 @@
 # Deep learning
 
 - A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data. [`arxiv`](https://arxiv.org/abs/1801.06202) [`code`](https://github.com/yunchuankong/NetworkNeuralNetwork)
+- Bayesian Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.07710) [`code`](https://github.com/mullachv/MLExp)
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [`arxiv`](https://arxiv.org/abs/1801.05453)
 - Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
