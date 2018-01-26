@@ -24,3 +24,7 @@
 ### Chatbot
 
 - A Deep Reinforcement Learning Chatbot (Short Version). [`arxiv`](https://arxiv.org/abs/1801.06700)
+
+### Pos-tagging
+
+- Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks. [`arxiv`](https://arxiv.org/abs/1801.07772) [`code`](https://github.com/boknilev/nmt-repr-analysis)
