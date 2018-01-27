@@ -115,6 +115,7 @@
 - Good Semi-supervised Learning that Requires a Bad GAN. [`arxiv`](https://arxiv.org/abs/1705.09783)
 - Gradual Learning of Deep Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1708.08863) 
 - Graffinity: Visualizing Connectivity In Large Graphs. [`arxiv`](https://arxiv.org/abs/1703.07729) [`code`](https://github.com/visdesignlab/graffinity)
+- Graph Convolutional Matrix Completion. [`arxiv`](https://arxiv.org/abs/1706.02263) [`code`](https://github.com/riannevdberg/gc-mc)
 - Graph Structure Learning from Unlabeled Data for Event Detection. [`arxiv`](https://arxiv.org/abs/1701.01470)
 - Hidden Community Detection in Social Networks. [`arxiv`](https://arxiv.org/abs/1702.07462)
 - Hierarchical loss for classification. [`arxiv`](https://arxiv.org/abs/1709.01062)
