@@ -362,6 +362,7 @@ You should find the papers and software with star flag are more important or pop
     - [An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.](https://github.com/kengz/openai_lab) :star:
     - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
     - [An implementation of skip-thought vectors in Tensorflow](https://github.com/persiyanov/skip-thought-tf)
+    - [An open-source convolutional neural networks platform for research in medical image analysis and image-guided therapy](https://github.com/NifTK/NiftyNet)
     - [A Practical Guide for Debugging TensorFlow Codes](https://github.com/wookayin/tensorflow-talk-debugging)
     - [A real-time object recognition application using Google's TensorFlow Object Detection API and OpenCV.](https://github.com/datitran/Object-Detector-App)
     - [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) :star:
