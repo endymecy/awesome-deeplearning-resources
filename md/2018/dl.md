@@ -15,6 +15,11 @@
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift. [`arxiv`](https://arxiv.org/abs/1801.05134)
 
+
+## Attention
+
+- MAttNet: Modular Attention Network for Referring Expression Comprehension. [`arxiv`](https://arxiv.org/abs/1801.08186)
+
 ## Optimization
 
 - Sequential Preference-Based Optimization. [`arxiv`](https://arxiv.org/abs/1801.02788) [`code`](https://github.com/prefopt/prefopt)
