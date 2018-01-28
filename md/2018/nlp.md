@@ -13,6 +13,7 @@
 ### Recommender Systems
 
 - Learning Tree-based Deep Model for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.02294)
+- Offline A/B testing for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.07030)
 
 ### Text Classification
 
