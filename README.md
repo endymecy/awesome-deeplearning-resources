@@ -647,6 +647,7 @@ You should find the papers and software with star flag are more important or pop
 - [SLAC: A Sparsely Labeled ACtions Dataset from MIT and Facebook](http://slac.csail.mit.edu/)
 - [Some good papers I like](https://github.com/hoangcuong2011/Good-Papers)
 - [Street View Image, Pose, and 3D Cities Dataset](https://github.com/amir32002/3D_Street_View)
+- [Taiga Сorpus](https://tatianashavrina.github.io/taiga_site/)
 - [Ten thousand books, six million ratings](https://github.com/zygmuntz/goodbooks-10k)
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
