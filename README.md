@@ -635,6 +635,7 @@ You should find the papers and software with star flag are more important or pop
 - [Datasets of Annotated Semantic Relationships](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
 - [Datasets for Data Science and Machine Learning](https://elitedatascience.com/datasets)
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
+- [DeepFashion: Fashion Landmark Detection](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
 - [EMOTIC Dataset](http://sunai.uoc.edu/emotic/)
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 - [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
