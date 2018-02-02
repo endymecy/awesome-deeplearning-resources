@@ -131,6 +131,7 @@
 - Learning by Association - A versatile semi-supervised training method for neural networks. [`arxiv`](https://arxiv.org/abs/1706.00909) [`code`](https://github.com/haeusser/learning_by_association)
 - Learning Chained Deep Features and Classifiers for Cascade in Object Detection. [`arxiv`](https://arxiv.org/abs/1702.07054)
 - Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees. [`arxiv`](https://arxiv.org/abs/1702.08833) :star: 
+- Learning Efficient Convolutional Networks through Network Slimming. [`arxiv`](https://arxiv.org/abs/1708.06519) [`code`](https://github.com/foolwood/pytorch-slimming)
 - Learning Gradient Descent: Better Generalization and Longer Horizons.  [`arxiv`](https://arxiv.org/abs/1703.03633) [`code`](https://github.com/vfleaking/rnnprop)
 - Learning Hierarchical Information Flow with Recurrent Neural Modules. [`arxiv`](https://arxiv.org/abs/1706.05744)
 - Learning to Acquire Information. [`arxiv`](https://arxiv.org/abs/1704.06131)
