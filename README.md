@@ -115,6 +115,7 @@ You should find the papers and software with star flag are more important or pop
 * [Single Image 3D Interpreter Network](https://github.com/jiajunwu/3dinn)
 * [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
 * [TensorFlow VGG-16 pre-trained model](https://github.com/ry/tensorflow-vgg16)
+* [The pretrained models trained on Moments in Time Dataset](https://github.com/metalbubble/moments_models)
 * [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
 * [ZF_UNET_224 Pretrained Model](https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model)
