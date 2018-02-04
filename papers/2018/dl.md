@@ -22,6 +22,7 @@
 ## Attention
 
 - MAttNet: Modular Attention Network for Referring Expression Comprehension. [`arxiv`](https://arxiv.org/abs/1801.08186)
+- Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling. [`arxiv`](https://arxiv.org/abs/1801.10296)
 
 ## Optimization
 
