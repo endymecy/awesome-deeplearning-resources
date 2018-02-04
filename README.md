@@ -96,16 +96,16 @@ More details in [tutorials](tutorials.md)
 
 # Software
 
+- <b>`Keras`</b> [Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
+- <b>`Kur`</b> [Descriptive Deep Learning.](https://github.com/deepgram/kur)  :star:
 - <b>`Caffe`</b> [Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/) :star:
-- <b>`clDNN` </b>[Compute Library for Deep Neural Networks](https://github.com/01org/clDNN) 
 - <b>`CNTK` </b>[The Microsoft Cognitive Toolkit.](https://github.com/Microsoft/CNTK) 
-- <b>`DeepDetect` </b>[Open Source Deep Learning Server & API](https://deepdetect.com/) 
-- <b>`DIGITS`</b> [A new system for developing, training and visualizing deep neural networks.](https://developer.nvidia.com/digits) 
 - <b>`Dlib`</b> [A modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++.](http://dlib.net/)
-- <b>`Dll`</b> [Deep Learning Library](https://github.com/wichtounet/dll)
-- <b>`DSSTNE`</b> [An Amazon developed library for building Deep Learning (DL) machine learning (ML) models.](https://github.com/amznlabs/amazon-dsstne) 
-- <b>`Jik`</b> [Lightweight Deep Learning Framework](https://github.com/oliviersoares/jik)
-   
+- <b>`PyTorch`</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
+- <b>`Scikit-Learn`</b> [Machine learning in Python.](http://scikit-learn.org)  :star:
+   - <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)   
+- <b>`Tensorflow`</b> [An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
+
 More details in [software](software.md)
 
 # Applications
@@ -125,8 +125,6 @@ More details in [software](software.md)
     - [Deep Neural Network for Sentiment Analysis on Twitter](https://github.com/xiaohan2012/twitter-sent-dnn)
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
 - tensorflow
-    - [A framework for developing and evaluating reinforcement learning algorithms](https://github.com/shaneshixiang/rllabplusplus)
-    - [A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.](https://github.com/google/seq2seq)
     - [A generic image detection program that uses tensorflow and a pre-trained Inception.](https://github.com/ArunMichaelDsouza/tensorflow-image-detection)
     - [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) :star:
     - [Applying transfer learning to a custom dataset by retraining Inception's final layer](https://github.com/HusainZafar/TransferLearningTutorial)
@@ -170,9 +168,7 @@ More details in [awesome projects](awesome_projects.md)
 - [情感分析︱网络公开的免费文本语料训练数据集汇总](http://blog.csdn.net/sinat_26917383/article/details/51321505)
 - [中文情感分析用词语集](http://www.keenage.com/html/c_bulletin_2007.htm)
 - [人民日报切分/标注语料库](http://www.icl.pku.edu.cn/icl_res/)
-- [数据堂](http://more.datatang.com/)
 - [哈工大信息检索研究中心(HIT CIR)语言技术平台共享资源](http://ir.hit.edu.cn/demo/ltp/Sharing_Plan.htm)
-- [语料库在线](http://www.cncorpus.org/index.aspx)
 - [中文句结构树资料库](http://turing.iis.sinica.edu.tw/treesearch/)
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
 - [中文语料小数据：Some useful Chinese corpus datasets](https://github.com/crownpku/Small-Chinese-Corpus)

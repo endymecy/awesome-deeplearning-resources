@@ -24,6 +24,8 @@
     - <b>SerpentAI</b> [Game Agent Framework. Helping you create AIs / Bots to play any game you own](https://github.com/SerpentAI/SerpentAI)
     - <b>`Skll`</b> [SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
     - <b>`Sonnet`</b> [TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
+    - <b>`Tensorflow`</b> [An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
+         - <b>`Polyaxon`</b> [Deep Learning library for TensorFlow for building end to end models and experiments.](https://github.com/polyaxon/polyaxon)
     - <b>`TensorFX`</b> [An end to end application framework to simplifies machine learning with TensorFlow](https://github.com/TensorLab/tensorfx)
     - <b>`Theano`</b> [Mathematical library in Python, maintained by LISA lab](http://deeplearning.net/software/theano/) 
         - <b>`Pylearn2`</b> [Theano-based deep learning libraries](http://deeplearning.net/software/pylearn2/) 
@@ -50,8 +52,6 @@
     - <b>`NNabla`</b> [NNabla is a deep learning framework that is intended to be used for research, development and production](https://nnabla.org/)
     - <b>`NVIDIA TensorRT`</b> [High performance deep learning inference for production deployment](https://developer.nvidia.com/tensorrt)
     - <b>`Singa`</b> [An Apache Incubating project for developing an open source deep learning library.](http://singa.incubator.apache.org/en/index.html)
-    - <b>`Tensorflow`</b> [An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
-        - <b>`Polyaxon`</b> [Deep Learning library for TensorFlow for building end to end models and experiments.](https://github.com/polyaxon/polyaxon)
     - <b>`Tiny-dnn`</b> [A C++11 implementation of deep learning.](https://github.com/tiny-dnn/tiny-dnn)
 - `Java`
     - <b>`Stanford CoreNLP`</b> [A Java suite of core NLP tools.](https://github.com/stanfordnlp/CoreNLP)
