@@ -9,5 +9,6 @@
 - Low-Shot Learning from Imaginary Data. [`arxiv`](https://arxiv.org/abs/1801.05401)
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
 - RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
+- Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
 
