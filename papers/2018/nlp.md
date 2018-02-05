@@ -9,6 +9,7 @@
 
 ### QA
 
+- A Corpus for Modeling Word Importance in Spoken Dialogue Transcripts. [`arxiv`](https://arxiv.org/abs/1801.09746)
 - A Question-Focused Multi-Factor Attention Network for Question Answering. [`arxiv`](https://arxiv.org/abs/1801.08290) [`code`](https://github.com/nusnlp/amanda)
 - EARL: Joint Entity and Relation Linking for Question Answering over Knowledge Graphs. [`arxiv`](https://arxiv.org/abs/1801.03825) [`code`](https://github.com//AskNowQA/EARL)
 - Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning. [`arxiv`](https://arxiv.org/abs/1801.08459) [`code`](https://github.com/juung/RMN)
