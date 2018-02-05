@@ -14,6 +14,7 @@
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
 - Sparsely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.05895)
 - SpectralNet: Spectral Clustering using Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.01587) [`code`](https://github.com//kstant0725/SpectralNet)
+- Spherical CNNs. [`arxiv`](https://arxiv.org/abs/1801.10130) [`code`](https://github.com/jonas-koehler/s2cnn)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift. [`arxiv`](https://arxiv.org/abs/1801.05134)
