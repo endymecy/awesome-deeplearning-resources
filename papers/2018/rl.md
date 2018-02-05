@@ -7,5 +7,6 @@
 - Deep Reinforcement Learning using Capsules in Advanced Game Environments. [`arxiv`](https://arxiv.org/abs/1801.09597)
 - Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes. [`arxiv`](https://arxiv.org/abs/1801.02852) [`code`](https://github.com//anonymous-author1/DDRL)
 - Faster Deep Q-learning using Neural Episodic Control. [`arxiv`](https://arxiv.org/abs/1801.01968)
+- Pretraining Deep Actor-Critic Reinforcement Learning Algorithms With Expert Demonstrations. [`arxiv`](https://arxiv.org/abs/1801.10459)
 - Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents. [`arxiv`](https://arxiv.org/abs/1801.08116)
 - Using reinforcement learning to learn how to play text-based games. [`arxiv`](https://arxiv.org/abs/1801.01999)
