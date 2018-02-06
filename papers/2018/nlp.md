@@ -2,10 +2,23 @@
 
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:
 
+### Chatbot
+
+- A Deep Reinforcement Learning Chatbot (Short Version). [`arxiv`](https://arxiv.org/abs/1801.06700)
+- Goal-Oriented Chatbot Dialog Management Bootstrapping with Transfer Learning. [`arxiv`](https://arxiv.org/abs/1802.00500)
+
 ### Embeddings
 
 - Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases. [`arxiv`](https://arxiv.org/abs/1801.00388)
 - Query2Vec: NLP Meets Databases for Generalized Workload Analytics. [`arxiv`](https://arxiv.org/abs/1801.05613)
+
+### Keyphrase Extraction
+
+- EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1801.04470)
+
+### Pos-tagging
+
+- Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks. [`arxiv`](https://arxiv.org/abs/1801.07772) [`code`](https://github.com/boknilev/nmt-repr-analysis)
 
 ### QA
 
@@ -23,15 +36,3 @@
 ### Text Classification
 
 - Fine-tuned Language Models for Text Classification. [`arxiv`](https://arxiv.org/abs/1801.06146)
-
-### Keyphrase Extraction
-
-- EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1801.04470)
-
-### Chatbot
-
-- A Deep Reinforcement Learning Chatbot (Short Version). [`arxiv`](https://arxiv.org/abs/1801.06700)
-
-### Pos-tagging
-
-- Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks. [`arxiv`](https://arxiv.org/abs/1801.07772) [`code`](https://github.com/boknilev/nmt-repr-analysis)
