@@ -2,6 +2,7 @@
 
 - 3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies. [`arxiv`](https://arxiv.org/abs/1801.05968)
 - Additive Margin Softmax for Face Verification. [`arxiv`](https://arxiv.org/abs/1801.05599) [`code`](https://github.com/happynear/AMSoftmax) :star:
+- Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis. [`arxiv`](https://arxiv.org/abs/1802.00752) [`code`](https://github.com/alexander-rakhlin/ICIAR2018)
 - Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
 - Depth CNNs for RGB-D scene recognition: learning from scratch better than transferring from RGB-CNNs. [`arxiv`](https://arxiv.org/abs/1801.06797) [`code`](https://github.com/songxinhang/D-CNN)
 - Detecting and counting tiny faces. [`arxiv`](https://arxiv.org/abs/1801.06504) [`code`](https://github.com/alexattia/ExtendedTinyFaces)
