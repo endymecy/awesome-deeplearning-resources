@@ -5,6 +5,7 @@
 * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 * [CMU] [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
 * [CMU] [Neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
+* [COMS] [W4995 Applied Machine Learning Spring 2018](http://www.cs.columbia.edu/~amueller/comsw4995s18/)
 * [David Silver] [RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
 * [Emory University] [CS584: Deep Learning](http://nematilab.info/CS584.html)
 * [Google] [Udacity Deep Learning Online Course](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
