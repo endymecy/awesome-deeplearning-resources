@@ -33,6 +33,7 @@
     - [Image Classification Project Killer in PyTorch](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) :star:
     - [Implementation of various methods for dimensionality reduction and spectral clustering implemented with Pytorch](https://github.com/dimkastan/PyTorch-Spectral-clustering)
+    - [Implementations of different VAE-based semi-supervised and generative models in PyTorch](https://github.com/wohlert/semi-supervised-pytorch)
     - [InferSent is a sentence embeddings method that provides semantic sentence representations.](https://github.com/facebookresearch/InferSent)
     - [LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.](https://github.com/sujithv28/Deep-Leafsnap)
     - [Lightweight implementation of neural style in Pytorch with SqueezeNet](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
