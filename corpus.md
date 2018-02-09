@@ -46,6 +46,7 @@
 - [LLD - Large Logo Dataset](https://data.vision.ee.ethz.ch/cvl/lld/)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
+- [Netizen-Style Commenting on Fashion Photos – Dataset and Diversity Measures](https://mashyu.github.io/NSC/)
 - [Open Speech and Language Resources](http://www.openslr.org/33) :star:
 - [Pixiv Dataset Overview](https://github.com/jerryli27/pixiv_dataset)
 - [Second International Chinese Word Segmentation Bakeoff Data](http://sighan.cs.uchicago.edu/bakeoff2005/) :star:
