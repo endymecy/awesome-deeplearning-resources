@@ -43,5 +43,6 @@
 - eCommerceGAN : A Generative Adversarial Network for E-commerce. [`arxiv`](https://arxiv.org/abs/1801.03244)
 - Generating Handwritten Chinese Characters using CycleGAN. [`arxiv`](https://arxiv.org/abs/1801.08624) [`code`](https://github.com/changebo/HCCG-CycleGAN)
 - Generative Adversarial Networks using Adaptive Convolution. [`arxiv`](https://arxiv.org/abs/1802.02226)
+- Semi-Amortized Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.02550) [`code`](https://github.com/harvardnlp/sa-vae)
 - tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow. [`arxiv`](https://arxiv.org/abs/1801.09710)
 - Unsupervised Cipher Cracking Using Discrete GANs. [`arxiv`](https://arxiv.org/abs/1801.04883) [`tensorflow`](https://github.com//for-ai/CipherGAN)
