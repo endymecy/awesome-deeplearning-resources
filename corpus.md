@@ -48,6 +48,7 @@
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 - [Open Speech and Language Resources](http://www.openslr.org/33) :star:
 - [Pixiv Dataset Overview](https://github.com/jerryli27/pixiv_dataset)
+- [Second International Chinese Word Segmentation Bakeoff Data](http://sighan.cs.uchicago.edu/bakeoff2005/) :star:
 - [SLAC: A Sparsely Labeled ACtions Dataset from MIT and Facebook](http://slac.csail.mit.edu/)
 - [Some good papers I like](https://github.com/hoangcuong2011/Good-Papers)
 - [Street View Image, Pose, and 3D Cities Dataset](https://github.com/amir32002/3D_Street_View)
