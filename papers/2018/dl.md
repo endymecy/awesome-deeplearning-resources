@@ -22,6 +22,7 @@
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift. [`arxiv`](https://arxiv.org/abs/1801.05134)
+- Universal Deep Neural Network Compression. [`arxiv`](https://arxiv.org/abs/1802.02271)
 
 
 ## Attention
