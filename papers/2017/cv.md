@@ -120,6 +120,7 @@
 - [Variational Approaches for Auto-Encoding Generative Adversarial Networks.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486161&idx=2&sn=e11c6bb9839a1fde85e96d26ac2d0b75) [`arxiv`](https://arxiv.org/abs/1706.04987) :star:
 - Video-based Person Re-identification with Accumulative Motion Context. [`arxiv`](https://arxiv.org/abs/1701.00193)
 - Video Frame Interpolation via Adaptive Separable Convolution. [`pdf`](http://web.cecs.pdx.edu/~fliu/papers/iccv2017-interp.pdf) [`pytorch`](https://github.com/sniklaus/pytorch-sepconv)
+- Video Frame Synthesis using Deep Voxel Flow. [`arxiv`](https://arxiv.org/abs/1702.02463) [`code`](https://github.com/liuziwei7/voxel-flow)
 - ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection. [`arxiv`](https://arxiv.org/abs/1702.07191)
 - Visualizing LSTM decisions. [`arxiv`](https://arxiv.org/abs/1705.08153)
 - Visual Discovery at Pinterest. [`arxiv`](https://arxiv.org/abs/1702.04680)
