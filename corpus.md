@@ -39,6 +39,7 @@
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
 - [DeepFashion: Fashion Landmark Detection](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
 - [EMOTIC Dataset](http://sunai.uoc.edu/emotic/)
+- [FiveThirtyEight开放可视化数据](https://www.weibo.com/fly51fly?is_all=1#_rnd1518270026401)
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 - [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
 - [Japanese Word Similarity Dataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset)
