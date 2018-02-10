@@ -88,6 +88,7 @@
 - [TensorFlow and Deep Learning Tutorials](https://github.com/wagamamaz/tensorflow-tutorial)
 - [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples) :star:
 - [TensorFlow World Resources](https://github.com/astorfi/TensorFlow-World-Resources)
+- [The awesome and classic papers in recommendation system](https://github.com/YuyangZhangFTD/awesome-RecSys-papers)
 - [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
 - [Using python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
