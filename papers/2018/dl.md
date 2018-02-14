@@ -47,6 +47,7 @@
 - Geometry Score: A Method For Comparing Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.02664) [`code`](https://github.com/geom-score/geometry-score)
 - Generating Handwritten Chinese Characters using CycleGAN. [`arxiv`](https://arxiv.org/abs/1801.08624) [`code`](https://github.com/changebo/HCCG-CycleGAN)
 - Generative Adversarial Networks using Adaptive Convolution. [`arxiv`](https://arxiv.org/abs/1802.02226)
+- On the Latent Space of Wasserstein Auto-Encoders. [`arxiv`](https://arxiv.org/abs/1802.03761)
 - Recurrent Neural Network-Based Semantic Variational Autoencoder for Sequence-to-Sequence Learning. [`arxiv`](https://arxiv.org/abs/1802.03238)
 - Semi-Amortized Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.02550) [`code`](https://github.com/harvardnlp/sa-vae)
 - tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow. [`arxiv`](https://arxiv.org/abs/1801.09710)
