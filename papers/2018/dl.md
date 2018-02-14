@@ -23,6 +23,7 @@
 - The Matrix Calculus You Need For Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.01528)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
+- UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. [`arxiv`](https://arxiv.org/abs/1802.03426) [`code`](https://github.com/lmcinnes/umap)
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift. [`arxiv`](https://arxiv.org/abs/1801.05134)
 - Universal Deep Neural Network Compression. [`arxiv`](https://arxiv.org/abs/1802.02271)
 
