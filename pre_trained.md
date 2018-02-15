@@ -8,6 +8,7 @@
 * [Dependency-Based Word Embeddings.](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/)
 * [Development kit for MIT Scene Parsing Benchmark](https://github.com/CSAILVision/sceneparsing)
 * [English word vectors](https://fasttext.cc/docs/en/english-vectors.html)
+* [Easy Machine Learning](https://modeldepot.io/) :star:
 * [fastText English Word Vectors](https://www.kaggle.com/facebook/fasttext-wikinews)
 * [GloVe: Global Vectors for Word Representation](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
