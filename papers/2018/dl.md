@@ -12,6 +12,7 @@
 - E-swish: Adjusting Activations to Different Network Depths. [`arxiv`](https://arxiv.org/abs/1801.07145)
 - Etymo: A New Discovery Engine for AI Research. [`arxiv`](https://arxiv.org/abs/1801.08573)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
+- High Dimensional Bayesian Optimization Using Dropout. [`arxiv`](https://arxiv.org/abs/1802.05400)
 - Hybrid Gradient Boosting Trees and Neural Networks for Forecasting Operating Room Data. [`arxiv`](https://arxiv.org/abs/1801.07384)
 - Learning Networks from Random Walk-Based Node Similarities. [`arxiv`](https://arxiv.org/abs/1801.07386) [`code`](https://github.com/cnmusco/graph-similarity-learning)
 - Learning to Learn Without Labels. [`pdf`](https://openreview.net/forum?id=ByoT9Fkvz) :star:
