@@ -23,6 +23,7 @@
 - Sparsely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.05895)
 - SpectralNet: Spectral Clustering using Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.01587) [`code`](https://github.com//kstant0725/SpectralNet)
 - Spherical CNNs. [`arxiv`](https://arxiv.org/abs/1801.10130) [`code`](https://github.com/jonas-koehler/s2cnn)
+- Supervised classification of Dermatological diseases by Deep neural networks. [`arxiv`](https://arxiv.org/abs/1802.03752) [`code`](https://www.dropbox.com/sh/pwe3tqrb2zijexq/AADpQ9WKOdSfTdvHkVtT_GHKa?dl=0)
 - The Matrix Calculus You Need For Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.01528)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
