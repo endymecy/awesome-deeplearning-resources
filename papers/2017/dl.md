@@ -83,6 +83,7 @@
 - Diagonal RNNs in Symbolic Music Modeling. [`arxiv`](https://arxiv.org/abs/1704.05420) [`tensorflow`](https://github.com/ycemsubakan/diagonal_rnns)
 - Different approaches to community detection. [`arxiv`](https://arxiv.org/abs/1712.06468)
 - Dilated Residual Networks. [`arxiv`](https://arxiv.org/abs/1705.09914) :star:
+- Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients. [`arxiv`](https://arxiv.org/abs/1705.07774) [`tensorflow`](https://github.com/lballes/msvag)
 - Distilling a Neural Network Into a Soft Decision Tree. [`arxiv`](https://arxiv.org/abs/1711.09784) [`pytorch`](https://github.com//kimhc6028/soft-decision-tree)
 - Distributed Online Learning of Event Definitions. [`arxiv`](https://arxiv.org/abs/1705.02175)
 - dna2vec: Consistent vector representations of variable-length k-mers. [`arxiv`](https://arxiv.org/abs/1701.06279) [`code`](https://github.com//pnpnpn/dna2vec)
