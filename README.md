@@ -36,6 +36,7 @@ You should find the papers and software with star flag are more important or pop
     - [deep learning](papers/2016/dl.md)
     - [deep reinforcement learning](papers/2016/rl.md)
     - [natural language process](papers/2016/nlp.md)
+    - [computer vision](papers/2016/cv.md)
 - [2015 year](papers/2015.md)
 - [2014 year](papers/2014.md)
 - [2013 year](papers/2013.md) 

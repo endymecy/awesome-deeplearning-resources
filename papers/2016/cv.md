@@ -1,0 +1,59 @@
+## Computer vision
+
+- Accurate Image Super-Resolution Using Very Deep Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1511.04587)
+- Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks.[`arxiv`](https://arxiv.org/abs/1611.02447)
+- Adult Content Recognition from Images Using a Mixture of Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1612.09506?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)
+- Asynchronous Temporal Fields for Action Recognition. [`arxiv`](https://arxiv.org/abs/1612.06371) [`code`](https://github.com/gsig/temporal-fields/)
+- Automatic Portrait Segmentation for Image Stylization. [`pdf`](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf) [`code`](https://github.com/PetroWu/AutoPortraitMatting)
+- CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection. [`arxiv`](https://arxiv.org/abs/1606.05413)
+- Colorful Image Colorization. [`arxiv`](https://arxiv.org/abs/1603.08511v1) [`tensorflow`](https://github.com/nilboy/colorization-tf) :star:
+- <b>[PCNN]</b> Conditional Image Generation with PixelCNN Decoders. [`arxiv`](https://arxiv.org/abs/1606.05328) [`code`](https://github.com/kundan2510/pixelCNN) :star: 
+- DA-RNN: Semantic Mapping with Data Associated Recurrent Neural Networks. [`arXiv`](https://arxiv.org/abs/1703.03098) [`code`](https://github.com/yuxng/DA-RNN)
+- <b>[Use VGG19]</b> Deep Feature Interpolation for Image Content Changes. [`arxiv`](https://arxiv.org/abs/1611.05507) [`tensorflow`](https://github.com/slang03/dfi-tensorflow) :star:
+- DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs. [`arxiv`](https://arxiv.org/abs/1606.00915) :star: 
+- Deep Learning Logo Detection with Data Expansion by Synthesising Context. [`arxiv`](https://arxiv.org/abs/1612.09322)
+- Deep Learning on Lie Groups for Skeleton-based Action Recognition. [`arxiv`](https://arxiv.org/abs/1612.05877)
+- Differential Geometry Boosts Convolutional Neural Networks for Object Detection. [`url`](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/html/Wang_Differential_Geometry_Boosts_CVPR_2016_paper.html)
+- Efficient Action Detection in Untrimmed Videos via Multi-Task Learning. [`arxiv`](https://arxiv.org/abs/1612.07403)
+- ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1606.02147) [`tensorflow`](https://github.com/kwotsin/TensorFlow-ENet)
+- <b>[EnhanceNet]</b> EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis. [`arxiv`](https://arxiv.org/abs/1612.07919) :star: 
+- Factorized Bilinear Models for Image Recognition. [`arxiv`](https://arxiv.org/abs/1611.05709) [`code`](https://github.com/lyttonhao/Factorized-Bilinear-Network)
+- Feature Pyramid Networks for Object Detection. [`arxiv`](https://arxiv.org/abs/1612.03144) [`code`](https://github.com/xmyqsh/FPN)
+- Finding Tiny Faces. [`arxiv`](https://arxiv.org/abs/1612.04402) [`tensorflow`](https://github.com//cydonia999/Tiny_Faces_in_Tensorflow)
+- Fully Convolutional Networks for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1605.06211) :star: 
+- Fully-Convolutional Siamese Networks for Object Tracking. [`arxiv`](https://arxiv.org/abs/1606.09549) [`tensorflow`](https://github.com/torrvision/siamfc-tf)
+- Full Resolution Image Compression with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1608.05148) [`tensorflow`](https://github.com/tensorflow/models/tree/master/compression) :star:
+- Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization. [`arxiv`](https://arxiv.org/abs/1610.02391) [`tensorflow`](https://github.com/Ankush96/grad-cam.tensorflow) :star: 
+- Hardware for Machine Learning: Challenges and Opportunities. [`arxiv`](https://arxiv.org/abs/1612.07625?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)
+- Inception Recurrent Convolutional Neural Network for Object Recognition. [`arxiv`](https://arxiv.org/abs/1704.07709)
+- <b>[Inception-V4]</b> Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning. [`arxiv`](https://arxiv.org/abs/1602.07261) :star: 
+- Internet-Based Image Retrieval Using End-to-End Trained Deep Distributions. [`arxiv`](https://arxiv.org/abs/1612.07697)
+- Learning Non-Lambertian Object Intrinsics across ShapeNet Categories. [`arxiv`](https://arxiv.org/abs/1612.08510)
+- Learning Residual Images for Face Attribute Manipulation. [`arxiv`](https://arxiv.org/abs/1612.05363)
+- Maxmin convolutional neural networks for image classification. [`arxiv`](https://arxiv.org/abs/1610.07882)
+- Movie Description.  [`arxiv`](https://arxiv.org/abs/1605.03705)
+- OctNet: Learning Deep 3D Representations at High Resolutions. [`arxiv`](https://arxiv.org/abs/1611.05009) [`code`](https://github.com/griegler/octnet) 
+- Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1611.05198) [`code`](https://github.com/kmaninis/OSVOS-PyTorch)
+- <b>[PRNN]</b> Pixel Recurrent Neural Networks. [`arxiv`](https://arxiv.org/pdf/1601.06759.pdf) :star: 
+- Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. [`arxiv`](https://arxiv.org/abs/1612.00005)
+- Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1612.07429)
+- PVANet: Lightweight Deep Neural Networks for Real-time Object Detection. [`arxiv`](https://arxiv.org/abs/1611.08588)[`code`](https://github.com/sanghoon/pva-faster-rcnn)
+- Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields. [`arxiv`](https://arxiv.org/abs/1611.08050) [`pytorch`](https://github.com//last-one/Pytorch_Realtime_Multi-Person_Pose_Estimation)
+- Richer Convolutional Features for Edge Detection. [`arxiv`](https://arxiv.org/abs/1612.02103) [`code`](https://github.com/yun-liu/rcf)
+- <b>[R-FCN]</b> [R-FCN: Object Detection via Region-based Fully Convolutional Networks](http://blog.csdn.net/u012361214/article/details/51507590). [`arxiv`](https://arxiv.org/abs/1605.06409) [`code`](https://github.com/Orpine/py-R-FCN) :star: 
+- Robust LSTM-Autoencoders for Face De-Occlusion in the Wild. [`arxiv`](https://arxiv.org/abs/1612.08534)
+- Semantic Video Segmentation by Gated Recurrent Flow Propagation.[`arxiv`](https://arxiv.org/abs/1612.08871)
+- Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis. [`arxiv`](https://arxiv.org/abs/1612.00101) [`torch`](https://github.com/angeladai/cnncomplete) :star:
+- Spatially Adaptive Computation Time for Residual Networks. [`arxiv`](https://arxiv.org/abs/1612.02297) [`tensorflow`](https://github.com/mfigurnov/sact)
+- <b>[SqueezeNet]</b> [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://blog.csdn.net/human_recognition/article/details/51902285) [`arxiv`](https://arxiv.org/abs/1602.07360) [`code`](https://github.com/songhan/SqueezeNet-Deep-Compression) :star: 
+- Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge. [`arxiv`](http://arxiv.org/abs/1609.06647) [`tensorflow`](https://github.com/tensorflow/models/tree/master/im2txt) :star:
+- sk_p- a neural program corrector for MOOCs. [`url`](http://dl.acm.org/citation.cfm?id=2989222)
+- Stacked Hourglass Networks for Human Pose Estimation. [`arxiv`](https://arxiv.org/abs/1603.06937) [`code`](https://github.com/anewell/pose-hg-train) :star:
+- The Predictron: End-To-End Learning and Planning. [`arxiv`](https://arxiv.org/abs/1612.08810) [`tensorflow`](https://github.com/zhongwen/predictron) :star: 
+- Unsupervised Cross-Domain Image Generation. [`arxiv`](https://arxiv.org/abs/1611.02200) [`tensorflow`](https://github.com/yunjey/dtn-tensorflow)
+- Unsupervised Learning for Physical Interaction through Video Prediction. [`arxiv`](https://arxiv.org/abs/1605.07157) [`tensorflow`](https://github.com/tensorflow/models/tree/master/video_prediction) :star:
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles. [`arxiv`](https://arxiv.org/pdf/1603.09246.pdf)
+- Video Pixel Networks.  [`arxiv`](https://arxiv.org/abs/1610.00527)
+- Visual Genome-Connecting Language and Vision Using Crowdsourced Dense Image Annotations. [`arxiv`](https://arxiv.org/abs/1602.07332) :star: 
+- <b>[WaveNet]</b> WaveNet- A Generative Model For Raw Audio. [`arxiv`](https://arxiv.org/abs/1609.03499) :star: 
+- YOLO9000: Better, Faster, Stronger. [`arxiv`](https://arxiv.org/abs/1612.08242) [`keras`](https://github.com/allanzelener/YAD2K) :star:
