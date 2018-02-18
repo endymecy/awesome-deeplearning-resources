@@ -11,6 +11,7 @@
 ### Embeddings
 
 - Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases. [`arxiv`](https://arxiv.org/abs/1801.00388)
+- Deep contextualized word representations. [`arxiv`](https://arxiv.org/abs/1802.05365)
 - Query2Vec: NLP Meets Databases for Generalized Workload Analytics. [`arxiv`](https://arxiv.org/abs/1801.05613)
 - Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings. [`arxiv`](https://arxiv.org/abs/1802.01241)
 
