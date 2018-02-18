@@ -11,7 +11,7 @@ You should find the papers and software with star flag are more important or pop
 
 - [Papers](#papers)
 - [Model Zoo](#model-zoo)
-- [Pretrained Model](#pretrain-model)
+- [Pretrained Model](#pre-trained-model)
 - [Courses](#courses)
 - [Books](#books)
 - [Tutorials](#tutorials)
