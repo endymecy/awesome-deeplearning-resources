@@ -13,6 +13,7 @@
 - Etymo: A New Discovery Engine for AI Research. [`arxiv`](https://arxiv.org/abs/1801.08573)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
 - High Dimensional Bayesian Optimization Using Dropout. [`arxiv`](https://arxiv.org/abs/1802.05400)
+- Hybrid Decision Making: When Interpretable Models Collaborate With Black-Box Models. [`arxiv`](https://arxiv.org/abs/1802.04346) [`code`](https://github.com/wangtongada/CoBRUSH)
 - Hybrid Gradient Boosting Trees and Neural Networks for Forecasting Operating Room Data. [`arxiv`](https://arxiv.org/abs/1801.07384)
 - Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization. [`arxiv`](https://arxiv.org/abs/1802.03063)
 - Learning Networks from Random Walk-Based Node Similarities. [`arxiv`](https://arxiv.org/abs/1801.07386) [`code`](https://github.com/cnmusco/graph-similarity-learning)
