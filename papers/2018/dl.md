@@ -23,6 +23,7 @@
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
 - Probabilistic Recurrent State-Space Models. [`arxiv`](https://arxiv.org/abs/1801.10395) [`code`](https://github.com/andreasdoerr/PR-SSM)
 - Sparsely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.05895)
+- SparseMAP: Differentiable Sparse Structured Inference. [`arxiv`](https://arxiv.org/abs/1802.04223) :star:
 - SpectralNet: Spectral Clustering using Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.01587) [`code`](https://github.com//kstant0725/SpectralNet)
 - Spherical CNNs. [`arxiv`](https://arxiv.org/abs/1801.10130) [`code`](https://github.com/jonas-koehler/s2cnn)
 - Supervised classification of Dermatological diseases by Deep neural networks. [`arxiv`](https://arxiv.org/abs/1802.03752) [`code`](https://www.dropbox.com/sh/pwe3tqrb2zijexq/AADpQ9WKOdSfTdvHkVtT_GHKa?dl=0)
