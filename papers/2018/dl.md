@@ -50,6 +50,7 @@
 - Adversarial Classification on Social Networks. [`arxiv`](https://arxiv.org/abs/1801.08159)
 - Adversarial Spheres. [`arxiv`](https://arxiv.org/abs/1801.02774)
 - AmbientGAN: Generative models from lossy measurements. [`url`](https://openreview.net/forum?id=Hy7fDog0b) [`code`](https://github.com/shinseung428/ambientGAN_TF)
+- cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
 - eCommerceGAN : A Generative Adversarial Network for E-commerce. [`arxiv`](https://arxiv.org/abs/1801.03244)
 - Geometry Score: A Method For Comparing Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.02664) [`code`](https://github.com/geom-score/geometry-score)
 - Generating Handwritten Chinese Characters using CycleGAN. [`arxiv`](https://arxiv.org/abs/1801.08624) [`code`](https://github.com/changebo/HCCG-CycleGAN)
