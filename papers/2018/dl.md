@@ -8,7 +8,8 @@
 - Class label autoencoder for zero-shot learning. [`arxiv`](https://arxiv.org/abs/1801.08301)
 - Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
-- Efficient Neural Architecture Search via Parameter Sharing. [`arxiv`](https://arxiv.org/abs/1802.03268) [`pytorch`](https://github.com/carpedm20/ENAS-pytorch) :star:
+- DroNet: Learning to Fly by Driving. [`pdf`](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf) [`code`](https://github.com/uzh-rpg/rpg_public_dronet)
+- Efficient Neural Architecture Search ia Parameter Sharing. [`arxiv`](https://arxiv.org/abs/1802.03268) [`pytorch`](https://github.com/carpedm20/ENAS-pytorch) :star:
 - E-swish: Adjusting Activations to Different Network Depths. [`arxiv`](https://arxiv.org/abs/1801.07145)
 - Etymo: A New Discovery Engine for AI Research. [`arxiv`](https://arxiv.org/abs/1801.08573)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
