@@ -29,6 +29,7 @@
 - Deep learning for predicting refractive error from retinal fundus images. [`arxiv`](https://arxiv.org/abs/1712.07798)
 - Deep Learning for Tumor Classification in Imaging Mass Spectrometry. [`arxiv`](https://arxiv.org/abs/1705.01015)
 - Deep Hybrid Similarity Learning for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1702.04858)
+- Deep Photo Style Transfer. [`arxiv`](https://arxiv.org/abs/1703.07511) [`code`](https://github.com/luanfujun/deep-photo-styletransfer) :star:
 - DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild. [`arxiv`](https://arxiv.org/abs/1612.01202) [`code`](https://github.com/ralpguler/DenseReg)
 - Detecting Curve Text in the Wild: New Dataset and New Solution. [`arxiv`](https://arxiv.org/abs/1712.02170) [`code`](https://github.com/Yuliang-Liu/Curve-Text-Detector)
 - Detecting Oriented Text in Natural Images by Linking Segments. [`arxiv`](https://arxiv.org/abs/1703.06520) [`tensorflow`](https://github.com/dengdan/seglink) :star:
