@@ -23,6 +23,7 @@
     - [Convolutional recurrent network in pytorch](https://github.com/meijieru/crnn.pytorch)
     - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/endymecy/vision) :star:
     - [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender)
+    - [Deep recommender models using PyTorch.](https://github.com/maciejkula/spotlight) :star:
     - [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
     - [Deep Q-Learning Network in pytorch](https://github.com/transedward/pytorch-dqn)
     - [Draw like Bob Ross using the power of Neural Networks](https://github.com/kendricktan/drawlikebobross)
