@@ -102,6 +102,7 @@
     - [DeepColor: Automatic coloring and shading of manga-style lineart](https://github.com/kvfrans/deepcolor)
     - [Deep Learning based Python Library for Stock Market Prediction and Modelling](https://github.com/achillesrasquinha/bulbea)
     - [Deep LSTM siamese network for text similarity](https://github.com/dhwajraj/deep-siamese-text-similarity)
+    - [Deep neural networks for voice conversion (voice style transfer) in Tensorflow](https://github.com/andabi/deep-voice-conversion)
     - [Deepnlp:Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - [Dynamic Memory Network implementation in TensorFlow](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow)
     - [EAST : An Efficient and Accurate Scene Text Detector](https://github.com/argman/EAST) :star:
