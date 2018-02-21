@@ -132,6 +132,7 @@
     - [Interactive, node-by-node debugging and visualization for TensorFlow](https://github.com/ericjang/tdb) :star:
     - [LSTM Language Model with Subword Units Input Representations](https://github.com/claravania/subword-lstm-lm)
     - [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://github.com/jostmey/rwa)
+    - [Matrix factorization using TensorFlow](https://github.com/katbailey/factorizer)
     - [Metasploit for machine learning.](https://github.com/cchio/deep-pwning)
     - [Multilabel time series classification with LSTM](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
     - [Named Entity Recognition using multilayered bidirectional LSTM](https://github.com/monikkinom/ner-lstm)
