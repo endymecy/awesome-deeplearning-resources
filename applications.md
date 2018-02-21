@@ -10,6 +10,7 @@
     - [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) :star:
     - [An implementation of Skip-Thought Vectors in PyTorch](https://github.com/sanyam5/skip-thoughts)
     - [Anuvada: Interpretable Models for NLP using PyTorch](https://github.com/Sandeep42/anuvada)
+    - [An open-source NLP research library, built on PyTorch](https://github.com/allenai/allennlp)
     - [A PyTorch Implementation for Triplet Networks](https://github.com/andreasveit/triplet-network-pytorch)
     - [A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
     - [A PyTorch Implementation of Single Shot MultiBox Detector.](https://github.com/amdegroot/ssd.pytorch)
