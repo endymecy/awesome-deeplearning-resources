@@ -44,6 +44,7 @@
 - Learned in Translation: Contextualized Word Vectors. [`arxiv`](https://arxiv.org/abs/1708.00107) [`code`](https://github.com/salesforce/cove)
 - Letter-Based Speech Recognition with Gated ConvNets. [`arxiv`](https://arxiv.org/abs/1712.09444) [`code`](https://github.com//facebookresearch/wav2letter) :star:
 - Generating Sentences by Editing Prototypes. [`arxiv`](https://arxiv.org/abs/1709.08878)
+- Get To The Point: Summarization with Pointer-Generator Networks. [`arxiv`](https://arxiv.org/abs/1704.04368) [`code`](https://github.com/becxer/pointer-generator)
 - [Globally Normalized Reader.](http://research.baidu.com/gnr/) [`pdf`](https://www.aclweb.org/anthology/D17-1112) [`tensorflow`](https://github.com/baidu-research/GloballyNormalizedReader) :star:
 - Global Relation Embedding for Relation Extraction. [`arxiv`](https://arxiv.org/abs/1704.05958) [`code`](https://github.com/ppuliu/GloRE)
 - Graph Convolutional Networks for Named Entity Recognition. [`arxiv`](https://arxiv.org/abs/1709.10053) [`code`](https://github.com/ContextScout/gcn_ner)
