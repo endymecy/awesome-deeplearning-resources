@@ -92,7 +92,7 @@
     - [A Tensorflow implementation of CNN-LSTM image caption generator architecture](https://github.com/mosessoh/CNN-LSTM-Caption-Generator)
     - [A TensorFlow Implementation of DC-TTS: yet another text-to-speech model](https://github.com/Kyubyong/dc_tts)
     - [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow) :star:
-    - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech)
+    - [A TensorFlow implementation of Baidu's DeepSpeech architecture](https://github.com/mozilla/DeepSpeech) :star:
     - [A tiny implementation of Deep Q Learning, using TensorFlow and OpenAI gym](https://github.com/ageron/tiny-dqn)
     - [Char-RNN implemented using TensorFlow.](https://github.com/crazydonkey200/tensorflow-char-rnn)
     - [Chinese Handwriting Recognition with CNNs](https://github.com/atgambardella/handwriting)
