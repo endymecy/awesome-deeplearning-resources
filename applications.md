@@ -155,6 +155,7 @@
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
     - [Somiao Pinyin: Train your own Chinese Input Method with Seq2seq Model](https://github.com/crownpku/Somiao-Pinyin)
     - [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
+    - [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow](https://github.com/buriburisuri/speech-to-text-wavenet)
     - [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
     - [SSD: Single Shot MultiBox Detector in TensorFlow](https://github.com/balancap/SSD-Tensorflow) :star:
     - [Teach machine to write all we want](https://github.com/zzw922cn/Neural_Writing_Machine) :star:
