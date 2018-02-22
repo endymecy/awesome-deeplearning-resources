@@ -31,6 +31,7 @@
     - [Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/facebookresearch/fairseq-py)
     - [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle)
     - [Faster RCNN with PyTorch](https://github.com/longcw/faster_rcnn_pytorch)
+    - [Fine-tune pretrained Convolutional Neural Networks with PyTorch](https://github.com/creafz/pytorch-cnn-finetune)
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
     - [Image Classification Project Killer in PyTorch](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) :star:
