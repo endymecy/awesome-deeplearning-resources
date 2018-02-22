@@ -1,6 +1,7 @@
 # computer vision
 
 - 3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies. [`arxiv`](https://arxiv.org/abs/1801.05968)
+- A Closed-form Solution to Photorealistic Image Stylization. [`arxiv`](https://arxiv.org/abs/1802.06474) [`code`](https://github.com/NVIDIA/FastPhotoStyle) :star:
 - Additive Margin Softmax for Face Verification. [`arxiv`](https://arxiv.org/abs/1801.05599) [`code`](https://github.com/happynear/AMSoftmax) :star:
 - Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis. [`arxiv`](https://arxiv.org/abs/1802.00752) [`code`](https://github.com/alexander-rakhlin/ICIAR2018)
 - Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
@@ -10,7 +11,7 @@
 - Enhancing Underwater Imagery using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1801.04011) [`code`](https://github.com//cameronfabbri/Underwater-Color-Correction)
 - Fooling OCR Systems with Adversarial Text Images. [`arxiv`](https://arxiv.org/abs/1802.05385)
 - From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval. [`arxiv`](https://arxiv.org/abs/1802.02899) [`code`](https://github.com/hnanhtuan/selectiveConvFeature)
-- Image Transformer. [`arxiv`](https://arxiv.org/abs/1802.05751)
+- Image Transformer. [`arxiv`](https://arxiv.org/abs/1802.05751) :star:
 - Low-Shot Learning from Imaginary Data. [`arxiv`](https://arxiv.org/abs/1801.05401)
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
 - RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
