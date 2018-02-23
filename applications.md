@@ -209,6 +209,7 @@
     - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings) 
     - [Keras implementation of Deep Clustering](https://github.com/jcsilva/deep-clustering)
     - [Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/yhenon/keras-frcnn)
+    - [Keras implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/Keras-GAN)
     - [Keras package for region-based convolutional neural networks](https://github.com/broadinstitute/keras-rcnn)
     - [Python toolbox to create adversarial examples that fool neural networks](https://github.com/bethgelab/foolbox)
     - [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
