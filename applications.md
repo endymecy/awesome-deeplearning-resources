@@ -151,6 +151,7 @@
     - [RL course experiments](https://github.com/Scitator/rl-course-experiments)
     - [Raccoon Detector Dataset](https://github.com/datitran/raccoon-dataset)
     - [Self-Driving Car Engineer Nanodegree](https://github.com/upul/Behavioral-Cloning)
+    - [Semantic Segmentation Suite in TensorFlow](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)
     - [Sentiment Analysis with LSTMs in Tensorflow](https://github.com/adeshpande3/LSTM-Sentiment-Analysis)
     - [Separating singing voice from music based on deep neural net in Tensorflow](https://github.com/andabi/music-source-separation)
     - [Seq2Seq Chatbot](https://github.com/zsdonghao/seq2seq-chatbot)
