@@ -31,6 +31,7 @@
 - The Matrix Calculus You Need For Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.01528)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
+- Tree-CNN: A Deep Convolutional Neural Network for Lifelong Learning. [`arxiv`](https://arxiv.org/abs/1802.05800)
 - Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring. [`arxiv`](https://arxiv.org/abs/1802.04633)
 - TVM: End-to-End Optimization Stack for Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.04799)
 - UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. [`arxiv`](https://arxiv.org/abs/1802.03426) [`code`](https://github.com/lmcinnes/umap)
