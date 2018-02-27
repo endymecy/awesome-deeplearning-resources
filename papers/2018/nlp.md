@@ -42,6 +42,7 @@
 
 ### Speech Recognition
 
+- Do WaveNets Dream of Acoustic Waves? [`arxiv`](https://arxiv.org/abs/1802.08370)
 - Speech Emotion Recognition with Data Augmentation and Layer-wise Learning Rate Adjustment. [`arxiv`](https://arxiv.org/abs/1802.05630)
 
 ### Text Classification
