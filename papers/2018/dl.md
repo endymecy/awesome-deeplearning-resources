@@ -19,6 +19,7 @@
 - Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization. [`arxiv`](https://arxiv.org/abs/1802.03063)
 - Learning Networks from Random Walk-Based Node Similarities. [`arxiv`](https://arxiv.org/abs/1801.07386) [`code`](https://github.com/cnmusco/graph-similarity-learning)
 - Learning to Learn Without Labels. [`pdf`](https://openreview.net/forum?id=ByoT9Fkvz) :star:
+- Learning to Make Predictions on Graphs with Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.08352) [`code`](https://github.com/vuptran/graph-representation-learning)
 - Links: A High-Dimensional Online Clustering Method. [`arxiv`](https://arxiv.org/abs/1801.10123) :star:
 - Modeling Dynamics with Deep Transition-Learning Networks. [`arxiv`](https://arxiv.org/abs/1802.03497)
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
