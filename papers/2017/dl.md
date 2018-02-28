@@ -373,7 +373,7 @@
 - On the Effects of Batch and Weight Normalization in Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1704.03971) [`code`](https://github.com/stormraiser/GAN-weight-norm)
 - Parseval Networks: Improving Robustness to Adversarial Examples. [`arxiv`](https://arxiv.org/abs/1704.08847)
 - PixelSNAIL: An Improved Autoregressive Generative Model. [`arxiv`](https://arxiv.org/abs/1712.09763) [`tensorflow`](https://github.com//neocxi/pixelsnail-public)
-- Progressive Growing of GANs for Improved Quality, Stability, and Variation. [`arxiv`](https://arxiv.org/abs/1710.10196) [`pytorch`](https://github.com//nashory/pggan-pytorch)
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation. [`arxiv`](https://arxiv.org/abs/1710.10196) [`pytorch`](https://github.com//nashory/pggan-pytorch) :star:
 - Recent Advances in Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.01078)
 - Reconstruction of three-dimensional porous media using generative adversarial neural networks. [`arxiv`](https://arxiv.org/abs/1704.03225) [`code`](https://github.com/LukasMosser/PorousMediaGan)
 - Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis. [`arxiv`](https://arxiv.org/abs/1710.06564) [`keras`](https://github.com/mmalekzadeh/replacement-autoencoder)
