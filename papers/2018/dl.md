@@ -39,6 +39,7 @@
 - UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. [`arxiv`](https://arxiv.org/abs/1802.03426) [`code`](https://github.com/lmcinnes/umap)
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift. [`arxiv`](https://arxiv.org/abs/1801.05134)
 - Universal Deep Neural Network Compression. [`arxiv`](https://arxiv.org/abs/1802.02271)
+- URLNet: Learning a URL Representation with Deep Learning for Malicious URL Detection. [`arxiv`](https://arxiv.org/abs/1802.03162) [`code`](https://github.com/Antimalweb/URLNet)
 
 
 ## Attention
