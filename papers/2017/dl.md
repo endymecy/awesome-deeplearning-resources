@@ -302,6 +302,7 @@
 - Age Progression/Regression by Conditional Adversarial Autoencoder.  [`arxiv`](https://arxiv.org/abs/1702.08423) [`tensorflow`](https://github.com/ZZUTK/Face-Aging-CAAE)
 - A-NICE-MC: Adversarial Training for MCMC. [`arxiv`](https://arxiv.org/abs/1706.07561) [`tensorflow`](https://github.com/ermongroup/a-nice-mc)
 - An Online Learning Approach to Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1706.03269)
+- Are GANs Created Equal? A Large-Scale Study. [`arxiv`](https://arxiv.org/abs/1711.10337)
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs.[`arxiv`](https://arxiv.org/abs/1702.03410)
 - [Adversarial Attacks on Neural Network Policies.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993385&idx=2&sn=b381743378a7cfb04abc807f4a5b2f40)  [`pdf`](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf) :star:
 - Adversarial Discriminative Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1702.05464) [`pytorch`](https://github.com//corenel/pytorch-adda)
