@@ -208,6 +208,7 @@
     - [Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre) :star:
     - [Keras code and weights files for popular deep learning models.](https://github.com/fchollet/deep-learning-models)
     - [keras-emoji-embeddings](https://github.com/bradleypallen/keras-emoji-embeddings) 
+    - [Keras implementation of a CNN network for age and gender estimation](https://github.com/yu4u/age-gender-estimation)
     - [Keras implementation of Deep Clustering](https://github.com/jcsilva/deep-clustering)
     - [Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/yhenon/keras-frcnn)
     - [Keras implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/Keras-GAN)
