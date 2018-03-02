@@ -55,6 +55,7 @@
 - [Curated list of python software and packages related to scientific research in audio](https://github.com/faroit/awesome-python-scientific-audio)
 - [Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
 - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision/)
+- [Deep Learning and applications in Startups, CV, Text Mining, NLP](https://github.com/lipiji/App-DL)
 - [Deep Learning and Time Series](https://github.com//FrancisArgnR/Time-series---deep-learning---state-of-the-art)
 - [Deep Learning for Recommendation Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
