@@ -99,3 +99,4 @@
 - [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
 - [图像文本位置感知与识别的论文资源汇总](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)
 - [深度学习进行目标识别的资源列表](http://www.thinkface.cn/thread-4434-1-1.html)
+- [文本摘要资源列表](https://github.com/mathsyouth/awesome-text-summarization)
