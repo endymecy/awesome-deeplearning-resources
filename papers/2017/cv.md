@@ -124,6 +124,7 @@
 - Video Frame Synthesis using Deep Voxel Flow. [`arxiv`](https://arxiv.org/abs/1702.02463) [`code`](https://github.com/liuziwei7/voxel-flow)
 - ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection. [`arxiv`](https://arxiv.org/abs/1702.07191)
 - Visualizing LSTM decisions. [`arxiv`](https://arxiv.org/abs/1705.08153)
+- Visual Attribute Transfer through Deep Image Analogy. [`arxiv`](https://arxiv.org/abs/1705.01088) [`pytorch`](https://github.com/Ben-Louis/Deep-Image-Analogy-PyTorch)
 - Visual Discovery at Pinterest. [`arxiv`](https://arxiv.org/abs/1702.04680)
 - [Visualizing Residual Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650722569&idx=4&sn=28edc09238076e924c94ac1094ddfa53) [`arxiv`](https://arxiv.org/abs/1701.02362) :star:
 - VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection. [`arxiv`](https://arxiv.org/abs/1711.06396)
