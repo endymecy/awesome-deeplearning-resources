@@ -82,6 +82,7 @@
 - Diabetic Retinopathy Detection via Deep Convolutional Networks for Discriminative Localization and Visual Explanation. [`arxiv`](https://arxiv.org/abs/1703.10757) [`code`](https://github.com/cauchyturing/kaggle_diabetic_RAM)
 - Diagonal RNNs in Symbolic Music Modeling. [`arxiv`](https://arxiv.org/abs/1704.05420) [`tensorflow`](https://github.com/ycemsubakan/diagonal_rnns)
 - Different approaches to community detection. [`arxiv`](https://arxiv.org/abs/1712.06468)
+- Dilated Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1710.02224) [`pytorch`](https://github.com/zalandoresearch/pt-dilate-rnn)
 - Dilated Residual Networks. [`arxiv`](https://arxiv.org/abs/1705.09914) :star:
 - Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients. [`arxiv`](https://arxiv.org/abs/1705.07774) [`tensorflow`](https://github.com/lballes/msvag)
 - Distilling a Neural Network Into a Soft Decision Tree. [`arxiv`](https://arxiv.org/abs/1711.09784) [`pytorch`](https://github.com//kimhc6028/soft-decision-tree)
