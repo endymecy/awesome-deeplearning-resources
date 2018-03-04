@@ -12,6 +12,7 @@
 - Efficient Neural Architecture Search ia Parameter Sharing. [`arxiv`](https://arxiv.org/abs/1802.03268) [`pytorch`](https://github.com/carpedm20/ENAS-pytorch) :star:
 - E-swish: Adjusting Activations to Different Network Depths. [`arxiv`](https://arxiv.org/abs/1801.07145)
 - Etymo: A New Discovery Engine for AI Research. [`arxiv`](https://arxiv.org/abs/1801.08573)
+- Extremely Fast Decision Tree. [`arxiv`](https://arxiv.org/abs/1802.08780) [`pytorch`](https://github.com/chaitanya-m/kdd2018)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
 - High Dimensional Bayesian Optimization Using Dropout. [`arxiv`](https://arxiv.org/abs/1802.05400)
 - Hybrid Decision Making: When Interpretable Models Collaborate With Black-Box Models. [`arxiv`](https://arxiv.org/abs/1802.04346) [`code`](https://github.com/wangtongada/CoBRUSH)
