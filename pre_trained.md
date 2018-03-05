@@ -23,4 +23,5 @@
 * [The pretrained models trained on Moments in Time Dataset](https://github.com/metalbubble/moments_models)
 * [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models)
 * [VGGNets for Scene Recognition](https://github.com/wanglimin/Places205-VGGNet)
+* [Wolfram Neural Net Repository of Neural Network Models](http://resources.wolframcloud.com/NeuralNetRepository)
 * [ZF_UNET_224 Pretrained Model](https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model)
