@@ -21,3 +21,4 @@
 * [Python Data Science Handbook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 * [Mathematical Foundations](https://mathematical-tours.github.io/book/)
 * [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action)
+* [The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://www.eff.org/files/2018/02/20/malicious_ai_report_final.pdf)
