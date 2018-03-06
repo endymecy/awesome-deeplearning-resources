@@ -12,6 +12,7 @@
 - Enhancing Underwater Imagery using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1801.04011) [`code`](https://github.com//cameronfabbri/Underwater-Color-Correction)
 - Fooling OCR Systems with Adversarial Text Images. [`arxiv`](https://arxiv.org/abs/1802.05385)
 - From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval. [`arxiv`](https://arxiv.org/abs/1802.02899) [`code`](https://github.com/hnanhtuan/selectiveConvFeature)
+- Harmonious Attention Network for Person Re-Identification. [`arxiv`](https://arxiv.org/abs/1802.08122)
 - Image Transformer. [`arxiv`](https://arxiv.org/abs/1802.05751) :star:
 - Low-Shot Learning from Imaginary Data. [`arxiv`](https://arxiv.org/abs/1801.05401)
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
