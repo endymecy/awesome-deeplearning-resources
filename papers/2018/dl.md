@@ -46,6 +46,7 @@
 
 ## Attention
 
+- Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning. [`url`](https://www.biorxiv.org/content/early/2018/03/03/275867)
 - Inference, Learning and Attention Mechanisms that Exploit and Preserve Sparsity in Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.10585) [`code`](https://github.com/TimoHackel/ILA-SCNN)
 - MAttNet: Modular Attention Network for Referring Expression Comprehension. [`arxiv`](https://arxiv.org/abs/1801.08186)
 - Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling. [`arxiv`](https://arxiv.org/abs/1801.10296)
