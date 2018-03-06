@@ -1,4 +1,4 @@
-# computer vision
+# Computer Vision
 
 - 3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies. [`arxiv`](https://arxiv.org/abs/1801.05968)
 - A Closed-form Solution to Photorealistic Image Stylization. [`arxiv`](https://arxiv.org/abs/1802.06474) [`code`](https://github.com/NVIDIA/FastPhotoStyle) :star:
@@ -20,4 +20,5 @@
 - Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
 - Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
+- Video Person Re-identification by Temporal Residual Learning. [`arxiv`](https://arxiv.org/abs/1802.07918)
 
