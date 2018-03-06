@@ -18,6 +18,7 @@
 - Hybrid Decision Making: When Interpretable Models Collaborate With Black-Box Models. [`arxiv`](https://arxiv.org/abs/1802.04346) [`code`](https://github.com/wangtongada/CoBRUSH)
 - Hybrid Gradient Boosting Trees and Neural Networks for Forecasting Operating Room Data. [`arxiv`](https://arxiv.org/abs/1801.07384)
 - Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization. [`arxiv`](https://arxiv.org/abs/1802.03063)
+- Learning Longer-term Dependencies in RNNs with Auxiliary Losses. [`arxiv`](https://arxiv.org/abs/1803.00144)
 - Learning Networks from Random Walk-Based Node Similarities. [`arxiv`](https://arxiv.org/abs/1801.07386) [`code`](https://github.com/cnmusco/graph-similarity-learning)
 - Learning to Learn Without Labels. [`pdf`](https://openreview.net/forum?id=ByoT9Fkvz) :star:
 - Learning to Make Predictions on Graphs with Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.08352) [`code`](https://github.com/vuptran/graph-representation-learning)
@@ -60,6 +61,7 @@
 - Adversarial Classification on Social Networks. [`arxiv`](https://arxiv.org/abs/1801.08159)
 - Adversarial Spheres. [`arxiv`](https://arxiv.org/abs/1801.02774)
 - AmbientGAN: Generative models from lossy measurements. [`url`](https://openreview.net/forum?id=Hy7fDog0b) [`code`](https://github.com/shinseung428/ambientGAN_TF)
+- Autoencoding topology. [`arxiv`](https://arxiv.org/abs/1803.00156)
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
 - eCommerceGAN : A Generative Adversarial Network for E-commerce. [`arxiv`](https://arxiv.org/abs/1801.03244)
 - Geometry Score: A Method For Comparing Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.02664) [`code`](https://github.com/geom-score/geometry-score)
@@ -77,3 +79,8 @@
 ## Transfer Learning
 
 - 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network. [`arxiv`](https://arxiv.org/abs/1802.05656)
+
+
+## Meta Learning
+
+- Meta-Learning for Semi-Supervised Few-Shot Classification. [`arxiv`](https://arxiv.org/abs/1803.00676) [`code`](https://github.com/renmengye/few-shot-ssl-public)
