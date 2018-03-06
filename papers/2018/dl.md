@@ -53,6 +53,7 @@
 
 ## Optimization
 
+- Computational Optimal Transport. [`arxiv`](https://arxiv.org/abs/1803.00567)
 - L4: Practical loss-based stepsize adaptation for deep learning. [`arxiv`](https://arxiv.org/abs/1802.05074) [`code`](https://github.com/martius-lab/l4-optimizer)
 - Sequential Preference-Based Optimization. [`arxiv`](https://arxiv.org/abs/1801.02788) [`code`](https://github.com/prefopt/prefopt)
 
