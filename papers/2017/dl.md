@@ -94,7 +94,7 @@
 - Dropout Feature Ranking for Deep Learning Models. [`arxiv`](https://arxiv.org/abs/1712.08645)
 - DSOD: Learning Deeply Supervised Object Detectors from Scratch. [`arxiv`](https://arxiv.org/abs/1708.01241) [`caffe`](https://github.com/szq0214/DSOD)
 - Dual Path Networks. [`arxiv`](https://arxiv.org/abs/1707.01629) [`pytorch`](https://github.com/oyam/pytorch-DPNs) :star:
-- Dynamic Routing Between Capsules. [`code`](https://arxiv.org/abs/1710.09829) :star:
+- Dynamic Routing Between Capsules. [`code`](https://arxiv.org/abs/1710.09829) [`pytorch`](https://github.com/danielhavir/capsule-network) :star:
 - <b>[DyNet]</b> The Dynamic Neural Network Toolkit. [`arxiv`](https://arxiv.org/abs/1701.03980) [`code`](https://github.com/clab/dynet) :star: 
 - EC3: Combining Clustering and Classification for Ensemble Learning. [`arxiv`](https://arxiv.org/abs/1708.08591)
 - Efficient Algorithms for t-distributed Stochastic Neighborhood Embedding. [`arxiv`](https://arxiv.org/abs/1712.09005)
