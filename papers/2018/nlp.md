@@ -34,6 +34,10 @@
 - EARL: Joint Entity and Relation Linking for Question Answering over Knowledge Graphs. [`arxiv`](https://arxiv.org/abs/1801.03825) [`code`](https://github.com//AskNowQA/EARL)
 - Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning. [`arxiv`](https://arxiv.org/abs/1801.08459) [`code`](https://github.com/juung/RMN)
 
+### NMT
+
+- Self-Attention with Relative Position Representations. [`arxiv`](https://arxiv.org/abs/1803.02155)
+
 ### Recommender Systems
 
 - DKN: Deep Knowledge-Aware Network for News Recommendation. [`arxiv`](https://arxiv.org/abs/1801.08284)
