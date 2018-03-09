@@ -78,6 +78,7 @@
     - [Deep Neural Network for Sentiment Analysis on Twitter](https://github.com/xiaohan2012/twitter-sent-dnn)
     - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
 - tensorflow
+    - [A chatbot implemented in TensorFlow based on the seq2seq model, with certain rules integrated.](https://github.com/bshao001/ChatLearner) :star:
     - [A framework for developing and evaluating reinforcement learning algorithms](https://github.com/shaneshixiang/rllabplusplus)
     - [A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.](https://github.com/google/seq2seq)
     - [A generic image detection program that uses tensorflow and a pre-trained Inception.](https://github.com/ArunMichaelDsouza/tensorflow-image-detection)
