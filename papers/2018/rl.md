@@ -1,5 +1,6 @@
 # Deep Reinforcement Learning
 
+- Accelerated Methods for Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02811)
 - A Deep Reinforcement Learning Chatbot (Short Version). [`arxiv`](https://arxiv.org/abs/1801.06700)
 - Cooperative Multi-Agent Reinforcement Learning for Low-Level Wireless Communication. [`arxiv`](https://arxiv.org/abs/1801.04541)
 - Deep Reinforcement Fuzzing. [`arxiv`](https://arxiv.org/abs/1801.04589)
