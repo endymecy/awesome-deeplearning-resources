@@ -1,6 +1,7 @@
 ## Nature language process
 
 - 500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining StackOverflow). [`arxiv`](https://arxiv.org/abs/1802.05319)
+- Annotation Artifacts in Natural Language Inference Data. [`arxiv`](https://arxiv.org/abs/1803.02324) :star:
 - Calculating the similarity between words and sentences using a lexical database and corpus statistics. [`arxiv`](https://arxiv.org/abs/1802.05667)
 - Extracting Action Sequences from Texts Based on Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02632)
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:

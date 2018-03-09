@@ -194,6 +194,7 @@
 - Privileged Multi-label Learning. [`arxiv`](https://arxiv.org/abs/1701.07194)
 - Prochlo: Strong Privacy for Analytics in the Crowd. [`arxiv`](https://arxiv.org/abs/1710.00901)
 - Progressive Neural Architecture Search. [`arxiv`](https://arxiv.org/abs/1712.00559)
+- PRUNE: Preserving Proximity and Global Ranking for Network Embedding. [`url`](https://papers.nips.cc/paper/7110-prune-preserving-proximity-and-global-ranking-for-network-embedding) [`code`](https://github.com/ntumslab/PRUNE)
 - QCD-Aware Recursive Neural Networks for Jet Physics. [`arxiv`](https://arxiv.org/abs/1702.00748) [`code`](https://github.com/glouppe/recnn)
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
 - Recurrent Additive Networks. [`arxiv`](https://arxiv.org/abs/1705.07393) [`pytorch`](https://github.com/bheinzerling/ran) :star:
