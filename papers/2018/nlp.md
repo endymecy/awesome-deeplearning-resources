@@ -2,6 +2,7 @@
 
 - 500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining StackOverflow). [`arxiv`](https://arxiv.org/abs/1802.05319)
 - Calculating the similarity between words and sentences using a lexical database and corpus statistics. [`arxiv`](https://arxiv.org/abs/1802.05667)
+- Extracting Action Sequences from Texts Based on Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02632)
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:
 - Neural Relational Inference for Interacting Systems. [`arxiv`](https://arxiv.org/abs/1802.04687) [`code`](https://github.com/ethanfetaya/nri)
 - Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
