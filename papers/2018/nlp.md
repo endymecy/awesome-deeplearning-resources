@@ -5,6 +5,7 @@
 - Calculating the similarity between words and sentences using a lexical database and corpus statistics. [`arxiv`](https://arxiv.org/abs/1802.05667)
 - Extracting Action Sequences from Texts Based on Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02632)
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:
+- How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks. [`arxiv`](https://arxiv.org/abs/1803.02994)
 - Neural Relational Inference for Interacting Systems. [`arxiv`](https://arxiv.org/abs/1802.04687) [`code`](https://github.com/ethanfetaya/nri)
 - Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
 
@@ -43,6 +44,7 @@
 
 ### Recommender Systems
 
+- Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba. [`arxiv`](https://arxiv.org/abs/1803.02349)
 - DKN: Deep Knowledge-Aware Network for News Recommendation. [`arxiv`](https://arxiv.org/abs/1801.08284)
 - Learning Tree-based Deep Model for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.02294)
 - Offline A/B testing for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.07030)

@@ -47,6 +47,7 @@
 - Tackling Error Propagation through Reinforcement Learning: A Case of Greedy Dependency Parsing. [`arxiv`](https://arxiv.org/abs/1702.06794) [`code`](https://bitbucket.org/cltl/redep-java)
 - Task-Oriented Query Reformulation with Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1704.04572) [`code`](https://github.com/nyu-dl/QueryReformulator)
 - Teaching a Machine to Read Maps with Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1711.07479) [`code`](https://github.com//OliverRichter/map-reader)
+- TreeQN and ATreeC: Differentiable Tree-Structured Models for Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1710.11417) [`code`](https://github.com/oxwhirl/treeqn/)
 - Value Prediction Network. [`arxiv`](https://arxiv.org/abs/1707.03497)
 - Variational Deep Q Network. [`arxiv`](https://arxiv.org/abs/1711.11225)
 - Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation.[`arxiv`](https://arxiv.org/abs/1703.00420)
