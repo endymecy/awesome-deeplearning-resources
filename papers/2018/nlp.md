@@ -15,6 +15,7 @@
 
 ### Embeddings
 
+- An efficient framework for learning sentence representations. [`arxiv`](https://arxiv.org/abs/1803.02893)
 - Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases. [`arxiv`](https://arxiv.org/abs/1801.00388)
 - Deep contextualized word representations. [`arxiv`](https://arxiv.org/abs/1802.05365)
 - Evaluating Compositionality in Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1802.04302) [`code`](https://github.com/ishita-dg/ScrambleTests)
