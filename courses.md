@@ -4,6 +4,7 @@
 * [Berkeley] [Stat212b：Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
 * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 * [CMU] [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
+* [CMU] [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 * [CMU] [Neural networks for NLP](http://phontron.com/class/nn4nlp2018/)
 * [COMS] [W4995 Applied Machine Learning Spring 2018](http://www.cs.columbia.edu/~amueller/comsw4995s18/)
 * [David Silver] [RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
