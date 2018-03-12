@@ -9,7 +9,7 @@
 - [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
 - [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning)
 - [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
-- [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
+- [A curated list of resources for Chinese NLP](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
 - [A list of artificial intelligence tools you can use today](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 - [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
 - [A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)](https://github.com/arthchan2003/AIDL_KB)
