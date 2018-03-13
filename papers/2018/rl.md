@@ -10,6 +10,7 @@
 - Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes. [`arxiv`](https://arxiv.org/abs/1801.02852) [`code`](https://github.com//anonymous-author1/DDRL)
 - Diversity is All You Need: Learning Skills without a Reward Function. [`arxiv`](https://arxiv.org/abs/1802.06070)
 - Faster Deep Q-learning using Neural Episodic Control. [`arxiv`](https://arxiv.org/abs/1801.01968)
+- Feudal Reinforcement Learning for Dialogue Management in Large Domains. [`arxiv`](https://arxiv.org/abs/1803.03232)
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures. [`arxiv`](https://arxiv.org/abs/1802.01561)
 - Pretraining Deep Actor-Critic Reinforcement Learning Algorithms With Expert Demonstrations. [`arxiv`](https://arxiv.org/abs/1801.10459)
 - Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents. [`arxiv`](https://arxiv.org/abs/1801.08116)

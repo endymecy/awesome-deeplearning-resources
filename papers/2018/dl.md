@@ -23,8 +23,10 @@
 - Learning to Learn Without Labels. [`pdf`](https://openreview.net/forum?id=ByoT9Fkvz) :star:
 - Learning to Make Predictions on Graphs with Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.08352) [`code`](https://github.com/vuptran/graph-representation-learning)
 - Links: A High-Dimensional Online Clustering Method. [`arxiv`](https://arxiv.org/abs/1801.10123) :star:
+- LSTM stack-based Neural Multi-sequence Alignment TeCHnique. [`arxiv`](https://arxiv.org/abs/1803.00057)
 - Modeling Dynamics with Deep Transition-Learning Networks. [`arxiv`](https://arxiv.org/abs/1802.03497)
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
+- Not All Samples Are Created Equal: Deep Learning with Importance Sampling. [`arxiv`](https://arxiv.org/abs/1803.00942)
 - On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo. [`arxiv`](https://arxiv.org/abs/1802.05431)
 - Probabilistic Recurrent State-Space Models. [`arxiv`](https://arxiv.org/abs/1801.10395) [`code`](https://github.com/andreasdoerr/PR-SSM)
 - Sparsely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.05895)
