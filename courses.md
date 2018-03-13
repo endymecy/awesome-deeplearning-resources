@@ -12,6 +12,7 @@
 * [Google] [Udacity Deep Learning Online Course](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
 * [Hinton] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 * [Hvass Laboratories] [TensorFlow](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+* [INTEL] [Deep Learning 501](https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501)
 * [Jeremy Howard] [Deep Learning For Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM)
 * [MIT] [Practical Deep LeTensorFlowarning For Coders](http://course.fast.ai/index.html)
 * [MIT] [S099: Artificial General Intelligence](https://agi.mit.edu/)
