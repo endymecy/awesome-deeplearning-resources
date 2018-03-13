@@ -80,6 +80,7 @@
 - Generative Adversarial Networks using Adaptive Convolution. [`arxiv`](https://arxiv.org/abs/1802.02226)
 - Inverting The Generator Of A Generative Adversarial Network (II). [`arxiv`](https://arxiv.org/abs/1802.05701) [`code`](https://github.com/ToniCreswell/InvertingGAN)
 - Learning Inverse Mappings with Adversarial Criterion. [`arxiv`](https://arxiv.org/abs/1802.04504) [`code`](https://github.com/zhangjiyi/FAAE)
+- On Generation of Adversarial Examples using Convex Programming. [`arxiv`](https://arxiv.org/abs/1803.03607) [`code`](https://github.com/ebalda/adversarialconvex)
 - On the Latent Space of Wasserstein Auto-Encoders. [`arxiv`](https://arxiv.org/abs/1802.03761)
 - Recurrent Neural Network-Based Semantic Variational Autoencoder for Sequence-to-Sequence Learning. [`arxiv`](https://arxiv.org/abs/1802.03238)
 - Semi-Amortized Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.02550) [`code`](https://github.com/harvardnlp/sa-vae)
