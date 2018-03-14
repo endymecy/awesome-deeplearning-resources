@@ -18,6 +18,7 @@
 - [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
 - [PTT 八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
 - [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
+- [Acemap Knowledge Graph](http://acemap.sjtu.edu.cn/app/AceKG/) :star:
 - [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
 - [A dataset for book recommendations: ten thousand books, one million ratings](https://www.kaggle.com/zygmunt/goodbooks-10k)
 - [A dataset for personalized highlight detection](https://github.com/gifs/personalized-highlights-dataset)
