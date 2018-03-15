@@ -18,6 +18,7 @@
 
 - An efficient framework for learning sentence representations. [`arxiv`](https://arxiv.org/abs/1803.02893)
 - Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases. [`arxiv`](https://arxiv.org/abs/1801.00388)
+- Concept2vec: Metrics for Evaluating Quality of Embeddings for Ontological Concepts. [`arxiv`](https://arxiv.org/abs/1803.04488)
 - Deep contextualized word representations. [`arxiv`](https://arxiv.org/abs/1802.05365)
 - Evaluating Compositionality in Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1802.04302) [`code`](https://github.com/ishita-dg/ScrambleTests)
 - Query2Vec: NLP Meets Databases for Generalized Workload Analytics. [`arxiv`](https://arxiv.org/abs/1801.05613)
