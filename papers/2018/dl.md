@@ -40,6 +40,7 @@
 - Spherical CNNs. [`arxiv`](https://arxiv.org/abs/1801.10130) [`code`](https://github.com/jonas-koehler/s2cnn)
 - Supervised classification of Dermatological diseases by Deep neural networks. [`arxiv`](https://arxiv.org/abs/1802.03752) [`code`](https://www.dropbox.com/sh/pwe3tqrb2zijexq/AADpQ9WKOdSfTdvHkVtT_GHKa?dl=0)
 - Syntax-Aware Language Modeling with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.03665)
+- Testing Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.04792) [`code`](https://github.com/theyoucheng/deepcover)
 - The Matrix Calculus You Need For Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.01528)
 - The Lottery Ticket Hypothesis: Training Pruned Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.03635)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
