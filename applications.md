@@ -47,6 +47,7 @@
     - [Probabilistic Programming and Statistical Inference in PyTorch](https://github.com/stepelu/ptstat)
     - [PyTorch ASR Implementation](https://github.com/awni/speech)
     - [PyTorch Extension Library of Optimised Graph Cluster Algorithms](https://github.com/rusty1s/pytorch_cluster)
+    - [PyTorch Implementation of Autoencoding Variational Inference for Topic Models](https://github.com/hyqneuron/pytorch-avitm)
     - [PyTorch implementation of convolutional networks-based text-to-speech synthesis models](https://github.com/r9y9/deepvoice3_pytorch)
     - [PyTorch Implementation of CycleGAN and SGAN for Domain Transfer](https://github.com/yunjey/mnist-svhn-transfer)
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
