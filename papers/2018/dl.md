@@ -90,6 +90,7 @@
 - On the Latent Space of Wasserstein Auto-Encoders. [`arxiv`](https://arxiv.org/abs/1802.03761)
 - Recurrent Neural Network-Based Semantic Variational Autoencoder for Sequence-to-Sequence Learning. [`arxiv`](https://arxiv.org/abs/1802.03238)
 - Semi-Amortized Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.02550) [`code`](https://github.com/harvardnlp/sa-vae)
+- Sylvester Normalizing Flows for Variational Inference. [`arxiv`](https://arxiv.org/abs/1803.05649)
 - Synthesizing Audio with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.04208)
 - tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow. [`arxiv`](https://arxiv.org/abs/1801.09710)
 - Unsupervised Cipher Cracking Using Discrete GANs. [`arxiv`](https://arxiv.org/abs/1801.04883) [`tensorflow`](https://github.com//for-ai/CipherGAN)
