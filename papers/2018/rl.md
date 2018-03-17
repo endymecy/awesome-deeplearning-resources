@@ -18,5 +18,6 @@
 - Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1802.06501)
 - Reinforcement Learning from Imperfect Demonstrations. [`arxiv`](https://arxiv.org/abs/1802.05313)
 - Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application. [`arxiv`](https://arxiv.org/abs/1803.00710)
+- Semi-parametric Topological Memory for Navigation. [`arxiv`](https://arxiv.org/abs/1803.00653) [`tensorflow`](https://github.com/nsavinov/SPTM)
 - Shared Autonomy via Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1802.01744)
 - Using reinforcement learning to learn how to play text-based games. [`arxiv`](https://arxiv.org/abs/1801.01999)
