@@ -39,6 +39,7 @@
 - A Question-Focused Multi-Factor Attention Network for Question Answering. [`arxiv`](https://arxiv.org/abs/1801.08290) [`code`](https://github.com/nusnlp/amanda)
 - EARL: Joint Entity and Relation Linking for Question Answering over Knowledge Graphs. [`arxiv`](https://arxiv.org/abs/1801.03825) [`code`](https://github.com//AskNowQA/EARL)
 - Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning. [`arxiv`](https://arxiv.org/abs/1801.08459) [`code`](https://github.com/juung/RMN)
+- Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge. [`arxiv`](https://arxiv.org/abs/1803.05457)
 
 ### NMT
 
