@@ -414,7 +414,7 @@
 
 - Aligned Image-Word Representations Improve Inductive Transfer Across Vision-Language Tasks. [`arxiv`](https://arxiv.org/abs/1704.00260)
 - An Interpretable Knowledge Transfer Model for Knowledge Base Completion. [`arxiv`](https://arxiv.org/abs/1704.05908)
-- Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization . [`pdf`](https://openreview.net/pdf?id=B1fUVMzKg) [`code`](https://github.com/xunhuang1995/AdaIN-style)
+- Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization. [`pdf`](https://openreview.net/pdf?id=B1fUVMzKg) [`code`](https://github.com/xunhuang1995/AdaIN-style) [`tensorflow`](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
 - Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model. [`arxiv`](https://arxiv.org/abs/1706.01554) [`pytorch`](https://github.com/jiasenlu/visDial.pytorch)
 - Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning. [`arxiv`](https://arxiv.org/abs/1702.08690)
 - Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [`arxiv`](https://arxiv.org/abs/1701.04928)
