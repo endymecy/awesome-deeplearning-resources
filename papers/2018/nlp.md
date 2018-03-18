@@ -56,6 +56,7 @@
 
 ### Speech Recognition
 
+- Automatic Detection of Online Jihadist Hate Speech. [`arxiv`](https://arxiv.org/abs/1803.04596)
 - Do WaveNets Dream of Acoustic Waves? [`arxiv`](https://arxiv.org/abs/1802.08370)
 - Speech Emotion Recognition with Data Augmentation and Layer-wise Learning Rate Adjustment. [`arxiv`](https://arxiv.org/abs/1802.05630)
 
