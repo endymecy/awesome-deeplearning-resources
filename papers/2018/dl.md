@@ -66,16 +66,6 @@
 - Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling. [`arxiv`](https://arxiv.org/abs/1801.10296)
 - Tell Me Where to Look: Guided Attention Inference Network. [`arxiv`](https://arxiv.org/abs/1802.10171)
 
-## Optimization
-
-- Computational Optimal Transport. [`arxiv`](https://arxiv.org/abs/1803.00567)
-- Energy-entropy competition and the effectiveness of stochastic gradient descent in machine learning. [`arxiv`](https://arxiv.org/abs/1803.01927)
-- L4: Practical loss-based stepsize adaptation for deep learning. [`arxiv`](https://arxiv.org/abs/1802.05074) [`code`](https://github.com/martius-lab/l4-optimizer)
-- Sequential Preference-Based Optimization. [`arxiv`](https://arxiv.org/abs/1801.02788) [`code`](https://github.com/prefopt/prefopt)
-- Sever: A Robust Meta-Algorithm for Stochastic Optimization. [`arxiv`](https://arxiv.org/abs/1803.02815)
-- Shampoo: Preconditioned Stochastic Tensor Optimization. [`arxiv`](https://arxiv.org/abs/1802.09568) [`pytorch`](https://github.com/moskomule/shampoo.pytorch)
-- WNGrad: Learn the Learning Rate in Gradient Descent. [`arxiv`](https://arxiv.org/abs/1803.02865)
-
 ## Generative learning
 
 - Adversarial Classification on Social Networks. [`arxiv`](https://arxiv.org/abs/1801.08159)
@@ -99,12 +89,28 @@
 - tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow. [`arxiv`](https://arxiv.org/abs/1801.09710)
 - Unsupervised Cipher Cracking Using Discrete GANs. [`arxiv`](https://arxiv.org/abs/1801.04883) [`tensorflow`](https://github.com//for-ai/CipherGAN)
 
+## Meta Learning
+
+- Meta-Learning for Semi-Supervised Few-Shot Classification. [`arxiv`](https://arxiv.org/abs/1803.00676) [`code`](https://github.com/renmengye/few-shot-ssl-public)
+- Reptile: a Scalable Metalearning Algorithm. [`arxiv`](https://arxiv.org/abs/1803.02999)
+
+
+## Optimization
+
+- Computational Optimal Transport. [`arxiv`](https://arxiv.org/abs/1803.00567)
+- Energy-entropy competition and the effectiveness of stochastic gradient descent in machine learning. [`arxiv`](https://arxiv.org/abs/1803.01927)
+- L4: Practical loss-based stepsize adaptation for deep learning. [`arxiv`](https://arxiv.org/abs/1802.05074) [`code`](https://github.com/martius-lab/l4-optimizer)
+- Sequential Preference-Based Optimization. [`arxiv`](https://arxiv.org/abs/1801.02788) [`code`](https://github.com/prefopt/prefopt)
+- Sever: A Robust Meta-Algorithm for Stochastic Optimization. [`arxiv`](https://arxiv.org/abs/1803.02815)
+- Shampoo: Preconditioned Stochastic Tensor Optimization. [`arxiv`](https://arxiv.org/abs/1802.09568) [`pytorch`](https://github.com/moskomule/shampoo.pytorch)
+- WNGrad: Learn the Learning Rate in Gradient Descent. [`arxiv`](https://arxiv.org/abs/1803.02865)
+
 ## Transfer Learning
 
 - 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network. [`arxiv`](https://arxiv.org/abs/1802.05656)
 
 
-## Meta Learning
 
-- Meta-Learning for Semi-Supervised Few-Shot Classification. [`arxiv`](https://arxiv.org/abs/1803.00676) [`code`](https://github.com/renmengye/few-shot-ssl-public)
-- Reptile: a Scalable Metalearning Algorithm. [`arxiv`](https://arxiv.org/abs/1803.02999)
+## Zero/One Shot Learning
+
+- Preserving Semantic Relations for Zero-Shot Learning. [`arxiv`](https://arxiv.org/abs/1803.03049)
