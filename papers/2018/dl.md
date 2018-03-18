@@ -107,3 +107,4 @@
 ## Meta Learning
 
 - Meta-Learning for Semi-Supervised Few-Shot Classification. [`arxiv`](https://arxiv.org/abs/1803.00676) [`code`](https://github.com/renmengye/few-shot-ssl-public)
+- Reptile: a Scalable Metalearning Algorithm. [`arxiv`](https://arxiv.org/abs/1803.02999)
