@@ -56,6 +56,7 @@
 - [Second International Chinese Word Segmentation Bakeoff Data](http://sighan.cs.uchicago.edu/bakeoff2005/) :star:
 - [SLAC: A Sparsely Labeled ACtions Dataset from MIT and Facebook](http://slac.csail.mit.edu/)
 - [Some good papers I like](https://github.com/hoangcuong2011/Good-Papers)
+- [Standardized data set for machine learning of protein structure](https://github.com/aqlaboratory/proteinnet)
 - [Street View Image, Pose, and 3D Cities Dataset](https://github.com/amir32002/3D_Street_View)
 - [Taiga Сorpus](https://tatianashavrina.github.io/taiga_site/)
 - [Ten thousand books, six million ratings](https://github.com/zygmuntz/goodbooks-10k)
