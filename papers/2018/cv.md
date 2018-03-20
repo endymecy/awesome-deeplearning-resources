@@ -25,4 +25,4 @@
 - ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837)
 - Towards Image Understanding from Deep Compression without Decoding. [`arxiv`](https://arxiv.org/abs/1803.06131)
 - Video Person Re-identification by Temporal Residual Learning. [`arxiv`](https://arxiv.org/abs/1802.07918)
-
+- Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
