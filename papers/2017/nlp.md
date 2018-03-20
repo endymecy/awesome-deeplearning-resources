@@ -108,6 +108,7 @@
 - Topics and Label Propagation: Best of Both Worlds for Weakly Supervised Text Classification. [`arxiv`](https://arxiv.org/abs/1712.02767)
 - Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval. [`arxiv`](https://arxiv.org/abs/1703.06618) [`code`](https://github.com/huyt16/Twitter100k/)
 - Understanding Convolution for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1702.08502) [`code`](https://github.com/TuSimple/TuSimple-DUC/) :star:
+- Unsupervised Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1710.11041) [`pytorch`](https://github.com/artetxem/undreamt)
 - Vector Embedding of Wikipedia Concepts and Entities. [`arxiv`](https://arxiv.org/abs/1702.03470) [`code`](https://github.com/ehsansherkat/ConVec)]
 - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem. [`arxiv`](https://arxiv.org/abs/1701.08376)
 - What's in a Question: Using Visual Questions as a Form of Supervision. [`arxiv`](https://arxiv.org/abs/1704.03895) [`code`](https://github.com/sidgan/whats_in_a_question)
