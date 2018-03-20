@@ -65,5 +65,6 @@
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
 - [VGGFace2 Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
 - [Video Dataset Overview](https://www.di.ens.fr/~miech/datasetviz/)
+- [WebVision视觉数据集2.0](http://www.vision.ee.ethz.ch/webvision/index.html)
 - [Wolfram Data Repository](https://datarepository.wolframcloud.com/)
 - [Yelp Open Dataset](https://www.yelp.com/dataset)
