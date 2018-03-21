@@ -22,7 +22,7 @@
 - Rethinking Feature Distribution for Loss Functions in Image Classification. [`arxiv`](https://arxiv.org/abs/1803.02988)
 - Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
-- ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837)
+- ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 - Towards Image Understanding from Deep Compression without Decoding. [`arxiv`](https://arxiv.org/abs/1803.06131)
 - Video Person Re-identification by Temporal Residual Learning. [`arxiv`](https://arxiv.org/abs/1802.07918)
 - Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
