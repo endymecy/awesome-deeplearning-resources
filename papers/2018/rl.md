@@ -20,4 +20,5 @@
 - Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application. [`arxiv`](https://arxiv.org/abs/1803.00710)
 - Semi-parametric Topological Memory for Navigation. [`arxiv`](https://arxiv.org/abs/1803.00653) [`tensorflow`](https://github.com/nsavinov/SPTM)
 - Shared Autonomy via Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1802.01744)
+- Simple random search provides a competitive approach to reinforcement learning. [`arxiv`](https://arxiv.org/abs/1803.07055) [`code`](https://github.com/modestyachts/ARS)
 - Using reinforcement learning to learn how to play text-based games. [`arxiv`](https://arxiv.org/abs/1801.01999)
