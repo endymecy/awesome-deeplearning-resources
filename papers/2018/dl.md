@@ -71,6 +71,7 @@
 ## Generative learning
 
 - Adversarial Classification on Social Networks. [`arxiv`](https://arxiv.org/abs/1801.08159)
+- Adversarial Logit Pairing. [`arxiv`](https://arxiv.org/abs/1803.06373) :star:
 - Adversarial Spheres. [`arxiv`](https://arxiv.org/abs/1801.02774)
 - AmbientGAN: Generative models from lossy measurements. [`url`](https://openreview.net/forum?id=Hy7fDog0b) [`code`](https://github.com/shinseung428/ambientGAN_TF)
 - Autoencoding topology. [`arxiv`](https://arxiv.org/abs/1803.00156)
