@@ -1,5 +1,6 @@
 # Deep learning
 
+- A Dual Approach to Scalable Verification of Deep Networks. [`arxiv`](https://arxiv.org/abs/1803.06567)
 - A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data. [`arxiv`](https://arxiv.org/abs/1801.06202) [`code`](https://github.com/yunchuankong/NetworkNeuralNetwork)
 - Batch Kalman Normalization: Towards Training Deep Neural Networks with Micro-Batches. [`arxiv`](https://arxiv.org/abs/1802.03133) :star:
 - Bayesian Deep Convolutional Encoder-Decoder Networks for Surrogate Modeling and Uncertainty Quantification. [`arxiv`](https://arxiv.org/abs/1801.06879)
