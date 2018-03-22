@@ -7,6 +7,7 @@
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:
 - How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks. [`arxiv`](https://arxiv.org/abs/1803.02994)
 - Neural Relational Inference for Interacting Systems. [`arxiv`](https://arxiv.org/abs/1802.04687) [`code`](https://github.com/ethanfetaya/nri)
+- Neural Text Generation: Past, Present and Beyond. [`arxiv`](https://arxiv.org/abs/1803.07133)
 - Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
 
 ### Chatbot
