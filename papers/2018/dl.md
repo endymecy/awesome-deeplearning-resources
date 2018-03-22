@@ -8,6 +8,7 @@
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [`arxiv`](https://arxiv.org/abs/1801.05453)
 - Capturing Structure Implicitly from Time-Series having Limited Data. [`arxiv`](https://arxiv.org/abs/1803.05867) [`code`](https://github.com/emaasit/long-range-extrapolation)
 - Class label autoencoder for zero-shot learning. [`arxiv`](https://arxiv.org/abs/1801.08301)
+- Closing the AI Knowledge Gap. [`arxiv`](https://arxiv.org/abs/1803.07233)
 - Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
 - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. [`arxiv`](https://arxiv.org/abs/1803.04765)
@@ -102,6 +103,7 @@
 
 ## Optimization
 
+- Averaging Weights Leads to Wider Optima and Better Generalization. [`arxiv`](https://arxiv.org/abs/1803.05407)
 - Computational Optimal Transport. [`arxiv`](https://arxiv.org/abs/1803.00567)
 - Energy-entropy competition and the effectiveness of stochastic gradient descent in machine learning. [`arxiv`](https://arxiv.org/abs/1803.01927)
 - L4: Practical loss-based stepsize adaptation for deep learning. [`arxiv`](https://arxiv.org/abs/1802.05074) [`code`](https://github.com/martius-lab/l4-optimizer)
