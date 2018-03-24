@@ -108,6 +108,7 @@
 - Averaging Weights Leads to Wider Optima and Better Generalization. [`arxiv`](https://arxiv.org/abs/1803.05407)
 - Computational Optimal Transport. [`arxiv`](https://arxiv.org/abs/1803.00567)
 - Energy-entropy competition and the effectiveness of stochastic gradient descent in machine learning. [`arxiv`](https://arxiv.org/abs/1803.01927)
+- Gradient Descent Quantizes ReLU Network Features. [`arxiv`](https://arxiv.org/abs/1803.08367)
 - L4: Practical loss-based stepsize adaptation for deep learning. [`arxiv`](https://arxiv.org/abs/1802.05074) [`code`](https://github.com/martius-lab/l4-optimizer)
 - Sequential Preference-Based Optimization. [`arxiv`](https://arxiv.org/abs/1801.02788) [`code`](https://github.com/prefopt/prefopt)
 - Sever: A Robust Meta-Algorithm for Stochastic Optimization. [`arxiv`](https://arxiv.org/abs/1803.02815)
