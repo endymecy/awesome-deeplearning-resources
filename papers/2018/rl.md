@@ -8,6 +8,7 @@
 - Deep Reinforcement Learning of Cell Movement in the Early Stage of C. elegans Embryogenesis. [`arxiv`](https://arxiv.org/abs/1801.04600)
 - Deep Reinforcement Learning for Vision-Based Robotic Grasping: A Simulated Comparative Evaluation of Off-Policy Methods. [`arxiv`](https://arxiv.org/abs/1802.10264)
 - Deep Reinforcement Learning using Capsules in Advanced Game Environments. [`arxiv`](https://arxiv.org/abs/1801.09597)
+- Deep Reinforcement Learning with Model Learning and Monte Carlo Tree Search in Minecraft. [`arxiv`](https://arxiv.org/abs/1803.08456)
 - Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes. [`arxiv`](https://arxiv.org/abs/1801.02852) [`code`](https://github.com//anonymous-author1/DDRL)
 - Diversity is All You Need: Learning Skills without a Reward Function. [`arxiv`](https://arxiv.org/abs/1802.06070)
 - Faster Deep Q-learning using Neural Episodic Control. [`arxiv`](https://arxiv.org/abs/1801.01968)
