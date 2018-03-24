@@ -31,6 +31,10 @@
 
 - EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1801.04470)
 
+### Language Model
+
+- An Analysis of Neural Language Modeling at Multiple Scales. [`arxiv`](https://arxiv.org/abs/1803.08240) [`code`](https://github.com/salesforce/awd-lstm-lm)
+
 ### Pos-tagging
 
 - Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks. [`arxiv`](https://arxiv.org/abs/1801.07772) [`code`](https://github.com/boknilev/nmt-repr-analysis)
