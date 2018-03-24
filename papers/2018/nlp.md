@@ -3,12 +3,13 @@
 - 500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining StackOverflow). [`arxiv`](https://arxiv.org/abs/1802.05319)
 - Annotation Artifacts in Natural Language Inference Data. [`arxiv`](https://arxiv.org/abs/1803.02324) :star:
 - Calculating the similarity between words and sentences using a lexical database and corpus statistics. [`arxiv`](https://arxiv.org/abs/1802.05667)
+- Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
 - Extracting Action Sequences from Texts Based on Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02632)
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:
 - How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks. [`arxiv`](https://arxiv.org/abs/1803.02994)
 - Neural Relational Inference for Interacting Systems. [`arxiv`](https://arxiv.org/abs/1802.04687) [`code`](https://github.com/ethanfetaya/nri)
 - Neural Text Generation: Past, Present and Beyond. [`arxiv`](https://arxiv.org/abs/1803.07133)
-- Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
+- Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings. [`arxiv`](https://arxiv.org/abs/1803.08495)
 
 ### Chatbot
 
