@@ -15,6 +15,7 @@
 - Feudal Reinforcement Learning for Dialogue Management in Large Domains. [`arxiv`](https://arxiv.org/abs/1803.03232)
 - Hierarchical Reinforcement Learning: Approximating Optimal Discounted TSP Using Local Policies. [`arxiv`](https://arxiv.org/abs/1803.04674)
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures. [`arxiv`](https://arxiv.org/abs/1802.01561)
+- Kickstarting Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.03835)
 - Meta Reinforcement Learning with Latent Variable Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1803.07551)
 - Pretraining Deep Actor-Critic Reinforcement Learning Algorithms With Expert Demonstrations. [`arxiv`](https://arxiv.org/abs/1801.10459)
 - Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents. [`arxiv`](https://arxiv.org/abs/1801.08116)
