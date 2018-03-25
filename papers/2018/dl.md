@@ -21,6 +21,7 @@
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
 - From Nodes to Networks: Evolving Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.04439)
 - GossipGraD: Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent. [`arxiv`](https://arxiv.org/abs/1803.05880)
+- Graph Partition Neural Networks for Semi-Supervised Classification. [`arxiv`](https://arxiv.org/abs/1803.06272)
 - Group Normalization. [`arxiv`](https://arxiv.org/abs/1803.08494)
 - High-Accuracy Low-Precision Training. [`arxiv`](https://arxiv.org/abs/1803.03383)
 - High Dimensional Bayesian Optimization Using Dropout. [`arxiv`](https://arxiv.org/abs/1802.05400)
