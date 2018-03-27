@@ -33,6 +33,7 @@
 - [A New Multi-Turn, Multi-Domain, Task-Oriented Dialogue Dataset](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/)
 - [A text file containing 479k English words for all your dictionary/word-based projects](https://github.com/dwyl/english-words)
 - [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
+- [Chinese Text in the Wild](https://ctwdataset.github.io/)
 - [Cool Datasets](http://cooldataseWolfram Data Repositoryts.com/#Machine-Learning-Datasets) :star:
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
