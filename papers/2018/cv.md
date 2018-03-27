@@ -17,6 +17,7 @@
 - Image Transformer. [`arxiv`](https://arxiv.org/abs/1802.05751) :star:
 - Low-Shot Learning from Imaginary Data. [`arxiv`](https://arxiv.org/abs/1801.05401)
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
+- Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
 - Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
 - RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
 - Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
