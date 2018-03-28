@@ -32,6 +32,10 @@
 
 - EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1801.04470)
 
+### Knowledge Graphs
+
+- Variational Knowledge Graph Reasoning. [`arxiv`](https://arxiv.org/abs/1803.06581)
+
 ### Language Model
 
 - An Analysis of Neural Language Modeling at Multiple Scales. [`arxiv`](https://arxiv.org/abs/1803.08240) [`code`](https://github.com/salesforce/awd-lstm-lm)
