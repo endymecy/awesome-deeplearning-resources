@@ -11,6 +11,7 @@
 * [Easy Machine Learning](https://modeldepot.io/) :star:
 * [fastText English Word Vectors](https://www.kaggle.com/facebook/fasttext-wikinews)
 * [GloVe: Global Vectors for Word Representation](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors)
+* [High level network definitions with pre-trained weights in TensorFlow](https://github.com/taehoonlee/tensornets)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
 * [Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.](https://github.com/Cadene/pretrained-models.pytorch)
 * [Pre-Trained Doc2Vec Models](https://github.com/jhlau/doc2vec)
