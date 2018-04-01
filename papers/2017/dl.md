@@ -1,0 +1,452 @@
+## Deep Learning
+
+### Deep learning
+
+- A Bayesian Perspective on Generalization and Stochastic Gradient Descent. [`arxiv`](https://arxiv.org/abs/1710.06451)
+- A Bridge Between Hyperparameter Optimization and Larning-to-learn. [`arxiv`](https://arxiv.org/abs/1712.06283) [`code`](https://github.com//lucfra/FAR-HO)
+- Accelerating Stochastic Gradient Descent. [`arxiv`](https://arxiv.org/abs/1704.08227) :star:
+- Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour. [`url`](https://research.fb.com/publications/ImageNet1kIn1h/)
+- Activation Ensembles for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.07790)
+- AdaBatch: Adaptive Batch Sizes for Training Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1712.02029)
+- A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe. [`arxiv`](https://arxiv.org/abs/1701.04949)
+- [A Flexible Approach to Automated RNN Architecture Generation.](https://einstein.ai/research/domain-specific-language-for-automated-rnn-architecture-search) [`arxiv`](https://arxiv.org/abs/1712.07316)
+- A Generalization of Convolutional Neural Networks to Graph-Structured Data. [`arxiv`](https://arxiv.org/abs/1704.08165) [`keras`](https://github.com/hechtlinger/graph_cnn)
+- A GPU-Based Solution to Fast Calculation of Betweenness Centrality on Large Weighted Networks. [`arxiv`](https://arxiv.org/abs/1701.05975)
+- A Hitting Time Analysis of Stochastic Gradient Langevin Dynamics. [`arxiv`](https://arxiv.org/abs/1702.05575) :star:
+- AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms. [`arxiv`](https://arxiv.org/abs/1709.05703)
+- Alignment of dynamic networks. [`arxiv`](https://arxiv.org/abs/1701.08842)
+- A Linear-Time Kernel Goodness-of-Fit Test. [`arxiv`](https://arxiv.org/abs/1705.07673) [`code`](https://github.com//wittawatj/kernel-gof)
+- A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers. [`arxiv`](https://arxiv.org/abs/1701.01207)
+- AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.09786)
+- An Effective Training Method For Deep Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1708.01666) :star:
+- A neural algorithm for a fundamental computing problem. [`url`](http://science.sciencemag.org/content/358/6364/793) :star:
+- A Probabilistic Framework for Location Inference from Social Media. [`arxiv`](https://arxiv.org/abs/1702.07281)
+- A Saddle Point Approach to Structured Low-rank Matrix Learning in Large-scale Applications.  [`arxiv`](https://arxiv.org/abs/1704.07352)
+- [A simple neural network module for relational reasoning.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650727591&idx=1&sn=176d4a7ab8e06451b0deb2d74c3a5794) [`arxiv`](https://arxiv.org/abs/1706.01427) :star:
+- AutoBagging: Learning to Rank Bagging Workflows with Metalearning. [`arxiv`](https://arxiv.org/abs/1706.09367) [`code`](https://github.com/fhpinto/autoBagging)
+- Automated Curriculum Learning for Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.03003) :star:
+- Autoencoder Regularized NetworkAn Effective Training Method For Deep Convolutional Neural Network. For Driving Style Representation Learning. [`arxiv`](https://arxiv.org/abs/1701.01272)
+- Axiomatic Attribution for Deep Networks.  [`arxiv`](https://arxiv.org/abs/1703.01365) [`code`](https://github.com/hiranumn/IntegratedGradients)
+- Backpropagation through the Void: Optimizing control variates for black-box gradient estimation. [`arxiv`](https://arxiv.org/abs/1711.00123) [`code`](https://github.com//duvenaud/relax) :star:
+- Backprop without Learning Rates Through Coin Betting. [`arxiv`](https://arxiv.org/abs/1705.07795) [`code`](https://github.com/bremen79/cocob)
+- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models. [`arxiv`](https://arxiv.org/abs/1702.03275) :star:
+- Bayesian Compression for Deep Learning. [`arxiv`](https://arxiv.org/abs/1705.08665) [`code`](https://github.com//KarenUllrich/Tutorial_BayesianCompressionForDL)
+- Bayesian Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1704.02798) [`tensorflow`](https://github.com/DeNeutoy/bayesian-rnn)
+- Beyond Sparsity: Tree Regularization of Deep Models for Interpretability. [`arxiv`](https://arxiv.org/abs/1711.06178) [`code`](https://github.com//dtak/tree-regularization-public)
+- [Big Data vs. complex physical models: a scalable inference algorithm](https://arxiv.org/abs/1707.04476) [`code`](https://github.com/JohannesBuchner/massivedatans/)
+- [Billion-scale similarity search with GPUs.](http://weibo.com/1402400261/ECqPJziqk?type=comment#_rnd1491216627188) [`arxiv`](https://arxiv.org/abs/1702.08734) [`code`](https://github.com/facebookresearch/faiss) :star: 
+- Bolt: Accelerated Data Mining with Fast Vector Compression. [`arxiv`](https://arxiv.org/abs/1706.10283) [`code`](https://github.com/dblalock/bolt)
+- CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance. [`url`](https://www.researchgate.net/publication/319461093_CASED_Curriculum_Adaptive_Sampling_for_Extreme_Data_Imbalance) [`tensorflow`](https://github.com/taki0112/CASED-Tensorflow)
+- CNN Is All You Need. [`arxiv`](https://arxiv.org/abs/1712.09662)
+- Combining Machine Learning and Physics to Understand Glassy Systems. [`arxiv`](https://arxiv.org/abs/1709.08015)
+- Complex Networks: from Classical to Quantum.  [`arxiv`](https://arxiv.org/abs/1702.08459)
+- Concrete Dropout. [`arxiv`](https://arxiv.org/abs/1705.07832)
+- Convolutional Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1709.01894) [`code`](https://github.com/markvdw/convgp)
+- Conversation Modeling on Reddit using a Graph-Structured LSTM. [`arxiv`](https://arxiv.org/abs/1704.02080) :star:
+- [Convolutional Sequence to Sequence Learning.](https://mp.weixin.qq.com/s/HOR-0VicK__H3rrJFO19bA) [`pdf`](https://s3.amazonaws.com/fairseq/papers/convolutional-sequence-to-sequence-learning.pdf) [`torch`](https://github.com/facebookresearch/fairseq) [`tensorflow`](https://github.com/tobyyouup/conv_seq2seq) :star:
+- Coordinating Filters for Faster Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.09746) [`caffle`](https://github.com/wenwei202/caffe/tree/sfm)
+- Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.05870)
+- DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04280)
+- DAGGER: A sequential algorithm for FDR control on DAGs. [`arxiv`](https://arxiv.org/abs/1709.10250)
+- Dance Dance Convolution. [`arxiv`](https://arxiv.org/abs/1703.06891) [`code`](https://github.com/chrisdonahue/ddc)
+- Data Distillation: Towards Omni-Supervised Learning. [`arxiv`](https://arxiv.org/abs/1712.04440) :star:
+- [Deep and Hierarchical Implicit Models.](http://dustintran.com/blog/deep-and-hierarchical-implicit-models) [`arxiv`](https://arxiv.org/abs/1702.08896)
+- DeepArchitect: Automatically Designing and Training Deep Architectures. [`arxiv`](https://arxiv.org/abs/1704.08792) [`code`](https://github.com/negrinho/deep_architect)
+- Deep CNN ensembles and suggestive annotations for infant brain MRI segmentation. [`arxiv`](https://arxiv.org/abs/1712.05319) [`code`](https://github.com//josedolz/SemiDenseNet)
+- Deep Complex Networks. [`arxiv`](https://arxiv.org/abs/1705.09792) [`code`](https://github.com/ChihebTrabelsi/deep_complex_networks) :star:
+- Deep Echo State Network (DeepESN): A Brief Survey. [`arxiv`](https://arxiv.org/abs/1712.04323)
+- DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [`arxiv`](https://arxiv.org/abs/1703.04247)
+- Deep & Cross Network for Ad Click Predictions. [`arxiv`](https://arxiv.org/abs/1708.05123) :star:
+- <b>[GcForest] </b>[Towards An Alternative to Deep Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651994082&idx=1&sn=3a1f21ab37ea8322c6700f660b71648a) [`arxiv`](https://arxiv.org/abs/1702.08835) [`code`](https://github.com/kingfengji/gcForest) :star:
+- DeepPicar: A Low-cost Deep Neural Network-based Autonomous Car. [`arxiv`](https://arxiv.org/abs/1712.08644) [`code`](https://github.com//heechul/picar)
+- Deep Gaussian Mixture Models. [`arxiv`](https://arxiv.org/abs/1711.06929)
+- Deep Hashing Network for Unsupervised Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1706.07522) [`code`](https://github.com/hemanthdv/da-hash)
+- Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection. [`arxiv`](https://arxiv.org/abs/1701.00458) [`code`](https://github.com/guille-c/Deep-HiTS) :star: 
+- Deep Learning: A Bayesian Perspective. [`arxiv`](https://arxiv.org/abs/1706.00473) 
+- [Deep Learning as a Mixed Convex-Combinatorial Optimization Problem.](https://mp.weixin.qq.com/s/8U3vFaf3SDCYnWy4lQv6uw) [`arxiv`](https://arxiv.org/abs/1710.11573) :star:
+- Deep Learning for Time-Series Analysis. [`arxiv`](https://arxiv.org/abs/1701.01887)
+- Deep learning for universal linear embeddings of nonlinear dynamics. [`arxiv`](https://arxiv.org/abs/1712.09707)
+- Deep Learning With Dynamic Computation Graphs. [`pdf`](https://openreview.net/pdf?id=ryrGawqex)
+- DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy. [`arxiv`](https://arxiv.org/abs/1702.08192) [`caffe`](https://github.com/TJKlein/DeepNAT)
+- Deep Network Guided Proof Search. [`arxiv`](https://arxiv.org/abs/1701.06972)
+- Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs. [`arxiv`](https://arxiv.org/abs/1703.04363) [`tensorflow`](https://github.com/gyglim/dvn) :star:
+- [DeepXplore: Automated Whitebox Testing of Deep Learning Systems.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726926&idx=5&sn=9e053e9864dc789f5b393a4c49242486) [`arxiv`](https://arxiv.org/abs/1705.06640)
+- DeepZip: Lossless Compression using Recurrent Networks. [`pdf`](https://web.stanford.edu/class/cs224n/reports/2761006.pdf) [`code`](https://github.com//kedartatwawadi/NN_compression)
+- [Deformable Convolutional Networks](https://mp.weixin.qq.com/s?__biz=MzA3Mjk0OTgyMg==&mid=2651123298&idx=1&sn=9f1159e14a3dba122f122aed1b51dbb7). [`arxiv`](https://arxiv.org/abs/1703.06211) [`pytorch`](https://github.com/1zb/deformable-convolution-pytorch) :star:
+- <b>[Edward]</b> Deep Probabilistic Programming. [`arxiv`](https://arxiv.org/abs/1701.03757) [`Web`](http://edwardlib.org/) :star: 
+- [Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval.](https://arxiv.org/abs/1703.05605) [`code`](https://github.com/ymcidence/DeepSketchHashing)
+- Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction. [`pdf`](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ST-ResNet-AAAI17-Zhang.pdf) [`code`](https://github.com/lucktroy/DeepST/tree/master/scripts/papers/AAAI17)] :star:
+- Deep Unsupervised Clustering Using Mixture of Autoencoders. [`arxiv`](https://arxiv.org/abs/1712.07788)
+- <b>[DeepStack]</b> [Expert-Level Artificial Intelligence in No-Limit Poker.](http://www.jiqizhixin.com/article/2395) [`arxiv`](https://arxiv.org/abs/1701.01724) :star:
+- Dense Transformer Networks. [`arxiv`](https://arxiv.org/abs/1705.08881) [`code`](https://github.com/divelab/dtn)
+- Diabetic Retinopathy Detection via Deep Convolutional Networks for Discriminative Localization and Visual Explanation. [`arxiv`](https://arxiv.org/abs/1703.10757) [`code`](https://github.com/cauchyturing/kaggle_diabetic_RAM)
+- Diagonal RNNs in Symbolic Music Modeling. [`arxiv`](https://arxiv.org/abs/1704.05420) [`tensorflow`](https://github.com/ycemsubakan/diagonal_rnns)
+- Different approaches to community detection. [`arxiv`](https://arxiv.org/abs/1712.06468)
+- Dilated Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1710.02224) [`pytorch`](https://github.com/zalandoresearch/pt-dilate-rnn)
+- Dilated Residual Networks. [`arxiv`](https://arxiv.org/abs/1705.09914) :star:
+- Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients. [`arxiv`](https://arxiv.org/abs/1705.07774) [`tensorflow`](https://github.com/lballes/msvag)
+- Distilling a Neural Network Into a Soft Decision Tree. [`arxiv`](https://arxiv.org/abs/1711.09784) [`pytorch`](https://github.com//kimhc6028/soft-decision-tree)
+- Distributed Online Learning of Event Definitions. [`arxiv`](https://arxiv.org/abs/1705.02175)
+- dna2vec: Consistent vector representations of variable-length k-mers. [`arxiv`](https://arxiv.org/abs/1701.06279) [`code`](https://github.com//pnpnpn/dna2vec)
+- Dockerface: an easy to install and use Faster R-CNN face detector in a Docker container. [`arxiv`](https://arxiv.org/abs/1708.04370) [`code`](https://github.com/natanielruiz/dockerface)
+- Domain-adaptive deep network compression. [`arxiv`](https://arxiv.org/abs/1709.01041) [`code`](https://github.com/mmasana/DALR)
+- Doubly Stochastic Variational Inference for Deep Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1705.08933) [`code`](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
+- Dropout Feature Ranking for Deep Learning Models. [`arxiv`](https://arxiv.org/abs/1712.08645)
+- DSOD: Learning Deeply Supervised Object Detectors from Scratch. [`arxiv`](https://arxiv.org/abs/1708.01241) [`caffe`](https://github.com/szq0214/DSOD)
+- Dual Path Networks. [`arxiv`](https://arxiv.org/abs/1707.01629) [`pytorch`](https://github.com/oyam/pytorch-DPNs) :star:
+- Dynamic Routing Between Capsules. [`code`](https://arxiv.org/abs/1710.09829) [`pytorch`](https://github.com/danielhavir/capsule-network) :star:
+- <b>[DyNet]</b> The Dynamic Neural Network Toolkit. [`arxiv`](https://arxiv.org/abs/1701.03980) [`code`](https://github.com/clab/dynet) :star: 
+- EC3: Combining Clustering and Classification for Ensemble Learning. [`arxiv`](https://arxiv.org/abs/1708.08591)
+- Efficient Algorithms for t-distributed Stochastic Neighborhood Embedding. [`arxiv`](https://arxiv.org/abs/1712.09005)
+- Efficient Information Flow Maximization in Probabilistic Graphs. [`arxiv`](https://arxiv.org/abs/1701.05395)
+- Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback. [`pdf`](https://www.nature.com/articles/s41467-017-00181-8.pdf) [`code`](https://github.com/eminorhan/inevitable-probability) :star:
+- Encouraging LSTMs to Anticipate Actions Very Early. [`arxiv`](https://arxiv.org/abs/1703.07023)
+- End-to-end Network for Twitter Geolocation Prediction and Hashing. [`arxiv`](https://arxiv.org/abs/1710.04802) [`code`](https://github.com/jhlau/twitter-deepgeo)
+- End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures. [`pdf`](http://www.aclweb.org/anthology/P/P16/P16-1105.pdf) [`code`](https://github.com/tticoin/LSTM-ER)
+- Ensemble Sales Forecasting Study in Semiconductor Industry. [`arxiv`](https://arxiv.org/abs/1705.00003) [`code`](https://github.com/qx0731/ensemble_forecast_methods)
+- Evolving Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00548) :star:
+- Fast Detection of Community Structures using Graph Traversal in Social Networks. [`arxiv`](https://arxiv.org/abs/1707.04459) [`code`](https://github.com/sna-lincom/LINCOM)
+- Fast Landmark Localization with 3D Component Reconstruction and CNN for Cross-Pose Recognition. [`arxiv`](https://arxiv.org/abs/1708.09580)
+- Fast-Slow Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1705.08639) [`tensorflow`](https://github.com/amujika/Fast-Slow-LSTM)
+- Forward Thinking: Building Deep Random Forests. [`arxiv`](https://arxiv.org/abs/1705.07366) [`tensorflow`](https://github.com/tkchris93/ForwardThinking)
+- Fraternal Dropout. [`arxiv`](https://arxiv.org/abs/1711.00066) [`pytorch`](https://github.com//kondiz/fraternal-dropout)
+- Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs. [`arxiv`](https://arxiv.org/abs/1701.08816)
+- Gated Orthogonal Recurrent Units: On Learning to Forget. [`arxiv`](https://arxiv.org/abs/1706.02761)
+- Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.05923)
+- Generalized Orderless Pooling Performs Implicit Salient Matching. [`arxiv`](http://openaccess.thecvf.com/content_iccv_2017/html/Simon_Generalized_Orderless_Pooling_ICCV_2017_paper.html) [`code`](https://github.com//cvjena/alpha_pooling)
+- gkm-DNN: efficient prediction using gapped k-mer features and deep neural networks. [`pdf`](http://www.biorxiv.org/content/biorxiv/early/2017/07/31/170761.full.pdf)
+- Good Semi-supervised Learning that Requires a Bad GAN. [`arxiv`](https://arxiv.org/abs/1705.09783)
+- Gradual Learning of Deep Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1708.08863) 
+- Graffinity: Visualizing Connectivity In Large Graphs. [`arxiv`](https://arxiv.org/abs/1703.07729) [`code`](https://github.com/visdesignlab/graffinity)
+- Graph Convolutional Matrix Completion. [`arxiv`](https://arxiv.org/abs/1706.02263) [`code`](https://github.com/riannevdberg/gc-mc)
+- Graph Structure Learning from Unlabeled Data for Event Detection. [`arxiv`](https://arxiv.org/abs/1701.01470)
+- Hidden Community Detection in Social Networks. [`arxiv`](https://arxiv.org/abs/1702.07462)
+- Hierarchical loss for classification. [`arxiv`](https://arxiv.org/abs/1709.01062)
+- Holistic Interstitial Lung Disease Detection using Deep Convolutional Neural Networks: Multi-label Learning and Unordered Pooling. [`arxiv`](https://arxiv.org/abs/1701.05616)
+- [Hyperparameter Optimization: A Spectral Approach.](https://zhuanlan.zhihu.com/p/27555858) [`arxiv`](https://arxiv.org/abs/1706.00764)
+- Hyperparameters Optimization in Deep Convolutional Neural Network / Bayesian Approach with Gaussian Process Prior. [`arxiv`](https://arxiv.org/abs/1712.07233)
+- Improving Generalization Performance by Switching from Adam to SGD. [`arxiv`](https://arxiv.org/abs/1712.07628)
+- Information Perspective to Probabilistic Modeling: Boltzmann Machines versus Born Machines. [`arxiv`](https://arxiv.org/abs/1712.04144)
+- Interpretable Explanations of Black Boxes by Meaningful Perturbation. [`arxiv`](https://arxiv.org/abs/1704.03296)
+- Label Efficient Learning of Transferable Representations across Domains and Tasks. [`arxiv`](https://arxiv.org/abs/1712.00123)
+- Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization. [`arxiv`](https://arxiv.org/abs/1708.01001) [`caffe`](https://github.com/dongyp13/Stochastic-Quantization)
+- Learning Bag-of-Features Pooling for Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1707.08105) [`code`](https://github.com/passalis/cbof)
+- Learning by Association - A versatile semi-supervised training method for neural networks. [`arxiv`](https://arxiv.org/abs/1706.00909) [`code`](https://github.com/haeusser/learning_by_association)
+- Learning Chained Deep Features and Classifiers for Cascade in Object Detection. [`arxiv`](https://arxiv.org/abs/1702.07054)
+- Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees. [`arxiv`](https://arxiv.org/abs/1702.08833) :star: 
+- Learning Efficient Convolutional Networks through Network Slimming. [`arxiv`](https://arxiv.org/abs/1708.06519) [`code`](https://github.com/foolwood/pytorch-slimming)
+- Learning Gradient Descent: Better Generalization and Longer Horizons.  [`arxiv`](https://arxiv.org/abs/1703.03633) [`code`](https://github.com/vfleaking/rnnprop)
+- Learning Hierarchical Information Flow with Recurrent Neural Modules. [`arxiv`](https://arxiv.org/abs/1706.05744)
+- Learning to Acquire Information. [`arxiv`](https://arxiv.org/abs/1704.06131)
+- Learning to Compose Domain-Specific Transformations for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1709.01643) [`code`](https://github.com/HazyResearch/tanda)
+- Learning to Compose Skills. [`arxiv`](https://arxiv.org/abs/1711.11289) [`code`](https://github.com//himanshusahni/ComposeNet)
+- Learning to Invert: Signal Recovery via Deep Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1701.03891)
+- Learning to Learn from Weak Supervision by Full Supervision. [`arxiv`](http://mostafadehghani.com/2017/12/01/learning-to-learn-from-weak-supervision-by-full-supervision/)
+- Learning to Remember Rare Events. [`pdf`](https://openreview.net/pdf?id=SJTQLdqlg) [`tensorflow`](https://github.com/tensorflow/models/tree/master/learning_to_remember_rare_events)] :star:
+- Learning to Segment Instances in Videos with Spatial Propagation Network. [`pdf`](http://davischallenge.org/challenge2017/papers/DAVIS-Challenge-6th-Team.pdf) [`code`](https://github.com/JingchunCheng/Seg-with-SPN)
+- Learning Wasserstein Embeddings. [`arxiv`](https://arxiv.org/abs/1710.07457) :star:
+- LDMNet: Low Dimensional Manifold Regularized Neural Networks. [`arxiv`](https://arxiv.org/abs/1711.06246)
+- LipNet: Sentence-level Lipreading. [`pdf`](https://openreview.net/pdf?id=BkjLkSqxg) [`torch`](https://github.com/bshillingford/LipNet)
+- LSTM Fully Convolutional Networks for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1709.05206) [`code`](https://github.com/houshd/LSTM-FCN)
+- Lucid Data Dreaming for Object Tracking. [`arxiv`](https://arxiv.org/abs/1703.09554) 
+- Machine learning of neural representations of suicide and emotion concepts identifies suicidal youth. [`url`](https://www.nature.com/articles/s41562-017-0234-y)
+- Machine Learning on Sequential Data Using a Recurrent Weighted Average. [`arxiv`](https://arxiv.org/abs/1703.01253) [`tensorflow`](https://github.com/jostmey/rwa)
+- Markov Chain Monte Carlo Methods for Bayesian Data Analysis in Astronomy. [`arxiv`](https://arxiv.org/abs/1706.01629) [`code`](https://github.com/sanjibs/bmcmc/)
+- [Mask R-CNN.](https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488392&idx=2&sn=7c8e41aef37c370d6155607283d776ef) [`arxiv`](https://arxiv.org/abs/1703.06870) :star:
+- Mastering the game of Go without human knowledge. [`pdf`](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
+- MEBoost: Mixing Estimators with Boosting for Imbalanced Data Classification. [`arxiv`](https://arxiv.org/abs/1712.06658) :star:
+- Memory-Efficient Implementation of DenseNets. [`arxiv`](https://arxiv.org/abs/1707.06990) [`pytorch`](https://github.com/gpleiss/efficient_densenet_pytorch) :star:
+- Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results. [`arxiv`](https://arxiv.org/abs/1703.01780) [`code`](https://github.com//CuriousAI/mean-teacher) :star:
+- MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1711.06788)
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. [`arxiv`](https://arxiv.org/abs/1703.03400) [`code`](https://github.com/cbfinn/maml) [`pytorch`](https://github.com/katerakelly/pytorch-maml) :star:
+- [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650725078&idx=4&sn=f23476a1abf7017686f2b18ca5dd83d8)  [`arxiv`](https://arxiv.org/abs/1703.10069)
+- Multi-Scale Dense Convolutional Networks for Efficient Prediction. [`arxiv`](https://arxiv.org/abs/1703.09844) [`code`](https://github.com/gaohuang/MSDNet)
+- Multiscale Hierarchical Convolutional Networks.  [`arxiv`](https://arxiv.org/abs/1703.04140) [`tensorflow`](https://github.com/jhjacobsen/HierarchicalCNN)
+- Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter. [`arxiv`](https://arxiv.org/abs/1702.00763)
+- NDT: Neual Decision Tree Towards Fully Functioned Neural Graph. [`arxiv`](https://arxiv.org/abs/1712.05934) :star:
+- Network Backboning with Noisy Data. [`arxiv`](https://arxiv.org/abs/1701.07336)
+- Neumann Optimizer: A Practical Optimization Algorithm for Deep Neural Networks .[`arxiv`](https://arxiv.org/abs/1712.03298) :star:
+- Neural Decision Trees. [`arxiv`](https://arxiv.org/abs/1702.07360)
+- Neural Message Passing for Quantum Chemistry. [`arxiv`](https://arxiv.org/abs/1704.01212) [`code`](https://github.com/priba/nmp_qc) :star:
+- Neural networks for topology optimization. [`arxiv`](https://arxiv.org/abs/1709.09578) [`code`](https://github.com/ISosnovik/top)
+- Neural Networks Regularization Through Invariant Features Learning. [`arxiv`](https://arxiv.org/abs/1709.01867)
+- Neural Ranking Models with Weak Supervision. [`arxiv`](https://arxiv.org/abs/1704.08803)
+- Neural Task Programming: Learning to Generalize Across Hierarchical Tasks. [`arxiv`](https://arxiv.org/abs/1710.01813) [`code`](https://github.com/ntp-project/ntp)
+- [Neural Variational Inference and Learning in Undirected Graphical Models.](https://mp.weixin.qq.com/s/xI9JjRKT1K-CmRgRBNwAFA) [`arxiv`](https://arxiv.org/abs/1711.02679)
+- [Non-local Neural Networks.](https://mp.weixin.qq.com/s/9rmj9_9TNBMS--yrpTIzcA) [`arxiv`](https://arxiv.org/abs/1711.07971) [`keras`](https://github.com//titu1994/keras-non-local-nets) :star:
+- One Model To Learn Them All. [`arxiv`](https://arxiv.org/abs/1706.05137) [`tensorflow`](https://github.com/tensorflow/tensor2tensor) :star:
+- One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models. [`arxiv`](https://arxiv.org/abs/1703.09912) [`tensorflow`](https://github.com//rick-chang/OneNet)
+- Online Convolutional Dictionary Learning. [`arxiv`](https://arxiv.org/abs/1706.09563)
+- Online Learning with Gated Linear Networks. [`arxiv`](https://arxiv.org/abs/1712.01897)
+- On the Information Bottleneck Theory of Deep Learning. [`pdf`](https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A-) :star:
+- On weight initialization in deep neural networks. [`arxiv`](https://arxiv.org/abs/1704.08863) [`code`](https://github.com/sidkk86/weight_initialization)
+- Opening the Black Box of Deep Neural Networks via Information. [`arxiv`](https://arxiv.org/abs/1703.00810) :star:
+- Optimization as a Model for Few-Shot Learning. [`pdf`](https://openreview.net/pdf?id=rJY0-Kcll) [`torch`](https://github.com/twitter/meta-learning-lstm) :star:
+- OptNet: Differentiable Optimization as a Layer in Neural Networks. [`arxiv`](https://arxiv.org/abs/1703.00443) [`code`](https://github.com/locuslab/optnet) :star:
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.](http://mp.weixin.qq.com/s/qkYHcDpIMM5W7D_NWoa5ww) [`arxiv`](https://arxiv.org/abs/1701.06538)
+- <b>[PathNet]</b> Evolution Channels Gradient Descent in Super Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.08734) [`tensorflow`](https://github.com/jaesik817/pathnet):star:
+- Peephole: Predicting Network Performance Before Training. [`arxiv`](https://arxiv.org/abs/1712.03351)
+- Performance Evaluation of Container-based Virtualization for High Performance Computing Environments. [`arxiv`](https://arxiv.org/abs/1709.10140)
+- pix2code: Generating Code from a Graphical User Interface Screenshot. [`arxiv`](https://arxiv.org/abs/1705.07962) [`code`](https://github.com/tonybeltramelli/pix2code)
+- PixelNet: Representation of the pixels, by the pixels, and for the pixels. [`arxiv`](https://arxiv.org/abs/1702.06506) [`code`](https://github.com/aayushbansal/PixelNet)
+- PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. [`arxiv`](https://arxiv.org/abs/1706.02413) [`code`](https://github.com/charlesq34/pointnet2)
+- Privacy-Preserving Deep Inference for Rich User Data on The Cloud. [`arxiv`](https://arxiv.org/abs/1710.01727) [`code`](https://github.com/aliosia/DeepPrivInf2017)
+- Privileged Multi-label Learning. [`arxiv`](https://arxiv.org/abs/1701.07194)
+- Prochlo: Strong Privacy for Analytics in the Crowd. [`arxiv`](https://arxiv.org/abs/1710.00901)
+- Progressive Neural Architecture Search. [`arxiv`](https://arxiv.org/abs/1712.00559)
+- PRUNE: Preserving Proximity and Global Ranking for Network Embedding. [`url`](https://papers.nips.cc/paper/7110-prune-preserving-proximity-and-global-ranking-for-network-embedding) [`code`](https://github.com/ntumslab/PRUNE)
+- QCD-Aware Recursive Neural Networks for Jet Physics. [`arxiv`](https://arxiv.org/abs/1702.00748) [`code`](https://github.com/glouppe/recnn)
+- QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
+- Recurrent Additive Networks. [`arxiv`](https://arxiv.org/abs/1705.07393) [`pytorch`](https://github.com/bheinzerling/ran) :star:
+- Recurrent Pixel Embedding for Instance Grouping. [`arxiv`](https://arxiv.org/abs/1712.08273) [`code`](https://github.com//aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping)
+- Reducing Deep Network Complexity with Fourier Transform Methods. [`arxiv`](https://arxiv.org/abs/1801.01451) [`code`](https://github.com/andrew-jeremy/Reducing-Deep-Network-Complexity-with-Fourier-Transform-Methods)
+- Reducing Reparameterization Gradient Variance. [`arxiv`](https://arxiv.org/abs/1705.07880) [`code`](https://github.com/andymiller/ReducedVarianceReparamGradients)
+- RelNN: A Deep Neural Model for Relational Learning. [`arxiv`](https://arxiv.org/abs/1712.02831) [`code`](https://github.com//Mehran-k/RelNN)
+- Resting state fMRI functional connectivity-based classification using a convolutional neural network architecture. [`arxiv`](https://arxiv.org/abs/1707.06682) [`code`](https://github.com/MRegina/connectome_conv_net)
+- Robust Loss Functions under Label Noise for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1712.09482)
+- [best paper] Safe and Nested Endgame Solving for Imperfect-Information Games. [`pdf`](http://www.cs.cmu.edu/~noamb/papers/17-AAAI-Refinement.pdf) :star:
+- Scalable Gaussian Processes with Billions of Inducing Inputs via Tensor Train Decomposition. [`arxiv`](https://arxiv.org/abs/1710.07324) [`https://github.com//izmailovpavel/TTGP`]
+- Scaling the Scattering Transform: Deep Hybrid Networks. [`arxiv`](https://arxiv.org/abs/1703.08961) [`torch`](https://github.com/edouardoyallon/pyscatwave)
+- [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts.](https://deepmind.com/blog/imagine-creating-new-visual-concepts-recombining-familiar-ones/) [`arxiv`](https://arxiv.org/abs/1707.03389)
+- [See, Hear, and Read: Deep Aligned Representations.](http://people.csail.mit.edu/yusuf/see-hear-read/) [`arxiv`](https://arxiv.org/abs/1706.00932)
+- [Self-Normalizing Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650727793&idx=1&sn=3a86e5b9ce5bfc1d37c51dc0f09a84bc) [`arxiv`](https://arxiv.org/abs/1706.02515) [`code`](https://github.com/kevinzakka/research-paper-notes/blob/master/snn.md) :star:
+- Self-supervised Learning of Motion Capture. [`arxiv`](https://arxiv.org/abs/1712.01337)
+- Semi-Supervised Deep Learning for Monocular Depth Map Prediction. [`arxiv`](https://arxiv.org/abs/1702.02706)
+- Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures Via Semantic Representation. [`arxiv`](https://arxiv.org/abs/1701.00804)
+- Sentiment Predictability for Stocks. [`arxiv`](https://arxiv.org/abs/1712.05785) [`code`](https://github.com//jorpro/DeepTimeSeries)
+- Separable Fully Connected Layers Improve Deep Learning Models For Genomics. [`pdf`](http://www.biorxiv.org/content/early/2017/07/07/146431) [`code`](https://github.com/kundajelab/keras/tree/keras_1)
+- Shake-Shake regularization. [`arxiv`](https://arxiv.org/abs/1705.07485) [`code`](https://github.com/xgastaldi/shake-shake)
+- ShaResNet: reducing residual network parameter number by sharing weights. [`arxiv`](https://arxiv.org/abs/1702.08782) [`code`](https://github.com/aboulch/sharesnet)
+- ShortFuse: Biomedical Time Series Representations in the Presence of Structured Information. [`arxiv`](https://arxiv.org/abs/1705.04790)
+- ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. [`arxiv`](https://arxiv.org/abs/1707.01083) [`code`](https://github.com/camel007/Caffe-ShuffleNet)
+- [Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions.](https://mp.weixin.qq.com/s/DS1qVBUt24HWlWyvT_YDKQ) [`arxiv`](https://arxiv.org/abs/1711.08141) :star:
+- Simple And Efficient Architecture Search for Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1711.04528)
+- Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.03441) [`code`](https://github.com/jingweimo/Modified-LSTM) :star: 
+- SmoothGrad: removing noise by adding noise. [`arxiv`](https://arxiv.org/abs/1706.03825) [`code`](https://github.com/PAIR-code/saliency)
+- Sparse canonical correlation analysis. [`arxiv`](https://arxiv.org/abs/1705.10865)
+- Sparse-Input Neural Networks for High-dimensional Nonparametric Regression and Classification. [`arxiv`](https://arxiv.org/abs/1711.07592) [`tensorflow`](https://github.com//jjfeng/spinn)
+- Sparse Neural Networks Topologies. [`arxiv`](https://arxiv.org/abs/1706.05683) :star:
+- Squeeze-and-Excitation Networks. [`arxiv`](https://arxiv.org/abs/1709.01507) [`code`](https://github.com/hujie-frank/SENet) [`tensorflow`](https://github.com/taki0112/SENet-Tensorflow)
+- Statistical inference for network samples using subgraph counts. [`arxiv`](https://arxiv.org/abs/1701.00505)
+- Steerable CNNs. [`pdf`](https://openreview.net/pdf?id=rJQKYt5ll)
+- Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies. [`arxiv`](https://arxiv.org/abs/1704.00116)
+- Stochastic Subsampling for Factorizing Huge Matrices. [`arxiv`](https://arxiv.org/abs/1701.05363) [`code`](https://github.com/arthurmensch/modl)
+- Structured Embedding Models for Grouped Data. [`arxiv`](https://arxiv.org/abs/1709.10367) [`code`](https://github.com/mariru/structured_embeddings)
+- struc2vec: Learning Node Representations from Structural Identity. [`arxiv`](https://arxiv.org/abs/1704.03165) [`code`](https://github.com/leoribeiro/struc2vec)
+- Submanifold Sparse Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1706.01307) [`pytorch`](https://github.com/facebookresearch/SparseConvNet)
+- Super-Convergence: Very Fast Training of Residual Networks Using Large Learning Rates. [`arxiv`](https://arxiv.org/abs/1708.07120) [`code`](https://github.com/lnsmith54/super-convergence)
+- SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis. [`arxiv`](https://arxiv.org/abs/1708.01749)
+- Tensor Regression Networks with various Low-Rank Tensor Approximations. [`arxiv`](https://arxiv.org/abs/1712.09520) [`code`](https://github.com//Vixaer/LowRankTRN)
+- TF Boosted Trees: A scalable TensorFlow based framework for gradient boosting. [`arxiv`](https://arxiv.org/abs/1710.11555) :star:
+- The Case for Learned Index Structures. [`arxiv`](https://arxiv.org/abs/1712.01208) :star:
+- [The Cramer Distance as a Solution to Biased Wasserstein Gradients.](https://medium.com/towards-data-science/notes-on-the-cramer-gan-752abd505c00) [`arxiv`](https://arxiv.org/abs/1705.10743) [`pytorch`](https://github.com/ypxie/pytorch-cramer-Gan) :star:
+- The Future of Ad Blocking: An Analytical Framework and New Techniques. [`arxiv`](https://arxiv.org/abs/1705.08568) [`code`](https://github.com/citp/ad-blocking)
+- The Power of Sparsity in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1702.06257)
+- Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation. [`arxiv`](https://arxiv.org/abs/1704.06888) :star:
+- Time Series Anomaly Detection; Detection of anomalous drops with limited features and sparse examples in noisy highly periodic data. [`arxiv`](https://arxiv.org/abs/1708.03665)
+- To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection. [`arxiv`](https://arxiv.org/abs/1701.01692)
+- Towards "AlphaChem": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies. [`arxiv`](https://arxiv.org/abs/1702.00020)
+- Towards a New Interpretation of Separable Convolutions. [`arxiv`](https://arxiv.org/abs/1701.04489)
+- Towards Deeper Understanding of Variational Autoencoding Models. [`arxiv`](https://arxiv.org/abs/1702.08658) [`code`](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
+- Towards Understanding Generalization of Deep Learning: Perspective of Loss Landscapes. [`arxiv`](https://arxiv.org/abs/1706.10239)
+- Training a Fully Convolutional Neural Network to Route Integrated Circuits. [`arxiv`](https://arxiv.org/abs/1706.08948) [`pytorch`](https://github.com/sjain-stanford/deep-route)
+- Training Quantized Nets: A Deeper Understanding. [`arxiv`](https://arxiv.org/abs/1706.02379)
+- [Training RNNs as Fast as CNNs.](https://www.zhihu.com/question/65244705) [`arxiv`](https://arxiv.org/abs/1709.02755) [`code`](https://github.com/taolei87/sru) :star:
+- Train longer, generalize better: closing the generalization gap in large batch training of neural networks. [`arxiv`](https://arxiv.org/abs/1705.08741) [`pytorch`](https://github.com/eladhoffer/bigBatch)
+- Trust Region Policy Optimization.  [`arxiv`](https://arxiv.org/abs/1502.05477) [`pytorch`](https://github.com/ikostrikov/pytorch-trpo)
+- Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices. [`arxiv`](https://arxiv.org/abs/1701.00485)
+- Understanding Black-box Predictions via Influence Functions. [`arxiv`](https://arxiv.org/abs/1703.04730) :star:
+- [Understanding deep learning requires rethinking generalization.](http://weibo.com/ttarticle/p/show?id=2309351000224100795007132875&u=1402400261&m=4100900743750148&cu=3655689037) [`arxiv`](https://arxiv.org/abs/1611.03530) :star:
+- Understanding Hidden Memories of Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1710.10777)
+- Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1701.04128)
+- Understanding trained CNNs by indexing neuron selectivity. [`arxiv`](https://arxiv.org/abs/1702.00382)
+- Unsupervised feature learning with discriminative encoder. [`arxiv`](https://arxiv.org/abs/1709.00672)
+- Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data. [`arxiv`](https://arxiv.org/abs/1709.07902) [`tensorflow`](https://github.com//wnhsu/FactorizedHierarchicalVAE)
+- Unsupervised Representation Learning by Sorting Sequences. [`arxiv`](https://arxiv.org/abs/1708.01246) [`code`](https://github.com/HsinYingLee/OPN)
+- [best paper] Variance-based regularization with convex objectives. [`arxiv`](https://arxiv.org/abs/1610.02581) :star:
+- Variational Inference using Implicit Distributions. [`arxiv`](https://arxiv.org/abs/1702.08235)
+- Visual Explanations for Convolutional Neural Networks via Input Resampling. [`arxiv`](https://arxiv.org/abs/1707.09641) [`code`](https://github.com/blengerich/explainable-cnn)
+- Visualizing the Loss Landscape of Neural Nets. [`arxiv`](https://arxiv.org/abs/1712.09913)
+- Who Said What: Modeling Individual Labelers Improves Classification. [`arxiv`](https://arxiv.org/abs/1703.08774) :star:
+- [YellowFin and the Art of Momentum Tuning.](https://mp.weixin.qq.com/s/T-v9OTcJa5OQ71QmYrFtbg) [`arxiv`](https://arxiv.org/abs/1706.03471) [`tensorflow`](https://github.com/JianGoForIt/YellowFin) :star:
+  
+  
+### Attention and memory
+
+- A Structured Self-attentive Sentence Embedding. [`arxiv`](https://arxiv.org/abs/1703.03130) [`tensorflow`](https://github.com/Diego999/SelfSent)
+- Attention-based Extraction of Structured Information from Street View Imagery. [`arxiv`](https://arxiv.org/abs/1704.03549) :star:
+- Attention-Based Multimodal Fusion for Video Description. [`arxiv`](https://arxiv.org/abs/1701.03126)
+- Attention Is All You Need. [`arxiv`](https://arxiv.org/abs/1706.03762) [`tensorflow`](https://github.com/Kyubyong/transformer) :star:
+- Attention networks for image-to-text. [`arxiv`](https://arxiv.org/abs/1712.04046) [`tensorflow`](https://github.com//jvpoulos/Attention-OCR/)
+- Attentional Pooling for Action Recognition. [`url`](https://rohitgirdhar.github.io/AttentionalPoolingAction/) [`tensorflow`](https://github.com//rohitgirdhar/AttentionalPoolingAction)
+- Deep Memory Networks for Attitude Identification. [`arxiv`](https://arxiv.org/abs/1701.04189)
+- Dynamic Computational Time for Visual Attention(DT-RAM). [`arxiv`](https://arxiv.org/abs/1703.10332) [`torch`](https://github.com/baidu-research/DT-RAM) :star:
+- Efficient Attention using a Fixed-Size Memory Representation. [`arxiv`](https://arxiv.org/abs/1707.00110)
+- End-to-End Attention based Text-Dependent Speaker Verification. [`arxiv`](https://arxiv.org/abs/1701.00562)
+- Graph Attention Networks. [`arxiv`](https://arxiv.org/abs/1710.10903) [`tensorflow`](https://github.com/PetarV-/GAT) :star:
+- <b>[HRAN]</b> Hierarchical Recurrent Attention Network for Response Generation. [`arxiv`](https://arxiv.org/abs/1701.07149) [`code`](https://github.com/LynetteXing1991/HRAN) :star:
+- Online and Linear-Time Attention by Enforcing Monotonic Alignments. [`arxiv`](https://arxiv.org/abs/1704.00784) [`code`](https://github.com/craffel/mad)
+- Residual Attention Network for Image Classification. [`arxiv`](https://arxiv.org/abs/1704.06904) [`caffle`](https://github.com/buptwangfei/residual-attention-network)
+- Segmentation-Aware Convolutional Networks Using Local Attention Masks. [`arxiv`](https://arxiv.org/abs/1708.04607) [`caffe`](https://github.com/aharley/segaware)
+- Sequential Attention. [`arxiv`](https://arxiv.org/abs/1705.02269)
+- Structural Attention Neural Networks for improved sentiment analysis. [`arxiv`](https://arxiv.org/abs/1701.01811)
+- Structured Attention Networks. [`arxiv`](https://arxiv.org/abs/1702.00887) [`github`](https://github.com/harvardnlp/struct-attn)
+
+### Generative learning
+
+- <b>[AdaGAN]</b> Boosting Generative Models. [`arxiv`](https://arxiv.org/abs/1701.02386) [`code`](https://github.com/tolstikhin/adagan) :star: 
+- Adversarial Discriminative Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1702.05464) [`pytorch`](https://github.com//corenel/pytorch-adda)
+- Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods. [`arxiv`](https://arxiv.org/abs/1705.07263) [`code`](http://nicholas.carlini.com/code/)
+- [Adversarial Example Defenses: Ensembles of Weak Defenses are not Strong.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486092&idx=2&sn=c1dd3dbe70a765600f72ea4f45d642ed) [`arxiv`](https://arxiv.org/abs/1706.04701)
+- Adversarial Examples that Fool Detectors. [`arxiv`](https://arxiv.org/abs/1712.02494)
+- Adversarial Generator-Encoder Networks. [`pdf`](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf) [`code`](https://github.com/DmitryUlyanov/AGE)
+- Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04722) [`tensorflow`](https://github.com/LMescheder/AdversarialVariationalBayes)
+- Age Progression/Regression by Conditional Adversarial Autoencoder.  [`arxiv`](https://arxiv.org/abs/1702.08423) [`tensorflow`](https://github.com/ZZUTK/Face-Aging-CAAE)
+- A-NICE-MC: Adversarial Training for MCMC. [`arxiv`](https://arxiv.org/abs/1706.07561) [`tensorflow`](https://github.com/ermongroup/a-nice-mc)
+- An Online Learning Approach to Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1706.03269)
+- Are GANs Created Equal? A Large-Scale Study. [`arxiv`](https://arxiv.org/abs/1711.10337)
+- ArtGAN: Artwork Synthesis with Conditional Categorial GANs.[`arxiv`](https://arxiv.org/abs/1702.03410)
+- [Adversarial Attacks on Neural Network Policies.](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993385&idx=2&sn=b381743378a7cfb04abc807f4a5b2f40)  [`pdf`](http://rll.berkeley.edu/adversarial/arXiv2017_AdversarialAttacks.pdf) :star:
+- Adversarial Discriminative Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1702.05464) [`pytorch`](https://github.com//corenel/pytorch-adda)
+- Adversarial Networks for the Detection of Aggressive Prostate Cancer. [`arxiv`](https://arxiv.org/abs/1702.08014)
+- Aspect-augmented Adversarial Networks for Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1701.00188)
+- Automatic Generation of Typographic Font from a Small Font Subset. [`arxiv`](https://arxiv.org/abs/1701.05703) :star:
+- Bayesian GAN. [`arxiv`](https://arxiv.org/abs/1705.09558) [`tensorflow`](https://github.com//andrewgordonwilson/bayesgan/) :star:
+- <b>[BEGAN]</b> Boundary Equilibrium Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10717) [`pytorch`](https://github.com/carpedm20/BEGAN-pytorch) [`tensorflow`](https://github.com/carpedm20/BEGAN-tensorflow) :star:
+- Boosted Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08484)
+- CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training. [`arxiv`](https://arxiv.org/abs/1709.02023) [`code`](https://github.com/mkocaoglu/CausalGAN)
+- Class-Splitting Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1709.07359) [`tensorflow`](https://github.com/CIFASIS/splitting_gan)
+- ConvNets and ImageNet Beyond Accuracy: Explanations, Bias Detection, Adversarial Examples and Model Criticism. [`arxiv`](https://arxiv.org/abs/1711.11443)
+- Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields. [`arxiv`](https://arxiv.org/abs/1708.08819) [`code`](https://github.com/bioinf-jku/coulomb_gan)
+- Counterfactual Control for Free from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.06676) [`code`](https://github.com/arayabrain/GenerativeControl)
+- DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1711.07064) [`pytorch`](https://github.com//KupynOrest/DeblurGAN)
+- Deep adversarial neural decoding. [`arxiv`](https://arxiv.org/abs/1705.07109) :star:
+- Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning. [`arxiv`](https://arxiv.org/abs/1702.07464)
+- Deformable GANs for Pose-based Human Image Generation. [`arxiv`](https://arxiv.org/abs/1801.00055) [`code`](https://github.com//AliaksandrSiarohin/pose-gan)
+- DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data. [`arxiv`](https://arxiv.org/abs/1706.02071) [`code`](https://github.com/val-iisc/deligan)
+- Dense Associative Memory is Robust to Adversarial Inputs. [`arxiv`](https://arxiv.org/abs/1701.00939)
+- Denoising Adversarial Autoencoders. [`arxiv`](https://arxiv.org/abs/1703.01220) [`code`](https://github.com/ToniCreswell/DAAE_) :star:
+- Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models. [`arxiv`](https://arxiv.org/abs/1712.04248) [`code`](https://github.com//bethgelab/foolbox)
+- Distributional Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1706.09549) [`tensorflow`](https://github.com/ChengtaoLi/dan)
+- End-to-End Differentiable Adversarial Imitation Learning. [`url`](http://proceedings.mlr.press/v70/baram17a.html) [`tensorflow`](https://github.com/itaicaspi/mgail)
+- Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters. [`arxiv`](https://arxiv.org/abs/1703.06283) [`tensorflow`](https://github.com/huangshiyu13/RPNplus)
+- Face Aging With Conditional Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.01983)
+- Face Super-Resolution Through Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1705.02438) [`tensorflow`](https://github.com/MandyZChen/srez)
+- Face Synthesis from Facial Identity Features. [`arxiv`](https://arxiv.org/abs/1701.04851)
+- Face Synthesis from Visual Attributes via Sketch using Conditional VAEs and GANs. [`arxiv`](https://arxiv.org/abs/1801.00077) [`code`](https://github.com//DetionDX/Attribute2Sketch2Face)
+- f-GANs in an Information Geometric Nutshell. [`arxiv`](https://arxiv.org/abs/1707.04385) [`code`](https://github.com/qulizhen/fgan_info_geometric)
+- Fisher GAN. [`arxiv`](https://arxiv.org/abs/1705.09675)
+- Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking. [`arxiv`](https://arxiv.org/abs/1704.04865)
+- Geometric GAN. [`arxiv`](https://arxiv.org/abs/1705.02894)
+- GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data. [`arxiv`](https://arxiv.org/abs/1705.04932) [`code`](https://github.com/Prinsphield/GeneGAN)
+- Generative Adversarial Active Learning. [`arxiv`](https://arxiv.org/abs/1702.07956)
+- Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit.[`arxiv`](https://arxiv.org/abs/1702.00403) [`code`](https://github.com/SpaceML/GalaxyGAN/)
+- Generative Adversarial Residual Pairwise Networks for One Shot Learning. [`arxiv`](https://arxiv.org/abs/1703.08033)
+- Generative Adversarial Training for Markov Chains. [`pdf`](https://openreview.net/pdf?id=S1L-hCNtl) [`tensorflow`](https://github.com/ermongroup/markov-chain-gan) :star:
+- Generative Cooperative Net for Image Generation and Data Augmentation. [`arxiv`](https://arxiv.org/abs/1705.02887)
+- Generative Face Completion. [`arxiv`](https://arxiv.org/abs/1704.05838)
+- Generative Temporal Models with Memory. [`arxiv`](https://arxiv.org/abs/1702.04649)
+- Generalization and Equilibrium in Generative Adversarial Nets (GANs). [`arxiv`](https://arxiv.org/abs/1703.00573)
+- GibbsNet: Iterative Adversarial Inference for Deep Graphical Models. [`arxiv`](https://arxiv.org/abs/1712.04120) [`pytorch`](https://github.com/wlwkgus/GibbsNet)
+- GP-GAN: Towards Realistic High-Resolution Image Blending.  [`arxiv`](https://arxiv.org/abs/1703.07195) [`code`](https://github.com/wuhuikai/GP-GAN) 
+- Gradient descent GAN optimization is locally stable. [`arxiv`](https://arxiv.org/abs/1706.04156) :star:
+- Guiding InfoGAN with Semi-Supervision. [`arxiv`](https://arxiv.org/abs/1707.04487) [`code`](https://github.com/spurra/ss-infogan)
+- High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. [`arxiv`](https://arxiv.org/pdf/1711.11585.pdf) [`code`](https://github.com/NVIDIA/pix2pixHD)
+- How to Train Your DRAGAN. [`arxiv`](https://arxiv.org/abs/1705.07215) [`code`](https://github.com/kodalinaveen3/DRAGAN)
+- Hybrid VAE: Improving Deep Generative Models using Partial Observations. [`arxiv`](https://arxiv.org/abs/1711.11566)
+- Image De-raining Using a Conditional Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1701.05957) [`caffe`](https://github.com/ruimashita/caffe-train/blob/master/vgg.train_val.prototxt)
+- Image Generation and Editing with Variational Info Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04568)
+- Improved Training of Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1704.00028) [`tensorflow`](https://github.com/igul222/improved_wgan_training) [`pytorch`](https://github.com/caogang/wgan-gp) :star:
+- Improved Semi-supervised Learning with GANs using Manifold Invariances. [`arxiv`](https://arxiv.org/abs/1705.08850)
+- InfoVAE: Information Maximizing Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1706.02262)
+- It Takes (Only) Two: Adversarial Generator-Encoder Networks. [`arxiv`](https://arxiv.org/abs/1704.02304) [`code`](https://github.com/DmitryUlyanov/AGE)
+- Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models. [`arxiv`](https://arxiv.org/abs/1711.05772) [`code`](http://t.cn/RjYZgvA?u=1402400261&m=4175302026003996&cu=undefined)
+- LatentPoison - Adversarial Attacks On The Latent Space. [`arxiv`](https://arxiv.org/abs/1711.02879) [`code`](https://github.com//ToniCreswell/Adversarial-Attack-On-Latent-Space)
+- Learning Hierarchical Features from Generative Models. [`arxiv`](https://arxiv.org/abs/1702.08396) [`tensorflow`](https://github.com/ShengjiaZhao/Variational-Ladder-Autoencoder)
+- Learning Texture Manifolds with the Periodic Spatial GAN. [`arxiv`](https://arxiv.org/abs/1705.06566) [`code`](https://github.com/ubergmann/psgan)
+- Lifelong Generative M odeling. [`arxiv`](https://arxiv.org/abs/1705.09847) [`code`](https://github.com/jramapuram/LifelongVAE)
+- Learning Disentangled Representations with Semi-Supervised Deep Generative Models. [`arxiv`](https://arxiv.org/abs/1706.00400)
+- LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation. [`arxiv`](https://arxiv.org/abs/1703.01560) [`pytorch`](https://github.com/jwyang/lr-gan.pytorch)
+- <b>[DiscoGAN]</b> Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05192) [`code`](https://github.com/dhgrs/chainer-DiscoGAN) :star:
+- Learning to Draw Dynamic Agent Goals with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.07319)
+- [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities.](https://zhuanlan.zhihu.com/p/25204020)  [`arxiv`](https://arxiv.org/abs/1701.06264) [`code`](https://github.com/guojunq/lsgan)
+- Mastering Sketching: Adversarial Augmentation for Structured Prediction.  [`arxiv`](https://arxiv.org/abs/1703.08966) [`code`](https://github.com/bobbens/sketch_simplification) :star:
+- <b>[MADGAN]</b> Multi-Agent Diverse Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1704.02906) [`code`](https://github.com/arnabgho/MADGAN)
+- Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction. [`arxiv`](https://arxiv.org/abs/1704.01691)  [`code`](https://github.com/violet-zct/MSVED-morph-reinflection)
+- Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders. [`arxiv`](https://arxiv.org/abs/1704.01279) [`tensorflow`](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth) :star:
+- On the Effects of Batch and Weight Normalization in Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1704.03971) [`code`](https://github.com/stormraiser/GAN-weight-norm)
+- Parseval Networks: Improving Robustness to Adversarial Examples. [`arxiv`](https://arxiv.org/abs/1704.08847)
+- PixelSNAIL: An Improved Autoregressive Generative Model. [`arxiv`](https://arxiv.org/abs/1712.09763) [`tensorflow`](https://github.com//neocxi/pixelsnail-public)
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation. [`arxiv`](https://arxiv.org/abs/1710.10196) [`pytorch`](https://github.com//nashory/pggan-pytorch) :star:
+- Recent Advances in Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.01078)
+- Reconstruction of three-dimensional porous media using generative adversarial neural networks. [`arxiv`](https://arxiv.org/abs/1704.03225) [`code`](https://github.com/LukasMosser/PorousMediaGan)
+- Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis. [`arxiv`](https://arxiv.org/abs/1710.06564) [`keras`](https://github.com/mmalekzadeh/replacement-autoencoder)
+- <b>[SalGAN]</b> Visual Saliency Prediction with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.01081) [`code`](https://github.com/imatge-upc/saliency-salgan-2017) :star: 
+- Scene Graph Generation by Iterative Message Passing. [`arxiv`](https://arxiv.org/abs/1701.02426) [`tensorflow`](https://github.com/danfeiX/scene-graph-TF-release)
+- SEGAN: Speech Enhancement Generative Adversarial Network.  [`arxiv`](https://arxiv.org/abs/1703.09452) [`tensorflow`](https://github.com/santi-pdp/segan)
+- Softmax GAN. [`arxiv`](https://arxiv.org/abs/1704.06191)
+- Spectral Normalization for Generative Adversarial Networks. [`pdf`](https://openreview.net/pdf?id=B1QRgziT-) :star:
+- [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation.](https://mp.weixin.qq.com/s/bIziwKBB2sXHxIDRpkYlHw) [`arxiv`](https://arxiv.org/abs/1711.09020) [`code`](https://github.com//yunjey/StarGAN) :star:
+- Steganographic Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.05502) [`code`](https://github.com/dvolkhonskiy/adversarial-steganography)
+- TextureGAN: Controlling Deep Image Synthesis with Texture Patches. [`arxiv`](https://arxiv.org/abs/1706.02823) 
+- Towards an Understanding of Our World by GANing Videos in the Wild. [`arxiv`](https://arxiv.org/abs/1711.11453) [`tensorflow`](https://github.com//bernhard2202/improved-video-gan)
+- Towards Deep Learning Models Resistant to Adversarial Attacks. [`arxiv`](https://arxiv.org/abs/1706.06083) [`code`](https://github.com/tensorflow/cleverhans/blob/master/cleverhans/attacks.py)
+- Towards Diverse and Natural Image Descriptions via a Conditional GAN. [`arxiv`](http://weibo.com/1402400261/EBP7EgRkQ?type=comment#_rnd1490711748139)
+- Towards Principled Methods for Training Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.04862) :star:
+- Training GANs with Optimism. [`arxiv`](https://arxiv.org/abs/1711.00141) [`code`](https://github.com//vsyrgkanis/optimistic_GAN_training)
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1703.10593)  [`torch`](https://github.com/junyanz/CycleGAN) :star:
+- Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery. [`arxiv`](http://weibo.com/1402400261/EAKUStV9i?type=comment#_rnd1490105990159)
+- Unsupervised Diverse Colorization via Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1702.06674)
+- Unsupervised Image-to-Image Translation with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1701.02676)
+- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1511.06434) [`tensorflow`](https://github.com/carpedm20/DCGAN-tensorflow)
+- [Variational Approaches for Auto-Encoding Generative Adversarial Networks.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486161&idx=2&sn=e11c6bb9839a1fde85e96d26ac2d0b75) [`arxiv`](https://arxiv.org/abs/1706.04987)
+- VAE with a VampPrior. [`arxiv`](https://arxiv.org/abs/1705.07120) [`code`](https://github.com/jmtomczak/vae_vampprior)
+- VIGAN: Missing View Imputation with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1708.06724) [`pytorch`](https://github.com/chaoshangcs/VIGAN)
+- Visual Feature Attribution using Wasserstein GANs. [`arxiv`](https://arxiv.org/abs/1711.08998) [`pytorch`](https://github.com/orobix/Visual-Feature-Attribution-Using-Wasserstein-GANs-Pytorch)
+- Wasserstein Auto-Encoders. [`arxiv`](https://arxiv.org/abs/1711.01558) [`code`](https://github.com/tolstikhin/wae)
+- <b>[WGAN]</b> [Wasserstein GAN.](https://zhuanlan.zhihu.com/p/25071913) [`arxiv`](https://arxiv.org/abs/1701.07875) [`pytorch`](https://github.com/martinarjovsky/WassersteinGAN) [`tensorflow`](https://github.com/Zardinality/WGAN-tensorflow) :star:
+- Wasserstein Learning of Deep Generative Point Process Models. [`arxiv`](https://arxiv.org/abs/1705.08051)
+- WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images. [`arxiv`](https://arxiv.org/abs/1702.07392) [`code`](https://github.com/kskin/WaterGAN)
+- XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings. [`arxiv`](https://arxiv.org/abs/1711.05139)
+  
+
+### Transfer learning
+
+- Aligned Image-Word Representations Improve Inductive Transfer Across Vision-Language Tasks. [`arxiv`](https://arxiv.org/abs/1704.00260)
+- An Interpretable Knowledge Transfer Model for Knowledge Base Completion. [`arxiv`](https://arxiv.org/abs/1704.05908)
+- Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization. [`pdf`](https://openreview.net/pdf?id=B1fUVMzKg) [`code`](https://github.com/xunhuang1995/AdaIN-style) [`tensorflow`](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
+- Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model. [`arxiv`](https://arxiv.org/abs/1706.01554) [`pytorch`](https://github.com/jiasenlu/visDial.pytorch)
+- Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning. [`arxiv`](https://arxiv.org/abs/1702.08690)
+- Bringing Impressionism to Life with Neural Style Transfer in Come Swim. [`arxiv`](https://arxiv.org/abs/1701.04928)
+- Characterizing and Improving Stability in Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1705.02092)
+- DSSD : Deconvolutional Single Shot Detector. [`arxiv`](https://arxiv.org/abs/1701.06659)
+- Deep Photo Style Transfer. [`arxiv`](https://arxiv.org/abs/1703.07511) [`torch`](https://github.com/luanfujun/deep-photo-styletransfer)
+- Demystifying Neural Style Transfer. [`arxiv`](https://arxiv.org/abs/1701.01036) [`mxnet`](https://github.com/lyttonhao/Neural-Style-MMD)
+- Fashioning with Networks: Neural Style Transfer to Design Clothes. [`arxiv`](https://arxiv.org/abs/1707.09899)
+- Learning More Universal Representations for Transfer-Learning. [`arxiv`](https://arxiv.org/abs/1712.09708)
+- Learning Transferable Architectures for Scalable Image Recognition. [`arxiv`](https://arxiv.org/abs/1707.07012) [`keras`](https://github.com//titu1994/Keras-NASNet)
+- Massive Exploration of Neural Machine Translation Architectures. [`arxiv`](https://arxiv.org/abs/1703.03906) [`code`](https://github.com/google/seq2seq/)
+- [Multi-style Generative Network for Real-time Transfer.](https://zhuanlan.zhihu.com/p/25892708) [`arxiv`](https://arxiv.org/abs/1703.06953) [`torch`](https://github.com/zhanghang1989/MSG-Net) :star:
+- Mutual Alignment Transfer Learning. [`arxiv`](https://arxiv.org/abs/1707.07907)
+- One-Shot Imitation Learning. [`arxiv`](https://arxiv.org/abs/1703.07326) :star:
+- One-Shot Visual Imitation Learning via Meta-Learning. [`arxiv`](https://arxiv.org/abs/1709.04905)
+- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks.](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723351&idx=5&sn=704f34894da5166701baa9af39684b3e)[`arxiv`](https://arxiv.org/abs/1701.08734) :star:
+- Question Answering through Transfer Learning from Large Fine-grained Supervision Data. [`arxiv`](https://arxiv.org/abs/1702.02171)
+- Real-Time Neural Style Transfer for Videos. [`pdf`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)
+- Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1701.02357)
+- StyleBank: An Explicit Representation for Neural Image Style Transfer. [`arxiv`](https://arxiv.org/abs/1703.09210)
+- Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN. [`arxiv`](https://arxiv.org/abs/1706.03319)
+- Style Transfer Generative Adversarial Networks: Learning To Play Chess Differently. [`pdf`](https://openreview.net/pdf?id=HkpbnufYe)
+- The Space of Transferable Adversarial Examples. [`arxiv`](https://arxiv.org/abs/1704.03453)
+- Transferring Face Verification Nets To Pain and Expression Regression. [`arxiv`](https://arxiv.org/abs/1702.06925) [`code`](https://github.com/happynear/PainRegression)
+- Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network. [`arxiv`](https://arxiv.org/abs/1702.04488) [`code`](https://github.com/jincy520/Low-Resource-CWS-)
+- Transfer learning for music classification and regression tasks. [`arxiv`](https://arxiv.org/abs/1703.09179) [`keras`](https://github.com/keunwoochoi/transfer_learning_music)
+- Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks.  [`arxiv`](https://arxiv.org/abs/1703.06345)
+- Transfer Learning with Label Noise. [`arxiv`](https://arxiv.org/abs/1707.09724)
+- Unsupervised Image-to-Image Translation Networks. [`arxiv`](https://arxiv.org/abs/1703.00848)
+- Universal Style Transfer via Feature Transforms. [`arxiv`](https://arxiv.org/abs/1705.08086) [`torch`](https://github.com/Yijunmaverick/UniversalStyleTransfer)
+- Visual Attribute Transfer through Deep Image Analogy. [`arxiv`](https://arxiv.org/abs/1705.01088) [`code`](https://github.com/msracver/Deep-Image-Analogy)
+- Zero-Shot Transfer Learning for Event Extraction. [`arxiv`](https://arxiv.org/abs/1707.01066)
+  
+  
+

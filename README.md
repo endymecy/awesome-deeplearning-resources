@@ -1,187 +1,195 @@
-# Awesome Deep learning papers
+# Awesome Deep learning papers and other resources
+
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A list of recent papers regarding deep learning and deep reinforcement learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
+
+You should find the papers and software with star flag are more important or popular.
 
 ## Table of Contents
 
 - [Papers](#papers)
 - [Model Zoo](#model-zoo)
+- [Pretrained Model](#pre-trained-model)
 - [Courses](#courses)
 - [Books](#books)
-- [Videos](#videos)
+- [Tutorials](#tutorials)
 - [Software](#software)
+- [Applications](#applications)
+- [Awesome Projects](#awesome-projects)
+- [Corpus](#corpus)
 
 # Papers
 
-- [2017 year](md/2017/dl.md)
-    - [deep learning](md/2017/dl.md)
-       - [deep learning](md/2017/dl.md#deep-learning) 
-       - [computer vision](md/2017/dl.md#computer-vision)
-       - [attention and memory](md/2017/dl.md#attention-and-memory)
-       - [generative learning](md/2017/dl.md#generative-learning)
-       - [transfer learning](md/2017/dl.md#transfer-learning)
-    - [deep reinforcement learning](md/2017/rl.md) 
-    - [natural language process](md/2017/nlp.md)
-       - [deep learning](md/2017/nlp.md#deep-learning)
-       - [attention and memory](md/2017/nlp.md#attention-and-memory)
-- [2016 year](md/2016/dl.md)
-    - [deep learning](md/2016/dl.md)
-        - [deep learning](md/2016/dl.md#deep-learning)
-        - [computer vision](md/2016/dl.md#computer-vision)
-        - [attention and memory](md/2016/dl.md#attention-and-memory)
-        - [generative learning](md/2016/dl.md#generative-learning)
-        - [transfer learning](md/2016/dl.md#transfer-learning)
-        - [one/zero shot learning](md/2016/dl.md#one/zero-shot-learning)
-    - [deep reinforcement learning](md/2016/rl.md)
-    - [natural language process](md/2016/nlp.md)
-        - [generative learning](md/2016/nlp.md#generative-learning)
-        - [attention and memory](md/2016/nlp.md#attention-and-memory)
-- [2015 year](md/2015.md)
-    - [deep learning](md/2015.md#deep-learning)
-    - [computer vision](md/2015.md#computer-vision)
-    - [attention and memory](md/2015.md#attention-and-memory)
-    - [generative learning](md/2015.md#generative-learning)
-    - [transfer learning](md/2015.md#transfer-learning)
-    - [one/zero shot learning](md/2015.md#one/zero-shot-learning)
-    - [deep reinforcement learning](md/2015.md#deep-reinforcement-learning)
-    - [natural language process](md/2015.md#natural-language-process)
-- [2014 year](md/2014.md)
-    - [deep learning](md/2014.md#deep-learning)
-    - [generative learning](md/2014.md#adversarial-network)
-    - [attention and memory](md/2014.md#attention-and-memory)
-    - [deep reinforcement Learning](md/2014.md#deep-reinforcement-learning) 
-    - [transfer learning](md/2014.md#transfer-learning)
-    - [natural language process](md/2014.md#natural-language-process)
-- [2013 year](md/2013.md)
-    - [deep learning](md/2013.md#deep-learning)
-    - [transfer learning](md/2013.md#transfer-learning)
-    - [deep reinforcement Learning](md/2013.md#deep-reinforcement-learning) 
-- [2012 year](md/2012.md)
-    - [transfer learning](md/2012.md#transfer-learning)
-- [2011 year](md/2011.md)
-    - [transfer learning](md/2011.md#transfer-learning)
-- [2010 year](md/2010.md)
-    - [transfer learning](md/2010.md#transfer-learning)
-- [before 2010 year](md/before-2010.md)
-    - [transfer learning](md/before-2010.md#transfer-learning)
+- [2018 year](papers/2018/dl.md)
+    - [deep learning](papers/2018/dl.md)
+    - [deep reinforcement learning](papers/2018/rl.md) 
+    - [natural language process](papers/2018/nlp.md)
+    - [computer vision](papers/2018/cv.md)
+- [2017 year](papers/2017/dl.md)
+    - [deep learning](papers/2017/dl.md)
+    - [deep reinforcement learning](papers/2017/rl.md) 
+    - [natural language process](papers/2017/nlp.md)
+    - [computer vision](papers/2017/cv.md)
+- [2016 year](papers/2016/dl.md)
+    - [deep learning](papers/2016/dl.md)
+    - [deep reinforcement learning](papers/2016/rl.md)
+    - [natural language process](papers/2016/nlp.md)
+    - [computer vision](papers/2016/cv.md)
+- [2015 year](papers/2015.md)
+- [2014 year](papers/2014.md)
+- [2013 year](papers/2013.md) 
+- [2012 year](papers/2012.md)
+- [2011 year](papers/2011.md)
+- [2010 year](papers/2010.md)
+- [before 2010 year](papers/before-2010.md)
 
 # Model Zoo
 
-| year | name |  paper | code |
-| ------ | ------ | -------- | ------ | ------ |
-| 2012 | AlexNet | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | https://code.google.com/p/cuda-convnet/ |
-| 2013 | RCNN | [arxiv](https://arxiv.org/abs/1311.2524) | https://github.com/rbgirshick/rcnn | 
-| 2014 | CGNA | [arxiv](https://arxiv.org/abs/1411.1784) | https://github.com/zhangqianhui/Conditional-Gans | 
-| 2014 | DeepFaceVariant | [pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf) | https://github.com/joyhuang9473/deepid-implementation | 
-| 2014 | GAN | [arxiv](https://arxiv.org/abs/1406.2661) | https://github.com/goodfeli/adversarial | 
-| 2014 | GoogLeNet | [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf) | https://github.com/google/inception | 
-| 2014 | OverFeat | [arxiv](https://arxiv.org/abs/1312.6229) | https://github.com/sermanet/OverFeat | 
-| 2014 | SPPNet | [arxiv](https://arxiv.org/abs/1406.4729) | https://github.com/yhenon/keras-spp | 
-| 2014 | VAE | [arxiv](https://arxiv.org/abs/1406.5298) | https://github.com/dpkingma/nips14-ssl | 
-| 2014 | VGGNet | [arxiv](https://arxiv.org/pdf/1409.1556.pdf) | https://gist.github.com/ksimonyan/211839e770f7b538e2d8 | 
-| 2015 | DCGAN | [arxiv](https://arxiv.org/abs/1511.06434) | https://github.com/carpedm20/DCGAN-tensorflow | 
-| 2015 | DRAW | [arxiv](https://arxiv.org/abs/1502.04623) | https://github.com/ericjang/draw | 
-| 2015 | Global And Local Attention | [arxiv](https://arxiv.org/abs/1508.04025) | https://github.com/giancds/tsf_nmt | 
-| 2015 | FaceNet | [arxiv](https://arxiv.org/abs/1503.03832) | https://github.com/davidsandberg/facenet | 
-| 2015 | Fast RCNN | [arxiv](https://arxiv.org/abs/1504.08083) | https://github.com/rbgirshick/fast-rcnn | 
-| 2015 | Faster RCNN | [arxiv](https://arxiv.org/abs/1506.01497) | https://github.com/rbgirshick/py-faster-rcnn | 
-| 2015 | FCNT | [pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/wangOWLiccv15.pdf) | https://github.com/scott89/FCNT | 
-| 2015 | Inception | [arxiv](http://arxiv.org/abs/1512.00567) | https://github.com/tensorflow/models/tree/master/inception | 
-| 2015 | LAPGAN | [arxiv](https://arxiv.org/abs/1506.05751) | https://github.com/facebook/eyescream | 
-| 2015 | NeuralGPU | [arxiv](http://arxiv.org/abs/1511.08228) | https://github.com/tensorflow/models/tree/master/neural_gpu | 
-| 2015 | Pointer Net | [arxiv](https://arxiv.org/abs/1506.03134) | https://github.com/devsisters/pointer-network-tensorflow | 
-| 2015 | ResNet | [arxiv1](https://arxiv.org/pdf/1512.03385v1.pdf) , [arxiv2](https://arxiv.org/pdf/1605.07146v1.pdf), [arxiv3](https://arxiv.org/pdf/1603.05027v2.pdf) | https://github.com/tensorflow/models/tree/master/resnet | 
-| 2015 | Transformer | [arxiv](https://arxiv.org/abs/1506.02025) | https://github.com/tensorflow/models/tree/master/transformer | 
-| 2016 | Dp_sgd | [arxiv](https://arxiv.org/abs/1607.00133) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
-| 2016 | EnergyGAN | [arxiv](https://arxiv.org/pdf/1609.03126) | https://github.com/buriburisuri/ebgan | 
-| 2016 | Grad-CAM | [arxiv](https://arxiv.org/abs/1610.02391) | https://github.com/Ankush96/grad-cam.tensorflow | 
-| 2016 | Im2txt | [arxiv](http://arxiv.org/abs/1609.06647) | https://github.com/tensorflow/models/tree/master/im2txt | 
-| 2016 | InfoGAN | [arxiv](https://arxiv.org/abs/1606.03657) | https://github.com/buriburisuri/supervised_infogan | 
-| 2016 | Multiple_teachers | [arxiv](https://arxiv.org/abs/1610.05755) | https://github.com/tensorflow/models/tree/master/differential_privacy | 
-| 2016 | Neural Programmer | [pdf](https://openreview.net/pdf?id=ry2YOrcge) | https://github.com/tensorflow/models/tree/master/neural_programmer | 
-| 2016 | PCNN | [arxiv](https://arxiv.org/abs/1606.05328) | https://github.com/kundan2510/pixelCNN | 
-| 2016 | PVANet | [arxiv](https://arxiv.org/abs/1611.08588) | https://github.com/sanghoon/pva-faster-rcnn | 
-| 2016 | R-FCN | [arxiv](https://arxiv.org/abs/1605.06409) | https://github.com/Orpine/py-R-FCN | 
-| 2016 | SeqGAN | [pdf](https://github.com/endymecy/awesome-deeplearning-papers/blob/master/md/2016/docs/2016/SeqGAN-%20Sequence%20Generative%20Adversarial%20Nets%20with%20Policy%20Gradient.pdf) | https://github.com/LantaoYu/SeqGAN | 
-| 2016 | SqueezeNet | [arxiv](https://arxiv.org/abs/1602.07360) | https://github.com/songhan/SqueezeNet-Deep-Compression | 
-| 2016 | Swivel | [arxiv](https://arxiv.org/abs/1602.02215) | https://github.com/tensorflow/models/tree/master/swivel | 
-| 2016 | SyntaxNet | [arxiv](https://arxiv.org/abs/1603.06042) | https://github.com/tensorflow/models/tree/master/syntaxnet | 
-| 2016 | Textsum |  | https://github.com/tensorflow/models/tree/master/textsum | 
-| 2016 | VGNA | [arxiv](https://arxiv.org/abs/1611.01799) | https://github.com/Shuangfei/vgan | 
-| 2017 | SalGAN | [arxiv](https://arxiv.org/abs/1701.01081) | https://github.com/imatge-upc/saliency-salgan-2017 | 
-| 2017 | WGAN | [arxiv](https://arxiv.org/abs/1701.07875) | https://github.com/Zardinality/WGAN-tensorflow | 
+* 2012 | AlexNet: ImageNet Classification with Deep Convolutional Neural Networks. [`pdf`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [`code`](https://github.com/kratzert/finetune_alexnet_with_tensorflow)
+* 2013 | RCNN: Rich feature hierarchies for accurate object detection and semantic segmentation.  [`arxiv`](https://arxiv.org/abs/1311.2524)  [`code`](https://github.com/rbgirshick/rcnn) 
+* 2014 | CGNA: Conditional Generative Adversarial Nets. [`arxiv`](https://arxiv.org/abs/1411.1784)  [`code`](https://github.com/zhangqianhui/Conditional-Gans) 
+* 2014 | DeepFaceVariant: Deep Learning Face Representation from Predicting 10,000 Classes. [`pdf`](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)  [`code`](https://github.com/joyhuang9473/deepid-implementation) 
+* 2014 | GAN: Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1406.2661)  [`code`](https://github.com/goodfeli/adversarial) 
+* 2014 | GoogLeNet: Going Deeper with Convolutions. [`pdf`](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)  [`code`](https://github.com/google/inception) 
+
+More details in [Model Zoo](model_zoo.md)
+
+# Pre Trained Model
+
+* [Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual)
+* [Available pretrained word embeddings](https://github.com/vzhong/embeddings)
+* [Inception-v3 of imagenet](http://download.tensorflow.org/models/image/imagenet/inception-v3-2016-03-01.tar.gz)
+* [Caffe2 Model Repository](https://github.com/caffe2/models)
+
+More details in [Pretrained Model](pre_trained.md)
 
 # Courses
 
-* [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-* [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
-* [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-* [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-* [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 * [Berkeley] [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 * [Berkeley] [Stat212b：Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
-* [MIT] [S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-* [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
-* [Stanford] [CS20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
-* [Stanford] [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
-* [MIT] [S191: Introduction to Deep Learning](http://introtodeeplearning.com/schedule.html)
+* [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
+* [CMU] [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
+* [CMU] [Neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
+
+More details in [courses](courses.md)
 
 # Books
 
-* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/), [[zh](https://github.com/exacity/deeplearningbook-chinese)]
-* [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese)
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
-* [神经网络与深度学习.邱锡鹏](https://nndl.github.io/)
-* [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
-* [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) [[code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)]
-* [Reinforcement LearningState-of-the-Art](http://www.ai.rug.nl/~mwiering/RL-state-of-the-art)   
-* [A Course in Machine Learning](http://ciml.info/)
-* [深度学习入门 by PaddlePaddle](https://github.com/PaddlePaddle/book)
-* [TensorFlow For Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
+* [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
-# Videos
+More details in [books](books.md)
 
-* Talks
-  * [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24)
-  * [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs)
-  * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
-  * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
-* Courses
-  * [Deep Learning Course – Nando de Freitas@Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
-  * [吴立德 《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
-  * [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
-  * [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
-  * [Udacity Deep Learning Online Course, by google](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
-  * [Foundations of Machine Learning Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
-  
+# Tutorials
+
+*  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+*  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
+*  [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
+*  [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+*  [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+*  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+*  [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+
+More details in [tutorials](tutorials.md)
+
 # Software
 
-* <b>[C++]</b> Singa: Singa is an Apache Incubating project for developing an open source deep learning library. [[Web](http://singa.incubator.apache.org/en/index.html)]
-* <b>[C++]</b> Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)] :star:
-* <b>[Python]</b> Chainer bridge the gap between algorithms and implementations of deep learning. [[Web](http://chainer.org/)]
-* <b>[C++] </b>CNTK:The Microsoft Cognitive Toolkit. [[Web](https://github.com/Microsoft/CNTK)]
-* <b>[Python]</b> DeepPy is a Pythonic deep learning framework built on top of NumPy.[[Web](https://github.com/andersbll/deeppy)]
-* <b>[Python]</b> Deepnet: a GPU-based python implementation of deep learning algorithms. [[Web](https://github.com/nitishsrivastava/deepnet)]
-* <b>[Python]</b> Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
-* <b>[Java]</b> Deeplearning4J: Neural Net Platform. [[Web](https://github.com/deeplearning4j/deeplearning4j)] 
-* <b>[Python]</b> Edward: A library for probabilistic modeling, inference, and criticism. [[Web](http://edwardlib.org/)]
-* <b>[Python]</b> Gensim: Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.[[Web](http://radimrehurek.com/gensim/)]
-* <b>[Python]</b> Hebel: A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA. [[Web](https://github.com/hannes-brt/hebel)]
-* <b>[Python]</b> Keras: Deep Learning library for Theano and TensorFlow. [[Web](https://keras.io/)] :star:
-* <b>[Julia]</b> Knet: Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia. [[Web](https://github.com/denizyuret/Knet.jl)]
-* <b>[Python]</b> Kur: Descriptive Deep Learning. [[Web](https://github.com/deepgram/kur)] :star:
-* <b>[Matlab]</b> MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
-* <b>[Julia]</b> Mocha is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. [[Web](https://github.com/pluskid/Mocha.jl)]
-* <b>[C++]</b> MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)] :star:
-  * <b>[Python]</b> MinPy: Providing a high performing and flexible deep learning platform, by prototyping a pure NumPy interface above MXNet backend. [[Web](https://github.com/dmlc/minpy)]
-* <b>[Python]</b> Neon is Nervana's Python based Deep Learning framework.[[Web](https://github.com/NervanaSystems/neon)]
-* <b>[C++]</b> NVIDIA DIGITS is a new system for developing, training and visualizing deep neural networks. [[Web](https://developer.nvidia.com/digits)]
-* <b>[C++]</b> PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform. [[Web](http://www.paddlepaddle.org/)]
-* <b>[C++]</b> Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)] :star:
-* <b>[Python]</b> Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
-  * <b>[Python]</b> Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)],
-* <b>[Lua]</b> Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)] :star:
-  * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)],
- [[Blocks](https://github.com/mila-udem/blocks)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
+- <b>`Keras`</b> [Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
+- <b>`Kur`</b> [Descriptive Deep Learning.](https://github.com/deepgram/kur)  :star:
+- <b>`Caffe`</b> [Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/) :star:
+- <b>`CNTK` </b>[The Microsoft Cognitive Toolkit.](https://github.com/Microsoft/CNTK) 
+- <b>`Dlib`</b> [A modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++.](http://dlib.net/)
+- <b>`PyTorch`</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
+- <b>`Scikit-Learn`</b> [Machine learning in Python.](http://scikit-learn.org)  :star:
+   - <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)   
+- <b>`Tensorflow`</b> [An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
+
+More details in [software](software.md)
+
+# Applications
+
+- pytorch
+    - [2D and 3D Face alignment library build using pytorch](https://github.com/1adrianb/face-alignment)
+    - [Adversarial Autoencoders](https://github.com/fducau/AAE_pytorch)
+    - [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet)
+    - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
+    - [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop)
+    - [A model for style-specific music generation](https://github.com/calclavia/DeepJ) :star:
+    - [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) :star:
+    - [使用PyTorch实现Char RNN生成古诗和周杰伦的歌词](https://github.com/SherlockLiao/Char-RNN-PyTorch)
+- theano
+    - [CNN-yelp-challenge-2016-sentiment-classification](https://github.com/haoopeng/CNN-yelp-challenge-2016-sentiment-classification)
+    - [Deep learning tutorial for PyData](https://github.com/Britefury/deep-learning-tutorial-pydata)
+    - [Deep Neural Network for Sentiment Analysis on Twitter](https://github.com/xiaohan2012/twitter-sent-dnn)
+    - [Implementations of many popular deep learning models in Theano+Lasagne](https://github.com/kuleshov/deep-learning-models)
+- tensorflow
+    - [A generic image detection program that uses tensorflow and a pre-trained Inception.](https://github.com/ArunMichaelDsouza/tensorflow-image-detection)
+    - [All kinds of text classificaiton models and more with deep learning](https://github.com/brightmart/text_classification) :star:
+    - [Applying transfer learning to a custom dataset by retraining Inception's final layer](https://github.com/HusainZafar/TransferLearningTutorial)
+    - [An easy implement of VGG19 with tensorflow, which has a detailed explanation.](https://github.com/hjptriplebee/VGG19_with_tensorflow)
+    - [An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.](https://github.com/kengz/openai_lab) :star:
+    - [An implementation of Pix2Pix in Tensorflow for use with frames from films](https://github.com/awjuliani/Pix2Pix-Film)
+- Keras
+    - [A DCGAN to generate anime faces using custom mined dataset](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras)
+    - [A facial expression classification system that recognizes 6 basic emotions: happy, sad, surprise, fear, anger and neutral.](https://github.com/JostineHo/mememoji)
+    - [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete)
+    - [Attention mechanism Implementation for Keras.](https://github.com/philipperemy/keras-attention-mechanism)
+    - [Automated deep neural network design with genetic programming](https://github.com/joeddav/devol) :star:
+- Mxnet
+    - [使用MXNet的动态图接口Gluon实现Char RNN生成古诗和周杰伦的歌词](https://github.com/SherlockLiao/Char-RNN-Gluon)
+
+More details in [applications](applications.md)
+
+# Awesome Projects
+
+- [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
+- [188 examples of artificial intelligence in action](https://poo.ai/)
+- [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) :star:
+- [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+- [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)
+- [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
+- [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
+- [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning)
+- [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
+- [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
+- [A list of artificial intelligence tools you can use today](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
+- [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
+- [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) 
+- [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+
+More details in [awesome projects](awesome_projects.md)
+
+# Corpus
+
+- [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus)
+- [搜狗实验室](http://www.sogou.com/labs/)
+- [情感分析︱网络公开的免费文本语料训练数据集汇总](http://blog.csdn.net/sinat_26917383/article/details/51321505)
+- [中文情感分析用词语集](http://www.keenage.com/html/c_bulletin_2007.htm)
+- [人民日报切分/标注语料库](http://www.icl.pku.edu.cn/icl_res/)
+- [哈工大信息检索研究中心(HIT CIR)语言技术平台共享资源](http://ir.hit.edu.cn/demo/ltp/Sharing_Plan.htm)
+- [中文句结构树资料库](http://turing.iis.sinica.edu.tw/treesearch/)
+- [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
+- [中文语料小数据：Some useful Chinese corpus datasets](https://github.com/crownpku/Small-Chinese-Corpus)
+- [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus)
+- [联合国平行语料库](https://conferences.unite.un.org/UNCorpus/zh)
+- [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh)
+- [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus)
+- [PTT 八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
+- [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
+- [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
+- [A dataset for book recommendations: ten thousand books, one million ratings](https://www.kaggle.com/zygmunt/goodbooks-10k)
+- [A dataset for personalized highlight detection](https://github.com/gifs/personalized-highlights-dataset)
+- [A dataset of 200k English plaintext jokes.](https://github.com/taivop/joke-dataset)
+- [A large-scale and high-qualityFMA: A Dataset For Music Analysis dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
+- [A large-scale dataset of manually annotated audio events](https://research.google.com/audioset/) :star:
+- [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
+
+More details in [corpus](corpus.md)
+
+# License
+
+The details in [License](LICENCE)
