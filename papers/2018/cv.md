@@ -12,6 +12,7 @@
 - Detecting and counting tiny faces. [`arxiv`](https://arxiv.org/abs/1801.06504) [`code`](https://github.com/alexattia/ExtendedTinyFaces)
 - Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads. [`arxiv`](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)
 - Enhancing Underwater Imagery using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1801.04011) [`code`](https://github.com//cameronfabbri/Underwater-Color-Correction)
+- Fast Semantic Segmentation on Video Using Motion Vector-Based Feature Interpolation. [`arxiv`](https://arxiv.org/abs/1803.07742)
 - Fooling OCR Systems with Adversarial Text Images. [`arxiv`](https://arxiv.org/abs/1802.05385)
 - From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval. [`arxiv`](https://arxiv.org/abs/1802.02899) [`code`](https://github.com/hnanhtuan/selectiveConvFeature)
 - Harmonious Attention Network for Person Re-Identification. [`arxiv`](https://arxiv.org/abs/1802.08122)
