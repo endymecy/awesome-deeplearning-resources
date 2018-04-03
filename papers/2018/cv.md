@@ -5,6 +5,7 @@
 - Additive Margin Softmax for Face Verification. [`arxiv`](https://arxiv.org/abs/1801.05599) [`code`](https://github.com/happynear/AMSoftmax) :star:
 - Adversarial Learning for Semi-Supervised Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1802.07934) [`pytorch`](https://github.com/hfslyc/AdvSemiSeg)
 - An application of cascaded 3D fully convolutional networks for medical image segmentation. [`arxiv`](https://arxiv.org/abs/1803.05431) [`code`](https://github.com/holgerroth/3Dunet_abdomen_cascade)
+- Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1803.11365) [`code`](https://github.com/naoto0804/cross-domain-detection)
 - Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis. [`arxiv`](https://arxiv.org/abs/1802.00752) [`code`](https://github.com/alexander-rakhlin/ICIAR2018)
 - Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
 - Deep Pose Consensus Networks. [`arxiv`](https://arxiv.org/abs/1803.08190) 
