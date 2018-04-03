@@ -43,6 +43,7 @@
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
 - Not All Samples Are Created Equal: Deep Learning with Importance Sampling. [`arxiv`](https://arxiv.org/abs/1803.00942)
 - On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo. [`arxiv`](https://arxiv.org/abs/1802.05431)
+- Parallel Grid Pooling for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1803.11370) [`code`](https://github.com/akitotakeki/pgp-chainer)
 - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights. [`arxiv`](https://arxiv.org/abs/1801.06519) [`code`](https://github.com/arunmallya/piggyback)
 - Probabilistic Recurrent State-Space Models. [`arxiv`](https://arxiv.org/abs/1801.10395) [`code`](https://github.com/andreasdoerr/PR-SSM)
 - Pyramid Stereo Matching Network. [`arxiv`](https://arxiv.org/abs/1803.08669) [`code`](https://github.com/JiaRenChang/PSMNet)
