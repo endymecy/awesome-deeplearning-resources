@@ -18,6 +18,7 @@
 * [MIT] [S099: Artificial General Intelligence](https://agi.mit.edu/)
 * [MIT] [S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
 * [MIT] [S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+* [Nvidia] [Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about)
 * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 * [Oxford] [Deep Learning Course](http://www.computervisiontalks.com/tag/deep-learning-course/)
 * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
