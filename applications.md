@@ -61,6 +61,7 @@
     - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
     - [PyTorch Neural Turing Machine (NTM)](https://github.com/loudinthecloud/pytorch-ntm)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
+    - [Pytorch yolo3](https://github.com/marvis/pytorch-yolo3)
     - [Quickly comparing your image classification models with the state-of-the-art models](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Semantic Image Segmentation in Pytorch](https://github.com/warmspringwinds/dense-ai)
     - [Semantic Segmentation Architectures Implemented in PyTorch](https://github.com/meetshah1995/pytorch-semseg)
