@@ -37,6 +37,7 @@
 - Learning to generate classifiers. [`arxiv`](https://arxiv.org/abs/1803.11373) [`code`](https://github.com/arayabrain/ClassifierGenerators)
 - Learning to Learn Without Labels. [`pdf`](https://openreview.net/forum?id=ByoT9Fkvz) :star:
 - Learning to Make Predictions on Graphs with Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.08352) [`code`](https://github.com/vuptran/graph-representation-learning)
+- Learning Unsupervised Learning Rules. [`arxiv`](https://arxiv.org/abs/1804.00222) [`tensorflow`](https://github.com/tensorflow/models/tree/master/research/learning_unsupervised_learning) :star:
 - Links: A High-Dimensional Online Clustering Method. [`arxiv`](https://arxiv.org/abs/1801.10123) :star:
 - LSTM stack-based Neural Multi-sequence Alignment TeCHnique. [`arxiv`](https://arxiv.org/abs/1803.00057)
 - MemGEN: Memory is All You Need. [`arxiv`](https://arxiv.org/abs/1803.11203)
