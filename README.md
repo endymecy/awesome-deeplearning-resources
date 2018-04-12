@@ -139,6 +139,7 @@ More details in [software](software.md)
     - [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete)
     - [Attention mechanism Implementation for Keras.](https://github.com/philipperemy/keras-attention-mechanism)
     - [Automated deep neural network design with genetic programming](https://github.com/joeddav/devol) :star:
+    - [Attention based Neural Machine Translation for Keras.](https://github.com/divamgupta/attention-translation-keras)
 - Mxnet
     - [使用MXNet的动态图接口Gluon实现Char RNN生成古诗和周杰伦的歌词](https://github.com/SherlockLiao/Char-RNN-Gluon)
 
