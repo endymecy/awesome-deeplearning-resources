@@ -60,6 +60,7 @@
 - The Matrix Calculus You Need For Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.01528)
 - The Lottery Ticket Hypothesis: Training Pruned Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.03635)
 - Theory and Algorithms for Forecasting Time Series. [`arxiv`](https://arxiv.org/abs/1803.05814)
+- The unreasonable effectiveness of the forget gate. [`arxiv`](https://arxiv.org/abs/1804.04849)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
 - Tree-CNN: A Deep Convolutional Neural Network for Lifelong Learning. [`arxiv`](https://arxiv.org/abs/1802.05800)
