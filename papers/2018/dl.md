@@ -138,4 +138,5 @@
 
 ## Zero/One Shot Learning
 
+- A Large-scale Attribute Dataset for Zero-shot Learning. [`arxiv`](https://arxiv.org/abs/1804.04314)
 - Preserving Semantic Relations for Zero-Shot Learning. [`arxiv`](https://arxiv.org/abs/1803.03049)
