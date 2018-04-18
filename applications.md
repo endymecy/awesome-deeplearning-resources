@@ -175,6 +175,7 @@
     - [TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer) :star:
     - [Tensorflow implementation of Facebook TagSpace](https://github.com/flrngel/TagSpace-tensorflow)
     - [Tensorflow implementation of attention mechanism for text classification tasks.](https://github.com/ilivans/tf-rnn-attention)
+    - [Tensorflow Implementation of Convolutional Neural Network for Relation Extraction](https://github.com/roomylee/cnn-relation-extraction)
     - [Tensorflow implementation of Dynamic Coattention Networks for Question Answering.](https://github.com/marshmelloX/dynamic-coattention-network)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation](https://github.com/shekkizh/FCN.tensorflow)
