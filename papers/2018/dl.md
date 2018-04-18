@@ -107,6 +107,7 @@
 - On Generation of Adversarial Examples using Convex Programming. [`arxiv`](https://arxiv.org/abs/1803.03607) [`code`](https://github.com/ebalda/adversarialconvex)
 - On the Latent Space of Wasserstein Auto-Encoders. [`arxiv`](https://arxiv.org/abs/1802.03761)
 - Recurrent Neural Network-Based Semantic Variational Autoencoder for Sequence-to-Sequence Learning. [`arxiv`](https://arxiv.org/abs/1802.03238)
+- Scalable Factorized Hierarchical Variational Autoencoder Training. [`arxiv`](https://arxiv.org/abs/1804.03201) [`code`](https://github.com/wnhsu/ScalableFHVAE)
 - Semi-Amortized Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.02550) [`code`](https://github.com/harvardnlp/sa-vae)
 - Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1803.10892)
 - Sylvester Normalizing Flows for Variational Inference. [`arxiv`](https://arxiv.org/abs/1803.05649)
