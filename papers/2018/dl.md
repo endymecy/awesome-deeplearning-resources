@@ -70,6 +70,7 @@
 - Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring. [`arxiv`](https://arxiv.org/abs/1802.04633)
 - TVM: End-to-End Optimization Stack for Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.04799)
 - UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. [`arxiv`](https://arxiv.org/abs/1802.03426) [`code`](https://github.com/lmcinnes/umap)
+- Understanding Convolutional Neural Network Training with Information Theory. [`arxiv`](https://arxiv.org/abs/1804.06537)
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift. [`arxiv`](https://arxiv.org/abs/1801.05134)
 - Understanding the Loss Surface of Neural Networks for Binary Classification. [`arxiv`](https://arxiv.org/abs/1803.00909)
 - Universal Deep Neural Network Compression. [`arxiv`](https://arxiv.org/abs/1802.02271)
