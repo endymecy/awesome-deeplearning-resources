@@ -71,6 +71,7 @@
 - [Generative Models](https://github.com/wiseodd/generative-models)
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources)
 - [List of articles related to deep learning applied to music](https://github.com/ybayle/awesome-deep-learning-music)
+- [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems) :star:
 - [Machine Learning / Deep Learning Conferences](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
