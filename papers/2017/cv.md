@@ -39,6 +39,7 @@
 - Disguised Face Identification (DFI) with Facial KeyPoints using Spatial Fusion Convolutional Network. [`arxiv`](https://arxiv.org/abs/1708.09317)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
 - Dual-Path Convolutional Image-Text Embedding. [`arxiv`](https://arxiv.org/abs/1711.05535) [`code`](https://github.com//layumi/Image-Text-Embedding)
+- End-to-end Recovery of Human Shape and Pose. [`arxiv`](https://arxiv.org/abs/1712.06584) [`code`](https://github.com/akanazawa/hmr)
 - End-to-end Training for Whole Image Breast Cancer Diagnosis using An All Convolutional Design. [`arxiv`](https://arxiv.org/abs/1708.09427) [`code`](https://github.com/lishen/end2end-all-conv)
 - End-to-end weakly-supervised semantic alignment. [`arxiv`](https://arxiv.org/abs/1712.06861) [`pytorch`](https://github.com/ignacio-rocco/weakalign)
 - Estimated Depth Map Helps Image Classification. [`arxiv`](https://arxiv.org/abs/1709.07077) [`code`](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)
