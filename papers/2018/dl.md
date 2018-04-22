@@ -14,6 +14,7 @@
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
 - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. [`arxiv`](https://arxiv.org/abs/1803.04765)
 - Deep Learning using Rectified Linear Units (ReLU). [`arxiv`](https://arxiv.org/abs/1803.08375) [`code`](https://github.com/AFAgarap/relu-classifier)
+- Deep Multimodal Subspace Clustering Networks. [`arxiv`](https://arxiv.org/abs/1804.06498)
 - Deep Super Learner: A Deep Ensemble for Classification Problems. [`arxiv`](https://arxiv.org/abs/1803.02323) [`code`](https://github.com/levyben/DeepSuperLearner)
 - Detail-Preserving Pooling in Deep Networks. [`arxiv`](https://arxiv.org/abs/1804.04076)
 - DroNet: Learning to Fly by Driving. [`pdf`](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf) [`code`](https://github.com/uzh-rpg/rpg_public_dronet)
