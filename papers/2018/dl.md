@@ -11,6 +11,7 @@
 - Class label autoencoder for zero-shot learning. [`arxiv`](https://arxiv.org/abs/1801.08301)
 - Closing the AI Knowledge Gap. [`arxiv`](https://arxiv.org/abs/1803.07233)
 - Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
+- Deep Embedding Kernel. [`arxiv`](https://arxiv.org/abs/1804.05806)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
 - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. [`arxiv`](https://arxiv.org/abs/1803.04765)
 - Deep Learning using Rectified Linear Units (ReLU). [`arxiv`](https://arxiv.org/abs/1803.08375) [`code`](https://github.com/AFAgarap/relu-classifier)
