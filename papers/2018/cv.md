@@ -8,6 +8,7 @@
 - Attention U-Net: Learning Where to Look for the Pancreas. [`arxiv`](https://arxiv.org/abs/1804.03999) [`code`](https://github.com/ozan-oktay/Attention-Gated-Networks)
 - A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1803.11365) [`code`](https://github.com/naoto0804/cross-domain-detection)
+- Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images. [`arxiv`](https://arxiv.org/abs/1804.04488)
 - Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis. [`arxiv`](https://arxiv.org/abs/1802.00752) [`code`](https://github.com/alexander-rakhlin/ICIAR2018)
 - Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
 - Deep Pose Consensus Networks. [`arxiv`](https://arxiv.org/abs/1803.08190) 
