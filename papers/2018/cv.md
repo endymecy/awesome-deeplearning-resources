@@ -39,6 +39,7 @@
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
 - ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 - Towards Image Understanding from Deep Compression without Decoding. [`arxiv`](https://arxiv.org/abs/1803.06131)
+- Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking. [`arxiv`](https://arxiv.org/abs/1804.04555)
 - Unsupervised Discovery of Object Landmarks as Structural Representations. [`arxiv`](https://arxiv.org/abs/1804.04412)
 - Video Person Re-identification by Temporal Residual Learning. [`arxiv`](https://arxiv.org/abs/1802.07918)
 - Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
