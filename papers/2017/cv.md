@@ -70,6 +70,7 @@
 - Learning to Segment Every Thing. [`arxiv`](https://arxiv.org/abs/1711.10370)
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [`arxiv`](https://arxiv.org/abs/1701.00295)
 - Linear Disentangled Representation Learning for Facial Actions. [`arxiv`](https://arxiv.org/abs/1701.03102) [`code`](https://github.com/eglxiang/FacialAU.)
+- Loss Max-Pooling for Semantic Image Segmentation. [`arxiv`](https://arxiv.org/abs/1704.02966) [`pytorch`](https://github.com/BelBES/mpl.pytorch)
 - Mask R-CNN. [`arxiv`](https://arxiv.org/abs/1703.06870) [`caffe`](https://github.com/jasjeetIM/Mask-RCNN) [`mxnet`](https://github.com/TuSimple/mx-maskrcnn) :star:
 - MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels. [`arxiv`](https://arxiv.org/abs/1712.05055) :star:
 - Mix-and-Match Tuning for Self-Supervised Semantic Segmentation. [`arxiv`](http://mmlab.ie.cuhk.edu.hk/projects/M&M/) [`code`](https://github.com//liuziwei7/mix-and-match)
