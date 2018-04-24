@@ -31,6 +31,7 @@
 - Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
 - PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. [`pdf`](https://eng.ucmerced.edu/people/jyang44/papers/cvpr2018_PlaneNet_camera_ready.pdf) [`code`](https://github.com/art-programmer/PlaneNet)
+- PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [`arxiv`](https://arxiv.org/abs/1804.03492) [`code`](https://github.com/mikacuy/pointnetvlad)
 - Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
 - RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
 - Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
