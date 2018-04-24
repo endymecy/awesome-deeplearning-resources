@@ -56,6 +56,7 @@
 ### NMT
 
 - Achieving Human Parity on Automatic Chinese to English News Translation. [`arxiv`](https://arxiv.org/abs/1803.05567)
+- Phrase-Based & Neural Unsupervised Machine Translation. [`arxiv`](https://arxiv.org/abs/1804.07755)
 - Self-Attention with Relative Position Representations. [`arxiv`](https://arxiv.org/abs/1803.02155)
 
 ### Recommender Systems
