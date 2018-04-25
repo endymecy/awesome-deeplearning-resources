@@ -54,6 +54,7 @@
 - DeepArchitect: Automatically Designing and Training Deep Architectures. [`arxiv`](https://arxiv.org/abs/1704.08792) [`code`](https://github.com/negrinho/deep_architect)
 - Deep CNN ensembles and suggestive annotations for infant brain MRI segmentation. [`arxiv`](https://arxiv.org/abs/1712.05319) [`code`](https://github.com//josedolz/SemiDenseNet)
 - Deep Complex Networks. [`arxiv`](https://arxiv.org/abs/1705.09792) [`code`](https://github.com/ChihebTrabelsi/deep_complex_networks) :star:
+- Deep Depth From Focus. [`arxiv`](https://arxiv.org/abs/1704.01085) [`pytorch`](https://github.com/gameover27/ddff-pytorch)
 - Deep Echo State Network (DeepESN): A Brief Survey. [`arxiv`](https://arxiv.org/abs/1712.04323)
 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. [`arxiv`](https://arxiv.org/abs/1703.04247)
 - Deep & Cross Network for Ad Click Predictions. [`arxiv`](https://arxiv.org/abs/1708.05123) :star:
