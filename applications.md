@@ -54,6 +54,7 @@
     - [PyTorch implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/PyTorch-GAN)
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
     - [Pytorch Implementation of Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/ceshine/fast-neural-style)
+    - [Pytorch Implementation of PixelCNN++](https://github.com/pclucas14/pixel-cnn-pp)
     - [Pytorch implement of Person re-identification baseline.](https://github.com/layumi/Person_reID_baseline_pytorch)
     - [pytorch implementation of grammar variational autoencoder](https://github.com/episodeyang/grammar_variational_autoencoder)
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
