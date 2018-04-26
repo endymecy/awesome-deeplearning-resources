@@ -46,6 +46,7 @@
 - Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
 - Extreme 3D Face Reconstruction: Looking Past Occlusions. [`arxiv`](https://arxiv.org/abs/1712.05083) [`code`](https://github.com//anhttran/extreme_3d_faces)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
+- FaceBoxes: A CPU Real-time Face Detector with High Accuracy. [`arxiv`](https://arxiv.org/abs/1708.05234) [`code`](https://github.com/zeusees/FaceBoxes)
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
 - Fader Networks: Manipulating Images by Sliding Attributes. [`arxiv`](https://arxiv.org/abs/1706.00409) [`pytorch`](https://github.com//facebookresearch/FaderNetworks) :star:
 - Fast Image Processing with Fully-Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1709.00643) [`code`](https://github.com/CQFIO/FastImageProcessing)
