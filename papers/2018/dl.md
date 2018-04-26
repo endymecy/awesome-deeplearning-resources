@@ -63,6 +63,7 @@
 - Supervised classification of Dermatological diseases by Deep neural networks. [`arxiv`](https://arxiv.org/abs/1802.03752) [`code`](https://www.dropbox.com/sh/pwe3tqrb2zijexq/AADpQ9WKOdSfTdvHkVtT_GHKa?dl=0)
 - Supervising Unsupervised Learning with Evolutionary Algorithm in Deep Neural Network. [`arxiv`](https://arxiv.org/abs/1803.10397)
 - Syntax-Aware Language Modeling with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.03665)
+- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms. [`arxiv`](https://arxiv.org/abs/1804.09170) [`code`](https://github.com/brain-research/realistic-ssl-evaluation)
 - Testing Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.04792) [`code`](https://github.com/theyoucheng/deepcover)
 - The Matrix Calculus You Need For Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.01528)
 - The Lottery Ticket Hypothesis: Training Pruned Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.03635)
