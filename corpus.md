@@ -39,6 +39,7 @@
 - [Cool Datasets](http://cooldataseWolfram Data Repositoryts.com/#Machine-Learning-Datasets) :star:
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
+- [Course materials for Text as Data Lab](https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018)
 - [DATASETS FOR DATA MINING](http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html)
 - [Datasets of Annotated Semantic Relationships](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
 - [Datasets for Data Science and Machine Learning](https://elitedatascience.com/datasets)
