@@ -27,6 +27,7 @@
 - Image Transformer. [`arxiv`](https://arxiv.org/abs/1802.05751) :star:
 - Infrared and Visible Image Fusion using a Deep Learning Framework. [`arxiv`](https://arxiv.org/abs/1804.06992) [`code`](https://github.com/exceptionLi/imagefusion_deeplearning)
 - Low-Shot Learning from Imaginary Data. [`arxiv`](https://arxiv.org/abs/1801.05401)
+- MegaDepth: Learning Single-View Depth Prediction from Internet Photos. [`arxiv`](https://arxiv.org/abs/1804.00607) [`code`](https://github.com/lixx2938/MegaDepth)
 - Multimodal Unsupervised Image-to-Image Translation. [`arxiv`](https://arxiv.org/abs/1804.04732) [`code`](https://github.com/nvlabs/MUNIT) :star:
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
 - Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
