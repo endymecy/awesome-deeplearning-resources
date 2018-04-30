@@ -45,6 +45,7 @@
 - ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 - Survey of Face Detection on Low-quality Images. [`arxiv`](https://arxiv.org/abs/1804.07362)
 - Towards Image Understanding from Deep Compression without Decoding. [`arxiv`](https://arxiv.org/abs/1803.06131)
+- Towards Semantic SLAM: Points, Planes and Objects. [`arxiv`](https://arxiv.org/abs/1804.09111)
 - Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking. [`arxiv`](https://arxiv.org/abs/1804.04555)
 - Unsupervised Discovery of Object Landmarks as Structural Representations. [`arxiv`](https://arxiv.org/abs/1804.04412)
 - Video Person Re-identification by Temporal Residual Learning. [`arxiv`](https://arxiv.org/abs/1802.07918)
