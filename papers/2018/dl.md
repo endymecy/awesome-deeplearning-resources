@@ -142,6 +142,7 @@
 ## Transfer Learning
 
 - 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network. [`arxiv`](https://arxiv.org/abs/1802.05656)
+- Capsule networks for low-data transfer learning. [`arxiv`](https://arxiv.org/abs/1804.10172)
 - Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer. [`arxiv`](https://arxiv.org/abs/1804.06437v1) [`code`](https://github.com/lijuncen/Sentiment-and-Style-Transfer)
 
 
