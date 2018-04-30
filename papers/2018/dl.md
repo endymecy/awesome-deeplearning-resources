@@ -150,5 +150,6 @@
 ## Zero/One Shot Learning
 
 - A Large-scale Attribute Dataset for Zero-shot Learning. [`arxiv`](https://arxiv.org/abs/1804.04314)
+- Deep Triplet Ranking Networks for One-Shot Recognition. [`arxiv`](https://arxiv.org/abs/1804.07275)
 - One-Shot Learning using Mixture of Variational Autoencoders: a Generalization Learning approach. [`arxiv`](https://arxiv.org/abs/1804.07645)
 - Preserving Semantic Relations for Zero-Shot Learning. [`arxiv`](https://arxiv.org/abs/1803.03049)
