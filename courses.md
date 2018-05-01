@@ -32,6 +32,7 @@
 * [Toronto] [CSC 2541 Fall 2016:Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * [Utah] [Applied Computational Genomics Course at UU](https://github.com/quinlan-lab/applied-computational-genomics)
 * [YouTube][OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
+* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis)
 * [Statistical and Discrete Methods for Scientific Computing](http://wpressutexas.net/coursewiki/index.php?title=Main_Page)
 * [ANDREW NG][deeplearning.ai](https://www.deeplearning.ai/)
 * [吴立德] [《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
