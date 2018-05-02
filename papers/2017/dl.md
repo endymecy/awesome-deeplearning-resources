@@ -41,6 +41,7 @@
 - Combining Machine Learning and Physics to Understand Glassy Systems. [`arxiv`](https://arxiv.org/abs/1709.08015)
 - Complex Networks: from Classical to Quantum.  [`arxiv`](https://arxiv.org/abs/1702.08459)
 - Concrete Dropout. [`arxiv`](https://arxiv.org/abs/1705.07832)
+- [Best Paper] Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments. [`arxiv`](https://arxiv.org/abs/1710.03641) :star:
 - Convolutional Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1709.01894) [`code`](https://github.com/markvdw/convgp)
 - Conversation Modeling on Reddit using a Graph-Structured LSTM. [`arxiv`](https://arxiv.org/abs/1704.02080) :star:
 - [Convolutional Sequence to Sequence Learning.](https://mp.weixin.qq.com/s/HOR-0VicK__H3rrJFO19bA) [`pdf`](https://s3.amazonaws.com/fairseq/papers/convolutional-sequence-to-sequence-learning.pdf) [`torch`](https://github.com/facebookresearch/fairseq) [`tensorflow`](https://github.com/tobyyouup/conv_seq2seq) :star:
