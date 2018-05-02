@@ -60,7 +60,7 @@
 - Sparsely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.05895)
 - SparseMAP: Differentiable Sparse Structured Inference. [`arxiv`](https://arxiv.org/abs/1802.04223) :star:
 - SpectralNet: Spectral Clustering using Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.01587) [`code`](https://github.com//kstant0725/SpectralNet)
-- Spherical CNNs. [`arxiv`](https://arxiv.org/abs/1801.10130) [`code`](https://github.com/jonas-koehler/s2cnn)
+- Spherical CNNs. [`arxiv`](https://arxiv.org/abs/1801.10130) [`code`](https://github.com/jonas-koehler/s2cnn) :star:
 - Supervised classification of Dermatological diseases by Deep neural networks. [`arxiv`](https://arxiv.org/abs/1802.03752) [`code`](https://www.dropbox.com/sh/pwe3tqrb2zijexq/AADpQ9WKOdSfTdvHkVtT_GHKa?dl=0)
 - Supervising Unsupervised Learning with Evolutionary Algorithm in Deep Neural Network. [`arxiv`](https://arxiv.org/abs/1803.10397)
 - Syntax-Aware Language Modeling with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.03665)
