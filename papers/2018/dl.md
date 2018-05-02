@@ -50,6 +50,7 @@
 - Modeling Dynamics with Deep Transition-Learning Networks. [`arxiv`](https://arxiv.org/abs/1802.03497)
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
 - Not All Samples Are Created Equal: Deep Learning with Importance Sampling. [`arxiv`](https://arxiv.org/abs/1803.00942)
+- [Best Paper] On the Convergence of Adam and Beyond. [`pdf`](https://openreview.net/forum?id=ryQu7f-RZ) :star:
 - On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo. [`arxiv`](https://arxiv.org/abs/1802.05431)
 - Parallel Grid Pooling for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1803.11370) [`code`](https://github.com/akitotakeki/pgp-chainer)
 - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights. [`arxiv`](https://arxiv.org/abs/1801.06519) [`code`](https://github.com/arunmallya/piggyback)
