@@ -68,6 +68,10 @@
 - Offline A/B testing for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.07030)
 - Sequence-Aware Recommender Systems. [`arxiv`](https://arxiv.org/abs/1802.08452)
 
+### Sentiment Analysis
+
+- Word2Vec and Doc2Vec in Unsupervised Sentiment Analysis of Clinical Discharge Summaries. [`arxiv`](https://arxiv.org/abs/1805.00352)
+
 ### Speech Recognition
 
 - Automatic Detection of Online Jihadist Hate Speech. [`arxiv`](https://arxiv.org/abs/1803.04596)
