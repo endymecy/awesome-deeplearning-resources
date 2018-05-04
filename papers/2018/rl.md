@@ -21,6 +21,7 @@
 - Pretraining Deep Actor-Critic Reinforcement Learning Algorithms With Expert Demonstrations. [`arxiv`](https://arxiv.org/abs/1801.10459)
 - Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents. [`arxiv`](https://arxiv.org/abs/1801.08116)
 - Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1802.06501)
+- Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review. [`arxiv`](https://arxiv.org/abs/1805.00909)
 - Reinforcement Learning from Imperfect Demonstrations. [`arxiv`](https://arxiv.org/abs/1802.05313)
 - Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application. [`arxiv`](https://arxiv.org/abs/1803.00710)
 - Semi-parametric Topological Memory for Navigation. [`arxiv`](https://arxiv.org/abs/1803.00653) [`tensorflow`](https://github.com/nsavinov/SPTM)
