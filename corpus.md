@@ -12,6 +12,7 @@
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
 - [中文语料小数据：Some useful Chinese corpus datasets](https://github.com/crownpku/Small-Chinese-Corpus)
 - [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus)
+- [中文突发事件语料库](https://github.com/shijiebei2009/CEC-Corpus)
 - [联合国平行语料库](https://conferences.unite.un.org/UNCorpus/zh)
 - [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh)
 - [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus)
