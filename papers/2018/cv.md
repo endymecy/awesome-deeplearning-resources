@@ -42,6 +42,7 @@
 - Simple Baselines for Human Pose Estimation and Tracking. [`arxiv`](https://arxiv.org/abs/1804.06208)
 - Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
+- Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation. [`arxiv`](https://arxiv.org/abs/1804.10343) [`code`](https://github.com/shahsohil/sunets)
 - ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 - Survey of Face Detection on Low-quality Images. [`arxiv`](https://arxiv.org/abs/1804.07362)
 - Towards Image Understanding from Deep Compression without Decoding. [`arxiv`](https://arxiv.org/abs/1803.06131)
