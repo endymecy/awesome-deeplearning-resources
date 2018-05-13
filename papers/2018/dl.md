@@ -27,6 +27,7 @@
 - Extremely Fast Decision Tree. [`arxiv`](https://arxiv.org/abs/1802.08780) [`pytorch`](https://github.com/chaitanya-m/kdd2018)
 - Fast Decoding in Sequence Models using Discrete Latent Variables. [`arxiv`](https://arxiv.org/abs/1803.03382)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
+- Foundations of Sequence-to-Sequence Modeling for Time Series. [`arxiv`](https://arxiv.org/abs/1805.03714)
 - From Nodes to Networks: Evolving Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.04439)
 - Gaussian Process Behaviour in Wide Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.11271) [`code`](https://github.com/widedeepnetworks/widedeepnetworks)
 - GossipGraD: Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent. [`arxiv`](https://arxiv.org/abs/1803.05880)
