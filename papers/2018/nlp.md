@@ -24,6 +24,7 @@
 - Deep contextualized word representations. [`arxiv`](https://arxiv.org/abs/1802.05365)
 - Evaluating Compositionality in Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1802.04302) [`code`](https://github.com/ishita-dg/ScrambleTests)
 - From Word to Sense Embeddings: A Survey on Vector Representations of Meaning. [`arxiv`](https://arxiv.org/abs/1805.04032)
+- Learning Word Embeddings for Low-resource Languages by PU Learning. [`arxiv`](https://arxiv.org/abs/1805.03366)
 - Query2Vec: NLP Meets Databases for Generalized Workload Analytics. [`arxiv`](https://arxiv.org/abs/1801.05613)
 - Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings. [`arxiv`](https://arxiv.org/abs/1802.01241)
 - Speech2Vec: A Sequence-to-Sequence Framework for Learning Word Embeddings from Speech. [`arxiv`](https://arxiv.org/abs/1803.08976)
