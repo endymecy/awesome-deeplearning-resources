@@ -38,6 +38,7 @@
 - [Awesome Machine Learning Projects](https://ml-showcase.com/)
 - [Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Awesome MXNet](https://github.com//chinakook/Awesome-MXNet)
+- [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
 - [Awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
