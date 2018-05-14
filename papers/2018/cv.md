@@ -6,6 +6,7 @@
 - Adversarial Learning for Semi-Supervised Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1802.07934) [`pytorch`](https://github.com/hfslyc/AdvSemiSeg)
 - Adversarial Training of Variational Auto-encoders for High Fidelity Image Generation. [`arxiv`](https://arxiv.org/abs/1804.10323)
 - An application of cascaded 3D fully convolutional networks for medical image segmentation. [`arxiv`](https://arxiv.org/abs/1803.05431) [`code`](https://github.com/holgerroth/3Dunet_abdomen_cascade)
+- Attention-Aware Compositional Network for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1805.03344)
 - Attention U-Net: Learning Where to Look for the Pancreas. [`arxiv`](https://arxiv.org/abs/1804.03999) [`code`](https://github.com/ozan-oktay/Attention-Gated-Networks)
 - A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1803.11365) [`code`](https://github.com/naoto0804/cross-domain-detection)
