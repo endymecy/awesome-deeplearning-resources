@@ -21,6 +21,7 @@
 - [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 - [Acemap Knowledge Graph](http://acemap.sjtu.edu.cn/app/AceKG/) :star:
 - [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
+- [A comprehensive dataset for stock movement prediction from tweets and historical stock prices.](https://github.com/yumoxu/stocknet-dataset)
 - [A dataset for book recommendations: ten thousand books, one million ratings](https://www.kaggle.com/zygmunt/goodbooks-10k)
 - [A dataset for personalized highlight detection](https://github.com/gifs/personalized-highlights-dataset)
 - [A dataset of 200k English plaintext jokes.](https://github.com/taivop/joke-dataset)
