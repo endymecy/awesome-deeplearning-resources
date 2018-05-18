@@ -49,6 +49,7 @@
 - Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation. [`arxiv`](https://arxiv.org/abs/1804.10343) [`code`](https://github.com/shahsohil/sunets)
 - ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 - Survey of Face Detection on Low-quality Images. [`arxiv`](https://arxiv.org/abs/1804.07362)
+- Text to Image Synthesis Using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.00676)
 - Towards Image Understanding from Deep Compression without Decoding. [`arxiv`](https://arxiv.org/abs/1803.06131)
 - Towards Semantic SLAM: Points, Planes and Objects. [`arxiv`](https://arxiv.org/abs/1804.09111)
 - Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking. [`arxiv`](https://arxiv.org/abs/1804.04555)
