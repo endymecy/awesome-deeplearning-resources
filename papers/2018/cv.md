@@ -54,4 +54,5 @@
 - Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking. [`arxiv`](https://arxiv.org/abs/1804.04555)
 - Unsupervised Discovery of Object Landmarks as Structural Representations. [`arxiv`](https://arxiv.org/abs/1804.04412)
 - Video Person Re-identification by Temporal Residual Learning. [`arxiv`](https://arxiv.org/abs/1802.07918)
+- Zero-Shot Object Detection by Hybrid Region Embedding. [`arxiv`](https://arxiv.org/abs/1805.06157) 
 - Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
