@@ -60,6 +60,7 @@
 - Parallel Grid Pooling for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1803.11370) [`code`](https://github.com/akitotakeki/pgp-chainer)
 - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights. [`arxiv`](https://arxiv.org/abs/1801.06519) [`code`](https://github.com/arunmallya/piggyback)
 - Probabilistic Recurrent State-Space Models. [`arxiv`](https://arxiv.org/abs/1801.10395) [`code`](https://github.com/andreasdoerr/PR-SSM)
+- Progress & Compress: A scalable framework for continual learning. [`arxiv`](https://arxiv.org/abs/1805.06370)
 - Pyramid Stereo Matching Network. [`arxiv`](https://arxiv.org/abs/1803.08669) [`code`](https://github.com/JiaRenChang/PSMNet)
 - Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees. [`arxiv`](https://arxiv.org/abs/1804.09893)
 - Revisiting Small Batch Training for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.07612)
