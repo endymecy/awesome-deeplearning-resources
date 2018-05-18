@@ -65,6 +65,7 @@
 - [Standardized data set for machine learning of protein structure](https://github.com/aqlaboratory/proteinnet)
 - [Street View Image, Pose, and 3D Cities Dataset](https://github.com/amir32002/3D_Street_View)
 - [Taiga Сorpus](https://tatianashavrina.github.io/taiga_site/)
+- [Telenav.AI competition public repository](https://github.com/Telenav/Telenav.AI)
 - [Ten thousand books, six million ratings](https://github.com/zygmuntz/goodbooks-10k)
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
