@@ -87,4 +87,5 @@
 ### Text Classification
 
 - Fine-tuned Language Models for Text Classification. [`arxiv`](https://arxiv.org/abs/1801.06146)
+- Joint Embedding of Words and Labels for Text Classification. [`arxiv`](https://arxiv.org/pdf/1805.04174.pdf) [`code`](https://github.com/guoyinwang/LEAM)
 
