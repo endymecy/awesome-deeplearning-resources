@@ -149,7 +149,7 @@
 - Sequential Preference-Based Optimization. [`arxiv`](https://arxiv.org/abs/1801.02788) [`code`](https://github.com/prefopt/prefopt)
 - Sever: A Robust Meta-Algorithm for Stochastic Optimization. [`arxiv`](https://arxiv.org/abs/1803.02815)
 - Shampoo: Preconditioned Stochastic Tensor Optimization. [`arxiv`](https://arxiv.org/abs/1802.09568) [`pytorch`](https://github.com/moskomule/shampoo.pytorch)
-- Optimizing for Generalization in Machine Learning with Cross-Validation Gradients. [`arxiv`](https://arxiv.org/abs/1805.07072)
+- Optimizing for Generalization in Machine Learning with Cross-Validation Gradients. [`arxiv`](https://arxiv.org/abs/1805.07072) [`code`](https://github.com/sbarratt/crossval)
 - WNGrad: Learn the Learning Rate in Gradient Descent. [`arxiv`](https://arxiv.org/abs/1803.02865)
 
 ## Transfer Learning
