@@ -113,7 +113,7 @@
 - Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.07997)
 - Autoencoding topology. [`arxiv`](https://arxiv.org/abs/1803.00156)
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
-- Deep Generative Markov State Models. [`arxiv`](https://arxiv.org/abs/1805.07601)
+- Deep Generative Markov State Models. [`arxiv`](https://arxiv.org/abs/1805.07601) [`code`](https://github.com/amardt/DeepGenMSM)
 - eCommerceGAN : A Generative Adversarial Network for E-commerce. [`arxiv`](https://arxiv.org/abs/1801.03244)
 - Geometry Score: A Method For Comparing Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.02664) [`code`](https://github.com/geom-score/geometry-score)
 - Generating Handwritten Chinese Characters using CycleGAN. [`arxiv`](https://arxiv.org/abs/1801.08624) [`code`](https://github.com/changebo/HCCG-CycleGAN)
@@ -149,6 +149,7 @@
 - Sequential Preference-Based Optimization. [`arxiv`](https://arxiv.org/abs/1801.02788) [`code`](https://github.com/prefopt/prefopt)
 - Sever: A Robust Meta-Algorithm for Stochastic Optimization. [`arxiv`](https://arxiv.org/abs/1803.02815)
 - Shampoo: Preconditioned Stochastic Tensor Optimization. [`arxiv`](https://arxiv.org/abs/1802.09568) [`pytorch`](https://github.com/moskomule/shampoo.pytorch)
+- Optimizing for Generalization in Machine Learning with Cross-Validation Gradients. [`arxiv`](https://arxiv.org/abs/1805.07072)
 - WNGrad: Learn the Learning Rate in Gradient Descent. [`arxiv`](https://arxiv.org/abs/1803.02865)
 
 ## Transfer Learning
