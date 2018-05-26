@@ -70,6 +70,7 @@
 - [Enumerate diverse machine learning training tricks.](https://github.com/Conchylicultor/Deep-Learning-Tricks)
 - [First International Workshop on Deep Learning and Music](https://arxiv.org/html/1706.08675)
 - [Generative Models](https://github.com/wiseodd/generative-models)
+- [Graph Convolutional Networks (GCNs)](https://github.com/sungyongs/graph-based-nn)
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources)
 - [List of articles related to deep learning applied to music](https://github.com/ybayle/awesome-deep-learning-music)
 - [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems) :star:
