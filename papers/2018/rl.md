@@ -7,6 +7,7 @@
 - Cooperative Multi-Agent Reinforcement Learning for Low-Level Wireless Communication. [`arxiv`](https://arxiv.org/abs/1801.04541)
 - Deep Reinforcement Fuzzing. [`arxiv`](https://arxiv.org/abs/1801.04589)
 - Deep Reinforcement Learning of Cell Movement in the Early Stage of C. elegans Embryogenesis. [`arxiv`](https://arxiv.org/abs/1801.04600)
+- Deep Reinforcement Learning For Sequence to Sequence Models. [`arxiv`](https://arxiv.org/abs/1805.09461) [`code`](https://github.com/yaserkl/RLSeq2Seq/)
 - Deep Reinforcement Learning for Vision-Based Robotic Grasping: A Simulated Comparative Evaluation of Off-Policy Methods. [`arxiv`](https://arxiv.org/abs/1802.10264)
 - Deep Reinforcement Learning using Capsules in Advanced Game Environments. [`arxiv`](https://arxiv.org/abs/1801.09597)
 - Deep Reinforcement Learning with Model Learning and Monte Carlo Tree Search in Minecraft. [`arxiv`](https://arxiv.org/abs/1803.08456)
