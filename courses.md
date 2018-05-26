@@ -8,6 +8,7 @@
 * [CMU] [Neural networks for NLP](http://phontron.com/class/nn4nlp2018/)
 * [COMS] [W4995 Applied Machine Learning Spring 2018](http://www.cs.columbia.edu/~amueller/comsw4995s18/)
 * [David Silver] [RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
+* [EE 227C][Convex Optimization and Approximation](https://ee227c.github.io/)
 * [Emory University] [CS584: Deep Learning](http://nematilab.info/CS584.html)
 * [Google] [Udacity Deep Learning Online Course](https://www.youtube.com/watch?v=X_B9NADf2wk&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=2)
 * [Hinton] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
