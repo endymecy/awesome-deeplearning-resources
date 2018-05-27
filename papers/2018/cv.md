@@ -29,6 +29,7 @@
 - Harmonious Attention Network for Person Re-Identification. [`arxiv`](https://arxiv.org/abs/1802.08122)
 - IGCV2: Interleaved Structured Sparse Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.06202)
 - Image Inpainting for Irregular Holes Using Partial Convolutions. [`arxiv`](https://arxiv.org/abs/1804.07723)
+- Image-to-image translation for cross-domain disentanglement. [`arxiv`](https://arxiv.org/abs/1805.09730)
 - Image Transformer. [`arxiv`](https://arxiv.org/abs/1802.05751) :star:
 - Infrared and Visible Image Fusion using a Deep Learning Framework. [`arxiv`](https://arxiv.org/abs/1804.06992) [`code`](https://github.com/exceptionLi/imagefusion_deeplearning)
 - Low-Shot Learning from Imaginary Data. [`arxiv`](https://arxiv.org/abs/1801.05401)
