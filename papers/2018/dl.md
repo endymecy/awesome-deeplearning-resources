@@ -23,6 +23,7 @@
 - DroNet: Learning to Fly by Driving. [`pdf`](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf) [`code`](https://github.com/uzh-rpg/rpg_public_dronet)
 - Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++. [`arxiv`](https://arxiv.org/abs/1803.09693) [`code`](https://github.com/davidjesusacu/polyrnn-pp)
 - Efficient Neural Architecture Search ia Parameter Sharing. [`arxiv`](https://arxiv.org/abs/1802.03268) [`pytorch`](https://github.com/carpedm20/ENAS-pytorch) :star:
+- Entropy and mutual information in models of deep neural networks. [`arxiv`](https://arxiv.org/abs/1805.09785)
 - E-swish: Adjusting Activations to Different Network Depths. [`arxiv`](https://arxiv.org/abs/1801.07145)
 - Etymo: A New Discovery Engine for AI Research. [`arxiv`](https://arxiv.org/abs/1801.08573)
 - Extremely Fast Decision Tree. [`arxiv`](https://arxiv.org/abs/1802.08780) [`pytorch`](https://github.com/chaitanya-m/kdd2018)
