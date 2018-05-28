@@ -19,7 +19,6 @@
 - Deep Pose Consensus Networks. [`arxiv`](https://arxiv.org/abs/1803.08190) 
 - Depth CNNs for RGB-D scene recognition: learning from scratch better than transferring from RGB-CNNs. [`arxiv`](https://arxiv.org/abs/1801.06797) [`code`](https://github.com/songxinhang/D-CNN)
 - Detecting and counting tiny faces. [`arxiv`](https://arxiv.org/abs/1801.06504) [`code`](https://github.com/alexattia/ExtendedTinyFaces)
-- DetNet: A Backbone network for Object Detection. [`arxiv`](https://arxiv.org/abs/1804.06215)
 - Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads. [`arxiv`](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)
 - End-to-End Saliency Mapping via Probability Distribution Prediction. [`arxiv`](https://arxiv.org/abs/1804.01793)
 - Enhancing Underwater Imagery using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1801.04011) [`code`](https://github.com//cameronfabbri/Underwater-Color-Correction)
@@ -41,14 +40,12 @@
 - Pixel-wise Attentional Gating for Parsimonious Pixel Labeling. [`arxiv`](https://arxiv.org/abs/1805.01556) [`code`](https://github.com/aimerykong/Pixel-Attentional-Gating)
 - PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. [`pdf`](https://eng.ucmerced.edu/people/jyang44/papers/cvpr2018_PlaneNet_camera_ready.pdf) [`code`](https://github.com/art-programmer/PlaneNet)
 - PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [`arxiv`](https://arxiv.org/abs/1804.03492) [`code`](https://github.com/mikacuy/pointnetvlad)
-- Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
 - RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
 - Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
 - Rethinking Feature Distribution for Loss Functions in Image Classification. [`arxiv`](https://arxiv.org/abs/1803.02988) [`code`](https://github.com/WeitaoVan/L-GM-loss)
 - Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Semantic Binary Segmentation using Convolutional Networks without Decoders. [`arxiv`](https://arxiv.org/abs/1805.00138)
 - Simple Baselines for Human Pose Estimation and Tracking. [`arxiv`](https://arxiv.org/abs/1804.06208)
-- Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
 - Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation. [`arxiv`](https://arxiv.org/abs/1804.10343) [`code`](https://github.com/shahsohil/sunets)
 - ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
@@ -59,5 +56,13 @@
 - Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking. [`arxiv`](https://arxiv.org/abs/1804.04555)
 - Unsupervised Discovery of Object Landmarks as Structural Representations. [`arxiv`](https://arxiv.org/abs/1804.04412)
 - Video Person Re-identification by Temporal Residual Learning. [`arxiv`](https://arxiv.org/abs/1802.07918)
+
+
+## Object Detection
+
+- DetNet: A Backbone network for Object Detection. [`arxiv`](https://arxiv.org/abs/1804.06215)
+- Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
+- Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
+- You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery. [`arxiv`](https://arxiv.org/abs/1805.09512) [`code`](https://github.com/CosmiQ/yolt)
 - Zero-Shot Object Detection by Hybrid Region Embedding. [`arxiv`](https://arxiv.org/abs/1805.06157) 
 - Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
