@@ -8,6 +8,7 @@
 - [A curated list of awesome resources related to capsule networks](https://github.com/aisummary/awesome-capsule-networks)
 - [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
 - [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
+- [A list of papers on Generative Adversarial (Neural) Networks](https://github.com/nightrome/really-awesome-gan) :star:
 - [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning)
 - [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
 - [A curated list of resources for Chinese NLP](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
@@ -42,7 +43,7 @@
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
 - [Awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
-- [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+- [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl) :star:
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 - [Awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
