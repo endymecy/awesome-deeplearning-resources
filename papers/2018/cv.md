@@ -25,6 +25,7 @@
 - Fast Semantic Segmentation on Video Using Motion Vector-Based Feature Interpolation. [`arxiv`](https://arxiv.org/abs/1803.07742)
 - Fooling OCR Systems with Adversarial Text Images. [`arxiv`](https://arxiv.org/abs/1802.05385)
 - From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval. [`arxiv`](https://arxiv.org/abs/1802.02899) [`code`](https://github.com/hnanhtuan/selectiveConvFeature)
+- GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training. [`arxiv`](https://arxiv.org/abs/1805.06725) [`code`](https://github.com/samet-akcay/ganomaly)
 - Harmonious Attention Network for Person Re-Identification. [`arxiv`](https://arxiv.org/abs/1802.08122)
 - IGCV2: Interleaved Structured Sparse Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.06202)
 - Image Inpainting for Irregular Holes Using Partial Convolutions. [`arxiv`](https://arxiv.org/abs/1804.07723)
