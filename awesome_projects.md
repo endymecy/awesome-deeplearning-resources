@@ -100,6 +100,7 @@
 - [The awesome and classic papers in recommendation system](https://github.com/YuyangZhangFTD/awesome-RecSys-papers)
 - [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
+- [The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers) :star:
 - [Using python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Use PyTorch to implement some classic frameworks](https://github.com/sunshineatnoon/Paper-Implementations)
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
