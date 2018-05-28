@@ -17,6 +17,7 @@
 - [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
 - [Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing](https://github.com/niderhoff/nlp-datasets)
 - [A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)](https://github.com/arthchan2003/AIDL_KB)
+- [An awesome Data Science repository to learn and apply for real world problems.](https://github.com/bulutyazilim/awesome-datascience)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) 
 - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
