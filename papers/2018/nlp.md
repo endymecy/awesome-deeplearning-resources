@@ -18,6 +18,7 @@
 
 - A Deep Reinforcement Learning Chatbot (Short Version). [`arxiv`](https://arxiv.org/abs/1801.06700)
 - Goal-Oriented Chatbot Dialog Management Bootstrapping with Transfer Learning. [`arxiv`](https://arxiv.org/abs/1802.00500)
+- Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. [`arxiv`](https://arxiv.org/abs/1804.08217) [`code`](https://github.com/HLTCHKUST/Mem2Seq)
 
 ### Embeddings
 
