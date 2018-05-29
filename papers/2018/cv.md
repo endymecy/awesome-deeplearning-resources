@@ -2,23 +2,18 @@
 
 - 3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies. [`arxiv`](https://arxiv.org/abs/1801.05968)
 - A Closed-form Solution to Photorealistic Image Stylization. [`arxiv`](https://arxiv.org/abs/1802.06474) [`code`](https://github.com/NVIDIA/FastPhotoStyle) :star:
-- Additive Margin Softmax for Face Verification. [`arxiv`](https://arxiv.org/abs/1801.05599) [`code`](https://github.com/happynear/AMSoftmax) :star:
 - Adversarial Learning for Semi-Supervised Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1802.07934) [`pytorch`](https://github.com/hfslyc/AdvSemiSeg)
 - Adversarial Training of Variational Auto-encoders for High Fidelity Image Generation. [`arxiv`](https://arxiv.org/abs/1804.10323)
 - An application of cascaded 3D fully convolutional networks for medical image segmentation. [`arxiv`](https://arxiv.org/abs/1803.05431) [`code`](https://github.com/holgerroth/3Dunet_abdomen_cascade)
-- Anchor Cascade for Efficient Face Detection. [`arxiv`](https://arxiv.org/abs/1805.03363)
 - Attention-Aware Compositional Network for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1805.03344)
 - Attention U-Net: Learning Where to Look for the Pancreas. [`arxiv`](https://arxiv.org/abs/1804.03999) [`code`](https://github.com/ozan-oktay/Attention-Gated-Networks)
 - A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
 - AutoAugment: Learning Augmentation Policies from Data. [`arxiv`](https://arxiv.org/abs/1805.09501)
 - Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration. [`arxiv`](https://arxiv.org/abs/1805.03857)
-- Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1803.11365) [`code`](https://github.com/naoto0804/cross-domain-detection)
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images. [`arxiv`](https://arxiv.org/abs/1804.04488)
 - Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis. [`arxiv`](https://arxiv.org/abs/1802.00752) [`code`](https://github.com/alexander-rakhlin/ICIAR2018)
-- Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
 - Deep Pose Consensus Networks. [`arxiv`](https://arxiv.org/abs/1803.08190) 
 - Depth CNNs for RGB-D scene recognition: learning from scratch better than transferring from RGB-CNNs. [`arxiv`](https://arxiv.org/abs/1801.06797) [`code`](https://github.com/songxinhang/D-CNN)
-- Detecting and counting tiny faces. [`arxiv`](https://arxiv.org/abs/1801.06504) [`code`](https://github.com/alexattia/ExtendedTinyFaces)
 - Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads. [`arxiv`](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)
 - End-to-End Saliency Mapping via Probability Distribution Prediction. [`arxiv`](https://arxiv.org/abs/1804.01793)
 - Enhancing Underwater Imagery using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1801.04011) [`code`](https://github.com//cameronfabbri/Underwater-Color-Correction)
@@ -36,12 +31,10 @@
 - MegaDepth: Learning Single-View Depth Prediction from Internet Photos. [`arxiv`](https://arxiv.org/abs/1804.00607) [`code`](https://github.com/lixx2938/MegaDepth)
 - Multimodal Unsupervised Image-to-Image Translation. [`arxiv`](https://arxiv.org/abs/1804.04732) [`code`](https://github.com/nvlabs/MUNIT) :star:
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
-- Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
 - Pixel-wise Attentional Gating for Parsimonious Pixel Labeling. [`arxiv`](https://arxiv.org/abs/1805.01556) [`code`](https://github.com/aimerykong/Pixel-Attentional-Gating)
 - PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. [`pdf`](https://eng.ucmerced.edu/people/jyang44/papers/cvpr2018_PlaneNet_camera_ready.pdf) [`code`](https://github.com/art-programmer/PlaneNet)
 - PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [`arxiv`](https://arxiv.org/abs/1804.03492) [`code`](https://github.com/mikacuy/pointnetvlad)
-- RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
 - Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
 - Rethinking Feature Distribution for Loss Functions in Image Classification. [`arxiv`](https://arxiv.org/abs/1803.02988) [`code`](https://github.com/WeitaoVan/L-GM-loss)
 - Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
@@ -50,7 +43,6 @@
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
 - Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation. [`arxiv`](https://arxiv.org/abs/1804.10343) [`code`](https://github.com/shahsohil/sunets)
 - ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
-- Survey of Face Detection on Low-quality Images. [`arxiv`](https://arxiv.org/abs/1804.07362)
 - Text to Image Synthesis Using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.00676)
 - Towards Image Understanding from Deep Compression without Decoding. [`arxiv`](https://arxiv.org/abs/1803.06131)
 - Towards Semantic SLAM: Points, Planes and Objects. [`arxiv`](https://arxiv.org/abs/1804.09111)
@@ -58,10 +50,21 @@
 - Unsupervised Discovery of Object Landmarks as Structural Representations. [`arxiv`](https://arxiv.org/abs/1804.04412)
 - Video Person Re-identification by Temporal Residual Learning. [`arxiv`](https://arxiv.org/abs/1802.07918)
 
+## Face Recognition
+
+- Additive Margin Softmax for Face Verification. [`arxiv`](https://arxiv.org/abs/1801.05599) [`code`](https://github.com/happynear/AMSoftmax) :star:
+- Anchor Cascade for Efficient Face Detection. [`arxiv`](https://arxiv.org/abs/1805.03363)
+- Detecting and counting tiny faces. [`arxiv`](https://arxiv.org/abs/1801.06504) [`code`](https://github.com/alexattia/ExtendedTinyFaces)
+- RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
+- Survey of Face Detection on Low-quality Images. [`arxiv`](https://arxiv.org/abs/1804.07362)
+
 
 ## Object Detection
 
+- Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1803.11365) [`code`](https://github.com/naoto0804/cross-domain-detection)
+- Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
 - DetNet: A Backbone network for Object Detection. [`arxiv`](https://arxiv.org/abs/1804.06215)
+- Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
 - Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
 - Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
 - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery. [`arxiv`](https://arxiv.org/abs/1805.09512) [`code`](https://github.com/CosmiQ/yolt)
