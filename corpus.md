@@ -53,6 +53,7 @@
 - [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
 - [Japanese Word Similarity Dataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Labeled Faces in the Wild Home](http://vis-www.cs.umass.edu/lfw/)
 - [LLD - Large Logo Dataset](https://data.vision.ee.ethz.ch/cvl/lld/)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
