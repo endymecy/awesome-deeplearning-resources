@@ -12,6 +12,7 @@
 - Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration. [`arxiv`](https://arxiv.org/abs/1805.03857)
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images. [`arxiv`](https://arxiv.org/abs/1804.04488)
 - Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis. [`arxiv`](https://arxiv.org/abs/1802.00752) [`code`](https://github.com/alexander-rakhlin/ICIAR2018)
+- DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images. [`arxiv`](https://arxiv.org/abs/1805.06561)
 - Deep Pose Consensus Networks. [`arxiv`](https://arxiv.org/abs/1803.08190) 
 - Depth CNNs for RGB-D scene recognition: learning from scratch better than transferring from RGB-CNNs. [`arxiv`](https://arxiv.org/abs/1801.06797) [`code`](https://github.com/songxinhang/D-CNN)
 - Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads. [`arxiv`](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)
