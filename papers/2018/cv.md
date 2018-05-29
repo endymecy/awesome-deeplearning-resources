@@ -16,11 +16,9 @@
 - Depth CNNs for RGB-D scene recognition: learning from scratch better than transferring from RGB-CNNs. [`arxiv`](https://arxiv.org/abs/1801.06797) [`code`](https://github.com/songxinhang/D-CNN)
 - Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads. [`arxiv`](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)
 - End-to-End Saliency Mapping via Probability Distribution Prediction. [`arxiv`](https://arxiv.org/abs/1804.01793)
-- Enhancing Underwater Imagery using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1801.04011) [`code`](https://github.com//cameronfabbri/Underwater-Color-Correction)
 - Fast Semantic Segmentation on Video Using Motion Vector-Based Feature Interpolation. [`arxiv`](https://arxiv.org/abs/1803.07742)
 - Fooling OCR Systems with Adversarial Text Images. [`arxiv`](https://arxiv.org/abs/1802.05385)
 - From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval. [`arxiv`](https://arxiv.org/abs/1802.02899) [`code`](https://github.com/hnanhtuan/selectiveConvFeature)
-- GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training. [`arxiv`](https://arxiv.org/abs/1805.06725) [`code`](https://github.com/samet-akcay/ganomaly)
 - Harmonious Attention Network for Person Re-Identification. [`arxiv`](https://arxiv.org/abs/1802.08122)
 - IGCV2: Interleaved Structured Sparse Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.06202)
 - Image Inpainting for Irregular Holes Using Partial Convolutions. [`arxiv`](https://arxiv.org/abs/1804.07723)
@@ -35,14 +33,10 @@
 - Pixel-wise Attentional Gating for Parsimonious Pixel Labeling. [`arxiv`](https://arxiv.org/abs/1805.01556) [`code`](https://github.com/aimerykong/Pixel-Attentional-Gating)
 - PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. [`pdf`](https://eng.ucmerced.edu/people/jyang44/papers/cvpr2018_PlaneNet_camera_ready.pdf) [`code`](https://github.com/art-programmer/PlaneNet)
 - PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [`arxiv`](https://arxiv.org/abs/1804.03492) [`code`](https://github.com/mikacuy/pointnetvlad)
-- Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
-- Rethinking Feature Distribution for Loss Functions in Image Classification. [`arxiv`](https://arxiv.org/abs/1803.02988) [`code`](https://github.com/WeitaoVan/L-GM-loss)
-- Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Semantic Binary Segmentation using Convolutional Networks without Decoders. [`arxiv`](https://arxiv.org/abs/1805.00138)
 - Simple Baselines for Human Pose Estimation and Tracking. [`arxiv`](https://arxiv.org/abs/1804.06208)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
 - Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation. [`arxiv`](https://arxiv.org/abs/1804.10343) [`code`](https://github.com/shahsohil/sunets)
-- ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 - Text to Image Synthesis Using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.00676)
 - Towards Image Understanding from Deep Compression without Decoding. [`arxiv`](https://arxiv.org/abs/1803.06131)
 - Towards Semantic SLAM: Points, Planes and Objects. [`arxiv`](https://arxiv.org/abs/1804.09111)
@@ -58,14 +52,26 @@
 - RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
 - Survey of Face Detection on Low-quality Images. [`arxiv`](https://arxiv.org/abs/1804.07362)
 
+## Image Classifier
+
+- Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
+- Rethinking Feature Distribution for Loss Functions in Image Classification. [`arxiv`](https://arxiv.org/abs/1803.02988) [`code`](https://github.com/WeitaoVan/L-GM-loss)
+
+## Image Generate
+
+- Enhancing Underwater Imagery using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1801.04011) [`code`](https://github.com//cameronfabbri/Underwater-Color-Correction)
+- ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing. [`arxiv`](https://arxiv.org/abs/1803.01837) [`code`](https://github.com/chenhsuanlin/spatial-transformer-GAN)
+
 
 ## Object Detection
 
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1803.11365) [`code`](https://github.com/naoto0804/cross-domain-detection)
 - Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
 - DetNet: A Backbone network for Object Detection. [`arxiv`](https://arxiv.org/abs/1804.06215)
+- GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training. [`arxiv`](https://arxiv.org/abs/1805.06725) [`code`](https://github.com/samet-akcay/ganomaly)
 - Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
 - Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
+- Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
 - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery. [`arxiv`](https://arxiv.org/abs/1805.09512) [`code`](https://github.com/CosmiQ/yolt)
 - Zero-Shot Object Detection by Hybrid Region Embedding. [`arxiv`](https://arxiv.org/abs/1805.06157) 
