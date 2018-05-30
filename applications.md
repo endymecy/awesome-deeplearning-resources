@@ -42,6 +42,7 @@
     - [InferSent is a sentence embeddings method that provides semantic sentence representations.](https://github.com/facebookresearch/InferSent)
     - [LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.](https://github.com/sujithv28/Deep-Leafsnap)
     - [Lightweight implementation of neural style in Pytorch with SqueezeNet](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
+    - [Minimal PyTorch implementation of YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
     - [Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch](https://github.com/keon/seq2seq)
     - [OpenNMT: Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [Open source person re-identification library in python](https://github.com/Cysu/open-reid) :star:
