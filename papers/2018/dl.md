@@ -39,6 +39,7 @@
 - Group Normalization. [`arxiv`](https://arxiv.org/abs/1803.08494)
 - High-Accuracy Low-Precision Training. [`arxiv`](https://arxiv.org/abs/1803.03383)
 - High Dimensional Bayesian Optimization Using Dropout. [`arxiv`](https://arxiv.org/abs/1802.05400)
+- How Does Batch Normalization Help Optimization. [`arxiv`](https://arxiv.org/abs/1805.11604)
 - Hybrid Decision Making: When Interpretable Models Collaborate With Black-Box Models. [`arxiv`](https://arxiv.org/abs/1802.04346) [`code`](https://github.com/wangtongada/CoBRUSH)
 - Hybrid Gradient Boosting Trees and Neural Networks for Forecasting Operating Room Data. [`arxiv`](https://arxiv.org/abs/1801.07384)
 - IcoRating: A Deep-Learning System for Scam ICO Identification. [`arxiv`](https://arxiv.org/abs/1803.03670)
