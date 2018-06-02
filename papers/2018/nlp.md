@@ -6,6 +6,7 @@
 - A Universal Music Translation Network. [`arxiv`](https://arxiv.org/abs/1805.07848)
 - Calculating the similarity between words and sentences using a lexical database and corpus statistics. [`arxiv`](https://arxiv.org/abs/1802.05667)
 - Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
+- Constituency Parsing with a Self-Attentive Encoder. [`arxiv`](https://arxiv.org/abs/1805.01052) [`code`](https://github.com/nikitakit/self-attentive-parser)
 - Extracting Action Sequences from Texts Based on Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02632)
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:
 - How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks. [`arxiv`](https://arxiv.org/abs/1803.02994)
