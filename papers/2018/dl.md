@@ -45,6 +45,7 @@
 - How Does Batch Normalization Help Optimization. [`arxiv`](https://arxiv.org/abs/1805.11604)
 - Hybrid Decision Making: When Interpretable Models Collaborate With Black-Box Models. [`arxiv`](https://arxiv.org/abs/1802.04346) [`code`](https://github.com/wangtongada/CoBRUSH)
 - Hybrid Gradient Boosting Trees and Neural Networks for Forecasting Operating Room Data. [`arxiv`](https://arxiv.org/abs/1801.07384)
+- Hyperbolic Neural Networks. [`arxiv`](https://arxiv.org/abs/1805.09112) [`code`](https://github.com/dalab/hyperbolic_nn)
 - IcoRating: A Deep-Learning System for Scam ICO Identification. [`arxiv`](https://arxiv.org/abs/1803.03670)
 - Impacts of Dirty Data: and Experimental Evaluation. [`arxiv`](https://arxiv.org/abs/1803.06071) [`code`](https://github.com/qizhixinhit/Dirty-dataImpacts)
 - Implicit Autoencoders. [`arxiv`](https://arxiv.org/abs/1805.09804) 
