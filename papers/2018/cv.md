@@ -31,6 +31,7 @@
 - MegaDepth: Learning Single-View Depth Prediction from Internet Photos. [`arxiv`](https://arxiv.org/abs/1804.00607) [`code`](https://github.com/lixx2938/MegaDepth)
 - Multimodal Unsupervised Image-to-Image Translation. [`arxiv`](https://arxiv.org/abs/1804.04732) [`code`](https://github.com/nvlabs/MUNIT) :star:
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
+- Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
 - Pixel-wise Attentional Gating for Parsimonious Pixel Labeling. [`arxiv`](https://arxiv.org/abs/1805.01556) [`code`](https://github.com/aimerykong/Pixel-Attentional-Gating)
 - PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. [`pdf`](https://eng.ucmerced.edu/people/jyang44/papers/cvpr2018_PlaneNet_camera_ready.pdf) [`code`](https://github.com/art-programmer/PlaneNet)
