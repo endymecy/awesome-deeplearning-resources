@@ -46,6 +46,7 @@
 - Hybrid Gradient Boosting Trees and Neural Networks for Forecasting Operating Room Data. [`arxiv`](https://arxiv.org/abs/1801.07384)
 - IcoRating: A Deep-Learning System for Scam ICO Identification. [`arxiv`](https://arxiv.org/abs/1803.03670)
 - Impacts of Dirty Data: and Experimental Evaluation. [`arxiv`](https://arxiv.org/abs/1803.06071) [`code`](https://github.com/qizhixinhit/Dirty-dataImpacts)
+- Implicit Autoencoders. [`arxiv`](https://arxiv.org/abs/1805.09804) 
 - Incremental Training of Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.10232)
 - Labelling as an unsupervised learning problem.[`arxiv`](https://arxiv.org/abs/1805.03911) 
 - Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization. [`arxiv`](https://arxiv.org/abs/1802.03063)
