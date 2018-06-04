@@ -91,6 +91,7 @@
 - The Singular Values of Convolutional Layers. [`arxiv`](https://arxiv.org/abs/1805.10408)
 - The unreasonable effectiveness of the forget gate. [`arxiv`](https://arxiv.org/abs/1804.04849)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
+- Towards a Theoretical Understanding of Batch Normalization. [`arxiv`](https://arxiv.org/abs/1805.10694)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
 - Tree-CNN: A Deep Convolutional Neural Network for Lifelong Learning. [`arxiv`](https://arxiv.org/abs/1802.05800)
 - Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring. [`arxiv`](https://arxiv.org/abs/1802.04633)
