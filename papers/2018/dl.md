@@ -51,6 +51,7 @@
 - Implicit Autoencoders. [`arxiv`](https://arxiv.org/abs/1805.09804) 
 - Incremental Training of Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.10232)
 - Labelling as an unsupervised learning problem.[`arxiv`](https://arxiv.org/abs/1805.03911) 
+- Large Data and Zero Noise Limits of Graph-Based Semi-Supervised Learning Algorithms. [`arxiv`](https://arxiv.org/abs/1805.09450)
 - Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization. [`arxiv`](https://arxiv.org/abs/1802.03063)
 - Learning Longer-term Dependencies in RNNs with Auxiliary Losses. [`arxiv`](https://arxiv.org/abs/1803.00144)
 - Learning Networks from Random Walk-Based Node Similarities. [`arxiv`](https://arxiv.org/abs/1801.07386) [`code`](https://github.com/cnmusco/graph-similarity-learning)
