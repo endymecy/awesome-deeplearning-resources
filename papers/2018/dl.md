@@ -64,6 +64,7 @@
 - LSTM stack-based Neural Multi-sequence Alignment TeCHnique. [`arxiv`](https://arxiv.org/abs/1803.00057)
 - MemGEN: Memory is All You Need. [`arxiv`](https://arxiv.org/abs/1803.11203)
 - Modeling Dynamics with Deep Transition-Learning Networks. [`arxiv`](https://arxiv.org/abs/1802.03497)
+- Multi-Layered Gradient Boosting Decision Trees. [`arxiv`](https://arxiv.org/abs/1806.00007) :star:
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
 - Not All Samples Are Created Equal: Deep Learning with Importance Sampling. [`arxiv`](https://arxiv.org/abs/1803.00942)
 - Online normalizer calculation for softmax. [`arxiv`](https://arxiv.org/abs/1805.02867)
