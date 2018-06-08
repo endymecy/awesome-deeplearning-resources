@@ -40,6 +40,7 @@
 - GossipGraD: Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent. [`arxiv`](https://arxiv.org/abs/1803.05880)
 - Graph Capsule Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1805.08090) [`code`](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/)
 - Graph Partition Neural Networks for Semi-Supervised Classification. [`arxiv`](https://arxiv.org/abs/1803.06272)
+- GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Model. [`arxiv`](https://arxiv.org/abs/1802.08773) [`code`](https://github.com/JiaxuanYou/graph-generation)
 - Group Normalization. [`arxiv`](https://arxiv.org/abs/1803.08494)
 - High-Accuracy Low-Precision Training. [`arxiv`](https://arxiv.org/abs/1803.03383)
 - High Dimensional Bayesian Optimization Using Dropout. [`arxiv`](https://arxiv.org/abs/1802.05400)
