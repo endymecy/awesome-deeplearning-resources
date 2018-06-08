@@ -79,6 +79,7 @@
 - Progress & Compress: A scalable framework for continual learning. [`arxiv`](https://arxiv.org/abs/1805.06370)
 - Pyramid Stereo Matching Network. [`arxiv`](https://arxiv.org/abs/1803.08669) [`code`](https://github.com/JiaRenChang/PSMNet)
 - Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees. [`arxiv`](https://arxiv.org/abs/1804.09893)
+- Relational recurrent neural networks. [`arxiv`](https://arxiv.org/abs/1806.01822)
 - Revisiting Small Batch Training for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.07612)
 - Rotation Equivariance and Invariance in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1805.12301)
 - Sparsely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.05895)
