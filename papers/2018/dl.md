@@ -5,6 +5,7 @@
 - A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data. [`arxiv`](https://arxiv.org/abs/1801.06202) [`code`](https://github.com/yunchuankong/NetworkNeuralNetwork)
 - A Survey on Neural Network-Based Summarization Methods. [`arxiv`](https://arxiv.org/abs/1804.04589)
 - A Unified Probabilistic Model for Learning Latent Factors and Their Connectivities from High-Dimensional Data. [`arxiv`](https://arxiv.org/abs/1805.09567)
+- Backdrop: Stochastic Backpropagation. [`arxiv`](https://arxiv.org/abs/1806.01337) [`code`](https://github.com/dexgen/backdrop)
 - Batch Kalman Normalization: Towards Training Deep Neural Networks with Micro-Batches. [`arxiv`](https://arxiv.org/abs/1802.03133) :star:
 - Bayesian Deep Convolutional Encoder-Decoder Networks for Surrogate Modeling and Uncertainty Quantification. [`arxiv`](https://arxiv.org/abs/1801.06879)
 - Bayesian Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.07710) [`code`](https://github.com/mullachv/MLExp)
