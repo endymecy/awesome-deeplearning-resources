@@ -10,6 +10,7 @@
 - Bayesian Deep Convolutional Encoder-Decoder Networks for Surrogate Modeling and Uncertainty Quantification. [`arxiv`](https://arxiv.org/abs/1801.06879)
 - Bayesian Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.07710) [`code`](https://github.com/mullachv/MLExp)
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [`arxiv`](https://arxiv.org/abs/1801.05453)
+- BindsNET: A machine learning-oriented spiking neural networks library in Python. [`arxiv`](https://arxiv.org/abs/1806.01423) [`code`](https://github.com/Hananel-Hazan/bindsnet)
 - Capturing Structure Implicitly from Time-Series having Limited Data. [`arxiv`](https://arxiv.org/abs/1803.05867) [`code`](https://github.com/emaasit/long-range-extrapolation)
 - Class label autoencoder for zero-shot learning. [`arxiv`](https://arxiv.org/abs/1801.08301)
 - Closing the AI Knowledge Gap. [`arxiv`](https://arxiv.org/abs/1803.07233)
