@@ -13,6 +13,7 @@
 - IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection. [`arxiv`](https://arxiv.org/abs/1805.01167)
 - Neural Relational Inference for Interacting Systems. [`arxiv`](https://arxiv.org/abs/1802.04687) [`code`](https://github.com/ethanfetaya/nri)
 - Neural Text Generation: Past, Present and Beyond. [`arxiv`](https://arxiv.org/abs/1803.07133)
+- PixelLink: Detecting Scene Text via Instance Segmentation. [`arxiv`](https://arxiv.org/abs/1801.01315) [`code`](https://github.com/ZJULearning/pixel_link)
 - Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings. [`arxiv`](https://arxiv.org/abs/1803.08495)
 
 ### Chatbot
