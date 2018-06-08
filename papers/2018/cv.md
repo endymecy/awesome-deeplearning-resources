@@ -4,10 +4,8 @@
 - A Closed-form Solution to Photorealistic Image Stylization. [`arxiv`](https://arxiv.org/abs/1802.06474) [`code`](https://github.com/NVIDIA/FastPhotoStyle) :star:
 - Adversarial Learning for Semi-Supervised Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1802.07934) [`pytorch`](https://github.com/hfslyc/AdvSemiSeg)
 - Adversarial Training of Variational Auto-encoders for High Fidelity Image Generation. [`arxiv`](https://arxiv.org/abs/1804.10323)
-- An application of cascaded 3D fully convolutional networks for medical image segmentation. [`arxiv`](https://arxiv.org/abs/1803.05431) [`code`](https://github.com/holgerroth/3Dunet_abdomen_cascade)
 - Attention-Aware Compositional Network for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1805.03344)
 - Attention U-Net: Learning Where to Look for the Pancreas. [`arxiv`](https://arxiv.org/abs/1804.03999) [`code`](https://github.com/ozan-oktay/Attention-Gated-Networks)
-- A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
 - AutoAugment: Learning Augmentation Policies from Data. [`arxiv`](https://arxiv.org/abs/1805.09501)
 - Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration. [`arxiv`](https://arxiv.org/abs/1805.03857)
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images. [`arxiv`](https://arxiv.org/abs/1804.04488)
@@ -31,13 +29,9 @@
 - MegaDepth: Learning Single-View Depth Prediction from Internet Photos. [`arxiv`](https://arxiv.org/abs/1804.00607) [`code`](https://github.com/lixx2938/MegaDepth)
 - Multimodal Unsupervised Image-to-Image Translation. [`arxiv`](https://arxiv.org/abs/1804.04732) [`code`](https://github.com/nvlabs/MUNIT) :star:
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
-- Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
-- PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
 - Pixel-wise Attentional Gating for Parsimonious Pixel Labeling. [`arxiv`](https://arxiv.org/abs/1805.01556) [`code`](https://github.com/aimerykong/Pixel-Attentional-Gating)
 - PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. [`pdf`](https://eng.ucmerced.edu/people/jyang44/papers/cvpr2018_PlaneNet_camera_ready.pdf) [`code`](https://github.com/art-programmer/PlaneNet)
 - PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [`arxiv`](https://arxiv.org/abs/1804.03492) [`code`](https://github.com/mikacuy/pointnetvlad)
-- Pyramid Attention Network for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1805.10180)
-- Semantic Binary Segmentation using Convolutional Networks without Decoders. [`arxiv`](https://arxiv.org/abs/1805.00138)
 - Simple Baselines for Human Pose Estimation and Tracking. [`arxiv`](https://arxiv.org/abs/1804.06208)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
 - Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation. [`arxiv`](https://arxiv.org/abs/1804.10343) [`code`](https://github.com/shahsohil/sunets)
@@ -82,3 +76,13 @@
 - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery. [`arxiv`](https://arxiv.org/abs/1805.09512) [`code`](https://github.com/CosmiQ/yolt)
 - Zero-Shot Object Detection by Hybrid Region Embedding. [`arxiv`](https://arxiv.org/abs/1805.06157) 
 - Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
+
+## Object Segmentation
+
+- An application of cascaded 3D fully convolutional networks for medical image segmentation. [`arxiv`](https://arxiv.org/abs/1803.05431) [`code`](https://github.com/holgerroth/3Dunet_abdomen_cascade)
+- A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
+- Fast and Accurate Online Video Object Segmentation via Tracking Parts. [`arxiv`](https://arxiv.org/abs/1806.02323) [`code`](https://github.com/JingchunCheng/FAVOS)
+- Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
+- PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
+- Pyramid Attention Network for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1805.10180)
+- Semantic Binary Segmentation using Convolutional Networks without Decoders. [`arxiv`](https://arxiv.org/abs/1805.00138)
