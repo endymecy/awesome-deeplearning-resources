@@ -88,3 +88,4 @@
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
 - Pyramid Attention Network for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1805.10180)
 - Semantic Binary Segmentation using Convolutional Networks without Decoders. [`arxiv`](https://arxiv.org/abs/1805.00138)
+- Y-Net: Joint Segmentation and Classification for Diagnosis of Breast Biopsy Images. [`arxiv`](https://arxiv.org/abs/1806.01313)
