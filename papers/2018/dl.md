@@ -16,6 +16,7 @@
 - Class label autoencoder for zero-shot learning. [`arxiv`](https://arxiv.org/abs/1801.08301)
 - Closing the AI Knowledge Gap. [`arxiv`](https://arxiv.org/abs/1803.07233)
 - Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
+- Collaborative Multi-modal deep learning for the personalized product retrieval in Facebook Marketplace. [`arxiv`](https://arxiv.org/abs/1805.12312)
 - Decorrelated Batch Normalization. [`arxiv`](https://arxiv.org/abs/1804.08450) [`code`](https://github.com/umich-vl/DecorrelatedBN)
 - Deep Embedding Kernel. [`arxiv`](https://arxiv.org/abs/1804.05806)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
