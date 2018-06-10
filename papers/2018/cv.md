@@ -66,6 +66,7 @@
 
 - A Generalized Active Learning Approach for Unsupervised Anomaly Detection. [`arxiv`](https://arxiv.org/abs/1805.09411)
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1803.11365) [`code`](https://github.com/naoto0804/cross-domain-detection)
+- CubeSLAM: Monocular 3D Object Detection and SLAM without Prior Models. [`arxiv`](https://arxiv.org/abs/1806.00557)
 - Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
 - DetNet: A Backbone network for Object Detection. [`arxiv`](https://arxiv.org/abs/1804.06215)
 - GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training. [`arxiv`](https://arxiv.org/abs/1805.06725) [`code`](https://github.com/samet-akcay/ganomaly)
