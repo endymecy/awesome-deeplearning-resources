@@ -131,6 +131,7 @@
 
 ## Generative learning
 
+- Adversarial Attack on Graph Structured Data. [`arxiv`](https://arxiv.org/abs/1806.02371)
 - Adversarial Attacks Against Medical Deep Learning Systems. [`arxiv`](https://arxiv.org/abs/1804.05296) [`code`](https://github.com/sgfin/adversarial-medicine)
 - Adversarial Classification on Social Networks. [`arxiv`](https://arxiv.org/abs/1801.08159)
 - Adversarial Logit Pairing. [`arxiv`](https://arxiv.org/abs/1803.06373) :star:
