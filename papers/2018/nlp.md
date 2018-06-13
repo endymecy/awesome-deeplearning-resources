@@ -77,6 +77,7 @@
 - Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba. [`arxiv`](https://arxiv.org/abs/1803.02349)
 - DKN: Deep Knowledge-Aware Network for News Recommendation. [`arxiv`](https://arxiv.org/abs/1801.08284)
 - Explainable Recommendation: A Survey and New Perspectives. [`arxiv`](https://arxiv.org/abs/1804.11192)
+- Graph Convolutional Neural Networks for Web-Scale Recommender Systems. [`arxiv`](https://arxiv.org/abs/1806.01973)
 - Learning Tree-based Deep Model for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.02294)
 - MARS: Memory Attention-Aware Recommender System. [`arxiv`](https://arxiv.org/abs/1805.07037)
 - Offline A/B testing for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.07030)
