@@ -72,6 +72,7 @@
 - GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training. [`arxiv`](https://arxiv.org/abs/1805.06725) [`code`](https://github.com/samet-akcay/ganomaly)
 - Multi-Resolution 3D Convolutional Neural Networks for Object Recognition. [`arxiv`](https://arxiv.org/abs/1805.12254)
 - Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
+- Optimizing Video Object Detection via a Scale-Time Lattice. [`url`](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/) [`code`](https://github.com/hellock/scale-time-lattice)
 - Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
 - Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
