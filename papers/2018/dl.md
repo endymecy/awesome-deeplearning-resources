@@ -87,6 +87,7 @@
 - Relational recurrent neural networks. [`arxiv`](https://arxiv.org/abs/1806.01822)
 - Revisiting Small Batch Training for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.07612)
 - Rotation Equivariance and Invariance in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1805.12301)
+- Smallify: Learning Network Size while Training. [`arxiv`](https://arxiv.org/abs/1806.03723) 
 - Sparsely Connected Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.05895)
 - SparseMAP: Differentiable Sparse Structured Inference. [`arxiv`](https://arxiv.org/abs/1802.04223) :star:
 - SpectralNet: Spectral Clustering using Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.01587) [`code`](https://github.com//kstant0725/SpectralNet)
