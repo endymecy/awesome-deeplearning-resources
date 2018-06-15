@@ -32,4 +32,5 @@
 - Shared Autonomy via Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1802.01744)
 - Setting up a Reinforcement Learning Task with a Real-World Robot. [`arxiv`](https://arxiv.org/abs/1803.07067)
 - Simple random search provides a competitive approach to reinforcement learning. [`arxiv`](https://arxiv.org/abs/1803.07055) [`code`](https://github.com/modestyachts/ARS)
+- Unsupervised Meta-Learning for Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1806.04640)
 - Using reinforcement learning to learn how to play text-based games. [`arxiv`](https://arxiv.org/abs/1801.01999)
