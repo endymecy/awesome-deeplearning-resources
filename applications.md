@@ -5,6 +5,7 @@
     - [Adversarial Autoencoders](https://github.com/fducau/AAE_pytorch)
     - [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet)
     - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
+    - [A few tutorials on getting started with PyTorch and TorchText for sentiment analysis.](https://github.com/bentrevett/pytorch-sentiment-analysis)
     - [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop)
     - [A model for style-specific music generation](https://github.com/calclavia/DeepJ) :star:
     - [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) :star:
