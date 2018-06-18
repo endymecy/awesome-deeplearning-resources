@@ -87,6 +87,7 @@
 - A Probabilistic U-Net for Segmentation of Ambiguous Images. [`arxiv`](https://arxiv.org/abs/1806.05034)
 - A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
 - Fast and Accurate Online Video Object Segmentation via Tracking Parts. [`arxiv`](https://arxiv.org/abs/1806.02323) [`code`](https://github.com/JingchunCheng/FAVOS)
+- NeuroNet: Fast and Robust Reproduction of Multiple Brain Image Segmentation Pipelines. [`arxiv`](https://arxiv.org/abs/1806.04224)
 - Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
 - Pyramid Attention Network for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1805.10180)
