@@ -17,6 +17,7 @@
 - PixelLink: Detecting Scene Text via Instance Segmentation. [`arxiv`](https://arxiv.org/abs/1801.01315) [`code`](https://github.com/ZJULearning/pixel_link)
 - Shape Robust Text Detection with Progressive Scale Expansion Network. [`arxiv`](https://arxiv.org/abs/1806.02559) [`code`](https://github.com/whai362/PSENet)
 - Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings. [`arxiv`](https://arxiv.org/abs/1803.08495)
+- VoxCeleb2: Deep Speaker Recognition. [`arxiv`](https://arxiv.org/abs/1806.05622)
 
 ### Chatbot
 
