@@ -8,6 +8,7 @@
 - A Unified Probabilistic Model for Learning Latent Factors and Their Connectivities from High-Dimensional Data. [`arxiv`](https://arxiv.org/abs/1805.09567)
 - Backdrop: Stochastic Backpropagation. [`arxiv`](https://arxiv.org/abs/1806.01337) [`code`](https://github.com/dexgen/backdrop)
 - Batch Kalman Normalization: Towards Training Deep Neural Networks with Micro-Batches. [`arxiv`](https://arxiv.org/abs/1802.03133) :star:
+- Bayesian Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1806.05978) [`code`](https://github.com/felix-laumann/Bayesian_CNN)
 - Bayesian Deep Convolutional Encoder-Decoder Networks for Surrogate Modeling and Uncertainty Quantification. [`arxiv`](https://arxiv.org/abs/1801.06879)
 - Bayesian Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.07710) [`code`](https://github.com/mullachv/MLExp)
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [`arxiv`](https://arxiv.org/abs/1801.05453)
