@@ -191,6 +191,7 @@
 - Capsule networks for low-data transfer learning. [`arxiv`](https://arxiv.org/abs/1804.10172)
 - Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer. [`arxiv`](https://arxiv.org/abs/1804.06437v1) [`code`](https://github.com/lijuncen/Sentiment-and-Style-Transfer)
 - Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations. [`arxiv`](https://arxiv.org/abs/1806.02934)
+- [Best Paper] Taskonomy: Disentangling Task Transfer Learning. [`arxiv`](https://arxiv.org/abs/1804.08328) :star:
 
 ## Zero/One Shot Learning
 
