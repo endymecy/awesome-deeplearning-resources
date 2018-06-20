@@ -77,6 +77,7 @@
 - Relation Networks for Object Detection. [`arxiv`](https://arxiv.org/abs/1711.11575) [`code`](https://github.com/msracver/Relation-Networks-for-Object-Detection)
 - Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
+- SNIPER: Efficient Multi-Scale Training. [`arxiv`](https://arxiv.org/abs/1805.09300) [`code`](https://github.com/mahyarnajibi/SNIPER)
 - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery. [`arxiv`](https://arxiv.org/abs/1805.09512) [`code`](https://github.com/CosmiQ/yolt)
 - Zero-Shot Object Detection by Hybrid Region Embedding. [`arxiv`](https://arxiv.org/abs/1805.06157) 
 - Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
