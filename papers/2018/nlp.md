@@ -63,6 +63,7 @@
 - A Corpus for Modeling Word Importance in Spoken Dialogue Transcripts. [`arxiv`](https://arxiv.org/abs/1801.09746)
 - A Question-Focused Multi-Factor Attention Network for Question Answering. [`arxiv`](https://arxiv.org/abs/1801.08290) [`code`](https://github.com/nusnlp/amanda)
 - Being curious about the answers to questions: novelty search with learned attention. [`arxiv`](https://arxiv.org/abs/1806.00201) [`code`](https://github.com/arayabrain/QuestionDrivenNovelty)
+- Bilinear Attention Networks. [`arxiv`](https://arxiv.org/abs/1805.07932) [`code`](https://github.com/jnhwkim/ban-vqa)
 - EARL: Joint Entity and Relation Linking for Question Answering over Knowledge Graphs. [`arxiv`](https://arxiv.org/abs/1801.03825) [`code`](https://github.com//AskNowQA/EARL)
 - Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning. [`arxiv`](https://arxiv.org/abs/1801.08459) [`code`](https://github.com/juung/RMN)
 - Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge. [`arxiv`](https://arxiv.org/abs/1803.05457) [`code`](https://github.com/allenai/arc-solvers)
