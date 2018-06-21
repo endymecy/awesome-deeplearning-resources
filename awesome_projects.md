@@ -39,6 +39,7 @@
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [Awesome Machine Learning Projects](https://ml-showcase.com/)
+- [Awesome Math](https://github.com/llSourcell/learn_math_fast)
 - [Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Awesome MXNet](https://github.com//chinakook/Awesome-MXNet)
 - [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
