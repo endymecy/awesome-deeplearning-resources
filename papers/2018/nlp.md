@@ -17,7 +17,6 @@
 - PixelLink: Detecting Scene Text via Instance Segmentation. [`arxiv`](https://arxiv.org/abs/1801.01315) [`code`](https://github.com/ZJULearning/pixel_link)
 - Shape Robust Text Detection with Progressive Scale Expansion Network. [`arxiv`](https://arxiv.org/abs/1806.02559) [`code`](https://github.com/whai362/PSENet)
 - Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings. [`arxiv`](https://arxiv.org/abs/1803.08495)
-- VoxCeleb2: Deep Speaker Recognition. [`arxiv`](https://arxiv.org/abs/1806.05622)
 
 ### Chatbot
 
@@ -94,8 +93,10 @@
 
 - Automatic Detection of Online Jihadist Hate Speech. [`arxiv`](https://arxiv.org/abs/1803.04596)
 - Do WaveNets Dream of Acoustic Waves? [`arxiv`](https://arxiv.org/abs/1802.08370)
+- End-to-End Speech Recognition From the Raw Waveform. [`arxiv`](https://arxiv.org/abs/1806.07098)
 - Speech Emotion Recognition with Data Augmentation and Layer-wise Learning Rate Adjustment. [`arxiv`](https://arxiv.org/abs/1802.05630)
 - Stochastic WaveNet: A Generative Latent Variable Model for Sequential Data. [`arxiv`](https://arxiv.org/abs/1806.06116)
+- VoxCeleb2: Deep Speaker Recognition. [`arxiv`](https://arxiv.org/abs/1806.05622)
 
 ### Text Classification
 
