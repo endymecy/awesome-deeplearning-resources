@@ -142,6 +142,7 @@
 - Adversarial Logit Pairing. [`arxiv`](https://arxiv.org/abs/1803.06373) :star:
 - Adversarial Spheres. [`arxiv`](https://arxiv.org/abs/1801.02774)
 - AmbientGAN: Generative models from lossy measurements. [`url`](https://openreview.net/forum?id=Hy7fDog0b) [`code`](https://github.com/shinseung428/ambientGAN_TF)
+- An empirical study on evaluation metrics of generative adversarial networks. [`arxiv`](https://arxiv.org/abs/1806.07755)
 - Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.07997)
 - Autoencoding topology. [`arxiv`](https://arxiv.org/abs/1803.00156)
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
