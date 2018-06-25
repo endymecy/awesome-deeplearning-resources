@@ -3,6 +3,7 @@
 - Accelerated Methods for Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02811)
 - A Deep Reinforcement Learning Chatbot (Short Version). [`arxiv`](https://arxiv.org/abs/1801.06700)
 - AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. [`arxiv`](https://arxiv.org/abs/1805.07440) :star:
+- A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress. [`arxiv`](https://arxiv.org/abs/1806.06877) 
 - Composable Deep Reinforcement Learning for Robotic Manipulation. [`arxiv`](https://arxiv.org/abs/1803.06773)
 - Cooperative Multi-Agent Reinforcement Learning for Low-Level Wireless Communication. [`arxiv`](https://arxiv.org/abs/1801.04541)
 - Deep Reinforcement Fuzzing. [`arxiv`](https://arxiv.org/abs/1801.04589)
