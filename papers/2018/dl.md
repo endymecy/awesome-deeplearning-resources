@@ -28,6 +28,7 @@
 - Deep Self-Organization: Interpretable Discrete Representation Learning on Time Series. [`arxiv`](https://arxiv.org/abs/1806.02199)
 - Deep Super Learner: A Deep Ensemble for Classification Problems. [`arxiv`](https://arxiv.org/abs/1803.02323) [`code`](https://github.com/levyben/DeepSuperLearner)
 - Detail-Preserving Pooling in Deep Networks. [`arxiv`](https://arxiv.org/abs/1804.04076)
+- Detecting Dead Weights and Units in Neural Networks. [`arxiv`](https://arxiv.org/abs/1806.06068)
 - Digging Into Self-Supervised Monocular Depth Estimation. [`arxiv`](https://arxiv.org/abs/1806.01260)
 - DroNet: Learning to Fly by Driving. [`pdf`](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf) [`code`](https://github.com/uzh-rpg/rpg_public_dronet)
 - Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++. [`arxiv`](https://arxiv.org/abs/1803.09693) [`code`](https://github.com/davidjesusacu/polyrnn-pp)
@@ -142,7 +143,7 @@
 - Adversarial Logit Pairing. [`arxiv`](https://arxiv.org/abs/1803.06373) :star:
 - Adversarial Spheres. [`arxiv`](https://arxiv.org/abs/1801.02774)
 - AmbientGAN: Generative models from lossy measurements. [`url`](https://openreview.net/forum?id=Hy7fDog0b) [`code`](https://github.com/shinseung428/ambientGAN_TF)
-- An empirical study on evaluation metrics of generative adversarial networks. [`arxiv`](https://arxiv.org/abs/1806.07755)
+- An empirical study on evaluation metrics of generative adversarial networks. [`arxiv`](https://arxiv.org/abs/1806.07755) [`code`](https://github.com/xuqiantong/GAN-Metrics)
 - Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.07997)
 - Autoencoding topology. [`arxiv`](https://arxiv.org/abs/1803.00156)
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
