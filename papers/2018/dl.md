@@ -155,6 +155,7 @@
 - Generative Adversarial Networks using Adaptive Convolution. [`arxiv`](https://arxiv.org/abs/1802.02226)
 - Improving GANs Using Optimal Transport. [`arxiv`](https://arxiv.org/abs/1803.05573)
 - Inverting The Generator Of A Generative Adversarial Network (II). [`arxiv`](https://arxiv.org/abs/1802.05701) [`code`](https://github.com/ToniCreswell/InvertingGAN)
+- Learning Dynamics of Linear Denoising Autoencoders. [`arxiv`](https://arxiv.org/abs/1806.05413) [`code`](https://github.com/arnupretorius/lindaedynamics_icml2018)
 - Learning Inverse Mappings with Adversarial Criterion. [`arxiv`](https://arxiv.org/abs/1802.04504) [`code`](https://github.com/zhangjiyi/FAAE)
 - On Generation of Adversarial Examples using Convex Programming. [`arxiv`](https://arxiv.org/abs/1803.03607) [`code`](https://github.com/ebalda/adversarialconvex)
 - On the Latent Space of Wasserstein Auto-Encoders. [`arxiv`](https://arxiv.org/abs/1802.03761)
