@@ -87,6 +87,7 @@
 
 ### Sentiment Analysis
 
+- Combination of Domain Knowledge and Deep Learning for Sentiment Analysis. [`arxiv`](https://arxiv.org/abs/1806.08760)
 - Word2Vec and Doc2Vec in Unsupervised Sentiment Analysis of Clinical Discharge Summaries. [`arxiv`](https://arxiv.org/abs/1805.00352)
 
 ### Speech Recognition
