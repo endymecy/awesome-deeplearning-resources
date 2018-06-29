@@ -55,6 +55,7 @@
     - [PyTorch Implementation of CycleGAN and SGAN for Domain Transfer](https://github.com/yunjey/mnist-svhn-transfer)
     - [PyTorch implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/PyTorch-GAN)
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
+    - [Pytorch implementation of the U-Net for image semantic segmentation, with dense CRF post-processing](https://github.com/milesial/Pytorch-UNet)
     - [Pytorch Implementation of Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/ceshine/fast-neural-style)
     - [Pytorch Implementation of PixelCNN++](https://github.com/pclucas14/pixel-cnn-pp)
     - [Pytorch implement of Person re-identification baseline.](https://github.com/layumi/Person_reID_baseline_pytorch)
