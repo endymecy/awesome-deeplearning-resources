@@ -69,6 +69,10 @@
 - The Natural Language Decathlon: Multitask Learning as Question Answering. [`arxiv`](https://arxiv.org/abs/1806.08730)
 - Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge. [`arxiv`](https://arxiv.org/abs/1803.05457) [`code`](https://github.com/allenai/arc-solvers)
 
+### NER
+
+- Chinese NER Using Lattice LSTM. [`arxiv`](https://arxiv.org/pdf/1805.02023.pdf) [`code`](https://github.com/jiesutd/LatticeLSTM)
+
 ### NMT
 
 - Achieving Human Parity on Automatic Chinese to English News Translation. [`arxiv`](https://arxiv.org/abs/1803.05567)
