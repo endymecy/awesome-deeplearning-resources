@@ -19,6 +19,7 @@
 - Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
 - Collaborative Multi-modal deep learning for the personalized product retrieval in Facebook Marketplace. [`arxiv`](https://arxiv.org/abs/1805.12312)
 - Decorrelated Batch Normalization. [`arxiv`](https://arxiv.org/abs/1804.08450) [`code`](https://github.com/umich-vl/DecorrelatedBN)
+- Decoupled Networks. [`arxiv`](https://arxiv.org/abs/1804.08071) [`code`](https://github.com/wy1iu/DCNets)
 - Deep Embedding Kernel. [`arxiv`](https://arxiv.org/abs/1804.05806)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
 - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. [`arxiv`](https://arxiv.org/abs/1803.04765)
