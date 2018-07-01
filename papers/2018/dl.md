@@ -91,6 +91,7 @@
 - Random depthwise signed convolutional neural networks. [`arxiv`](https://arxiv.org/abs/1806.05789)
 - Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees. [`arxiv`](https://arxiv.org/abs/1804.09893)
 - Relational recurrent neural networks. [`arxiv`](https://arxiv.org/abs/1806.01822)
+- ResNet with one-neuron hidden layers is a Universal Approximator. [`arxiv`](https://arxiv.org/abs/1806.10909)
 - Revisiting Small Batch Training for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.07612)
 - Rotation Equivariance and Invariance in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1805.12301)
 - Smallify: Learning Network Size while Training. [`arxiv`](https://arxiv.org/abs/1806.03723) 
