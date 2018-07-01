@@ -38,6 +38,7 @@
 - EcoRNN: Fused LSTM RNN Implementation with Data Layout Optimization. [`arxiv`](https://arxiv.org/abs/1805.08899)
 - E-swish: Adjusting Activations to Different Network Depths. [`arxiv`](https://arxiv.org/abs/1801.07145)
 - Etymo: A New Discovery Engine for AI Research. [`arxiv`](https://arxiv.org/abs/1801.08573)
+- Evaluating Feature Importance Estimates. [`arxiv`](https://arxiv.org/abs/1806.10758)
 - Extremely Fast Decision Tree. [`arxiv`](https://arxiv.org/abs/1802.08780) [`pytorch`](https://github.com/chaitanya-m/kdd2018)
 - Fast Decoding in Sequence Models using Discrete Latent Variables. [`arxiv`](https://arxiv.org/abs/1803.03382)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
