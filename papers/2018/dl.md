@@ -165,7 +165,7 @@
 - Scalable Factorized Hierarchical Variational Autoencoder Training. [`arxiv`](https://arxiv.org/abs/1804.03201) [`code`](https://github.com/wnhsu/ScalableFHVAE)
 - Semi-Amortized Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.02550) [`code`](https://github.com/harvardnlp/sa-vae)
 - Siamese networks for generating adversarial examples. [`arxiv`](https://arxiv.org/abs/1805.01431)
-- Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1803.10892)
+- Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1803.10892) [`code`](https://github.com/agrimgupta92/sgan)
 - Sylvester Normalizing Flows for Variational Inference. [`arxiv`](https://arxiv.org/abs/1803.05649)
 - Synthesizing Audio with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.04208)
 - tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow. [`arxiv`](https://arxiv.org/abs/1801.09710)
