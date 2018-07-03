@@ -48,6 +48,7 @@
 - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [`arxiv`](https://arxiv.org/abs/1805.07836)
 - Geometric Understanding of Deep Learning. [`arxiv`](https://arxiv.org/abs/1805.10451)
 - GossipGraD: Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent. [`arxiv`](https://arxiv.org/abs/1803.05880)
+- Gradient Acceleration in Activation Functions. [`arxiv`](https://arxiv.org/abs/1806.09783)
 - Graph Capsule Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1805.08090) [`code`](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks/)
 - Graph Partition Neural Networks for Semi-Supervised Classification. [`arxiv`](https://arxiv.org/abs/1803.06272)
 - GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Model. [`arxiv`](https://arxiv.org/abs/1802.08773) [`code`](https://github.com/JiaxuanYou/graph-generation)
