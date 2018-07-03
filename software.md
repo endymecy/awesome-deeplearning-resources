@@ -11,6 +11,7 @@
     - <b>`Deepgaze`</b> [A computer vision library for human-computer interaction based on CNNs](https://github.com/mpatacchiola/deepgaze) 
     - <b>`Edward`</b> [A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/) 
     - <b>`Elephas`</b> [Distributed Deep learning with Keras & Spark.](https://github.com/maxpumperla/elephas)
+    - <b>`fastai`</b>[The fast.ai deep learning library, lessons, and tutorials](https://github.com/fastai/fastai)
     - <b>`Gensim`</b> [Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.](http://radimrehurek.com/gensim/)
     - <b>`Hebel`</b> [A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA.](https://github.com/hannes-brt/hebel)
     - <b>`Keras`</b> [Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
