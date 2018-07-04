@@ -155,6 +155,7 @@
 - Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.07997)
 - Autoencoding topology. [`arxiv`](https://arxiv.org/abs/1803.00156)
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
+- CR-GAN: Learning Complete Representations for Multi-view Generation. [`arxiv`](https://arxiv.org/abs/1806.11191) [`code`](https://github.com/bluer555/CR-GAN)
 - Deep Generative Markov State Models. [`arxiv`](https://arxiv.org/abs/1805.07601) [`code`](https://github.com/amardt/DeepGenMSM)
 - eCommerceGAN : A Generative Adversarial Network for E-commerce. [`arxiv`](https://arxiv.org/abs/1801.03244)
 - Geometry Score: A Method For Comparing Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.02664) [`code`](https://github.com/geom-score/geometry-score)
