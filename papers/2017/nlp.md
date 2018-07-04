@@ -12,6 +12,7 @@
 - A Read-Write Memory Network for Movie Story Understanding. [`arxiv`](https://arxiv.org/abs/1709.09345) [`code`](https://github.com/seilna/RWMN)
 - Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning. [`arxiv`](https://arxiv.org/abs/1711.07613)
 - A Review on Deep Learning Techniques Applied to Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1704.06857)
+- A Structured Self-attentive Sentence Embedding. [`arxiv`](https://arxiv.org/abs/1703.03130) [`code`](https://github.com/kaushalshetty/Structured-Self-Attention)
 - A Tidy Data Model for Natural Language Processing using cleanNLP. [`arXiv`](https://arxiv.org/abs/1703.09570)
 - Attention-based Mixture Density Recurrent Networks for History-based Recommendation. [`arxiv`](https://arxiv.org/abs/1709.07545)
 - Attention-based Natural Language Person Retrieval. [`arxiv`](https://arxiv.org/abs/1705.08923)
