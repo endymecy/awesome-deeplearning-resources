@@ -28,20 +28,29 @@
 
 ## CV
 
+- [300 Faces In-the-Wild Challenge](https://ibug.doc.ic.ac.uk/resources/300-W/)
 - [A dataset for personalized highlight detection](https://github.com/gifs/personalized-highlights-dataset)
 - [A MNIST-like fashion product database](https://github.com/zalandoresearch/fashion-mnist) :star:
+- [Caltech 10, 000 Web Faces](http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/#Download)
 - [CASIA WebFace Database](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html)
+- [Cross-Age Celebrity Dataset](http://bcsiriuschen.github.io/CARC/)
 - [DeepFashion: Fashion Landmark Detection](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html)
 - [EMOTIC Dataset](http://sunai.uoc.edu/emotic/)
 - [Face Recognition for Web-Scale Datasets](http://enriquegortiz.com/wordpress/enriquegortiz/research/face-recognition/webscale-face-recognition/)
+- [IMDB-WIKI – 500k+ face images with age and gender labels](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Labeled Faces in the Wild Home](http://vis-www.cs.umass.edu/lfw/)
+- [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - [LLD - Large Logo Dataset](https://data.vision.ee.ethz.ch/cvl/lld/)
 - [Media Integration and Communication Center](https://www.micc.unifi.it/resources/)
+- [MegaFace Dataset](http://megaface.cs.washington.edu/dataset/download.html)
+- [MSRA-CFW: Data Set of Celebrity Faces on the Web](https://www.microsoft.com/en-us/research/project/msra-cfw-data-set-of-celebrity-faces-on-the-web/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fmsra-cfw%2Fcasia)
 - [Netizen-Style Commenting on Fashion Photos – Dataset and Diversity Measures](https://mashyu.github.io/NSC/)
 - [Street View Image, Pose, and 3D Cities Dataset](https://github.com/amir32002/3D_Street_View)
+- [VGG Face Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face/)
 - [VGGFace2 Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
 - [WebVision视觉数据集2.0](http://www.vision.ee.ethz.ch/webvision/index.html)
+- [WIDER FACE: A Face Detection Benchmark](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
 - [YouTube Faces DB](https://www.cs.tau.ac.il/~wolf/ytfaces/)
 
 ## NLP
