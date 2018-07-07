@@ -140,7 +140,7 @@
 - Inference, Learning and Attention Mechanisms that Exploit and Preserve Sparsity in Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1801.10585) [`code`](https://github.com/TimoHackel/ILA-SCNN)
 - MAttNet: Modular Attention Network for Referring Expression Comprehension. [`arxiv`](https://arxiv.org/abs/1801.08186)
 - Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling. [`arxiv`](https://arxiv.org/abs/1801.10296)
-- Tell Me Where to Look: Guided Attention Inference Network. [`arxiv`](https://arxiv.org/abs/1802.10171)
+- Tell Me Where to Look: Guided Attention Inference Network. [`arxiv`](https://arxiv.org/abs/1802.10171) [`CODE`](https://github.com/alokwhitewolf/Guided-Attention-Inference-Network)
 
 ## Generative learning
 
