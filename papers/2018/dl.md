@@ -18,6 +18,7 @@
 - Closing the AI Knowledge Gap. [`arxiv`](https://arxiv.org/abs/1803.07233)
 - Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
 - Collaborative Multi-modal deep learning for the personalized product retrieval in Facebook Marketplace. [`arxiv`](https://arxiv.org/abs/1805.12312)
+- Conditional Neural Processes. [`arxiv`](https://arxiv.org/abs/1807.01613)
 - Decorrelated Batch Normalization. [`arxiv`](https://arxiv.org/abs/1804.08450) [`code`](https://github.com/umich-vl/DecorrelatedBN)
 - Decoupled Networks. [`arxiv`](https://arxiv.org/abs/1804.08071) [`code`](https://github.com/wy1iu/DCNets)
 - Deep Embedding Kernel. [`arxiv`](https://arxiv.org/abs/1804.05806)
