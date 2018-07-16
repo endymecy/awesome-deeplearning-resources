@@ -101,6 +101,7 @@
 - NeuroNet: Fast and Robust Reproduction of Multiple Brain Image Segmentation Pipelines. [`arxiv`](https://arxiv.org/abs/1806.04224)
 - Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
+- PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1807.00652) [`code`](https://github.com/MVIG-SJTU/pointSIFT)
 - Pyramid Attention Network for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1805.10180)
 - Semantic Binary Segmentation using Convolutional Networks without Decoders. [`arxiv`](https://arxiv.org/abs/1805.00138)
 - Y-Net: Joint Segmentation and Classification for Diagnosis of Breast Biopsy Images. [`arxiv`](https://arxiv.org/abs/1806.01313)
