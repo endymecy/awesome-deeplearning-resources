@@ -70,6 +70,7 @@
 - [Learning to Learn from Noisy Web Videos.](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247486059&idx=2&sn=8fee2ea4b1441e20be4630ff9cfc576e) [`arxiv`](https://arxiv.org/abs/1706.02884) :star:
 - Learning to Segment Every Thing. [`arxiv`](https://arxiv.org/abs/1711.10370)
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [`arxiv`](https://arxiv.org/abs/1701.00295)
+- Light-Head R-CNN: In Defense of Two-Stage Object Detector. [`arxiv`](https://arxiv.org/abs/1711.07264) [`code`](https://github.com/zengarden/light_head_rcnn)
 - Linear Disentangled Representation Learning for Facial Actions. [`arxiv`](https://arxiv.org/abs/1701.03102) [`code`](https://github.com/eglxiang/FacialAU.)
 - Loss Max-Pooling for Semantic Image Segmentation. [`arxiv`](https://arxiv.org/abs/1704.02966) [`pytorch`](https://github.com/BelBES/mpl.pytorch)
 - Mask R-CNN. [`arxiv`](https://arxiv.org/abs/1703.06870) [`caffe`](https://github.com/jasjeetIM/Mask-RCNN) [`mxnet`](https://github.com/TuSimple/mx-maskrcnn) :star:
