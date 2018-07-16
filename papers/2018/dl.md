@@ -76,6 +76,7 @@
 - Learning to generate classifiers. [`arxiv`](https://arxiv.org/abs/1803.11373) [`code`](https://github.com/arayabrain/ClassifierGenerators)
 - Learning to Learn Without Labels. [`pdf`](https://openreview.net/forum?id=ByoT9Fkvz) :star:
 - Learning to Make Predictions on Graphs with Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.08352) [`code`](https://github.com/vuptran/graph-representation-learning)
+- Learning to Reweight Examples for Robust Deep Learning. [`arxiv`](https://arxiv.org/abs/1803.09050) [`code`](https://github.com/danieltan07/learning-to-reweight-examples)
 - Learning Unsupervised Learning Rules. [`arxiv`](https://arxiv.org/abs/1804.00222) [`tensorflow`](https://github.com/tensorflow/models/tree/master/research/learning_unsupervised_learning) :star:
 - Links: A High-Dimensional Online Clustering Method. [`arxiv`](https://arxiv.org/abs/1801.10123) :star:
 - LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation. [`arxiv`](https://arxiv.org/abs/1805.07036)
@@ -160,6 +161,7 @@
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
 - CR-GAN: Learning Complete Representations for Multi-view Generation. [`arxiv`](https://arxiv.org/abs/1806.11191) [`code`](https://github.com/bluer555/CR-GAN)
 - Deep Generative Markov State Models. [`arxiv`](https://arxiv.org/abs/1805.07601) [`code`](https://github.com/amardt/DeepGenMSM)
+- Deep Learning for Imbalance Data Classification using Class Expert Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1807.04585)
 - eCommerceGAN : A Generative Adversarial Network for E-commerce. [`arxiv`](https://arxiv.org/abs/1801.03244)
 - Geometry Score: A Method For Comparing Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.02664) [`code`](https://github.com/geom-score/geometry-score)
 - Generating Handwritten Chinese Characters using CycleGAN. [`arxiv`](https://arxiv.org/abs/1801.08624) [`code`](https://github.com/changebo/HCCG-CycleGAN)
