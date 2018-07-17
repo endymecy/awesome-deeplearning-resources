@@ -89,6 +89,7 @@
 - Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
 - SNIPER: Efficient Multi-Scale Training. [`arxiv`](https://arxiv.org/abs/1805.09300) [`code`](https://github.com/mahyarnajibi/SNIPER)
+- Subpixel-Precise Tracking of Rigid Objects in Real-time. [`arxiv`](https://arxiv.org/abs/1807.01952)
 - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery. [`arxiv`](https://arxiv.org/abs/1805.09512) [`code`](https://github.com/CosmiQ/yolt)
 - Zero-Shot Object Detection by Hybrid Region Embedding. [`arxiv`](https://arxiv.org/abs/1805.06157) 
 - Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
