@@ -101,6 +101,7 @@
 - Automatic Detection of Online Jihadist Hate Speech. [`arxiv`](https://arxiv.org/abs/1803.04596)
 - Do WaveNets Dream of Acoustic Waves? [`arxiv`](https://arxiv.org/abs/1802.08370)
 - End-to-End Speech Recognition From the Raw Waveform. [`arxiv`](https://arxiv.org/abs/1806.07098)
+- Large-Scale Visual Speech Recognition. [`arxiv`](https://arxiv.org/abs/1807.05162)
 - Speech Emotion Recognition with Data Augmentation and Layer-wise Learning Rate Adjustment. [`arxiv`](https://arxiv.org/abs/1802.05630)
 - Stochastic WaveNet: A Generative Latent Variable Model for Sequential Data. [`arxiv`](https://arxiv.org/abs/1806.06116)
 - VoxCeleb2: Deep Speaker Recognition. [`arxiv`](https://arxiv.org/abs/1806.05622)
