@@ -18,6 +18,7 @@
 * [Learning scikit-learn: Machine Learning in Python](https://github.com/gmonce/scikit-learn-book)
 * [Neural Networks: Tricks of the Trade (Lecture Notes in Computer Science)](https://link.springer.com/book/10.1007%2F978-3-642-35289-8)
 * [Scikit-learn 秘籍](https://www.gitbook.com/book/wizardforcel/sklearn-cookbook/details)
+* [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
 * [Python Data Science Handbook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 * [Mathematical Foundations](https://mathematical-tours.github.io/book/)
 * [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action)
