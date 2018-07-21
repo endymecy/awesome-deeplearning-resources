@@ -1,6 +1,7 @@
 # Deep learning
 
 - Accelerating CNN inference on FPGAs: A Survey. [`arxiv`](https://arxiv.org/abs/1806.01683) 
+- Adaptive Neural Trees. [`arxiv`](https://arxiv.org/abs/1807.06699)
 - Adding One Neuron Can Eliminate All Bad Local Minima. [`arxiv`](https://arxiv.org/abs/1805.08671)
 - A Dual Approach to Scalable Verification of Deep Networks. [`arxiv`](https://arxiv.org/abs/1803.06567)
 - A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data. [`arxiv`](https://arxiv.org/abs/1801.06202) [`code`](https://github.com/yunchuankong/NetworkNeuralNetwork)
