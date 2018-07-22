@@ -82,6 +82,7 @@
 - MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. [`arxiv`](https://arxiv.org/abs/1701.02354)
 - Multi-Scale Dense Networks for Resource Efficient Image Classification. [`arxiv`](https://arxiv.org/abs/1703.09844) [`code`](https://github.com//gaohuang/MSDNet)
 - Negative Results in Computer Vision: A Perspective. [`arxiv`](https://arxiv.org/abs/1705.04402)
+- Neural Motifs: Scene Graph Parsing with Global Context. [`arxiv`](https://arxiv.org/abs/1711.06640v2) [`code`](https://github.com/rowanz/neural-motifs)
 - Object Detection Using Deep CNNs Trained on Synthetic Images. [`arxiv`](https://arxiv.org/abs/1706.06782) [`code`](https://github.com/paramrajpura/Syn2Real)
 - Octree Generating Networks: Efficient Convolutional Architectures for High-resolution 3D Outputs. [`arxiv`](https://arxiv.org/abs/1703.09438) [`code`](https://github.com/lmb-freiburg/ogn)
 - Optimizing Deep CNN-Based Queries over Video Streams at Scale. [`arxiv`](https://arxiv.org/abs/1703.02529) [`tensorflow`](https://github.com/stanford-futuredata/tensorflow-noscope)
