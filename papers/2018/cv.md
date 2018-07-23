@@ -104,6 +104,7 @@
 - A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
 - Deep Learning for Semantic Segmentation on Minimal Hardware. [`arxiv`](https://arxiv.org/abs/1807.05597)
 - Fast and Accurate Online Video Object Segmentation via Tracking Parts. [`arxiv`](https://arxiv.org/abs/1806.02323) [`code`](https://github.com/JingchunCheng/FAVOS)
+- Learning to Segment Medical Images with Scribble-Supervision Alone. [`arxiv`](https://arxiv.org/abs/1807.04668)
 - NeuroNet: Fast and Robust Reproduction of Multiple Brain Image Segmentation Pipelines. [`arxiv`](https://arxiv.org/abs/1806.04224)
 - Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
