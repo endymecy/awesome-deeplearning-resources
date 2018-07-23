@@ -10,6 +10,7 @@
 - Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration. [`arxiv`](https://arxiv.org/abs/1805.03857)
 - Compressed Sensing with Deep Image Prior and Learned Regularization. [`arxiv`](https://arxiv.org/abs/1806.06438)
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images. [`arxiv`](https://arxiv.org/abs/1804.04488)
+- Deep Clustering for Unsupervised Learning of Visual Features. [`arxiv`](https://arxiv.org/abs/1807.05520)
 - Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis. [`arxiv`](https://arxiv.org/abs/1802.00752) [`code`](https://github.com/alexander-rakhlin/ICIAR2018)
 - DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images. [`arxiv`](https://arxiv.org/abs/1805.06561)
 - Deep Lip Reading: a comparison of models and an online application. [`arxiv`](https://arxiv.org/abs/1806.06053)
