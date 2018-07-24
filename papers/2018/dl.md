@@ -166,6 +166,7 @@
 - Deep Generative Markov State Models. [`arxiv`](https://arxiv.org/abs/1805.07601) [`code`](https://github.com/amardt/DeepGenMSM)
 - Deep Learning for Imbalance Data Classification using Class Expert Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1807.04585)
 - eCommerceGAN : A Generative Adversarial Network for E-commerce. [`arxiv`](https://arxiv.org/abs/1801.03244)
+- Evolving Mario Levels in the Latent Space of a Deep Convolutional Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1805.00728)
 - Geometry Score: A Method For Comparing Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1802.02664) [`code`](https://github.com/geom-score/geometry-score)
 - Generating Handwritten Chinese Characters using CycleGAN. [`arxiv`](https://arxiv.org/abs/1801.08624) [`code`](https://github.com/changebo/HCCG-CycleGAN)
 - Generative Adversarial Networks using Adaptive Convolution. [`arxiv`](https://arxiv.org/abs/1802.02226)
