@@ -87,6 +87,7 @@
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 - [Open Speech and Language Resources](http://www.openslr.org/33) :star:
+- [Public Datasets For Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
 - [Second International Chinese Word Segmentation Bakeoff Data](http://sighan.cs.uchicago.edu/bakeoff2005/) :star:
 - [Taiga Сorpus](https://tatianashavrina.github.io/taiga_site/)
 - [Ten thousand books, six million ratings](https://github.com/zygmuntz/goodbooks-10k)
