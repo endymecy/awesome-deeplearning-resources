@@ -103,6 +103,7 @@
 - An application of cascaded 3D fully convolutional networks for medical image segmentation. [`arxiv`](https://arxiv.org/abs/1803.05431) [`code`](https://github.com/holgerroth/3Dunet_abdomen_cascade)
 - A Probabilistic U-Net for Segmentation of Ambiguous Images. [`arxiv`](https://arxiv.org/abs/1806.05034)
 - A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
+- ClusterNet: Instance Segmentation in RGB-D Images. [`arxiv`](https://arxiv.org/abs/1807.08894)
 - Deep Learning for Semantic Segmentation on Minimal Hardware. [`arxiv`](https://arxiv.org/abs/1807.05597)
 - Fast and Accurate Online Video Object Segmentation via Tracking Parts. [`arxiv`](https://arxiv.org/abs/1806.02323) [`code`](https://github.com/JingchunCheng/FAVOS)
 - Learning to Segment Medical Images with Scribble-Supervision Alone. [`arxiv`](https://arxiv.org/abs/1807.04668)
