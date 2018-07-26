@@ -27,6 +27,7 @@
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
 - Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions. [`arxiv`](https://arxiv.org/abs/1806.09228) [`code`](https://github.com/Sandbox3aster/Deep-K-Means-pytorch)
 - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. [`arxiv`](https://arxiv.org/abs/1803.04765)
+- Deep Learning. [`arxiv`](https://arxiv.org/abs/1807.07987)
 - Deep Learning using Rectified Linear Units (ReLU). [`arxiv`](https://arxiv.org/abs/1803.08375) [`code`](https://github.com/AFAgarap/relu-classifier)
 - Deep Multimodal Subspace Clustering Networks. [`arxiv`](https://arxiv.org/abs/1804.06498)
 - Deep Neural Decision Trees. [`arxiv`](https://arxiv.org/abs/1806.06988) [`code`](https://github.com/wOOL/DNDT)
