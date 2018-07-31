@@ -109,6 +109,7 @@
 
 ### Text Classification
 
+- Clinical Text Classification with Rule-based Features and Knowledge-guided Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1807.07425)
 - Fake News Identification on Twitter with Hybrid CNN and RNN Models. [`arxiv`](https://arxiv.org/abs/1806.11316)
 - Fine-tuned Language Models for Text Classification. [`arxiv`](https://arxiv.org/abs/1801.06146)
 - Joint Embedding of Words and Labels for Text Classification. [`arxiv`](https://arxiv.org/pdf/1805.04174.pdf) [`code`](https://github.com/guoyinwang/LEAM)
