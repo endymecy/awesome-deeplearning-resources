@@ -195,7 +195,7 @@
 - Privacy-Preserving Deep Inference for Rich User Data on The Cloud. [`arxiv`](https://arxiv.org/abs/1710.01727) [`code`](https://github.com/aliosia/DeepPrivInf2017)
 - Privileged Multi-label Learning. [`arxiv`](https://arxiv.org/abs/1701.07194)
 - Prochlo: Strong Privacy for Analytics in the Crowd. [`arxiv`](https://arxiv.org/abs/1710.00901)
-- Progressive Neural Architecture Search. [`arxiv`](https://arxiv.org/abs/1712.00559)
+- Progressive Neural Architecture Search. [`arxiv`](https://arxiv.org/abs/1712.00559) [`code`](https://github.com/chenxi116/PNASNet.TF)
 - PRUNE: Preserving Proximity and Global Ranking for Network Embedding. [`url`](https://papers.nips.cc/paper/7110-prune-preserving-proximity-and-global-ranking-for-network-embedding) [`code`](https://github.com/ntumslab/PRUNE)
 - QCD-Aware Recursive Neural Networks for Jet Physics. [`arxiv`](https://arxiv.org/abs/1702.00748) [`code`](https://github.com/glouppe/recnn)
 - QuickNet: Maximizing Efficiency and Efficacy in Deep Architectures. [`arxiv`](https://arxiv.org/abs/1701.02291)
