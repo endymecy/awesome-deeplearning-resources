@@ -68,6 +68,7 @@
 - [中文突发事件语料库](https://github.com/shijiebei2009/CEC-Corpus)
 - [联合国平行语料库](https://conferences.unite.un.org/UNCorpus/zh)
 - [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh)
+- [中华新华字典数据库。包括歇后语，成语，汉字。提供新华字典API](https://github.com/pwxcoo/chinese-xinhua)
 - [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus)
 - [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
 - [PTT 八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
