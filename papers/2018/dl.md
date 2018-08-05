@@ -127,6 +127,7 @@
 - Towards a Theoretical Understanding of Batch Normalization. [`arxiv`](https://arxiv.org/abs/1805.10694)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
 - Tree-CNN: A Deep Convolutional Neural Network for Lifelong Learning. [`arxiv`](https://arxiv.org/abs/1802.05800)
+- t-SNE-CUDA: GPU-Accelerated t-SNE and its Applications to Modern Data. [`arxiv`](https://arxiv.org/abs/1807.11824) [`code`](https://github.com/CannyLab/tsne-cuda)
 - Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring. [`arxiv`](https://arxiv.org/abs/1802.04633)
 - TVM: End-to-End Optimization Stack for Deep Learning. [`arxiv`](https://arxiv.org/abs/1802.04799)
 - UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. [`arxiv`](https://arxiv.org/abs/1802.03426) [`code`](https://github.com/lmcinnes/umap)
