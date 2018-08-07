@@ -3,6 +3,7 @@
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
 - [188 examples of artificial intelligence in action](https://poo.ai/)
 - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision and Image Processing](https://github.com/JackieTseng/conference_call_for_paper)
+- [A collection of AWESOME things about domian adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 - [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) :star:
 - [A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision) :star:
 - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
@@ -22,6 +23,7 @@
 - [Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing](https://github.com/niderhoff/nlp-datasets)
 - [A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)](https://github.com/arthchan2003/AIDL_KB)
 - [An awesome Data Science repository to learn and apply for real world problems.](https://github.com/bulutyazilim/awesome-datascience)
+- [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) 
 - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
@@ -112,6 +114,7 @@
 - [Using python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Use PyTorch to implement some classic frameworks](https://github.com/sunshineatnoon/Paper-Implementations)
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
+- [Video Super Resolution](https://github.com/flyywh/Video-Super-Resolution)
 - [机器学习资源 Machine learning](https://github.com/allmachinelearning/MachineLearning)
 - [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
 - [图像文本位置感知与识别的论文资源汇总](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)
