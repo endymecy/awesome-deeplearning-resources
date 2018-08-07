@@ -2,6 +2,7 @@
 
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
 - [188 examples of artificial intelligence in action](https://poo.ai/)
+- [2018-2019 International Conferences in Artificial Intelligence, Computer Vision and Image Processing](https://github.com/JackieTseng/conference_call_for_paper)
 - [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) :star:
 - [A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision) :star:
 - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
