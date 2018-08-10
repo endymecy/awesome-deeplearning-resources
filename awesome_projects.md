@@ -41,6 +41,7 @@
 - [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
+- [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [Awesome Machine Learning Projects](https://ml-showcase.com/)
