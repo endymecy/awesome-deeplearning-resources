@@ -95,6 +95,7 @@
 - Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
 - SNIPER: Efficient Multi-Scale Training. [`arxiv`](https://arxiv.org/abs/1805.09300) [`code`](https://github.com/mahyarnajibi/SNIPER)
 - Subpixel-Precise Tracking of Rigid Objects in Real-time. [`arxiv`](https://arxiv.org/abs/1807.01952)
+- YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud. [`arxiv`](https://arxiv.org/abs/1808.02350)
 - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery. [`arxiv`](https://arxiv.org/abs/1805.09512) [`code`](https://github.com/CosmiQ/yolt)
 - Zero-Shot Object Detection by Hybrid Region Embedding. [`arxiv`](https://arxiv.org/abs/1805.06157) 
 - Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts. [`arxiv`](https://arxiv.org/abs/1803.06049)
