@@ -46,6 +46,7 @@
 - [MegaFace Dataset](http://megaface.cs.washington.edu/dataset/download.html)
 - [MSRA-CFW: Data Set of Celebrity Faces on the Web](https://www.microsoft.com/en-us/research/project/msra-cfw-data-set-of-celebrity-faces-on-the-web/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fmsra-cfw%2Fcasia)
 - [Netizen-Style Commenting on Fashion Photos – Dataset and Diversity Measures](https://mashyu.github.io/NSC/)
+- [SCUT HEAD is a large-scale head detection dataset](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release)
 - [Street View Image, Pose, and 3D Cities Dataset](https://github.com/amir32002/3D_Street_View)
 - [VGG Face Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face/)
 - [VGGFace2 Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
