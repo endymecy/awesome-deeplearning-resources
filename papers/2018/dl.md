@@ -165,6 +165,7 @@
 - An empirical study on evaluation metrics of generative adversarial networks. [`arxiv`](https://arxiv.org/abs/1806.07755) [`code`](https://github.com/xuqiantong/GAN-Metrics)
 - Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.07997)
 - Autoencoding topology. [`arxiv`](https://arxiv.org/abs/1803.00156)
+- CartoonGAN: Generative Adversarial Networks for Photo Cartoonization. [`pdf`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2205.pdf) [`pytorch`](https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch)
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
 - Compositional GAN: Learning Conditional Image Composition. [`arxiv`](https://arxiv.org/abs/1807.07560) [`code`](https://github.com/azadis/CompositionalGAN)
 - CR-GAN: Learning Complete Representations for Multi-view Generation. [`arxiv`](https://arxiv.org/abs/1806.11191) [`code`](https://github.com/bluer555/CR-GAN)
