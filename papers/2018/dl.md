@@ -7,6 +7,7 @@
 - A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data. [`arxiv`](https://arxiv.org/abs/1801.06202) [`code`](https://github.com/yunchuankong/NetworkNeuralNetwork)
 - An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution. [`url`](https://eng.uber.com/coordconv/) :star:
 - A Survey on Neural Network-Based Summarization Methods. [`arxiv`](https://arxiv.org/abs/1804.04589)
+- A Tutorial on Network Embeddings. [`arxiv`](https://arxiv.org/abs/1808.02590)
 - A Unified Probabilistic Model for Learning Latent Factors and Their Connectivities from High-Dimensional Data. [`arxiv`](https://arxiv.org/abs/1805.09567)
 - Backdrop: Stochastic Backpropagation. [`arxiv`](https://arxiv.org/abs/1806.01337) [`code`](https://github.com/dexgen/backdrop)
 - Batch Kalman Normalization: Towards Training Deep Neural Networks with Micro-Batches. [`arxiv`](https://arxiv.org/abs/1802.03133) :star:

@@ -8,6 +8,7 @@
 - Attention U-Net: Learning Where to Look for the Pancreas. [`arxiv`](https://arxiv.org/abs/1804.03999) [`code`](https://github.com/ozan-oktay/Attention-Gated-Networks)
 - AutoAugment: Learning Augmentation Policies from Data. [`arxiv`](https://arxiv.org/abs/1805.09501)
 - Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration. [`arxiv`](https://arxiv.org/abs/1805.03857)
+- Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance. [`arxiv`](https://arxiv.org/abs/1808.02861)
 - Compressed Sensing with Deep Image Prior and Learned Regularization. [`arxiv`](https://arxiv.org/abs/1806.06438)
 - Compressed Video Action Recognition. [`arxiv`](https://arxiv.org/abs/1712.00636) [`code`](https://github.com/chaoyuaw/pytorch-coviar) :star:
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images. [`arxiv`](https://arxiv.org/abs/1804.04488)
