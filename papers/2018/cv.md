@@ -31,6 +31,7 @@
 - Image-to-image translation for cross-domain disentanglement. [`arxiv`](https://arxiv.org/abs/1805.09730)
 - Image Transformer. [`arxiv`](https://arxiv.org/abs/1802.05751) :star:
 - Infrared and Visible Image Fusion using a Deep Learning Framework. [`arxiv`](https://arxiv.org/abs/1804.06992) [`code`](https://github.com/exceptionLi/imagefusion_deeplearning)
+- Instance-level Human Parsing via Part Grouping Network. [`arxiv`](https://arxiv.org/abs/1808.00157) 
 - LF-Net: Learning Local Features from Images. [`arxiv`](https://arxiv.org/abs/1805.09662)
 - Low-Shot Learning from Imaginary Data. [`arxiv`](https://arxiv.org/abs/1801.05401)
 - Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes. [`arxiv`](https://arxiv.org/abs/1807.02242)
@@ -38,7 +39,7 @@
 - ModaNet: A Large-Scale Street Fashion Dataset with Polygon Annotations. [`arxiv`](https://arxiv.org/abs/1807.01394)
 - Multimodal Unsupervised Image-to-Image Translation. [`arxiv`](https://arxiv.org/abs/1804.04732) [`code`](https://github.com/nvlabs/MUNIT) :star:
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
-- PCN: Point Completion Network. [`arxiv`](https://arxiv.org/abs/1808.00671)
+- PCN: Point Completion Network. [`arxiv`](https://arxiv.org/abs/1808.00671) [`code`](https://github.com/TonythePlaneswalker/pcn)
 - Pixel-wise Attentional Gating for Parsimonious Pixel Labeling. [`arxiv`](https://arxiv.org/abs/1805.01556) [`code`](https://github.com/aimerykong/Pixel-Attentional-Gating)
 - PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. [`pdf`](https://eng.ucmerced.edu/people/jyang44/papers/cvpr2018_PlaneNet_camera_ready.pdf) [`code`](https://github.com/art-programmer/PlaneNet)
 - PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [`arxiv`](https://arxiv.org/abs/1804.03492) [`code`](https://github.com/mikacuy/pointnetvlad)
