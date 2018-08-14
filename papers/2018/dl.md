@@ -52,6 +52,7 @@
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
 - Foundations of Sequence-to-Sequence Modeling for Time Series. [`arxiv`](https://arxiv.org/abs/1805.03714)
 - From Nodes to Networks: Evolving Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.04439)
+- Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Network. [`arxiv`](https://arxiv.org/abs/1808.03314) :star:
 - Gaussian Process Behaviour in Wide Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.11271) [`code`](https://github.com/widedeepnetworks/widedeepnetworks)
 - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [`arxiv`](https://arxiv.org/abs/1805.07836)
 - Geometric Understanding of Deep Learning. [`arxiv`](https://arxiv.org/abs/1805.10451)
