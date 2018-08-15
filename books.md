@@ -9,7 +9,7 @@
 * [神经网络与深度学习.邱锡鹏](https://nndl.github.io/)
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf). [`code`](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+* [Reinforcement Learning: An Introduction](https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view). [`code`](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 * [Reinforcement LearningState-of-the-Art](http://www.ai.rug.nl/~mwiering/RL-state-of-the-art)   
 * [A Course in Machine Learning](http://ciml.info/)
 * [深度学习入门 by PaddlePaddle](https://github.com/PaddlePaddle/book)
