@@ -24,6 +24,7 @@
 - Conditional Neural Processes. [`arxiv`](https://arxiv.org/abs/1807.01613)
 - Decorrelated Batch Normalization. [`arxiv`](https://arxiv.org/abs/1804.08450) [`code`](https://github.com/umich-vl/DecorrelatedBN)
 - Decoupled Networks. [`arxiv`](https://arxiv.org/abs/1804.08071) [`code`](https://github.com/wy1iu/DCNets)
+- Deep Convolutional Networks as shallow Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1808.05587) [`code`](https://github.com/rhaps0dy/convnets-as-gps)
 - Deep Embedding Kernel. [`arxiv`](https://arxiv.org/abs/1804.05806)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations. [`arxiv`](https://arxiv.org/abs/1801.06637) [`code`](https://github.com/maziarraissi/DeepHPMs)
 - Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions. [`arxiv`](https://arxiv.org/abs/1806.09228) [`code`](https://github.com/Sandbox3aster/Deep-K-Means-pytorch)
