@@ -19,6 +19,7 @@
 - Deep Pose Consensus Networks. [`arxiv`](https://arxiv.org/abs/1803.08190) 
 - Depth CNNs for RGB-D scene recognition: learning from scratch better than transferring from RGB-CNNs. [`arxiv`](https://arxiv.org/abs/1801.06797) [`code`](https://github.com/songxinhang/D-CNN)
 - Detecting Visual Relationships Using Box Attention. [`arxiv`](https://arxiv.org/abs/1807.02136)
+- Detection and Segmentation of Manufacturing Defects with Convolutional Neural Networks and Transfer Learning. [`arxiv`](https://arxiv.org/abs/1808.02518)
 - DynSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes. [`arxiv`](https://arxiv.org/abs/1806.05620)
 - Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads. [`arxiv`](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)
 - End-to-End Saliency Mapping via Probability Distribution Prediction. [`arxiv`](https://arxiv.org/abs/1804.01793)
