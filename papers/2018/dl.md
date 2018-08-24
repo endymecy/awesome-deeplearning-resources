@@ -38,6 +38,7 @@
 - Detail-Preserving Pooling in Deep Networks. [`arxiv`](https://arxiv.org/abs/1804.04076)
 - Detecting Dead Weights and Units in Neural Networks. [`arxiv`](https://arxiv.org/abs/1806.06068)
 - Digging Into Self-Supervised Monocular Depth Estimation. [`arxiv`](https://arxiv.org/abs/1806.01260)
+- Don't Use Large Mini-Batches, Use Local SGD. [`arxiv`](https://arxiv.org/abs/1808.07217)
 - Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning. [`arxiv`](https://arxiv.org/abs/1808.03578)
 - DroNet: Learning to Fly by Driving. [`pdf`](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf) [`code`](https://github.com/uzh-rpg/rpg_public_dronet)
 - Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++. [`arxiv`](https://arxiv.org/abs/1803.09693) [`code`](https://github.com/davidjesusacu/polyrnn-pp)
