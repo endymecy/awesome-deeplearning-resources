@@ -114,6 +114,7 @@
 - Representation Learning with Contrastive Predictive Coding. [`arxiv`](https://arxiv.org/abs/1807.03748)
 - ResNet with one-neuron hidden layers is a Universal Approximator. [`arxiv`](https://arxiv.org/abs/1806.10909)
 - Revisiting Small Batch Training for Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.07612)
+- R3-Net: A Deep Network for Multi-oriented Vehicle Detection in Aerial Images and Videos. [`arxiv`](https://arxiv.org/abs/1808.05560)
 - Rotation Equivariance and Invariance in Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1805.12301)
 - SlimNets: An Exploration of Deep Model Compression and Acceleration. [`arxiv`](https://arxiv.org/abs/1808.00496) [`code`](https://github.com/ChristopherSweeney/SlimNets)
 - Smallify: Learning Network Size while Training. [`arxiv`](https://arxiv.org/abs/1806.03723) 
