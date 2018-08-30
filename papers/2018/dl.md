@@ -22,6 +22,7 @@
 - Clustering with Deep Learning: Taxonomy and New Methods. [`arxiv`](https://arxiv.org/abs/1801.07648) [`code`](https://github.com/elieJalbout/Clustering-with-Deep-learning)
 - Collaborative Multi-modal deep learning for the personalized product retrieval in Facebook Marketplace. [`arxiv`](https://arxiv.org/abs/1805.12312)
 - Conditional Neural Processes. [`arxiv`](https://arxiv.org/abs/1807.01613)
+- Convolutional Neural Networks with Recurrent Neural Filters. [`arxiv`](https://arxiv.org/abs/1808.09315) [`code`](https://github.com/bloomberg/cnn-rnf)
 - Decorrelated Batch Normalization. [`arxiv`](https://arxiv.org/abs/1804.08450) [`code`](https://github.com/umich-vl/DecorrelatedBN)
 - Decoupled Networks. [`arxiv`](https://arxiv.org/abs/1804.08071) [`code`](https://github.com/wy1iu/DCNets)
 - Deep Convolutional Networks as shallow Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1808.05587) [`code`](https://github.com/rhaps0dy/convnets-as-gps)
