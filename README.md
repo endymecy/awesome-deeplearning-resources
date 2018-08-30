@@ -72,6 +72,7 @@ More details in [Pretrained Model](pre_trained.md)
 * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 * [CMU] [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
 * [CMU] [Neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
+)
 
 More details in [courses](courses.md)
 
@@ -81,6 +82,11 @@ More details in [courses](courses.md)
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
+* [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
+* [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
+* [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
+* [Grokking Deep Reinforcement Lerning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
 
 More details in [books](books.md)
 
@@ -93,6 +99,8 @@ More details in [books](books.md)
 *  [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
 *  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
 *  [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+*  [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)
+*  [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)
 
 More details in [tutorials](tutorials.md)
 
