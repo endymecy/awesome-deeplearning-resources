@@ -17,6 +17,7 @@
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
 - [FiveThirtyEight开放可视化数据](https://www.weibo.com/fly51fly?is_all=1#_rnd1518270026401)
 - [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
+- [Open Datasets](https://skymind.ai/wiki/open-datasets)
 - [Pixiv Dataset Overview](https://github.com/jerryli27/pixiv_dataset)
 - [SLAC: A Sparsely Labeled ACtions Dataset from MIT and Facebook](http://slac.csail.mit.edu/)
 - [Some good papers I like](https://github.com/hoangcuong2011/Good-Papers)
