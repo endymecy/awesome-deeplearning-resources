@@ -148,6 +148,7 @@
 - Understanding the Loss Surface of Neural Networks for Binary Classification. [`arxiv`](https://arxiv.org/abs/1803.00909)
 - Universal Deep Neural Network Compression. [`arxiv`](https://arxiv.org/abs/1802.02271)
 - URLNet: Learning a URL Representation with Deep Learning for Malicious URL Detection. [`arxiv`](https://arxiv.org/abs/1802.03162) [`code`](https://github.com/Antimalweb/URLNet)
+- Wasserstein is all you need. [`arxiv`](https://arxiv.org/abs/1808.09663)
 - What Do We Understand About Convolutional Networks? [`arxiv`](https://arxiv.org/abs/1803.08834)
 
 
