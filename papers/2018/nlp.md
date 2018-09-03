@@ -81,6 +81,10 @@
 - Phrase-Based & Neural Unsupervised Machine Translation. [`arxiv`](https://arxiv.org/abs/1804.07755)
 - Self-Attention with Relative Position Representations. [`arxiv`](https://arxiv.org/abs/1803.02155)
 
+### OCR
+
+- Open Set Chinese Character Recognition using Multi-typed Attributes. [`arxiv`](https://arxiv.org/abs/1808.08993)
+
 ### Recommender Systems
 
 - Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba. [`arxiv`](https://arxiv.org/abs/1803.02349)
