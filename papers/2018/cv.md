@@ -95,6 +95,7 @@
 - Object Detection in Satellite Imagery using 2-Step Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1808.02996)
 - Optimizing Video Object Detection via a Scale-Time Lattice. [`url`](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/) [`code`](https://github.com/hellock/scale-time-lattice)
 - Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
+- Probabilistic Model of Object Detection Based on Convolutional Neural Network.  [`arxiv`](https://arxiv.org/abs/1808.08272)
 - Relation Networks for Object Detection. [`arxiv`](https://arxiv.org/abs/1711.11575) [`code`](https://github.com/msracver/Relation-Networks-for-Object-Detection)
 - Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone. [`arxiv`](https://arxiv.org/abs/1801.09454) [`code`](https://github.com/sekilab/RoadDamageDetector/)
 - Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection. [`arxiv`](https://arxiv.org/abs/1803.08208)
