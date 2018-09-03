@@ -24,7 +24,6 @@
 - Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads. [`arxiv`](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)
 - End-to-End Saliency Mapping via Probability Distribution Prediction. [`arxiv`](https://arxiv.org/abs/1804.01793)
 - Fast Semantic Segmentation on Video Using Motion Vector-Based Feature Interpolation. [`arxiv`](https://arxiv.org/abs/1803.07742)
-- Fooling OCR Systems with Adversarial Text Images. [`arxiv`](https://arxiv.org/abs/1802.05385)
 - From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval. [`arxiv`](https://arxiv.org/abs/1802.02899) [`code`](https://github.com/hnanhtuan/selectiveConvFeature)
 - Harmonious Attention Network for Person Re-Identification. [`arxiv`](https://arxiv.org/abs/1802.08122)
 - IGCV2: Interleaved Structured Sparse Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.06202)
@@ -123,3 +122,8 @@
 - Pyramid Attention Network for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1805.10180)
 - Semantic Binary Segmentation using Convolutional Networks without Decoders. [`arxiv`](https://arxiv.org/abs/1805.00138)
 - Y-Net: Joint Segmentation and Classification for Diagnosis of Breast Biopsy Images. [`arxiv`](https://arxiv.org/abs/1806.01313)
+
+### OCR
+
+- Fooling OCR Systems with Adversarial Text Images. [`arxiv`](https://arxiv.org/abs/1802.05385)
+- Open Set Chinese Character Recognition using Multi-typed Attributes. [`arxiv`](https://arxiv.org/abs/1808.08993)
