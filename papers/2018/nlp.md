@@ -69,6 +69,7 @@
 - Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning. [`arxiv`](https://arxiv.org/abs/1801.08459) [`code`](https://github.com/juung/RMN)
 - The Natural Language Decathlon: Multitask Learning as Question Answering. [`arxiv`](https://arxiv.org/abs/1806.08730)
 - Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge. [`arxiv`](https://arxiv.org/abs/1803.05457) [`code`](https://github.com/allenai/arc-solvers)
+- TVQA: Localized, Compositional Video Question Answering. [`arxiv`](https://arxiv.org/abs/1809.01696)
 
 ### NER
 
