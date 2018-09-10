@@ -197,6 +197,7 @@
 - Recurrent Neural Network-Based Semantic Variational Autoencoder for Sequence-to-Sequence Learning. [`arxiv`](https://arxiv.org/abs/1802.03238)
 - Scalable Factorized Hierarchical Variational Autoencoder Training. [`arxiv`](https://arxiv.org/abs/1804.03201) [`code`](https://github.com/wnhsu/ScalableFHVAE)
 - Semi-Amortized Variational Autoencoders. [`arxiv`](https://arxiv.org/abs/1802.02550) [`code`](https://github.com/harvardnlp/sa-vae)
+- Semi-supervised Learning on Graphs with Generative Adversarial Nets. [`arxiv`](https://arxiv.org/abs/1809.00130)
 - Siamese networks for generating adversarial examples. [`arxiv`](https://arxiv.org/abs/1805.01431)
 - Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1803.10892) [`code`](https://github.com/agrimgupta92/sgan)
 - Sylvester Normalizing Flows for Variational Inference. [`arxiv`](https://arxiv.org/abs/1803.05649)
