@@ -84,6 +84,7 @@
 - Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation. [`arxiv`](https://arxiv.org/abs/1803.11365) [`code`](https://github.com/naoto0804/cross-domain-detection)
 - CubeSLAM: Monocular 3D Object Detection and SLAM without Prior Models. [`arxiv`](https://arxiv.org/abs/1806.00557)
 - Deep Learning Approach for Very Similar Objects Recognition Application on Chihuahua and Muffin Problem. [`arxiv`](https://arxiv.org/abs/1801.09573)
+- Deep Learning for Generic Object Detection: A Survey.  [`arxiv`](https://arxiv.org/abs/1809.02165)
 - Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation. [`arxiv`](https://arxiv.org/abs/1806.08756) [`code`](https://github.com/RobotLocomotion/pytorch-dense-correspondence)
 - Detect-and-Track: Efficient Pose Estimation in Videos. [`arxiv`](https://arxiv.org/abs/1712.09184) [`code`](https://github.com/facebookresearch/DetectAndTrack) :star:
 - DetNet: A Backbone network for Object Detection. [`arxiv`](https://arxiv.org/abs/1804.06215)
