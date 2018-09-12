@@ -96,6 +96,7 @@
 - [Open-source simulator for autonomous driving research](https://github.com/carla-simulator/carla) :star:
 - [Over 7 million published research papers in Computer Science and Neuroscience.](http://labs.semanticscholar.org/corpus/)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
+- [Papers with code](https://github.com/zziz/pwc) :star:
 - [Private machine learning progress](https://github.com/OpenMined/awesome-ai-privacy)
 - [Really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 - [Really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation)
