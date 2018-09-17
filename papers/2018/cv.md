@@ -118,6 +118,7 @@
 - Fast and Accurate Online Video Object Segmentation via Tracking Parts. [`arxiv`](https://arxiv.org/abs/1806.02323) [`code`](https://github.com/JingchunCheng/FAVOS)
 - Learning to Segment Medical Images with Scribble-Supervision Alone. [`arxiv`](https://arxiv.org/abs/1807.04668)
 - NeuroNet: Fast and Robust Reproduction of Multiple Brain Image Segmentation Pipelines. [`arxiv`](https://arxiv.org/abs/1806.04224)
+- Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network. [`arxiv`](https://arxiv.org/abs/1809.02110)
 - Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
 - PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1807.00652) [`code`](https://github.com/MVIG-SJTU/pointSIFT)
