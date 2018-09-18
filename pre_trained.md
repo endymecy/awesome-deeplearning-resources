@@ -21,6 +21,7 @@
 * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors) :star:
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
 * [Single Image 3D Interpreter Network](https://github.com/jiajunwu/3dinn)
+* [Segmentation models Zoo](https://github.com/qubvel/segmentation_models)
 * [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
 * [TensorFlow VGG-16 pre-trained model](https://github.com/ry/tensorflow-vgg16)
 * [The pretrained models trained on Moments in Time Dataset](https://github.com/metalbubble/moments_models)
