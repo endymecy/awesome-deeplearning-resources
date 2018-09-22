@@ -94,6 +94,7 @@
 - Learning Tree-based Deep Model for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.02294)
 - MARS: Memory Attention-Aware Recommender System. [`arxiv`](https://arxiv.org/abs/1805.07037)
 - Offline A/B testing for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.07030)
+- Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System. [`arxiv`](https://arxiv.org/abs/1809.07428)
 - Sequence-Aware Recommender Systems. [`arxiv`](https://arxiv.org/abs/1802.08452)
 
 ### Sentiment Analysis
