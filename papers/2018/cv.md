@@ -89,6 +89,7 @@
 - Detect-and-Track: Efficient Pose Estimation in Videos. [`arxiv`](https://arxiv.org/abs/1712.09184) [`code`](https://github.com/facebookresearch/DetectAndTrack) :star:
 - DetNet: A Backbone network for Object Detection. [`arxiv`](https://arxiv.org/abs/1804.06215)
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild. [`arxiv`](https://arxiv.org/abs/1803.03243) [`code`](https://github.com/yuhuayc/da-faster-rcnn)
+- Faster Training of Mask R-CNN by Focusing on Instance Boundaries. [`arxiv`](https://arxiv.org/abs/1809.07069)
 - GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training. [`arxiv`](https://arxiv.org/abs/1805.06725) [`code`](https://github.com/samet-akcay/ganomaly)
 - Multi-Resolution 3D Convolutional Neural Networks for Object Recognition. [`arxiv`](https://arxiv.org/abs/1805.12254)
 - Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
