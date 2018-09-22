@@ -13,6 +13,7 @@
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:
 - How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks. [`arxiv`](https://arxiv.org/abs/1803.02994)
 - IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection. [`arxiv`](https://arxiv.org/abs/1805.01167)
+- Linguistically-Informed Self-Attention for Semantic Role Labeling. [`arxiv`](https://arxiv.org/abs/1804.08199) :star:
 - Neural Relational Inference for Interacting Systems. [`arxiv`](https://arxiv.org/abs/1802.04687) [`code`](https://github.com/ethanfetaya/nri)
 - Neural Text Generation: Past, Present and Beyond. [`arxiv`](https://arxiv.org/abs/1803.07133)
 - PixelLink: Detecting Scene Text via Instance Segmentation. [`arxiv`](https://arxiv.org/abs/1801.01315) [`code`](https://github.com/ZJULearning/pixel_link)
