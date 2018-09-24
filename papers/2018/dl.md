@@ -106,6 +106,7 @@
 - [Best Paper] On the Convergence of Adam and Beyond. [`pdf`](https://openreview.net/forum?id=ryQu7f-RZ) :star:
 - On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo. [`arxiv`](https://arxiv.org/abs/1802.05431)
 - Parallel Grid Pooling for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1803.11370) [`code`](https://github.com/akitotakeki/pgp-chainer)
+- Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding. [`arxiv`](https://arxiv.org/abs/1809.07426)
 - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights. [`arxiv`](https://arxiv.org/abs/1801.06519) [`code`](https://github.com/arunmallya/piggyback)
 - Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs. [`arxiv`](https://arxiv.org/abs/1804.04438)
 - Probabilistic Recurrent State-Space Models. [`arxiv`](https://arxiv.org/abs/1801.10395) [`code`](https://github.com/andreasdoerr/PR-SSM)
