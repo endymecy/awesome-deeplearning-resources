@@ -110,6 +110,7 @@
 - Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs. [`arxiv`](https://arxiv.org/abs/1804.04438)
 - Probabilistic Recurrent State-Space Models. [`arxiv`](https://arxiv.org/abs/1801.10395) [`code`](https://github.com/andreasdoerr/PR-SSM)
 - Progress & Compress: A scalable framework for continual learning. [`arxiv`](https://arxiv.org/abs/1805.06370)
+- PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume. [`arxiv`](https://arxiv.org/abs/1709.02371) [`code`](https://github.com/NVlabs/PWC-Net)
 - Pyramid Stereo Matching Network. [`arxiv`](https://arxiv.org/abs/1803.08669) [`code`](https://github.com/JiaRenChang/PSMNet)
 - Random depthwise signed convolutional neural networks. [`arxiv`](https://arxiv.org/abs/1806.05789)
 - Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees. [`arxiv`](https://arxiv.org/abs/1804.09893)
