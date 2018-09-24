@@ -113,6 +113,7 @@
 - Pyramid Stereo Matching Network. [`arxiv`](https://arxiv.org/abs/1803.08669) [`code`](https://github.com/JiaRenChang/PSMNet)
 - Random depthwise signed convolutional neural networks. [`arxiv`](https://arxiv.org/abs/1806.05789)
 - Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees. [`arxiv`](https://arxiv.org/abs/1804.09893)
+- Random Warping Series: A Random Features Method for Time-Series Embedding. [`arxiv`](https://arxiv.org/abs/1809.05259) [`code`](https://github.com/IBM/RandomWarpingSeries)
 - Relational recurrent neural networks. [`arxiv`](https://arxiv.org/abs/1806.01822)
 - Representation Learning with Contrastive Predictive Coding. [`arxiv`](https://arxiv.org/abs/1807.03748)
 - ResNet with one-neuron hidden layers is a Universal Approximator. [`arxiv`](https://arxiv.org/abs/1806.10909)
