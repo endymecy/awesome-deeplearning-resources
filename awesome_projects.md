@@ -5,6 +5,7 @@
 - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision and Image Processing](https://github.com/JackieTseng/conference_call_for_paper)
 - [A collection of AWESOME things about domian adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 - [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) :star:
+- [A curated list of awesome anomaly detection resources](https://github.com/hoya012/awesome-anomaly-detection)
 - [A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision) :star:
 - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 - [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)
