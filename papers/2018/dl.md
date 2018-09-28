@@ -140,6 +140,7 @@
 - Theory and Algorithms for Forecasting Time Series. [`arxiv`](https://arxiv.org/abs/1803.05814)
 - The Singular Values of Convolutional Layers. [`arxiv`](https://arxiv.org/abs/1805.10408)
 - The unreasonable effectiveness of the forget gate. [`arxiv`](https://arxiv.org/abs/1804.04849)
+- Time is of the Essence: Machine Learning-based Intrusion Detection in Industrial Time Series Data. [`arxiv`](https://arxiv.org/abs/1809.07500)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Towards a Theoretical Understanding of Batch Normalization. [`arxiv`](https://arxiv.org/abs/1805.10694)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
