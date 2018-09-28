@@ -68,6 +68,7 @@
 
 ## Image Classifier
 
+- Combined convolutional and recurrent neural networks for hierarchical classification of images. [`arxiv`](https://arxiv.org/abs/1809.09574)
 - Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
 - Rethinking Feature Distribution for Loss Functions in Image Classification. [`arxiv`](https://arxiv.org/abs/1803.02988) [`code`](https://github.com/WeitaoVan/L-GM-loss)
 
