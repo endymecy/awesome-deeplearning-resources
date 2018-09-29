@@ -199,6 +199,17 @@ More details in [awesome projects](awesome_projects.md)
 
 More details in [corpus](corpus.md)
 
+# Contributors
+
+Special thanks to everyone who contributed to this project.
+
+@raer6
+@isikdogan
+@outlace
+@divamgupta
+@Naman-Bhalla
+@ppuliu
+
 # License
 
 The details in [License](LICENCE)
