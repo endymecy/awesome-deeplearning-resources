@@ -38,6 +38,7 @@
 - MegaDepth: Learning Single-View Depth Prediction from Internet Photos. [`arxiv`](https://arxiv.org/abs/1804.00607) [`code`](https://github.com/lixx2938/MegaDepth)
 - ModaNet: A Large-Scale Street Fashion Dataset with Polygon Annotations. [`arxiv`](https://arxiv.org/abs/1807.01394)
 - Multimodal Unsupervised Image-to-Image Translation. [`arxiv`](https://arxiv.org/abs/1804.04732) [`code`](https://github.com/nvlabs/MUNIT) :star:
+- Multitask Learning on Graph Neural Networks - Learning Multiple Graph Centrality Measures with a Unified Network. [`arxiv`](https://arxiv.org/abs/1809.07695)
 - Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction. [`arxiv`](https://arxiv.org/abs/1801.03910) [`code`](https://github.com//shubhtuls/mvcSnP)
 - PCN: Point Completion Network. [`arxiv`](https://arxiv.org/abs/1808.00671) [`code`](https://github.com/TonythePlaneswalker/pcn)
 - Pixel-wise Attentional Gating for Parsimonious Pixel Labeling. [`arxiv`](https://arxiv.org/abs/1805.01556) [`code`](https://github.com/aimerykong/Pixel-Attentional-Gating)
@@ -69,6 +70,7 @@
 ## Image Classifier
 
 - Combined convolutional and recurrent neural networks for hierarchical classification of images. [`arxiv`](https://arxiv.org/abs/1809.09574)
+- Global Weighted Average Pooling Bridges Pixel-level Localization and Image-level Classification. [`arxiv`](https://arxiv.org/abs/1809.08264)
 - Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
 - Rethinking Feature Distribution for Loss Functions in Image Classification. [`arxiv`](https://arxiv.org/abs/1803.02988) [`code`](https://github.com/WeitaoVan/L-GM-loss)
 
@@ -95,6 +97,7 @@
 - GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training. [`arxiv`](https://arxiv.org/abs/1805.06725) [`code`](https://github.com/samet-akcay/ganomaly)
 - Multi-Resolution 3D Convolutional Neural Networks for Object Recognition. [`arxiv`](https://arxiv.org/abs/1805.12254)
 - Object Detection for Comics using Manga109 Annotations. [`arxiv`](http://xxx.itp.ac.cn/abs/1803.08670)
+- Object Detection from Scratch with Deep Supervision. [`arxiv`](https://arxiv.org/abs/1809.09294)
 - Object Detection in Satellite Imagery using 2-Step Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1808.02996)
 - Optimizing Video Object Detection via a Scale-Time Lattice. [`url`](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/) [`code`](https://github.com/hellock/scale-time-lattice)
 - Pseudo Mask Augmented Object Detection. [`arxiv`](https://arxiv.org/abs/1803.05858)
