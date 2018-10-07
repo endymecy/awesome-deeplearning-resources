@@ -46,6 +46,7 @@
 - PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [`arxiv`](https://arxiv.org/abs/1804.03492) [`code`](https://github.com/mikacuy/pointnetvlad)
 - Quantizing deep convolutional networks for efficient inference: A whitepaper. [`arxiv`](https://arxiv.org/abs/1806.08342)
 - Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining. [`arxiv`](https://arxiv.org/abs/1807.05698) [`pytorch`](https://github.com/XiaLiPKU/RESCAN)
+- ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design. [`arxiv`](https://arxiv.org/abs/1807.11164) [`code`](https://github.com/Randl/ShuffleNetV2-pytorch)
 - Simple Baselines for Human Pose Estimation and Tracking. [`arxiv`](https://arxiv.org/abs/1804.06208)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition. [`arxiv`](https://arxiv.org/abs/1801.07455) [`code`](https://github.com/yysijie/st-gcn)
 - Stacked U-Nets: A No-Frills Approach to Natural Image Segmentation. [`arxiv`](https://arxiv.org/abs/1804.10343) [`code`](https://github.com/shahsohil/sunets)
