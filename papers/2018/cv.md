@@ -121,6 +121,7 @@
 - A Probabilistic U-Net for Segmentation of Ambiguous Images. [`arxiv`](https://arxiv.org/abs/1806.05034)
 - A two-stage 3D Unet framework for multi-class segmentation on full resolution image. [`arxiv`](https://arxiv.org/abs/1804.04341)
 - ClusterNet: Instance Segmentation in RGB-D Images. [`arxiv`](https://arxiv.org/abs/1807.08894)
+- Dark Model Adaptation: Semantic Image Segmentation from Daytime to Nighttime. [`arxiv`](https://arxiv.org/abs/1810.02575)
 - Deep Learning for Semantic Segmentation on Minimal Hardware. [`arxiv`](https://arxiv.org/abs/1807.05597)
 - Fast and Accurate Online Video Object Segmentation via Tracking Parts. [`arxiv`](https://arxiv.org/abs/1806.02323) [`code`](https://github.com/JingchunCheng/FAVOS)
 - Learning to Segment Every Thing. [`pdf`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf) [`code`](https://github.com/skrish13/PyTorch-mask-x-rcnn) :star:
