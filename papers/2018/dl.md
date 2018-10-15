@@ -98,6 +98,7 @@
 - Modeling Dynamics with Deep Transition-Learning Networks. [`arxiv`](https://arxiv.org/abs/1802.03497)
 - Multi-Layered Gradient Boosting Decision Trees. [`arxiv`](https://arxiv.org/abs/1806.00007) :star:
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
+- Network Distance Based on Laplacian Flows on Graphs. [`arxiv`](https://arxiv.org/abs/1810.02906) :star:
 - Neural Arithmetic Logic Units. [`arxiv`](https://arxiv.org/abs/1808.00508)
 - Neural Architecture Optimization. [`arxiv`](https://arxiv.org/abs/1808.07233)
 - Neural Architecture Search: A Survey. [`arxiv`](https://arxiv.org/abs/1808.05377)
@@ -218,6 +219,7 @@
 ## Meta Learning
 
 - Bayesian Model-Agnostic Meta-Learning. [`arxiv`](https://arxiv.org/abs/1806.03836)
+- Meta-Learning: A Survey. [`arxiv`](https://arxiv.org/abs/1810.03548)
 - Meta-Learning for Semi-Supervised Few-Shot Classification. [`arxiv`](https://arxiv.org/abs/1803.00676) [`code`](https://github.com/renmengye/few-shot-ssl-public)
 - Reptile: a Scalable Metalearning Algorithm. [`arxiv`](https://arxiv.org/abs/1803.02999)
 

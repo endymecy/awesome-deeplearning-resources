@@ -86,6 +86,7 @@
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 - [Course materials for Text as Data Lab](https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018)
 - [Datasets of Annotated Semantic Relationships](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
+- [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets)
 - [Japanese Word Similarity Dataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
