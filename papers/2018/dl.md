@@ -215,6 +215,7 @@
 - The relativistic discriminator: a key element missing from standard GAN. [`arxiv`](https://arxiv.org/abs/1807.00734) [`code`](https://github.com/AlexiaJM/RelativisticGAN)
 - Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer. [`arxiv`](https://arxiv.org/abs/1807.07543) [`code`](https://github.com/brain-research/acai)
 - Unsupervised Cipher Cracking Using Discrete GANs. [`arxiv`](https://arxiv.org/abs/1801.04883) [`tensorflow`](https://github.com//for-ai/CipherGAN)
+- Variational Bayesian Monte Carlo. [`arxiv`](https://arxiv.org/abs/1810.05558) [`code`](https://github.com/lacerbi/vbmc)
 
 ## Meta Learning
 
