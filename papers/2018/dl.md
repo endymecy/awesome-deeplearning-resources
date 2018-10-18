@@ -146,6 +146,7 @@
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Towards a Theoretical Understanding of Batch Normalization. [`arxiv`](https://arxiv.org/abs/1805.10694)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
+- Training convolutional neural networks with megapixel images. [`url`](https://openreview.net/forum?id=HJ7lIcjoM) [`code`](https://github.com/DIAGNijmegen/StreamingSGD)
 - Tree-CNN: A Deep Convolutional Neural Network for Lifelong Learning. [`arxiv`](https://arxiv.org/abs/1802.05800)
 - t-SNE-CUDA: GPU-Accelerated t-SNE and its Applications to Modern Data. [`arxiv`](https://arxiv.org/abs/1807.11824) [`code`](https://github.com/CannyLab/tsne-cuda)
 - Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring. [`arxiv`](https://arxiv.org/abs/1802.04633)
