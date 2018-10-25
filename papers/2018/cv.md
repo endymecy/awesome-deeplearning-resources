@@ -126,6 +126,7 @@
 - Fast and Accurate Online Video Object Segmentation via Tracking Parts. [`arxiv`](https://arxiv.org/abs/1806.02323) [`code`](https://github.com/JingchunCheng/FAVOS)
 - Learning to Segment Every Thing. [`pdf`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf) [`code`](https://github.com/skrish13/PyTorch-mask-x-rcnn) :star:
 - Learning to Segment Medical Images with Scribble-Supervision Alone. [`arxiv`](https://arxiv.org/abs/1807.04668)
+- MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects. [`arxiv`](https://arxiv.org/abs/1804.09194)
 - NeuroNet: Fast and Robust Reproduction of Multiple Brain Image Segmentation Pipelines. [`arxiv`](https://arxiv.org/abs/1806.04224)
 - Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network. [`arxiv`](https://arxiv.org/abs/1809.02110)
 - Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
