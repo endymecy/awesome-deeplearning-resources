@@ -34,6 +34,7 @@
 - Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning. [`arxiv`](https://arxiv.org/abs/1803.04765)
 - Deep Learning. [`arxiv`](https://arxiv.org/abs/1807.07987)
 - Deep Learning using Rectified Linear Units (ReLU). [`arxiv`](https://arxiv.org/abs/1803.08375) [`code`](https://github.com/AFAgarap/relu-classifier)
+- Deep Learning with the Random Neural Network and its Applications. [`arxiv`](https://arxiv.org/abs/1810.08653)
 - Deep Multimodal Subspace Clustering Networks. [`arxiv`](https://arxiv.org/abs/1804.06498)
 - Deep Neural Decision Trees. [`arxiv`](https://arxiv.org/abs/1806.06988) [`code`](https://github.com/wOOL/DNDT)
 - Deep Self-Organization: Interpretable Discrete Representation Learning on Time Series. [`arxiv`](https://arxiv.org/abs/1806.02199)
