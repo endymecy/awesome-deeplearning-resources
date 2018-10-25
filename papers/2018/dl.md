@@ -96,6 +96,7 @@
 - LSTM stack-based Neural Multi-sequence Alignment TeCHnique. [`arxiv`](https://arxiv.org/abs/1803.00057)
 - MemGEN: Memory is All You Need. [`arxiv`](https://arxiv.org/abs/1803.11203)
 - Modeling Dynamics with Deep Transition-Learning Networks. [`arxiv`](https://arxiv.org/abs/1802.03497)
+- Model Selection Techniques -- An Overview.  [`arxiv`](https://arxiv.org/abs/1810.09583)
 - Multi-Layered Gradient Boosting Decision Trees. [`arxiv`](https://arxiv.org/abs/1806.00007) :star:
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
 - Network Distance Based on Laplacian Flows on Graphs. [`arxiv`](https://arxiv.org/abs/1810.02906) :star:
