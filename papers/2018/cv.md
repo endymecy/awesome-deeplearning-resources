@@ -2,6 +2,7 @@
 
 - 3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies. [`arxiv`](https://arxiv.org/abs/1801.05968)
 - A Closed-form Solution to Photorealistic Image Stylization. [`arxiv`](https://arxiv.org/abs/1802.06474) [`code`](https://github.com/NVIDIA/FastPhotoStyle) :star:
+- A Convolutional Autoencoder Approach to Learn Volumetric Shape Representations for Brain Structures. [`arxiv`](https://arxiv.org/abs/1810.07746)
 - Adversarial Learning for Semi-Supervised Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1802.07934) [`pytorch`](https://github.com/hfslyc/AdvSemiSeg)
 - Adversarial Training of Variational Auto-encoders for High Fidelity Image Generation. [`arxiv`](https://arxiv.org/abs/1804.10323)
 - Attention-Aware Compositional Network for Person Re-identification. [`arxiv`](https://arxiv.org/abs/1805.03344)
