@@ -148,6 +148,7 @@
 - Time is of the Essence: Machine Learning-based Intrusion Detection in Industrial Time Series Data. [`arxiv`](https://arxiv.org/abs/1809.07500)
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Towards a Theoretical Understanding of Batch Normalization. [`arxiv`](https://arxiv.org/abs/1805.10694)
+- Towards Efficient Large-Scale Graph Neural Network Computing. [`arxiv`](https://arxiv.org/abs/1810.08403)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
 - Training convolutional neural networks with megapixel images. [`url`](https://openreview.net/forum?id=HJ7lIcjoM) [`code`](https://github.com/DIAGNijmegen/StreamingSGD)
 - Tree-CNN: A Deep Convolutional Neural Network for Lifelong Learning. [`arxiv`](https://arxiv.org/abs/1802.05800)
