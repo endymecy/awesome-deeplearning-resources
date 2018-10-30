@@ -19,6 +19,7 @@
 - Feedback-Based Tree Search for Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1805.05935)
 - Feudal Reinforcement Learning for Dialogue Management in Large Domains. [`arxiv`](https://arxiv.org/abs/1803.03232)
 - Forward-Backward Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.10227)
+- Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation. [`arxiv`](https://arxiv.org/abs/1810.09202)
 - Hierarchical Reinforcement Learning: Approximating Optimal Discounted TSP Using Local Policies. [`arxiv`](https://arxiv.org/abs/1803.04674)
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures. [`arxiv`](https://arxiv.org/abs/1802.01561)
 - Kickstarting Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.03835)
