@@ -65,6 +65,7 @@
 - Additive Margin Softmax for Face Verification. [`arxiv`](https://arxiv.org/abs/1801.05599) [`code`](https://github.com/happynear/AMSoftmax) :star:
 - Anchor Cascade for Efficient Face Detection. [`arxiv`](https://arxiv.org/abs/1805.03363)
 - Detecting and counting tiny faces. [`arxiv`](https://arxiv.org/abs/1801.06504) [`code`](https://github.com/alexattia/ExtendedTinyFaces)
+- Face Recognition: From Traditional to Deep Learning Methods. [`arxiv`](https://arxiv.org/abs/1811.00116)
 - RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face Alignment. [`arxiv`](https://arxiv.org/abs/1801.06066) 
 - SSR-Net: A Compact Soft Stagewise Regression Network for Age Estimation. [`pdf`](https://github.com/shamangary/SSR-Net/blob/master/ijcai18_ssrnet_pdfa_2b.pdf) [`code`](https://github.com/shamangary/SSR-Net)
 - Survey of Face Detection on Low-quality Images. [`arxiv`](https://arxiv.org/abs/1804.07362)
