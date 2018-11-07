@@ -57,6 +57,7 @@
 - Eyeriss v2: A Flexible and High-Performance Accelerator for Emerging Deep Neural Networks. [`arxiv`](https://arxiv.org/abs/1807.07928)
 - Fast Decoding in Sequence Models using Discrete Latent Variables. [`arxiv`](https://arxiv.org/abs/1803.03382)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [`arxiv`](https://arxiv.org/abs/1801.10247) [`code`](https://github.com/matenure/FastGCN)
+- Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells. [`arxiv`](https://arxiv.org/abs/1810.10804)
 - Foundations of Sequence-to-Sequence Modeling for Time Series. [`arxiv`](https://arxiv.org/abs/1805.03714)
 - From Nodes to Networks: Evolving Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.04439)
 - Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Network. [`arxiv`](https://arxiv.org/abs/1808.03314) :star:
