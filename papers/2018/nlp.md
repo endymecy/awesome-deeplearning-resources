@@ -7,6 +7,7 @@
 - A Universal Music Translation Network. [`arxiv`](https://arxiv.org/abs/1805.07848)
 - Calculating the similarity between words and sentences using a lexical database and corpus statistics. [`arxiv`](https://arxiv.org/abs/1802.05667)
 - Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
+- Content Selection in Deep Learning Models of Summarization. [`arxiv`](https://arxiv.org/abs/1810.12343)
 - Constituency Parsing with a Self-Attentive Encoder. [`arxiv`](https://arxiv.org/abs/1805.01052) [`code`](https://github.com/nikitakit/self-attentive-parser)
 - Embedding Logical Queries on Knowledge Graphs. [`arxiv`](https://arxiv.org/abs/1806.01445) [`code`](https://github.com/williamleif/graphqembed)
 - Extracting Action Sequences from Texts Based on Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02632)
