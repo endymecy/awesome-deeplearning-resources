@@ -79,6 +79,7 @@
 ### NER
 
 - Chinese NER Using Lattice LSTM. [`arxiv`](https://arxiv.org/pdf/1805.02023.pdf) [`code`](https://github.com/jiesutd/LatticeLSTM)
+- Named Entity Disambiguation using Deep Learning on Graphs. [`arxiv`](https://arxiv.org/abs/1810.09164)
 
 ### NMT
 
