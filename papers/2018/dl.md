@@ -105,6 +105,7 @@
 - Neural Arithmetic Logic Units. [`arxiv`](https://arxiv.org/abs/1808.00508)
 - Neural Architecture Optimization. [`arxiv`](https://arxiv.org/abs/1808.07233)
 - Neural Architecture Search: A Survey. [`arxiv`](https://arxiv.org/abs/1808.05377)
+- Neural Nearest Neighbors Networks. [`arxiv`](https://arxiv.org/pdf/1810.12575.pdf) [`code`](https://github.com/visinf/n3net/)
 - Neural Networks Regularization Through Representation Learning. [`arxiv`](https://arxiv.org/abs/1807.05292)
 - Not All Samples Are Created Equal: Deep Learning with Importance Sampling. [`arxiv`](https://arxiv.org/abs/1803.00942)
 - Online normalizer calculation for softmax. [`arxiv`](https://arxiv.org/abs/1805.02867)
