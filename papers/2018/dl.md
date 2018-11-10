@@ -98,6 +98,7 @@
 - LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation. [`arxiv`](https://arxiv.org/abs/1805.07036)
 - LSTM stack-based Neural Multi-sequence Alignment TeCHnique. [`arxiv`](https://arxiv.org/abs/1803.00057)
 - MemGEN: Memory is All You Need. [`arxiv`](https://arxiv.org/abs/1803.11203)
+- Measuring the Effects of Data Parallelism on Neural Network Training. [`arxiv`](https://arxiv.org/abs/1811.03600)
 - Modeling Attention Flow on Graphs. [`arxiv`](https://arxiv.org/abs/1811.00497)
 - Modeling Dynamics with Deep Transition-Learning Networks. [`arxiv`](https://arxiv.org/abs/1802.03497)
 - Model Selection Techniques -- An Overview.  [`arxiv`](https://arxiv.org/abs/1810.09583)
