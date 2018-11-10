@@ -5,6 +5,7 @@
 - An end-to-end TextSpotter with Explicit Alignment and Attention. [`arxiv`](https://arxiv.org/abs/1803.03474) [`code`](https://github.com/tonghe90/textspotter)
 - Annotation Artifacts in Natural Language Inference Data. [`arxiv`](https://arxiv.org/abs/1803.02324) :star:
 - A Universal Music Translation Network. [`arxiv`](https://arxiv.org/abs/1805.07848)
+- Building Dynamic Knowledge Graphs from Text using Machine Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1810.05682)
 - Calculating the similarity between words and sentences using a lexical database and corpus statistics. [`arxiv`](https://arxiv.org/abs/1802.05667)
 - Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
 - Content Selection in Deep Learning Models of Summarization. [`arxiv`](https://arxiv.org/abs/1810.12343)
