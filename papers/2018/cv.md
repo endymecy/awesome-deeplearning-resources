@@ -134,6 +134,7 @@
 - Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network. [`arxiv`](https://arxiv.org/abs/1809.02110)
 - Pathology Segmentation using Distributional Differences to Images of Healthy Origin. [`arxiv`](https://arxiv.org/abs/1805.10344)
 - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model. [`arxiv`](https://arxiv.org/abs/1803.08225)
+- Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1811.00174)
 - PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1807.00652) [`code`](https://github.com/MVIG-SJTU/pointSIFT)
 - Pyramid Attention Network for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1805.10180)
 - Semantic Binary Segmentation using Convolutional Networks without Decoders. [`arxiv`](https://arxiv.org/abs/1805.00138)

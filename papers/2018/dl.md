@@ -193,6 +193,7 @@
 - An empirical study on evaluation metrics of generative adversarial networks. [`arxiv`](https://arxiv.org/abs/1806.07755) [`code`](https://github.com/xuqiantong/GAN-Metrics)
 - Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1805.07997)
 - Autoencoding topology. [`arxiv`](https://arxiv.org/abs/1803.00156)
+- CariGANs: Unpaired Photo-to-Caricature Translation. [`arxiv`](https://arxiv.org/abs/1811.00222)
 - CartoonGAN: Generative Adversarial Networks for Photo Cartoonization. [`pdf`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2205.pdf) [`pytorch`](https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch)
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
 - ClusterGAN : Latent Space Clustering in Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1809.03627)
