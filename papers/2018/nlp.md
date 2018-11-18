@@ -3,6 +3,7 @@
 - 500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining StackOverflow). [`arxiv`](https://arxiv.org/abs/1802.05319)
 - A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation. [`arxiv`](https://arxiv.org/abs/1805.06553)
 - An end-to-end TextSpotter with Explicit Alignment and Attention. [`arxiv`](https://arxiv.org/abs/1803.03474) [`code`](https://github.com/tonghe90/textspotter)
+- An Introductory Survey on Attention Mechanisms in NLP Problems. [`arxiv`](https://arxiv.org/abs/1811.05544)
 - Annotation Artifacts in Natural Language Inference Data. [`arxiv`](https://arxiv.org/abs/1803.02324) :star:
 - A Universal Music Translation Network. [`arxiv`](https://arxiv.org/abs/1805.07848)
 - Building Dynamic Knowledge Graphs from Text using Machine Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1810.05682)
