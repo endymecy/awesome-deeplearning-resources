@@ -80,6 +80,7 @@
 - IcoRating: A Deep-Learning System for Scam ICO Identification. [`arxiv`](https://arxiv.org/abs/1803.03670)
 - Impacts of Dirty Data: and Experimental Evaluation. [`arxiv`](https://arxiv.org/abs/1803.06071) [`code`](https://github.com/qizhixinhit/Dirty-dataImpacts)
 - Implicit Autoencoders. [`arxiv`](https://arxiv.org/abs/1805.09804) 
+- Improving Multi-Person Pose Estimation using Label Correction. [`arxiv`](https://arxiv.org/abs/1811.03331)
 - Incremental Training of Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.10232)
 - Labelling as an unsupervised learning problem.[`arxiv`](https://arxiv.org/abs/1805.03911) 
 - Large Data and Zero Noise Limits of Graph-Based Semi-Supervised Learning Algorithms. [`arxiv`](https://arxiv.org/abs/1805.09450)
