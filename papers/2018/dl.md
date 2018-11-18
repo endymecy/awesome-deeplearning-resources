@@ -117,6 +117,7 @@
 - Parallel Grid Pooling for Data Augmentation. [`arxiv`](https://arxiv.org/abs/1803.11370) [`code`](https://github.com/akitotakeki/pgp-chainer)
 - Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding. [`arxiv`](https://arxiv.org/abs/1809.07426)
 - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights. [`arxiv`](https://arxiv.org/abs/1801.06519) [`code`](https://github.com/arunmallya/piggyback)
+- Pitfalls of Graph Neural Network Evaluation. [`arxiv`](https://arxiv.org/abs/1811.05868)
 - Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs. [`arxiv`](https://arxiv.org/abs/1804.04438)
 - Probabilistic Recurrent State-Space Models. [`arxiv`](https://arxiv.org/abs/1801.10395) [`code`](https://github.com/andreasdoerr/PR-SSM)
 - Progress & Compress: A scalable framework for continual learning. [`arxiv`](https://arxiv.org/abs/1805.06370)
