@@ -33,6 +33,7 @@
 ### Embeddings
 
 - An efficient framework for learning sentence representations. [`arxiv`](https://arxiv.org/abs/1803.02893)
+- A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks. [`arxiv`](https://arxiv.org/abs/1811.06031) [`code`](https://github.com/huggingface/hmtl)
 - A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings. [`arxiv`](https://arxiv.org/abs/1805.06297) [`code`](https://github.com/artetxem/vecmap)
 - Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases. [`arxiv`](https://arxiv.org/abs/1801.00388)
 - Concept2vec: Metrics for Evaluating Quality of Embeddings for Ontological Concepts. [`arxiv`](https://arxiv.org/abs/1803.04488)
