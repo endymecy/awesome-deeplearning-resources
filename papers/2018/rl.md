@@ -6,6 +6,7 @@
 - A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress. [`arxiv`](https://arxiv.org/abs/1806.06877) 
 - Composable Deep Reinforcement Learning for Robotic Manipulation. [`arxiv`](https://arxiv.org/abs/1803.06773)
 - Cooperative Multi-Agent Reinforcement Learning for Low-Level Wireless Communication. [`arxiv`](https://arxiv.org/abs/1801.04541)
+- Deep Q learning for fooling neural networks. [`arxiv`](https://arxiv.org/abs/1811.05521)
 - Deep Reinforcement Fuzzing. [`arxiv`](https://arxiv.org/abs/1801.04589)
 - Deep Reinforcement Learning of Cell Movement in the Early Stage of C. elegans Embryogenesis. [`arxiv`](https://arxiv.org/abs/1801.04600)
 - Deep Reinforcement Learning For Sequence to Sequence Models. [`arxiv`](https://arxiv.org/abs/1805.09461) [`code`](https://github.com/yaserkl/RLSeq2Seq/)
