@@ -80,6 +80,7 @@ More details in [courses](courses.md)
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese)
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
+* [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
