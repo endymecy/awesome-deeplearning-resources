@@ -72,6 +72,7 @@
 
 ## Image Classifier
 
+- Bag of Tricks for Image Classification with Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1812.01187)
 - Combined convolutional and recurrent neural networks for hierarchical classification of images. [`arxiv`](https://arxiv.org/abs/1809.09574)
 - Global Weighted Average Pooling Bridges Pixel-level Localization and Image-level Classification. [`arxiv`](https://arxiv.org/abs/1809.08264)
 - Regularized Evolution for Image Classifier Architecture Search. [`arxiv`](https://arxiv.org/abs/1802.01548)
