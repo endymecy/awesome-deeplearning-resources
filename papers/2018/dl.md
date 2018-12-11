@@ -254,6 +254,7 @@
 ## Transfer Learning
 
 - 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network. [`arxiv`](https://arxiv.org/abs/1802.05656)
+- Adversarial Transfer Learning. [`arxiv`](https://arxiv.org/abs/1812.02849)
 - A Survey on Deep Transfer Learning. [`arxiv`](https://arxiv.org/abs/1808.01974)
 - Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration. [`arxiv`](https://arxiv.org/abs/1805.03857)
 - Capsule networks for low-data transfer learning. [`arxiv`](https://arxiv.org/abs/1804.10172)
