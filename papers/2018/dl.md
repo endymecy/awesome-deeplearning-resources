@@ -95,6 +95,7 @@
 - Learning to Reweight Examples for Robust Deep Learning. [`arxiv`](https://arxiv.org/abs/1803.09050) [`code`](https://github.com/danieltan07/learning-to-reweight-examples)
 - Learning to Zoom: a Saliency-Based Sampling Layer for Neural Networks. [`arxiv`](https://arxiv.org/abs/1809.03355)
 - Learning Unsupervised Learning Rules. [`arxiv`](https://arxiv.org/abs/1804.00222) [`tensorflow`](https://github.com/tensorflow/models/tree/master/research/learning_unsupervised_learning) :star:
+- Linear Backprop in non-linear networks. [`pdf`](https://openreview.net/forum?id=ByfPDyrYim)
 - Links: A High-Dimensional Online Clustering Method. [`arxiv`](https://arxiv.org/abs/1801.10123) :star:
 - LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation. [`arxiv`](https://arxiv.org/abs/1805.07036)
 - LSTM stack-based Neural Multi-sequence Alignment TeCHnique. [`arxiv`](https://arxiv.org/abs/1803.00057)
