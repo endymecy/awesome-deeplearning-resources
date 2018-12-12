@@ -203,6 +203,7 @@
 - cGANs with Projection Discriminator. [`pdf`](https://openreview.net/pdf?id=ByS1VpgRZ) [`code`](https://github.com/pfnet-research/sngan_projection)
 - ClusterGAN : Latent Space Clustering in Generative Adversarial Networks. [`arxiv`](https://arxiv.org/abs/1809.03627)
 - Compositional GAN: Learning Conditional Image Composition. [`arxiv`](https://arxiv.org/abs/1807.07560) [`code`](https://github.com/azadis/CompositionalGAN)
+- Counterfactuals uncover the modular structure of deep generative models. [`arxiv`](https://arxiv.org/abs/1812.03253)
 - CR-GAN: Learning Complete Representations for Multi-view Generation. [`arxiv`](https://arxiv.org/abs/1806.11191) [`code`](https://github.com/bluer555/CR-GAN)
 - Deep Generative Markov State Models. [`arxiv`](https://arxiv.org/abs/1805.07601) [`code`](https://github.com/amardt/DeepGenMSM)
 - Deep Learning for Imbalance Data Classification using Class Expert Generative Adversarial Network. [`arxiv`](https://arxiv.org/abs/1807.04585)
