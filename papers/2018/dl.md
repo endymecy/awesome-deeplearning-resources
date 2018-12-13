@@ -13,6 +13,7 @@
 - Batch Kalman Normalization: Towards Training Deep Neural Networks with Micro-Batches. [`arxiv`](https://arxiv.org/abs/1802.03133) :star:
 - Bayesian Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1806.05978) [`code`](https://github.com/felix-laumann/Bayesian_CNN)
 - Bayesian Deep Convolutional Encoder-Decoder Networks for Surrogate Modeling and Uncertainty Quantification. [`arxiv`](https://arxiv.org/abs/1801.06879)
+- Bayesian Layers: A Module for Neural Network Uncertainty. [`arxiv`](https://arxiv.org/abs/1812.03973)
 - Bayesian Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.07710) [`code`](https://github.com/mullachv/MLExp)
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [`arxiv`](https://arxiv.org/abs/1801.05453)
 - BindsNET: A machine learning-oriented spiking neural networks library in Python. [`arxiv`](https://arxiv.org/abs/1806.01423) [`code`](https://github.com/Hananel-Hazan/bindsnet)
