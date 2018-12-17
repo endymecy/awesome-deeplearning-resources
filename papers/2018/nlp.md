@@ -44,7 +44,7 @@
 - From Word to Sense Embeddings: A Survey on Vector Representations of Meaning. [`arxiv`](https://arxiv.org/abs/1805.04032)
 - Learning Domain-Sensitive and Sentiment-Aware Word Embeddings. [`arxiv`](https://arxiv.org/abs/1805.03801)
 - Learning Word Embeddings for Low-resource Languages by PU Learning. [`arxiv`](https://arxiv.org/abs/1805.03366)
-- On the Dimensionality of Word Embedding. [`arxiv`](https://arxiv.org/abs/1812.04224)
+- On the Dimensionality of Word Embedding. [`arxiv`](https://arxiv.org/abs/1812.04224) [`code`](https://github.com/ziyin-dl/word-embedding-dimensionality-selection)
 - Poincaré GloVe: Hyperbolic Word Embeddings. [`arxiv`](https://arxiv.org/abs/1810.06546)
 - Query2Vec: NLP Meets Databases for Generalized Workload Analytics. [`arxiv`](https://arxiv.org/abs/1801.05613)
 - Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings. [`arxiv`](https://arxiv.org/abs/1802.01241)
