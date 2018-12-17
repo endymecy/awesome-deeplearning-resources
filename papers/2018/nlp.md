@@ -105,6 +105,7 @@
 - Offline A/B testing for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.07030)
 - Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System. [`arxiv`](https://arxiv.org/abs/1809.07428) [`code`](https://github.com/graytowne/rank_distill)
 - Sequence-Aware Recommender Systems. [`arxiv`](https://arxiv.org/abs/1802.08452)
+- Top-K Off-Policy Correction for a REINFORCE Recommender System. [`arxiv`](https://arxiv.org/abs/1812.02353)
 
 ### Sentiment Analysis
 
