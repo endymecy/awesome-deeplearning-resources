@@ -26,7 +26,7 @@
 - End-to-End Saliency Mapping via Probability Distribution Prediction. [`arxiv`](https://arxiv.org/abs/1804.01793)
 - Fast Semantic Segmentation on Video Using Motion Vector-Based Feature Interpolation. [`arxiv`](https://arxiv.org/abs/1803.07742)
 - From Selective Deep Convolutional Features to Compact Binary Representations for Image Retrieval. [`arxiv`](https://arxiv.org/abs/1802.02899) [`code`](https://github.com/hnanhtuan/selectiveConvFeature)
-- Geometrical Stem Detection from Image Data for Precision Agriculture. [`arxiv`](https://arxiv.org/abs/1812.05415)
+- Geometrical Stem Detection from Image Data for Precision Agriculture. [`arxiv`](https://arxiv.org/abs/1812.05415) [`code`](https://github.com/PRBonn/geometrical_stem_detection)
 - Harmonious Attention Network for Person Re-Identification. [`arxiv`](https://arxiv.org/abs/1802.08122)
 - IGCV2: Interleaved Structured Sparse Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1804.06202)
 - Image Inpainting for Irregular Holes Using Partial Convolutions. [`arxiv`](https://arxiv.org/abs/1804.07723)
