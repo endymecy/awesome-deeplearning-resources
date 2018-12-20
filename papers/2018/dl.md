@@ -15,6 +15,7 @@
 - Bayesian Deep Convolutional Encoder-Decoder Networks for Surrogate Modeling and Uncertainty Quantification. [`arxiv`](https://arxiv.org/abs/1801.06879)
 - Bayesian Layers: A Module for Neural Network Uncertainty. [`arxiv`](https://arxiv.org/abs/1812.03973)
 - Bayesian Neural Networks. [`arxiv`](https://arxiv.org/abs/1801.07710) [`code`](https://github.com/mullachv/MLExp)
+- Bayesian Optimization in AlphaGo.  [`arxiv`](https://arxiv.org/abs/1812.06855)
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs. [`arxiv`](https://arxiv.org/abs/1801.05453)
 - BindsNET: A machine learning-oriented spiking neural networks library in Python. [`arxiv`](https://arxiv.org/abs/1806.01423) [`code`](https://github.com/Hananel-Hazan/bindsnet)
 - Capturing Structure Implicitly from Time-Series having Limited Data. [`arxiv`](https://arxiv.org/abs/1803.05867) [`code`](https://github.com/emaasit/long-range-extrapolation)
@@ -110,7 +111,7 @@
 - Multivariate LSTM-FCNs for Time Series Classification. [`arxiv`](https://arxiv.org/abs/1801.04503) [`code`](https://github.com/houshd/MLSTM-FCN)
 - Network Distance Based on Laplacian Flows on Graphs. [`arxiv`](https://arxiv.org/abs/1810.02906) :star:
 - Neural Arithmetic Logic Units. [`arxiv`](https://arxiv.org/abs/1808.00508)
-- Neural Architecture Optimization. [`arxiv`](https://arxiv.org/abs/1808.07233)
+- Neural Architecture Optimization. [`arxiv`](https://arxiv.org/abs/1808.07233) [`code`](https://github.com/renqianluo/NAO)
 - Neural Architecture Search: A Survey. [`arxiv`](https://arxiv.org/abs/1808.05377)
 - Neural Nearest Neighbors Networks. [`arxiv`](https://arxiv.org/pdf/1810.12575.pdf) [`code`](https://github.com/visinf/n3net/)
 - Neural Networks Regularization Through Representation Learning. [`arxiv`](https://arxiv.org/abs/1807.05292)
