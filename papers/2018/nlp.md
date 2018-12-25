@@ -31,6 +31,7 @@
 - Dialogue Generation: From Imitation Learning to Inverse Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1812.03509)
 - Goal-Oriented Chatbot Dialog Management Bootstrapping with Transfer Learning. [`arxiv`](https://arxiv.org/abs/1802.00500)
 - Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. [`arxiv`](https://arxiv.org/abs/1804.08217) [`code`](https://github.com/HLTCHKUST/Mem2Seq)
+- The Design and Implementation of XiaoIce, an Empathetic Social Chatbot. [`arxiv`](https://arxiv.org/abs/1812.08989)
 
 ### Embeddings
 
