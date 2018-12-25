@@ -84,6 +84,7 @@
 - Implicit Autoencoders. [`arxiv`](https://arxiv.org/abs/1805.09804) 
 - Improving Multi-Person Pose Estimation using Label Correction. [`arxiv`](https://arxiv.org/abs/1811.03331)
 - Incremental Training of Deep Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1803.10232)
+- Introducing Neuromodulation in Deep Neural Networks to Learn Adaptive Behaviours. [`arxiv`](https://arxiv.org/abs/1812.09113)
 - Labelling as an unsupervised learning problem.[`arxiv`](https://arxiv.org/abs/1805.03911) 
 - Large Data and Zero Noise Limits of Graph-Based Semi-Supervised Learning Algorithms. [`arxiv`](https://arxiv.org/abs/1805.09450)
 - Large-Margin Classification in Hyperbolic Space. [`arxiv`](https://arxiv.org/abs/1806.00437) [`code`](https://github.com/hhcho/hyplinear)
