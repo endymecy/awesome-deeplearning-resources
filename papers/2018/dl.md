@@ -76,6 +76,7 @@
 - High-Accuracy Low-Precision Training. [`arxiv`](https://arxiv.org/abs/1803.03383)
 - High Dimensional Bayesian Optimization Using Dropout. [`arxiv`](https://arxiv.org/abs/1802.05400)
 - How Does Batch Normalization Help Optimization. [`arxiv`](https://arxiv.org/abs/1805.11604)
+- How Powerful are Graph Neural Networks? [`pdf`](https://openreview.net/pdf?id=ryGs6iA5Km)
 - Hybrid Decision Making: When Interpretable Models Collaborate With Black-Box Models. [`arxiv`](https://arxiv.org/abs/1802.04346) [`code`](https://github.com/wangtongada/CoBRUSH)
 - Hybrid Gradient Boosting Trees and Neural Networks for Forecasting Operating Room Data. [`arxiv`](https://arxiv.org/abs/1801.07384)
 - Hyperbolic Neural Networks. [`arxiv`](https://arxiv.org/abs/1805.09112) [`code`](https://github.com/dalab/hyperbolic_nn)
