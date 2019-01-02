@@ -48,6 +48,7 @@
 - Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning. [`arxiv`](https://arxiv.org/abs/1808.03578)
 - DroNet: Learning to Fly by Driving. [`pdf`](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf) [`code`](https://github.com/uzh-rpg/rpg_public_dronet)
 - Dynamic Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/1810.10627)
+- Dynamic Planning Networks. [`arxiv`](https://arxiv.org/abs/1812.11240)
 - Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++. [`arxiv`](https://arxiv.org/abs/1803.09693) [`code`](https://github.com/davidjesusacu/polyrnn-pp)
 - Efficient Neural Architecture Search ia Parameter Sharing. [`arxiv`](https://arxiv.org/abs/1802.03268) [`pytorch`](https://github.com/carpedm20/ENAS-pytorch) [`tensorflow`](https://github.com/melodyguan/enas) :star:
 - Entropy and mutual information in models of deep neural networks. [`arxiv`](https://arxiv.org/abs/1805.09785)
