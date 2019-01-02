@@ -25,6 +25,7 @@
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures. [`arxiv`](https://arxiv.org/abs/1802.01561)
 - Kickstarting Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.03835)
 - Learning a Prior over Intent via Meta-Inverse Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1805.12573)
+- Meta Reinforcement Learning with Distribution of Exploration Parameters Learned by Evolution Strategies. [`arxiv`](https://arxiv.org/abs/1812.11314)
 - Meta Reinforcement Learning with Latent Variable Gaussian Processes. [`arxiv`](https://arxiv.org/abs/1803.07551)
 - Multi-Agent Reinforcement Learning: A Report on Challenges and Approaches. [`arxiv`](https://arxiv.org/abs/1807.09427)
 - Pretraining Deep Actor-Critic Reinforcement Learning Algorithms With Expert Demonstrations. [`arxiv`](https://arxiv.org/abs/1801.10459)
