@@ -4,6 +4,7 @@
 - Adaptive Neural Trees. [`arxiv`](https://arxiv.org/abs/1807.06699)
 - Adding One Neuron Can Eliminate All Bad Local Minima. [`arxiv`](https://arxiv.org/abs/1805.08671)
 - A Dual Approach to Scalable Verification of Deep Networks. [`arxiv`](https://arxiv.org/abs/1803.06567)
+- A Geometric Theory of Higher-Order Automatic Differentiation. [`arxiv`](https://arxiv.org/abs/1812.11592)
 - A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data. [`arxiv`](https://arxiv.org/abs/1801.06202) [`code`](https://github.com/yunchuankong/NetworkNeuralNetwork)
 - An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution. [`url`](https://eng.uber.com/coordconv/) :star:
 - A Survey on Neural Network-Based Summarization Methods. [`arxiv`](https://arxiv.org/abs/1804.04589)
