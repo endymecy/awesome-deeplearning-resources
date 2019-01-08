@@ -43,6 +43,7 @@
 - [Labeled Faces in the Wild Home](http://vis-www.cs.umass.edu/lfw/)
 - [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - [LLD - Large Logo Dataset](https://data.vision.ee.ethz.ch/cvl/lld/)
+- [Medical imaging datasets](https://github.com/sfikas/medical-imaging-datasets)
 - [Media Integration and Communication Center](https://www.micc.unifi.it/resources/)
 - [MegaFace Dataset](http://megaface.cs.washington.edu/dataset/download.html)
 - [MSRA-CFW: Data Set of Celebrity Faces on the Web](https://www.microsoft.com/en-us/research/project/msra-cfw-data-set-of-celebrity-faces-on-the-web/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fmsra-cfw%2Fcasia)
