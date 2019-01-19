@@ -7,6 +7,10 @@
 
 - Attentive Neural Processes. [`arxiv`](https://arxiv.org/abs/1901.05761) 
 
+## Neural Architecture Search
+
+- EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search. [`arxiv`](https://arxiv.org/abs/1901.05884v1)
+
 ## Transfer Learning
 
 - Virtual-to-Real-World Transfer Learning for Robots on Wilderness Trails. [`arxiv`](https://arxiv.org/abs/1901.05599)
