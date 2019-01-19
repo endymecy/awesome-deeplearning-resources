@@ -6,7 +6,7 @@
 
 ## Attention
 
-- Attentive Neural Processes. [`arxiv`](https://arxiv.org/abs/1901.05761) 
+- Attentive Neural Processes. [`arxiv`](https://arxiv.org/abs/1901.05761) :star:
 
 ## Neural Architecture Search
 
