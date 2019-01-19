@@ -6,3 +6,7 @@
 ## Attention
 
 - Attentive Neural Processes. [`arxiv`](https://arxiv.org/abs/1901.05761) 
+
+## Transfer Learning
+
+- Virtual-to-Real-World Transfer Learning for Robots on Wilderness Trails. [`arxiv`](https://arxiv.org/abs/1901.05599)
