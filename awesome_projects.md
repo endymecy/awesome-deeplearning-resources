@@ -4,6 +4,7 @@
 - [188 examples of artificial intelligence in action](https://poo.ai/)
 - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision and Image Processing](https://github.com/JackieTseng/conference_call_for_paper)
 - [A collection of AWESOME things about domian adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
+- [A collection of datasets ready to use with TensorFlow](https://github.com/tensorflow/datasets)
 - [A collection of methods to fool the deep neural network](https://github.com/layumi/Awesome-Fools)
 - [A curated collection of places where you can learn robotics, algorithms, and other useful tools for aspiring robotics software engineers.](https://github.com/mithi/robotics-coursework)
 - [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) :star:
