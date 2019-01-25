@@ -97,6 +97,7 @@
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLpapers)
 - [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
+- [Multi Object Tracking Paper List](https://github.com/SpyderXu/multi-object-tracking-paper-list)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Notes/links on math and science, including statistics, bayes, cmpsc, quant trading, machine learning, etc](https://github.com/melling/MathAndScienceNotes)
 - [OCR Resources](https://github.com/ZumingHuang/awesome-ocr-resources)
