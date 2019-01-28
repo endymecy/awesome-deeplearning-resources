@@ -209,12 +209,13 @@ More details in [corpus](corpus.md)
 
 Special thanks to everyone who contributed to this project.
 
-@raer6
-@isikdogan
-@outlace
-@divamgupta
-@Naman-Bhalla
-@ppuliu
+- raer6
+- isikdogan
+- outlace
+- divamgupta
+- Naman-Bhalla
+- ppuliu
+- benedekrozemberczki
 
 # License
 
