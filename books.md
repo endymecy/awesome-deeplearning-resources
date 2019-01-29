@@ -2,6 +2,7 @@
 
 * [神经网络与深度学习.邱锡鹏](https://nndl.github.io/)
 * [深度学习入门 by PaddlePaddle](https://github.com/PaddlePaddle/book)
+* [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
 * [Scikit-learn 秘籍](https://www.gitbook.com/book/wizardforcel/sklearn-cookbook/details)
 * [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 * [A Course in Machine Learning](http://ciml.info/)
