@@ -45,6 +45,7 @@
 - Evaluating Compositionality in Sentence Embeddings. [`arxiv`](https://arxiv.org/abs/1802.04302) [`code`](https://github.com/ishita-dg/ScrambleTests)
 - From Word to Sense Embeddings: A Survey on Vector Representations of Meaning. [`arxiv`](https://arxiv.org/abs/1805.04032)
 - Learning Domain-Sensitive and Sentiment-Aware Word Embeddings. [`arxiv`](https://arxiv.org/abs/1805.03801)
+- Learning Role-based Graph Embeddings. [`arxiv`](https://arxiv.org/abs/1802.02896) [`code`](https://github.com/benedekrozemberczki/role2vec)
 - Learning Word Embeddings for Low-resource Languages by PU Learning. [`arxiv`](https://arxiv.org/abs/1805.03366)
 - On the Dimensionality of Word Embedding. [`arxiv`](https://arxiv.org/abs/1812.04224) [`code`](https://github.com/ziyin-dl/word-embedding-dimensionality-selection)
 - Poincaré GloVe: Hyperbolic Word Embeddings. [`arxiv`](https://arxiv.org/abs/1810.06546)
