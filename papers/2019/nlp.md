@@ -16,4 +16,4 @@
 ## Text Classification
 
 - Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings. [`arxiv`](https://arxiv.org/abs/1901.07651)
-
+- EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks. [`arxiv`](https://arxiv.org/abs/1901.11196) [`code`](https://github.com/jasonwei20/eda_nlp)
