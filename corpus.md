@@ -100,6 +100,7 @@
 - [Taiga Сorpus](https://tatianashavrina.github.io/taiga_site/)
 - [Ten thousand books, six million ratings](https://github.com/zygmuntz/goodbooks-10k)
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
+- [The Movies Corpus](https://corpus.byu.edu/movies/)
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
 - [Yelp Open Dataset](https://www.yelp.com/dataset)
 - [70万条对联数据库](https://github.com/wb14123/couplet-dataset)
