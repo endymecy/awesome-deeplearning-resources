@@ -9,6 +9,10 @@
 
 - A Multi-Resolution Word Embedding for Document Retrieval from Large Unstructured Knowledge Bases. [`arxiv`](https://arxiv.org/abs/1902.00663)
 
+## Machine Translation
+
+- Training on Synthetic Noise Improves Robustness to Natural Noise in Machine Translation. [`arxiv`](https://arxiv.org/abs/1902.01509)
+
 ## NMT
 
 - Modeling Latent Sentence Structure in Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1901.06436)
