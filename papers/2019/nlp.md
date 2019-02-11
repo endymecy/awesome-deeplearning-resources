@@ -19,6 +19,7 @@
 
 ## Reading Comprehension
 
+- DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1902.00164)
 - Review Conversational Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1902.00821)
 
 ## Text Classification
