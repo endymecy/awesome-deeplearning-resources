@@ -93,6 +93,7 @@ More details in [courses](courses.md)
 * [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
 * [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
 * [Grokking Deep Reinforcement Lerning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
+* [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 
 More details in [books](books.md)
 
