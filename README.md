@@ -217,6 +217,7 @@ Special thanks to everyone who contributed to this project.
 - Naman-Bhalla
 - ppuliu
 - benedekrozemberczki
+- roziunicorn
 
 # License
 
