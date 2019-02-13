@@ -59,6 +59,7 @@
 
 ## NLP
 
+- [大规模中文自然语言处理语料](https://github.com/brightmart/nlp_chinese_corpus)
 - [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus)
 - [搜狗实验室](http://www.sogou.com/labs/)
 - [情感分析︱网络公开的免费文本语料训练数据集汇总](http://blog.csdn.net/sinat_26917383/article/details/51321505)
