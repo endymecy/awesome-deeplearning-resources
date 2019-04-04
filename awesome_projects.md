@@ -49,6 +49,7 @@
 - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+- [Awesome Law NLP Research Work](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work)
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [Awesome Machine Learning Projects](https://ml-showcase.com/)
 - [Awesome Math](https://github.com/llSourcell/learn_math_fast)
