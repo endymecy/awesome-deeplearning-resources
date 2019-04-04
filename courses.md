@@ -43,3 +43,4 @@
 * [Introductory Machine Learning Algorithms in Python with scikit-learn](https://egghead.io/courses/introductory-machine-learning-algorithms-in-python-with-scikit-learn)
 * [YouTube] [Deep Learning Crash Course (2018)](https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
 * [liveVideo Course] [AWS Machine LEarning in Motion (2018)](https://www.manning.com/livevideo/aws-machine-learning-in-motion)
+* [liveVideo Course] [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion)
