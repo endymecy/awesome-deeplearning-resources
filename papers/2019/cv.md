@@ -8,3 +8,7 @@
 ## Object Detection
 
 - Consistent Optimization for Single-Shot Object Detection. [`arxiv`](https://arxiv.org/abs/1901.06563)
+
+## GAN
+
+- Exploring Randomly Wired Neural Networks for Image Recognition. [`arxiv`](https://arxiv.org/abs/1904.01184)
