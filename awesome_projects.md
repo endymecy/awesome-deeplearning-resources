@@ -110,6 +110,7 @@
 - [Private machine learning progress](https://github.com/OpenMined/awesome-ai-privacy)
 - [Really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 - [Really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation)
+- [Recommendation Algorithms](https://github.com/chihming/competitive-recsys)
 - [Recommended Papers. Subjects: Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Learning (cs.LG)](https://github.com//ArcherFMY/Paper_Reading_List)
 - [Related Paper of Efficient Deep Neural Networks](https://github.com/Zhouaojun/Efficient-Deep-Learning)
 - [Repository to research & share the machine learning articles](https://github.com/arXivTimes/arXivTimes)
