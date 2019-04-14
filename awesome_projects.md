@@ -46,6 +46,7 @@
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
 - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
+- [Awesome Generative Adversarial Networks with tensorflow](https://github.com/kozistr/Awesome-GANs)
 - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
