@@ -28,6 +28,7 @@
 - [A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)](https://github.com/arthchan2003/AIDL_KB)
 - [An awesome Data Science repository to learn and apply for real world problems.](https://github.com/bulutyazilim/awesome-datascience)
 - [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text)
+- [A reading list of top Conferences & Journals, focused on facial expression recognition](https://github.com/EvelynFan/AWESOME-FER)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) 
 - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
