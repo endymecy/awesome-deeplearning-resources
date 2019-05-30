@@ -9,6 +9,7 @@
 ## Attention
 
 - Attentive Neural Processes. [`arxiv`](https://arxiv.org/abs/1901.05761) :star:
+- FAN: Focused Attention Networks. [`arxiv`](https://arxiv.org/abs/1905.11498)
 
 ## Neural Architecture Search
 
