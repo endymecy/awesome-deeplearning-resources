@@ -23,6 +23,11 @@
 - DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1902.00164)
 - Review Conversational Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1902.00821)
 
+
+## Recommender Systems
+
+- Behavior Sequence Transformer for E-commerce Recommendation in Alibaba. [`arxiv`](https://arxiv.org/pdf/1905.06874.pdf)
+
 ## Text Classification
 
 - Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings. [`arxiv`](https://arxiv.org/abs/1901.07651)
