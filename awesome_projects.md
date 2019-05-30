@@ -59,6 +59,7 @@
 - [Awesome MXNet](https://github.com//chinakook/Awesome-MXNet)
 - [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)
 - [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
+- [Awesome Person Re-identification (Person ReID)](https://github.com/bismex/Awesome-person-re-identification)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
 - [Awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
