@@ -50,6 +50,7 @@
 - [Awesome Generative Adversarial Networks with tensorflow](https://github.com/kozistr/Awesome-GANs)
 - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
+- [Awesome Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 - [Awesome Law NLP Research Work](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work)
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
