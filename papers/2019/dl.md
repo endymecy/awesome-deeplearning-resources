@@ -17,4 +17,5 @@
 
 ## Transfer Learning
 
+- Time Series Anomaly Detection Using Convolutional Neural Networks and Transfer Learning. [`arxiv`](https://arxiv.org/abs/1905.13628)
 - Virtual-to-Real-World Transfer Learning for Robots on Wilderness Trails. [`arxiv`](https://arxiv.org/abs/1901.05599)
