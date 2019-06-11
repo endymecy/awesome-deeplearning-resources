@@ -73,6 +73,7 @@
 - [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 - [Awesome speech recognition papers](https://github.com/zzw922cn/awesome-speech-recognition-papers)
 - [Awesome speech recognition speech synthesis papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+- [Awesome Super Resolution](https://github.com/ptkin/Awesome-Super-Resolution)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
 - [Chainer Info](https://github.com/hidetomasuoka/chainer-info)
 - [Chatbot and Related Research Paper Notes with Images](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images)
