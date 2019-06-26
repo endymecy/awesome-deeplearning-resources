@@ -221,6 +221,7 @@ Special thanks to everyone who contributed to this project.
 - ppuliu
 - benedekrozemberczki
 - roziunicorn
+- von-latinski 
 
 # License
 
