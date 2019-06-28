@@ -94,6 +94,7 @@ More details in [courses](courses.md)
 * [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
 * [Grokking Deep Reinforcement Lerning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
 * [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+* [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python)
 
 More details in [books](books.md)
 
@@ -220,6 +221,7 @@ Special thanks to everyone who contributed to this project.
 - ppuliu
 - benedekrozemberczki
 - roziunicorn
+- von-latinski 
 
 # License
 
