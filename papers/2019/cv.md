@@ -5,6 +5,9 @@
 - Exploring Randomly Wired Neural Networks for Image Recognition. [`arxiv`](https://arxiv.org/abs/1904.01569)
 - FPGA-based Accelerators of Deep Learning Networks for Learning and Classification: A Review. [`arxiv`](https://arxiv.org/abs/1901.00121)
 
+## PreProcessing
+
+- Learning Data Augmentation Strategies for Object Detection. [`arxiv`](https://arxiv.org/abs/1906.11172)
 
 ## Object Detection
 
