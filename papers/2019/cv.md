@@ -5,7 +5,7 @@
 - Exploring Randomly Wired Neural Networks for Image Recognition. [`arxiv`](https://arxiv.org/abs/1904.01569)
 - FPGA-based Accelerators of Deep Learning Networks for Learning and Classification: A Review. [`arxiv`](https://arxiv.org/abs/1901.00121)
 - Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [`arxiv`](https://arxiv.org/abs/1812.01598)
-- Semi-Supervised Learning with Self-Supervised Networks. [`arxiv`](https://arxiv.org/abs/1906.10343)
+- Semi-Supervised Learning with Self-Supervised Networks. [`arxiv`](https://arxiv.org/abs/1906.10343) [`code`](https://github.com/vuptran/sesemi)
 
 ## PreProcessing
 
@@ -14,6 +14,8 @@
 ## Object Detection
 
 - Consistent Optimization for Single-Shot Object Detection. [`arxiv`](https://arxiv.org/abs/1901.06563)
+- GAN-Knowledge Distillation for one-stage Object Detection. [`arxiv`](https://arxiv.org/abs/1906.08467)
+
 
 ## GAN
 
