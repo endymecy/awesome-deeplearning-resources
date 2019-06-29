@@ -16,4 +16,5 @@
 
 ## GAN
 
+- A Survey on GANs for Anomaly Detection. [`arxiv`](https://arxiv.org/abs/1906.11632)
 - Exploring Randomly Wired Neural Networks for Image Recognition. [`arxiv`](https://arxiv.org/abs/1904.01184)
