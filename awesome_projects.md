@@ -127,6 +127,7 @@
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 - [TensorFlow and Deep Learning Tutorials](https://github.com/wagamamaz/tensorflow-tutorial)
+- [Tensorflow implementations of Graph Neural Networks](https://github.com/microsoft/tf-gnn-samples)
 - [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples) :star:
 - [TensorFlow World Resources](https://github.com/astorfi/TensorFlow-World-Resources)
 - [The awesome and classic papers in recommendation system](https://github.com/YuyangZhangFTD/awesome-RecSys-papers)
