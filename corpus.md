@@ -31,6 +31,7 @@
 
 - [300 Faces In-the-Wild Challenge](https://ibug.doc.ic.ac.uk/resources/300-W/)
 - [A dataset for personalized highlight detection](https://github.com/gifs/personalized-highlights-dataset)
+- [A Large-Scale Dataset for Vehicle Re-Identification in the Wild](https://github.com/PKU-IMRE/VERI-Wild)
 - [A MNIST-like fashion product database](https://github.com/zalandoresearch/fashion-mnist) :star:
 - [Caltech 10, 000 Web Faces](http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/#Download)
 - [CASIA WebFace Database](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html)
