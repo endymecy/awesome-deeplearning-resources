@@ -96,6 +96,7 @@
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 - [Open Domain Question Answering](https://ai.google.com/research/NaturalQuestions) :star:
 - [Open Speech and Language Resources](http://www.openslr.org/33) :star:
+- [Poetry-related datasets collected by THUAIPoet (Jiuge) group.](https://github.com/THUNLP-AIPoet/Datasets)
 - [Public Datasets For Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
 - [Second International Chinese Word Segmentation Bakeoff Data](http://sighan.cs.uchicago.edu/bakeoff2005/) :star:
 - [Taiga Сorpus](https://tatianashavrina.github.io/taiga_site/)
