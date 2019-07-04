@@ -18,6 +18,7 @@
 - [A list of papers on Generative Adversarial (Neural) Networks](https://github.com/nightrome/really-awesome-gan) :star:
 - [A collection of TensorFlow.js projects, tutorials, videos, and more.](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
 - [A compilation of the list of top algorithms tweeted here](https://mathematical-tours.github.io/algorithms/)
+- [A curated list of neural network pruning resources.](https://github.com/he-y/Awesome-Pruning)
 - [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning)
 - [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) :star:
 - [A curated list of resources for Chinese NLP](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
