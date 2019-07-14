@@ -4,6 +4,7 @@
 * [Available pretrained word embeddings](https://github.com/vzhong/embeddings)
 * [Inception-v3 of imagenet](http://download.tensorflow.org/models/image/imagenet/inception-v3-2016-03-01.tar.gz)
 * [Caffe2 Model Repository](https://github.com/caffe2/models)
+* [Chinese Embedding](https://github.com/liuhuanyong/ChineseEmbedding)
 * [Chinese word vectors](https://github.com/candlewill/Chinsese_word_vectors)
 * [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 * [Dependency-Based Word Embeddings.](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/)
