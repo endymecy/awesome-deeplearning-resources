@@ -7,6 +7,11 @@
 - Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [`arxiv`](https://arxiv.org/abs/1812.01598)
 - Semi-Supervised Learning with Self-Supervised Networks. [`arxiv`](https://arxiv.org/abs/1906.10343) [`code`](https://github.com/vuptran/sesemi)
 
+## GAN
+
+- A Survey on GANs for Anomaly Detection. [`arxiv`](https://arxiv.org/abs/1906.11632)
+- Exploring Randomly Wired Neural Networks for Image Recognition. [`arxiv`](https://arxiv.org/abs/1904.01184)
+
 ## PreProcessing
 
 - Learning Data Augmentation Strategies for Object Detection. [`arxiv`](https://arxiv.org/abs/1906.11172)
@@ -16,8 +21,7 @@
 - Consistent Optimization for Single-Shot Object Detection. [`arxiv`](https://arxiv.org/abs/1901.06563)
 - GAN-Knowledge Distillation for one-stage Object Detection. [`arxiv`](https://arxiv.org/abs/1906.08467)
 
+## Semantic Segmentation
 
-## GAN
+- Gated-SCNN: Gated Shape CNNs for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1907.05740)
 
-- A Survey on GANs for Anomaly Detection. [`arxiv`](https://arxiv.org/abs/1906.11632)
-- Exploring Randomly Wired Neural Networks for Image Recognition. [`arxiv`](https://arxiv.org/abs/1904.01184)
