@@ -72,6 +72,7 @@
 - [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 - [Awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 - [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+- [Awesome speech](https://github.com/mxer/awesome-speech) :star:
 - [Awesome speech recognition papers](https://github.com/zzw922cn/awesome-speech-recognition-papers)
 - [Awesome speech recognition speech synthesis papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome Super Resolution](https://github.com/ptkin/Awesome-Super-Resolution)
