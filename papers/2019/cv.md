@@ -23,5 +23,5 @@
 
 ## Semantic Segmentation
 
-- Gated-SCNN: Gated Shape CNNs for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1907.05740)
+- Gated-SCNN: Gated Shape CNNs for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1907.05740) [`code`](https://github.com/nv-tlabs/GSCNN)
 
