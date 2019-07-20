@@ -102,6 +102,7 @@
 - [Generative Models](https://github.com/wiseodd/generative-models)
 - [Graph Convolutional Networks (GCNs)](https://github.com/sungyongs/graph-based-nn)
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources)
+- [Knowledge distillation papers](https://github.com/lhyfst/knowledge-distillation-papers)
 - [List of articles related to deep learning applied to music](https://github.com/ybayle/awesome-deep-learning-music)
 - [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems) :star:
 - [Machine Learning / Deep Learning Conferences](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
