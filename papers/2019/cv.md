@@ -20,6 +20,7 @@
 
 - Consistent Optimization for Single-Shot Object Detection. [`arxiv`](https://arxiv.org/abs/1901.06563)
 - GAN-Knowledge Distillation for one-stage Object Detection. [`arxiv`](https://arxiv.org/abs/1906.08467)
+- NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection. [`arxiv`](https://arxiv.org/pdf/1904.07392.pdf)
 
 ## Semantic Segmentation
 
