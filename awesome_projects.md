@@ -49,6 +49,7 @@
 - [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
+- [Awesome Fraud Detection Research Papers.](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
 - [Awesome Generative Adversarial Networks with tensorflow](https://github.com/kozistr/Awesome-GANs)
 - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
