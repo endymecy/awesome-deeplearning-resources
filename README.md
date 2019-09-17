@@ -109,6 +109,7 @@ More details in [books](books.md)
 *  [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 *  [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)
 *  [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)
+*  [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 
 More details in [tutorials](tutorials.md)
 
