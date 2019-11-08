@@ -11,9 +11,11 @@
 - Attentive Neural Processes. [`arxiv`](https://arxiv.org/abs/1901.05761) :star:
 - FAN: Focused Attention Networks. [`arxiv`](https://arxiv.org/abs/1905.11498)
 
-## Neural Architecture Search
+## Auto ML
 
+- Combinatorial Bayesian Optimization using the Graph Cartesian Product. [`arxiv`](https://arxiv.org/abs/1902.00448)
 - EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search. [`arxiv`](https://arxiv.org/abs/1901.05884v1)
+
 
 ## Transfer Learning
 
