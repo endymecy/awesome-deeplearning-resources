@@ -13,7 +13,7 @@
 
 ## Auto ML
 
-- Combinatorial Bayesian Optimization using the Graph Cartesian Product. [`arxiv`](https://arxiv.org/abs/1902.00448)
+- Combinatorial Bayesian Optimization using the Graph Cartesian Product. [`arxiv`](https://arxiv.org/abs/1902.00448) [`code`](https://github.com/QUVA-Lab/COMBO)
 - EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search. [`arxiv`](https://arxiv.org/abs/1901.05884v1)
 
 
