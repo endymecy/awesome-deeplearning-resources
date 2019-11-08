@@ -12,6 +12,7 @@
 
 - A Multi-Resolution Word Embedding for Document Retrieval from Large Unstructured Knowledge Bases. [`arxiv`](https://arxiv.org/abs/1902.00663)
 - Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey. [`arxiv`](https://arxiv.org/abs/1902.00753)
+- Fast Transformer Decoding: One Write-Head is All You Need. [`arxiv`](https://arxiv.org/abs/1911.02150)
 
 ## NMT
 
