@@ -11,6 +11,7 @@
 - [A new dataset for Attribute Based Classification and Zero-Shot Learning](http://cvml.ist.ac.at/AwA2/)
 - [Audio Data Links](https://github.com/robmsmt/ASR_Audio_Data_Links)
 - [Clustering basic benchmark](https://cs.joensuu.fi/sipu/datasets/)
+- [CNSD 中文自然语言推理数据集](https://github.com/zengjunjun/CNSD)
 - [Cool Datasets](http://cooldataseWolfram Data Repositoryts.com/#Machine-Learning-Datasets) :star:
 - [Corpora of misspellings for download](http://www.dcs.bbk.ac.uk/~ROGER/corpora.html)
 - [DATASETS FOR DATA MINING](http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html)
