@@ -90,6 +90,7 @@
 - [Chinese Nlp Corpus](https://github.com/SophonPlus/ChineseNlpCorpus)
 - [Chinese Text in the Wild](https://ctwdataset.github.io/)
 - [CoLA - The Corpus of Linguistic Acceptability](https://nyu-mll.github.io/CoLA/) :star:
+- [Collections of Chinese NLP corpus](https://github.com/OYE93/Chinese-NLP-Corpus)
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 - [Course materials for Text as Data Lab](https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018)
 - [Datasets of Annotated Semantic Relationships](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
