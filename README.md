@@ -22,6 +22,11 @@ You should find the papers and software with star flag are more important or pop
 
 # Papers
 
+- [2020 year](papers/2020/dl.md)
+    - [deep learning](papers/2020/dl.md)
+    - [deep reinforcement learning](papers/2020/rl.md) 
+    - [natural language process](papers/2020/nlp.md)
+    - [computer vision](papers/2020/cv.md)
 - [2019 year](papers/2019/dl.md)
     - [deep learning](papers/2019/dl.md)
     - [deep reinforcement learning](papers/2019/rl.md) 

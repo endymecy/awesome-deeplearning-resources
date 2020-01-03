@@ -6,6 +6,7 @@
 - Cross-lingual Language Model Pretraining. [`arxiv`](https://arxiv.org/abs/1901.07291)
 - GILT: Generating Images from Long Text. [`arxiv`](https://arxiv.org/abs/1901.02404)
 - Open Research Knowledge Graph: Towards Machine Actionability in Scholarly Communication. [`arxiv`](https://arxiv.org/abs/1901.10816)
+- SumQE: a BERT-based Summary Quality Estimation Model. [`arxiv`](https://arxiv.org/abs/1909.00578) [`code`](https://github.com/nlpaueb/SumQE)
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. [`arxiv`](https://arxiv.org/abs/1901.02860) [`code`](https://github.com/kimiyoung/transformer-xl)
 
 ## Embedding
