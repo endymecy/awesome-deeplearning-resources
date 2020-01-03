@@ -34,3 +34,4 @@
 
 - Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings. [`arxiv`](https://arxiv.org/abs/1901.07651)
 - EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks. [`arxiv`](https://arxiv.org/abs/1901.11196) [`code`](https://github.com/jasonwei20/eda_nlp)
+- Hierarchical Multi-label Text Classification: An Attention-based Recurrent Network Approach. [`pdf`](https://dl.acm.org/doi/pdf/10.1145/3357384.3357885?download=true) [`code`](https://github.com/RandolphVI/Hierarchical-Multi-Label-Text-Classification)
