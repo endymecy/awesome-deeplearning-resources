@@ -3,7 +3,7 @@
 - A First Look at the Crypto-Mining Malware Ecosystem: A Decade of Unrestricted Wealth. [`arxiv`](https://arxiv.org/abs/1901.00846)
 - A Gentle Introduction to Deep Learning for Graphs. [`arxiv`](https://arxiv.org/abs/1912.12693)
 - AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty. [`arxiv`](https://arxiv.org/pdf/1912.02781.pdf) [`code`](https://github.com/google-research/augmix) :star:
-- diffGrad: An Optimization Method for Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1909.11015)
+- diffGrad: An Optimization Method for Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1909.11015) [`code`](https://github.com/lessw2020/Best-Deep-Learning-Optimizers)
 - LiSHT: Non-Parametric Linearly Scaled Hyperbolic Tangent Activation Function for Neural Networks. [`arxiv`](https://arxiv.org/abs/1901.05894)
 - One-Class Convolutional Neural Network. [`arxiv`](https://arxiv.org/abs/1901.08688)
 - On the effect of the activation function on the distribution of hidden nodes in a deep network. [`arxiv`](https://arxiv.org/abs/1901.02104)
