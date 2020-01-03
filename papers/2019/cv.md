@@ -26,4 +26,4 @@
 ## Semantic Segmentation
 
 - Gated-SCNN: Gated Shape CNNs for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1907.05740) [`code`](https://github.com/nv-tlabs/GSCNN)
-
+- Object-Contextual Representations for Semantic Segmentation. [`arxiv`](https://arxiv.org/abs/1909.11065) [`code`](https://github.com/rosinality/ocr-pytorch)
