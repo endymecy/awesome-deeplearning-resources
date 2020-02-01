@@ -71,7 +71,8 @@
     - <b>`Deeplearnjs`</b> [A hardware-accelerated machine intelligence library for the web.](https://github.com/PAIR-code/deeplearnjs)
     - <b>`Keras-js`</b> [Run Keras models (tensorflow backend) in the browser, with GPU support.](https://github.com/transcranial/keras-js)
     - <b>`Neataptic`</b> [Flexible neural network library with advanced neuroevolution](https://github.com/wagenaartje/neataptic)
-    - <b>`Neurojs`</b> [A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs) 
+    - <b>`Neurojs`</b> [A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs)
+    - <b>`Synapses`</b> [A lightweight library for neural networks that runs anywhere.](https://github.com/mrdimosthenis/Synapses) 
 - `Matlab`
     - <b>`MatConvNet`</b> [CNNs for MATLAB](http://www.vlfeat.org/matconvnet/) 
     - <b>`DLMatFramework`</b> [Deep Learning Matlab Framework](https://github.com/leonardoaraujosantos/DLMatFramework)
