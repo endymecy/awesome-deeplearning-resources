@@ -87,6 +87,7 @@
 - [A New Multi-Turn, Multi-Domain, Task-Oriented Dialogue Dataset](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/)
 - [A text file containing 479k English words for all your dictionary/word-based projects](https://github.com/dwyl/english-words)
 - [BBC Sound Effects Archive Resource](http://bbcsfx.acropolis.org.uk/index)
+- [CCMatrix: Mining Billions of High-Quality Parallel Sentences on the WEB](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix)
 - [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
 - [Chinese Nlp Corpus](https://github.com/SophonPlus/ChineseNlpCorpus)
 - [Chinese Text in the Wild](https://ctwdataset.github.io/)
