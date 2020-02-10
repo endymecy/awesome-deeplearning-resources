@@ -20,6 +20,7 @@
 
 - Consistent Optimization for Single-Shot Object Detection. [`arxiv`](https://arxiv.org/abs/1901.06563)
 - DetNAS: Backbone Search for Object Detection. [`arxiv`](https://arxiv.org/pdf/1903.10979.pdf)
+- EfficientDet: Scalable and Efficient Object Detection. [`arxiv`](https://arxiv.org/pdf/1911.09070v1.pdf) [`code`](https://github.com/xuannianz/EfficientDet)
 - GAN-Knowledge Distillation for one-stage Object Detection. [`arxiv`](https://arxiv.org/abs/1906.08467)
 - NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection. [`arxiv`](https://arxiv.org/pdf/1904.07392.pdf)
 
