@@ -13,5 +13,6 @@
 
 ## GNN
 
+- StickyPillars: Robust feature matching on point clouds using Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2002.03983)
 - Supervised Learning on Relational Databases with Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2002.02046) [`code`](https://github.com/mwcvitkovic/Supervised-Learning-on-Relational-Databases-with-GNNs)
 
