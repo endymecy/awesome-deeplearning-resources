@@ -4,6 +4,7 @@
 - BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning. [`arxiv`](https://arxiv.org/abs/1902.02671)
 - BioBERT: pre-trained biomedical language representation model for biomedical text mining. [`arxiv`](https://arxiv.org/abs/1901.08746)
 - Cross-lingual Language Model Pretraining. [`arxiv`](https://arxiv.org/abs/1901.07291)
+- Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings. [`arxiv`](https://arxiv.org/abs/1909.10430) [`code`](https://github.com/uhh-lt/bert-sense)
 - GILT: Generating Images from Long Text. [`arxiv`](https://arxiv.org/abs/1901.02404)
 - Open Research Knowledge Graph: Towards Machine Actionability in Scholarly Communication. [`arxiv`](https://arxiv.org/abs/1901.10816)
 - SumQE: a BERT-based Summary Quality Estimation Model. [`arxiv`](https://arxiv.org/abs/1909.00578) [`code`](https://github.com/nlpaueb/SumQE)
