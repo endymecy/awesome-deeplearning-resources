@@ -1,5 +1,6 @@
 # Deep Learning
 
+- Attentive Group Equivariant Convolutional Networks. [`arxiv`](https://arxiv.org/abs/2002.03830)
 - The Costs and Benefits of Goal-Directed Attention in Deep Convolutional Neural Networks. [pdf](https://arxiv.org/pdf/2002.02342.pdf)
 
 ## AutoML
