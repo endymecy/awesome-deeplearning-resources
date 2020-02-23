@@ -5,6 +5,7 @@
 - Gradient Boosting Neural Networks: GrowNet. [`arxiv`](https://arxiv.org/abs/2002.07971)
 - Learning with Differentiable Perturbed Optimizers. [`arxiv`](https://arxiv.org/abs/2002.08676)
 - The Costs and Benefits of Goal-Directed Attention in Deep Convolutional Neural Networks. [pdf](https://arxiv.org/pdf/2002.02342.pdf)
+- The Geometry of Sign Gradient Descent. [`arxiv`](https://arxiv.org/abs/2002.08056)
 
 ## AutoML
 
