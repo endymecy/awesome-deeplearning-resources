@@ -107,6 +107,7 @@
 - [Second International Chinese Word Segmentation Bakeoff Data](http://sighan.cs.uchicago.edu/bakeoff2005/) :star:
 - [Taiga Сorpus](https://tatianashavrina.github.io/taiga_site/)
 - [Ten thousand books, six million ratings](https://github.com/zygmuntz/goodbooks-10k)
+- [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
 - [The Movies Corpus](https://corpus.byu.edu/movies/)
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
