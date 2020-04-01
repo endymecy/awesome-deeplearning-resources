@@ -19,3 +19,7 @@
 ## Pos-tagging
 
 - Joint Embedding in Named Entity Linking on Sentence Level. [`arxiv`](https://arxiv.org/abs/2002.04936)
+
+## Text Classification
+
+- Multi-Label Text Classification using Attention-based Graph Neural Network. [`arxiv`](https://arxiv.org/abs/2003.11644)
