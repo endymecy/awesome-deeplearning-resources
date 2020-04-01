@@ -48,6 +48,7 @@
 - [Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
 - [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+- [Awesome Document Similarity Measures](https://github.com/malteos/awesome-document-similarity)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
 - [Awesome Fraud Detection Research Papers.](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
