@@ -9,6 +9,7 @@
 
 ## AutoML
 
+- When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks. [`arxiv`](https://arxiv.org/abs/1911.10695) [`code`](https://github.com/gmh14/RobNets)
 - Gryffin: An algorithm for Bayesian optimization for categorical variables informed by physical intuition with applications to chemistry. [`arxiv`](https://arxiv.org/abs/2003.12127)
 - Uncertainty Quantification for Bayesian Optimization. [`pdf`](https://arxiv.org/pdf/2002.01569.pdf)
 
