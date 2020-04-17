@@ -21,6 +21,10 @@
 
 - Joint Embedding in Named Entity Linking on Sentence Level. [`arxiv`](https://arxiv.org/abs/2002.04936)
 
+## QA
+
+- Unsupervised Commonsense Question Answering with Self-Talk. [`arxiv`](https://arxiv.org/abs/2004.05483)
+
 ## Text Classification
 
 - Multi-Label Text Classification using Attention-based Graph Neural Network. [`arxiv`](https://arxiv.org/abs/2003.11644)
