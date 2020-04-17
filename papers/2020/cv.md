@@ -9,4 +9,5 @@
 
 ## Video
 
+- FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding. [`arxiv`](https://arxiv.org/abs/2004.06704)
 - Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning. [`arxiv`](https://arxiv.org/abs/2004.06502)
