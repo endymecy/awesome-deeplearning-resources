@@ -24,7 +24,7 @@
 
 ## QA
 
-- Unsupervised Commonsense Question Answering with Self-Talk. [`arxiv`](https://arxiv.org/abs/2004.05483)
+- Unsupervised Commonsense Question Answering with Self-Talk. [`arxiv`](https://arxiv.org/abs/2004.05483) [`code`](https://github.com/vered1986/self_talk)
 
 ## Text Classification
 
