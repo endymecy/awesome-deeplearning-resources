@@ -6,3 +6,7 @@
 ## Contrastive Learning
 
 - A Simple Framework for Contrastive Learning of Visual Representations. [`arxiv`](https://arxiv.org/pdf/2002.05709.pdf)
+
+## Video
+
+- Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning. [`arxiv`](https://arxiv.org/abs/2004.06502)
