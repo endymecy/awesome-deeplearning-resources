@@ -24,6 +24,7 @@
 
 ## QA
 
+- Asking and Answering Questions to Evaluate the Factual Consistency of Summaries. [`arxiv`](https://arxiv.org/abs/2004.04228)
 - Unsupervised Commonsense Question Answering with Self-Talk. [`arxiv`](https://arxiv.org/abs/2004.05483) [`code`](https://github.com/vered1986/self_talk)
 
 ## Text Classification
