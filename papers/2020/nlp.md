@@ -30,3 +30,8 @@
 ## Text Classification
 
 - Multi-Label Text Classification using Attention-based Graph Neural Network. [`arxiv`](https://arxiv.org/abs/2003.11644)
+
+## Text Generation
+
+- Reverse Engineering Configurations of Neural Text Generation Models.  [`arxiv`](https://arxiv.org/abs/2004.06201)
+
