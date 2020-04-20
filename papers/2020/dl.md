@@ -15,6 +15,7 @@
 
 ## GAN
 
+- BachGAN: High-Resolution Image Synthesis from Salient Object Layout. [`arxiv`](https://arxiv.org/abs/2003.11690) [`code`](https://github.com/Cold-Winter/BachGAN)
 - Unbalanced GANs: Pre-training the Generator of Generative Adversarial Network using Variational Autoencoder. [`pdf`](https://arxiv.org/pdf/2002.02112.pdf)
 
 ## GNN
