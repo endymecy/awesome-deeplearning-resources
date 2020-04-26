@@ -7,6 +7,10 @@
 
 - A Simple Framework for Contrastive Learning of Visual Representations. [`arxiv`](https://arxiv.org/pdf/2002.05709.pdf)
 
+## Object Detect
+
+- YOLOv4: Optimal Speed and Accuracy of Object Detection. [`arxiv`](https://arxiv.org/pdf/2004.10934.pdf) [`code`](https://github.com/AlexeyAB/darknet)
+
 ## Video
 
 - A Review on Deep Learning Techniques for Video Prediction. [`arxiv`](https://arxiv.org/abs/2004.05214)
