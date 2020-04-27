@@ -35,5 +35,6 @@
 
 ## Text Generation
 
+- Polarized-VAE: Proximity Based Disentangled Representation Learning for Text Generation. [`arxiv`](https://arxiv.org/abs/2004.10809)
 - Reverse Engineering Configurations of Neural Text Generation Models.  [`arxiv`](https://arxiv.org/abs/2004.06201)
 
