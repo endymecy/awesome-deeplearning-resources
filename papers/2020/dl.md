@@ -22,6 +22,7 @@
 
 - Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2003.11702) [`code`](https://github.com/balcilar/Spectral-Designed-Graph-Convolutions)
 - Generalization and Representational Limits of Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2002.06157)
+- SIGN: Scalable Inception Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2004.11198)
 - StickyPillars: Robust feature matching on point clouds using Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2002.03983)
 - Supervised Learning on Relational Databases with Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2002.02046) [`code`](https://github.com/mwcvitkovic/Supervised-Learning-on-Relational-Databases-with-GNNs)
 
