@@ -31,6 +31,7 @@
 
 ## Text Classification
 
+- Light-Weighted CNN for Text Classification. [`arxiv`](https://arxiv.org/pdf/2004.07922.pdf)
 - Multi-Label Text Classification using Attention-based Graph Neural Network. [`arxiv`](https://arxiv.org/abs/2003.11644)
 
 ## Text Generation
