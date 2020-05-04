@@ -114,6 +114,7 @@
 - [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLpapers)
 - [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
 - [Multi Object Tracking Paper List](https://github.com/SpyderXu/multi-object-tracking-paper-list)
+- [Natural language processing paper list](https://github.com/changwookjun/nlp-paper)
 - [Network acceleration methods](https://github.com/mrgloom/Network-Speed-and-Compression)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Notes/links on math and science, including statistics, bayes, cmpsc, quant trading, machine learning, etc](https://github.com/melling/MathAndScienceNotes)
