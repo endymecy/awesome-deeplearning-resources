@@ -18,6 +18,7 @@
 ## Language Model
 
 - BERT-of-Theseus: Compressing BERT by Progressive Module Replacing. [`arxiv`](https://arxiv.org/abs/2002.02925) [`code`](https://github.com/JetRunner/BERT-of-Theseus)
+- BERTweet: A pre-trained language model for English Tweets. [`arxiv`](https://arxiv.org/abs/2005.10200) [`code`](https://github.com/VinAIResearch/BERTweet)
 - Blank Language Models. [`arxiv`](https://arxiv.org/abs/2002.03079)
 - Controlling Computation versus Quality for Neural Sequence Models. [`arxiv`](https://arxiv.org/abs/2002.07106)
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators. [`arxiv`](https://openreview.net/pdf?id=r1xMH1BtvB) [`code`](https://github.com/google-research/electra) :star:
