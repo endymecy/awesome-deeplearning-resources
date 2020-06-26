@@ -17,4 +17,5 @@
 - A Review on Deep Learning Techniques for Video Prediction. [`arxiv`](https://arxiv.org/abs/2004.05214)
 - FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding. [`arxiv`](https://arxiv.org/abs/2004.06704)
 - Labelling unlabelled videos from scratch with multi-modal self-supervision. [`arxiv`](https://arxiv.org/abs/2006.13662)
+- Multi-modal Self-Supervision from Generalized Data Transformations. [`arxiv`](https://arxiv.org/abs/2003.04298)
 - Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning. [`arxiv`](https://arxiv.org/abs/2004.06502)
