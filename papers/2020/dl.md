@@ -24,6 +24,7 @@
 
 - Benchmark and Best Practices for Biomedical Knowledge Graph Embeddings. [`arxiv`](https://arxiv.org/abs/2006.13774) [`code`](https://github.com/dchang56/snomed_kge)
 - Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2003.11702) [`code`](https://github.com/balcilar/Spectral-Designed-Graph-Convolutions)
+- Bringing Light Into the Dark: A Large-scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework. [`arxiv`](https://arxiv.org/abs/2006.13365)
 - Generalization and Representational Limits of Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2002.06157)
 - SIGN: Scalable Inception Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2004.11198)
 - StickyPillars: Robust feature matching on point clouds using Graph Neural Networks. [`arxiv`](https://arxiv.org/abs/2002.03983)
