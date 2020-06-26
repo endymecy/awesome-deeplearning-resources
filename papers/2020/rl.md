@@ -8,3 +8,4 @@
 - Multi-agent Reinforcement Learning for Networked System Control. [`pdf`](https://openreview.net/forum?id=Syx7A3NFvH) [`code`](https://github.com/cts198859/deeprl_network)
 - Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers. [`arxiv`](https://arxiv.org/abs/2006.13916)
 - Quantifying Differences in Reward Functions. [`arxiv`](https://arxiv.org/abs/2006.13900)
+- RL Unplugged: Benchmarks for Offline Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/2006.13888)
