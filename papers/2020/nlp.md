@@ -37,6 +37,7 @@
 - AmbigQA: Answering Ambiguous Open-domain Questions. [`arxiv`](https://arxiv.org/abs/2004.10645) 
 - Asking and Answering Questions to Evaluate the Factual Consistency of Summaries. [`arxiv`](https://arxiv.org/abs/2004.04228)
 - Conversational Question Answering over Passages by Leveraging Word Proximity Networks. [`arxiv`](https://arxiv.org/abs/2004.13117) [`code`](https://github.com/magkai/CROWN)
+- Probing Emergent Semantics in Predictive Agents via Question Answering. [`arxiv`](https://arxiv.org/abs/2006.01016)
 - Unsupervised Commonsense Question Answering with Self-Talk. [`arxiv`](https://arxiv.org/abs/2004.05483) [`code`](https://github.com/vered1986/self_talk)
 
 ## Text Classification
