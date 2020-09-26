@@ -9,6 +9,7 @@
     - <b>`DeepPy`</b> [A Pythonic deep learning framework built on top of NumPy.](https://github.com/andersbll/deeppy)
     - <b>`Deepnet`</b> [A GPU-based python implementation of deep learning algorithms.](https://github.com/nitishsrivastava/deepnet) 
     - <b>`Deepgaze`</b> [A computer vision library for human-computer interaction based on CNNs](https://github.com/mpatacchiola/deepgaze) 
+    - <b>`Determined`</b> [Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.](https://github.com/determined-ai/determined)
     - <b>`Edward`</b> [A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/) 
     - <b>`Elephas`</b> [Distributed Deep learning with Keras & Spark.](https://github.com/maxpumperla/elephas)
     - <b>`fastai`</b>[The fast.ai deep learning library, lessons, and tutorials](https://github.com/fastai/fastai)
