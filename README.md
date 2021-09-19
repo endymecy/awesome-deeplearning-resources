@@ -101,6 +101,7 @@ More details in [courses](courses.md)
 * [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 * [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python)
 * [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning)
+* [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning)
 
 More details in [books](books.md)
 
