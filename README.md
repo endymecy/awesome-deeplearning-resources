@@ -21,7 +21,10 @@ You should find the papers and software with star flag are more important or pop
 - [Corpus](#corpus)
 
 # Papers
-
+- [2021 year](papers/2021/cv.md)
+    - [computer vision](papers/2021/cv.md)
+    - [natural language process](papers/2021/nlp.md) 
+    - [multi model](papers/2021/mm.md)
 - [2020 year](papers/2020/dl.md)
     - [deep learning](papers/2020/dl.md)
     - [deep reinforcement learning](papers/2020/rl.md) 
