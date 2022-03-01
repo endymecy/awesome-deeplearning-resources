@@ -33,6 +33,7 @@
 - [A reading list of top Conferences & Journals, focused on facial expression recognition](https://github.com/EvelynFan/AWESOME-FER)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) 
 - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+- [Awesome Active Learning](https://github.com/baifanxxx/awesome-active-learning)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 - [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 - [Awesome ARKit](https://github.com/olucurious/awesome-arkit)
