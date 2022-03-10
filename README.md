@@ -105,6 +105,7 @@ More details in [courses](courses.md)
 * [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python)
 * [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning)
 * [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning)
+* [Engineering Deep Learning Platforms](https://www.manning.com/books/engineering-deep-learning-platforms)
 
 More details in [books](books.md)
 
