@@ -106,6 +106,7 @@ More details in [courses](courses.md)
 * [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning)
 * [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning)
 * [Engineering Deep Learning Platforms](https://www.manning.com/books/engineering-deep-learning-platforms)
+* [Deep Learning with R, Second Edition](https://www.manning.com/books/deep-learning-with-r-second-edition)
 
 More details in [books](books.md)
 
