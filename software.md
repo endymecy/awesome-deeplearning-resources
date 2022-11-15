@@ -6,6 +6,7 @@
     - <b>`ChainerMN`</b> [ChainerMN: Scalable distributed deep learning with Chainer](https://github.com/chainer/chainermn)
     - <b>`ChainerRL`</b> [A deep reinforcement learning library built on top of Chainer.](https://github.com/pfnet/chainerrl)
     - <b>`Coach`</b> [Reinforcement Learning Coach by Intel](https://github.com/NervanaSystems/coach)
+    - <b>`Colossal-AI`</b> [A Unified Deep Learning System for Big Model Era](https://github.com/hpcaitech/ColossalAI)
     - <b>`DeepPy`</b> [A Pythonic deep learning framework built on top of NumPy.](https://github.com/andersbll/deeppy)
     - <b>`Deepnet`</b> [A GPU-based python implementation of deep learning algorithms.](https://github.com/nitishsrivastava/deepnet) 
     - <b>`Deepgaze`</b> [A computer vision library for human-computer interaction based on CNNs](https://github.com/mpatacchiola/deepgaze) 
