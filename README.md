@@ -107,6 +107,8 @@ More details in [courses](courses.md)
 * [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning)
 * [Engineering Deep Learning Platforms](https://www.manning.com/books/engineering-deep-learning-platforms)
 * [Deep Learning with R, Second Edition](https://www.manning.com/books/deep-learning-with-r-second-edition)
+* [Regularization in Deep Learning](https://www.manning.com/books/regularization-in-deep-learning)
+* [Jax in Action](https://www.manning.com/books/jax-in-action)
 
 More details in [books](books.md)
 
