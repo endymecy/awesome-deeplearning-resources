@@ -225,6 +225,10 @@ More details in [awesome projects](awesome_projects.md)
 
 More details in [corpus](corpus.md)
 
+# Other Resources
+
+- [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and so on.
+
 # Contributors
 
 Special thanks to everyone who contributed to this project.
