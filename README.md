@@ -110,6 +110,7 @@ More details in [courses](courses.md)
 * [Regularization in Deep Learning](https://www.manning.com/books/regularization-in-deep-learning)
 * [Jax in Action](https://www.manning.com/books/jax-in-action)
 * [Deep Learning with PyTorch, Second Edition](https://www.manning.com/books/deep-learning-with-pytorch-second-edition)
+* [Deep Learning with Python, Third Edition](https://www.manning.com/books/deep-learning-with-python-third-edition)
 
 More details in [books](books.md)
 
