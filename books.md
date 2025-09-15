@@ -21,6 +21,7 @@
 * [Python Data Science Handbook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Reinforcement Learning: An Introduction](https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view). [`code`](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+* [Reinforcement Learning for Business](https://www.manning.com/books/reinforcement-learning-for-business)
 * [Reinforcement LearningState-of-the-Art](http://www.ai.rug.nl/~mwiering/RL-state-of-the-art)   
 * [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
 * [TensorFlow For Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
