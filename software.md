@@ -14,17 +14,19 @@
     - <b>`Edward`</b> [A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/) 
     - <b>`Elephas`</b> [Distributed Deep learning with Keras & Spark.](https://github.com/maxpumperla/elephas)
     - <b>`fastai`</b>[The fast.ai deep learning library, lessons, and tutorials](https://github.com/fastai/fastai)
+    - <b>`fenn`</b> [A framework that automates ML/DL workflows with built-in tools and templates.](https://github.com/pyfenn/fenn)
     - <b>`Gensim`</b> [Deep learning toolkit implemented in python programming language intended for handling large text collections, using efficient algorithms.](http://radimrehurek.com/gensim/)
     - <b>`Hebel`</b> [A library for deep learning with neural networks in Python using GPU acceleration with CUDA through PyCUDA.](https://github.com/hannes-brt/hebel)
     - <b>`Keras`</b> [Deep Learning library for Theano and TensorFlow.](https://keras.io/)  :star:
     - <b>`Kur`</b> [Descriptive Deep Learning.](https://github.com/deepgram/kur)  :star:
     - <b>`Mujoco-py`</b> [MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.](https://github.com/openai/mujoco-py)
     - <b>`Neon`</b> [Neon is Nervana's Python based Deep Learning framework](https://github.com/NervanaSystems/neon).
+    - <b>`Neuraxle`</b> [Code Machine Learning Pipelines - The Right Way](https://github.com/Neuraxio/Neuraxle)
     - <b>`Pyclustering`</b> [A Python, C++ data mining clustering, graph coloring algorithms, oscillatory networks, neural networks library.](https://github.com/annoviko/pyclustering)
     - <b>`PyTorch`</b> [Tensors and Dynamic neural networks in Python with strong GPU acceleration.](http://pytorch.org/) :star:
     - <b>`Scikit-Learn`</b> [Machine learning in Python.](http://scikit-learn.org)  :star:
         - <b>`Semisup-Learn`</b> [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
-    - <b>SerpentAI</b> [Game Agent Framework. Helping you create AIs / Bots to play any game you own](https://github.com/SerpentAI/SerpentAI)
+    - <b>`SerpentAI`</b> [Game Agent Framework. Helping you create AIs / Bots to play any game you own](https://github.com/SerpentAI/SerpentAI)
     - <b>`Skll`</b> [SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.](https://github.com/EducationalTestingService/skll)
     - <b>`Sonnet`</b> [TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
     - <b>`Tensorflow`</b> [An open source software library for numerical computation using data flow graph by Google](https://www.tensorflow.org/) :star:
@@ -35,7 +37,6 @@
         - <b>`Blocks`</b> [A framework that helps you build neural network models on top of Theano](https://github.com/mila-udem/blocks)  :star:
         - <b>`Lasagne`</b> [Lightweight library to build and train neural networks in Theano.](https://github.com/Lasagne/Lasagne) 
     - <b>`WebDNN`</b> [Fastest DNN Execution Framework on Web Browser](https://mil-tokyo.github.io/webdnn/)
-    - <b>`Neuraxle`</b> [Code Machine Learning Pipelines - The Right Way](https://github.com/Neuraxio/Neuraxle)
 - `C++`
     - <b>`Caffe`</b> [Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/) :star:
     - <b>`clDNN` </b>[Compute Library for Deep Neural Networks](https://github.com/01org/clDNN) 
