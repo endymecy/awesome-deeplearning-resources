@@ -113,6 +113,7 @@ More details in [courses](courses.md)
 * [Deep Learning with Python, Third Edition](https://www.manning.com/books/deep-learning-with-python-third-edition)
 * [The RLHF Book](https://www.manning.com/books/the-rlhf-book)
 * [Time Series Forecasting Using Foundation Models](https://www.manning.com/books/time-series-forecasting-using-foundation-models)
+* [CUDA for Deel Learning](https://www.manning.com/books/cuda-for-deep-learning)
 
 More details in [books](books.md)
 
