@@ -21,6 +21,12 @@ You should find the papers and software with star flag are more important or pop
 - [Corpus](#corpus)
 
 # Papers
+- [2026 year](papers/2026/mm.md)
+    - [computer vision](papers/2026/cv.md)
+    - [multi model](papers/2026/mm.md)
+- [2024 year](papers/2024/mm.md)
+    - [computer vision](papers/2024/cv.md)
+    - [multi model](papers/2024/mm.md)
 - [2021 year](papers/2021/cv.md)
     - [computer vision](papers/2021/cv.md)
     - [natural language process](papers/2021/nlp.md) 
